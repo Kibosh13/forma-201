@@ -1,0 +1,44 @@
+.tabs{
+	display: inline-block;
+	width: 100%;
+}
+.tabs > div{
+	padding-top: 10px;
+}
+.tabs>ul{
+	margin: 15px 0 0;
+	padding: 0px;
+	overflow: hidden;
+}
+.tabs>ul>li{
+	display: block;
+	float: left;
+	width: auto;
+	margin-right: 20px;
+	padding: 10px 3%;
+	background-color: #cecece;
+	border-radius: 4px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 1.1em;
+	color: #333;
+}
+.tabs>ul>li:first-child {
+	margin-left: 0 !important;
+}
+.tabs>ul>li.active, .tabs>ul>li.active:hover,
+.tabs>ul>li:hover {
+	background-color: #25344c;
+	color: #fff;
+}
+@media screen and (max-width: 767px) {
+	.tabs>ul>li {
+		width: 100%;
+		margin: 0 0 10px 0;
+		padding: 10px 0;
+	}
+}
+
+
+
+

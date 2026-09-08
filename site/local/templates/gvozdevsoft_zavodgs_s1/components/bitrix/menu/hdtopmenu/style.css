@@ -1,0 +1,112 @@
+/* menu */
+
+#header .hdtopmenu {
+	display: block;
+	position: relative;
+	float: left;
+	width: 45px;
+	height: 45px;
+	margin-top: 2px;
+	margin-right: 3%;
+	border-radius: 50%;
+	background-color: #f7f7f7;
+}
+
+#header .hdtopmenu nav ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+}
+
+#header .hdtopmenu nav ul li ul {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 100%;
+}
+
+#header .hdtopmenu ul {
+	background-color: #fff;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.137);
+	z-index: 9999;
+}
+
+#header .hdtopmenu ul li {
+	width: 200px;
+	position: relative;
+}
+
+#header .hdtopmenu ul li a {
+	display: block;
+	padding: 15px 5px 15px 20px;
+	color: #000;
+	font-size: 0.9em;
+	border-bottom: 1px solid #eee;
+	text-decoration: none;
+	}
+
+#header .hdtopmenu ul li:hover {
+	background-color: #cc0000;
+}
+
+#header .hdtopmenu ul li > div {
+	display: flex;
+	gap: 15px;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #eee;
+}
+#header .hdtopmenu ul li > div a {
+	border-bottom: none;
+}
+#header .head_slide .hdtopmenu ul li > div i.fa {
+	position: relative;
+	top: 0;
+	color: #000;
+}
+#header .head_slide .hdtopmenu ul li:hover > div i.fa {
+	color: #fff;
+}
+
+#header .hdtopmenu ul li:hover > div a,
+#header .hdtopmenu ul li:hover > a {
+	color: #fff;
+}
+
+#header .hdmname {
+	padding-top: 10px;
+	padding-left: 35px;
+	font-size: 1em;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+#header .hdtopmenu:hover nav > ul {
+	display: block;
+}
+
+#header .hdtopmenu nav > ul li:hover > ul {
+	display: block;
+}
+
+#header .hdmname::before {
+	position: absolute;
+	font: 1.25em FontAwesome;
+	content: "\f0c9";
+	top: 13px;
+	left: 14px;
+	color: #000;
+}
+
+#header .head_slide .hdtopmenu .fa {
+	position: absolute;
+	font-size: 1em;
+	color: #000;
+	top: 8px;
+	right: 15px;
+}
+
+#header .hdtopmenu nav > ul li:hover .fa {
+	color: #fff;
+}

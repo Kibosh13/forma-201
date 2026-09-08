@@ -1,0 +1,46 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Databases and personal data dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+
+# Local dependencies, tooling and builds
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.next/
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+/dist/
+/build/
+/coverage/
+.pages-build/
+.publish-work/
+work/
+
+# Download logs, local reports and unprocessed archival duplicates
+original-text/
+metadata/download-log.jsonl
+metadata/references.json*
+metadata/*verification.json
+metadata/publication-*.json
+
+# site/bitrix/cache contains required public CSS/JS, not local build caches.

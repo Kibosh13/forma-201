@@ -1,0 +1,3063 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta name=viewport content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+    
+	<title>Алюминиевые плинтусы напольные 80 мм купить по цене от производителя оптом и в розницу</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Алюминиевые плинтусы напольные 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05" />
+<link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?172070002723463" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17113696952320" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171136964126598" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_084d389a62fceb2f2557de6af2334c4c/page_084d389a62fceb2f2557de6af2334c4c_v1.css?178853256440663" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?1788531333298454" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+
+<script src="/bitrix/js/main/core/core.min.js?1720700036225422"></script>
+
+<script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"fx","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"popup","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1788887557,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":""});</script>
+
+
+<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/kernel_main/kernel_main_v1.js?1786550432155575"></script>
+<script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
+<script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
+<style>:root{ --main-template-color: #339999 }</style>
+
+
+
+<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?1786550428521541"></script>
+<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "0ef1d1f63efc68e70c1fbda0678e8864"]); _ba.push(["host", "dial-td.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+																	
+		
+						    										    				
+							    					<script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
+									
+	<!-- Open Graph -->
+	<meta property="og:title" content="Алюминиевые плинтусы напольные 80 мм купить по цене от производителя оптом и в розницу">
+	<meta property="og:description" content="Алюминиевые плинтусы напольные 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05">
+	<meta property="og:type" content="website">
+    <meta property="og:url" content="https:///catalog/alyuminievye-plintusy-napolnye-80-mm.tag">
+    	<meta property="og:image" content="">
+		<!-- /Open Graph -->
+                <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+            <!-- Google Tag Manager -->
+    <script data-skip-moving="true">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WNJD9LPF');</script>
+    <!-- End Google Tag Manager -->
+    <script src="//code.jivo.ru/widget/SIeUjc09Nb" async></script>
+	<!-- Yandex.Metrika counter -->
+
+	<script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+        ym(97698578, 'init', {webvisor:true, trackHash:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+	</script>
+	<noscript>
+		<div>
+			<img src="https://mc.yandex.ru/watch/97698578" style="position:absolute; left:-9999px;" alt="" />
+		</div>
+	</noscript>
+	<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+	
+	<header id="header">
+								<div class="header-inner">
+								<div class="container">		
+					<div class="header-top">
+						<div class="row align-items-center">
+							<div class="col-lg-auto text-xs-center col-5">
+								<div class="header-logo">
+                                    									<a href="/" class="header-logo__link">
+										<img src="/upload/main/16a/64wrireoocf77w5r5e36i88mmgt5strp.svg" alt="Главная">
+									</a>
+                                    								</div>
+							</div>
+							<!-- col -->
+							<div class="d-none d-lg-flex col-lg-3 offset-xl-2">
+								<div class="header-address">
+									<div class="header-address__icon"></div>
+									<div class="header-address__text">
+										Московская область<br>
+Раменский городской округ, <br>д. Чулково, Дорожная улица, 1
+
+									</div>
+								</div>
+							</div>
+
+							<div class="hdslide_search">
+								<form action="/poisk/">
+									<input type="text" name="q" placeholder="Поиск..." required="">
+									<button type="submit"></button>
+								</form>	
+							</div>
+							<!-- col -->
+							<div class="col mr-auto">
+								<div class="header-phone">
+									<div class="header-phone__main-phone">
+										<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+<div class="header-phone__popup">
+		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+			<div class="header-phone__popup-item"><a href="mailto:dial@dial-td.ru" class="header-phone__popup-link-email">dial@dial-td.ru</a></div>
+		</div>
+									</div>
+
+                                    <div class="header-btn-zayvka d-block d-lg-none">
+                                        <a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link header-btn-zayvka__link d-block">
+                                            Написать нам                                        </a>
+                                    </div>
+
+								</div>
+								<div class="header-btn-callback">
+                                    <!--noindex-->
+                                    <!--googleoff: all-->
+									<a data-fancybox data-src="#form-popup-callback" href="javascript:;" class="header-btn-callback__link">
+										Заказать звонок									</a>
+                                    <!--googleon: all-->
+                                    <!--/noindex-->
+								</div>
+							</div>
+							<!-- col -->
+							<div class="col-lg-auto d-none d-lg-flex">
+								<div class="header-btn-zayvka">
+                                    <!--noindex-->
+                                    <!--googleoff: all-->
+									<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link header-btn-zayvka__link">
+										Написать нам									</a>
+                                    <!--googleon: all-->
+                                    <!--/noindex-->
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- /header-top -->
+					<div class="row">
+						<div class="col-lg">
+																					<nav class="header-top-menu menu-line">
+															<div id="flvmenu">
+<ul id="horizontal-multilevel-menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
+
+
+    
+	
+	
+	
+		                            <li class="root-item">
+                    <a href="/kompaniya/" itemprop="url">О компании</a>
+                    <ul>
+            		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/kompaniya/rekvizity/" itemprop="url">Реквизиты</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/kompaniya/sertifikaty/" itemprop="url">Сертификаты</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		                            <li >
+                    <a href="/portfolio/" class="parent" itemprop="url">Портфолио</a>
+                    <ul>
+            		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/portfolio/zazhimnoy-profil/" itemprop="url">Зажимной профиль</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+    
+	
+    
+	
+			</ul></li>	
+	
+		
+			                                    <li>
+                        <a href="/kompaniya/otzyvy/" itemprop="url">Отзывы о нас</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/blog/" itemprop="url">Блог</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/kp/" itemprop="url">Заказать КП</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+			</ul></li>	
+	
+		                            <li class="root-item-selected">
+                    <span itemprop="url">Каталог</span>
+                    <ul>
+            		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Напольные плинтусы</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Потолочные плинтусы</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/" itemprop="url">Профили для сантехнических кабинок и перегородок</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной профиль для стекла</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		                            <li >
+                    <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
+                    <ul>
+            		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/" itemprop="url">Профили</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/" itemprop="url">Решетки</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+			</ul></li>	
+	
+		                            <li >
+                    <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
+                    <ul>
+            		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/" itemprop="url">Квадратная труба</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/" itemprop="url">Полоса</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/" itemprop="url">П-профиль</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/" itemprop="url">Уголок</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/" itemprop="url">Шина</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/" itemprop="url">Труба</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/" itemprop="url">Профильная труба</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/" itemprop="url">Бокс</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/" itemprop="url">Алюминиевый тавр</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/" itemprop="url">Алюминиевый двутавр</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/" itemprop="url">Швеллер</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+			</ul></li>	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievye-perila/" itemprop="url">Перила и поручни</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для перил</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/" itemprop="url">Профили и фурнитура для козырьков</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для плинтуса</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/stroitelnyy-instrument/" itemprop="url">Строительный инструмент</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/uslugi/alyuminievyy-profil-po-chertezham-zakazchika/" itemprop="url">Алюминиевый профиль по чертежам</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+			</ul></li>	
+	
+		
+			                                    <li>
+                        <a href="/uslugi/" itemprop="url">Услуги</a>
+                    </li>
+                			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/aktsii/" itemprop="url">Акции</a>
+                    </li>
+                			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/kontakty/" itemprop="url">Контакты</a>
+                    </li>
+                			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/delivery/" itemprop="url">Доставка</a>
+                    </li>
+                			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/news/" itemprop="url">Новости</a>
+                    </li>
+                			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/prices/" itemprop="url">Цены</a>
+                    </li>
+                			
+		
+	
+	
+
+
+</ul>
+</div>
+<div class="menu-clear-left"></div>
+							</nav>
+							<div class="mob-search hide">
+	<div class="search" id="title-search-mobile">
+        <form action="/poisk/index.php">
+            <input class="string-search" id="title-search-input-mobile" type="text" name="q" value="" size="40" maxlength="50" autocomplete="off" placeholder="Поиск"/>
+            <input class="submit-search" name="s" type="submit" value="Искать" />
+        </form>
+	</div>
+</div>
+<script>
+	//  BX.ready(function(){
+	// 	new JCTitleSearch({
+	// 		'AJAX_PAGE' : '',
+	// 		'CONTAINER_ID': '',
+	// 		'INPUT_ID': '',
+	// 		'MIN_QUERY_LEN': 2
+	// 	});
+	// });
+</script>
+						</div>
+					</div>
+					<!-- /top-menu -->	
+									</div>
+			</div>
+			<!-- /header-inner -->
+				
+						<!-- header-fix -->	
+			<div class="header-fix">
+				<div class="head_slide">
+	<div class="hdslide_inn">
+		<div class="hdslide_home"style="background: none">
+            			<a href="/" class="hdslide_home-logo">
+				<img src="/upload/main/b82/x664nhd1asgt8ys19uu2xgi1abmqp58c.svg" alt="Главная">
+			</a>
+            		</div>
+		<div class="hdtopmenu">
+			<div class="hdmname"></div>
+			<nav>
+<ul>
+
+
+	
+	
+					<li>
+                <div>
+                    <a href="/kompaniya/">О компании</a>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kompaniya/rekvizity/">Реквизиты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kompaniya/sertifikaty/">Сертификаты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/portfolio/">Портфолио</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kompaniya/otzyvy/">Отзывы о нас</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/blog/">Блог</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kp/">Заказать КП</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li>
+                <div>
+                    <a href="/catalog/">Каталог</a>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
+			
+		
+	
+	
+
+	
+	
+					<li>
+                <div>
+                    <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/">Алюминиевые профили для вентиляции</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/">Алюминиевые решетки для вентиляции</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li>
+                <div>
+                    <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/">Алюминиевая квадратная труба</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/">Алюминиевая полоса</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/">Алюминиевый П-профиль</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/">Алюминиевый уголок</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/">Алюминиевая шина</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/">Алюминиевые трубы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/">Алюминиевая профильная труба</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/">Алюминиевый бокс</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/">Алюминиевый тавр</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/">Алюминиевый двутавр</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/">Алюминиевый швеллер</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/">Зажимные профили и фурнитура для стеклянных козырьков</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnyy-instrument/">Строительный инструмент</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/alyuminievyy-profil-po-chertezham/">Алюминиевый профиль по чертежам</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="/uslugi/">Услуги</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/aktsii/">Акции</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kontakty/">Контакты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/delivery/">Доставка</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/prices/">Цены</a></li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+		</div>
+		<div class="hdslide_search">
+			<form action="/poisk/">
+				<input type="text" name="q" placeholder="Поиск..." required>
+				<button type="submit"></button>
+			</form>	
+		</div>
+		<div class="hdslide_contact_zayvka zvonok_view">
+			<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link">
+				Заказать расчет			</a>
+		</div>
+		<div class="hdslide_contact">
+			<div class="hdslide_contact_nomer">
+				<div class="header-phone__main-phone header-fix-phone">
+					<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+<div class="header-phone__popup">
+		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+			<div class="header-phone__popup-item"><a href="mailto:dial@dial-td.ru" class="header-phone__popup-link-email">dial@dial-td.ru</a></div>
+		</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>			</div>
+			<!-- /header-fix -->
+					</header>
+		<!-- HEADER -->
+						<div class="wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col wrapper-inner">
+						<div id="sidebar">
+							<div class="sidebar_adaptive">
+																<div id="sidebar_filter_catalog">
+									<div class="sidebar pright">
+   </div>								</div>
+								                                                                                                    																<div class="sidebar-action-box">
+									<div class="title">
+	Акции
+</div>
+<div class=" owl-carousel sidebar-action-ajax">
+			<div id="bx_3218110189_14">
+		<div class="sidebar-action__img">
+						<a href="/aktsii/raspil-pilomaterialov-so-skidkoy-30/">
+				<img src="/upload/resize_cache/iblock/ad0/248_165_2/na41lqlqbhy2kzi333yt8rmak1c4ubkw.JPG" alt="Бесплатный распил материалов" />			</a>
+					</div>
+		<div class="sidebar-action__text">
+			<a href="/aktsii/raspil-pilomaterialov-so-skidkoy-30/" class="sidebar-action__text-link">
+				Бесплатный распил материалов			</a>
+		</div>
+	</div>
+            <div class="empty_item">
+            <div class="action__img"></div>
+            <div class="action__text"></div>
+        </div>
+        </div>
+
+<div class="link_all">
+ <a href="/aktsii/">Все акции</a>
+</div>								</div>
+																																																<div id="sidebar_fixed">
+											<a href="/upload/medialibrary/16e/vdp3lhkbn0kkub3uy8p62km7ycuk6yta.pdf" target="_blank" id="bx_651765591_1030">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Алюминиевый плинтус и аксессуары" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/medialibrary/fab/bt0s3p6iwsmvdjygan4npnlvwmubi6r9.pdf" target="_blank" id="bx_651765591_1031">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Сантехнические перегородки" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/iblock/5b5/42kwh23tvsfavb4v7dil0f4q9rbt0jmf.pdf" target="_blank" id="bx_651765591_1032">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Зажимные профили" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/iblock/111/xhd0nt4ybic4yodfwghlo5oz0v9w1x0j.pdf" target="_blank" id="bx_651765591_2894">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Строительный алюминиевый профиль" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/medialibrary/f87/3kuzww3099qi65syj2ouab240f4q9q7f.pdf" target="_blank" id="bx_651765591_2882">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Правило" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/medialibrary/dac/gsk29mesfmq8jakc4h3kzti5l4dmkxqz.pdf" target="_blank" id="bx_651765591_2876">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Дверная коробка" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/iblock/e84/yh16xu14e01a1ek1chk41krwhuhtpqvu.pdf" target="_blank" id="bx_651765591_1037">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Алюминиевый профиль вентиляционных решёток" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+			<a href="/upload/iblock/8da/3eatnq9dke9a0zxokprqm82pite4kuol.pdf" target="_blank" id="bx_651765591_1036">
+		<div id="sidebar_prais">
+			<div class="block">
+				<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+				<div class="text text-in-attr" data-textbefore="Алюминиевый профиль для приточно-вытяжных установок и клапанов" data-textafter="Прайс-лист">
+				</div>
+			</div>
+		</div>
+	</a>
+									</div>
+															</div>
+						</div>
+							
+						<div class="content-box">	
+																	<div class="breadcrumb">
+											<ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/catalog/" title="Каталог" itemprop="item"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></li></ul>										</div>
+										<h1>Алюминиевые плинтусы напольные 80 мм</h1>
+							
+    <div class="borderbx">
+                                                                                <div class="search-catalog catalog-filter-popup">
+                                        <div class="catalog-filter-popup__panel">
+                        <div class="catalog-filter-popup__header">
+                            <div class="catalog-filter-popup__title">Фильтры</div>
+                            <button class="catalog-filter-popup__close" type="button" aria-label="Закрыть фильтр"></button>
+                        </div>
+                                        <div class="bx_filter bx_blue catalog-filter" id="catalog-filter">
+	<div class="bx_filter_section catalog-filter__inner">
+		<div class="cur-filter cur-transorm" id="show_filters_catalog" name="show_filters_catalog" onclick="showFilters()">
+			<span class="cur-filter__text">Скрыть</span>
+		</div>
+		<div class="bx_filter_title catalog-filter__title">Подбор параметров</div>
+					<div class="catalog-filter__selected">
+									<div class="catalog-filter__selected-item">
+						<div class="catalog-filter__selected-name">Ширина, мм</div>
+						<div class="catalog-filter__selected-values">
+															<span class="catalog-filter__selected-value">80</span>
+													</div>
+					</div>
+							</div>
+				<form name="arrFilter_form" action="/catalog/alyuminievye-plintusy-napolnye-80-mm.tag" method="get" class="filter-flex-container-form smartfilter catalog-filter__box">
+			<div class="filter-flex-container">
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Тип профиля">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('TIP_DETALI')" attr-name='Тип профиля'>Тип профиля</div>
+									<div class="select-options" id="TIP_DETALI" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="TIP_DETALI_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="TIP_DETALI_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2301619550">
+												<input 
+													attr-value = "L-образный"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="L-образный"
+													value="Y"
+													name="arrFilter_118_2301619550"
+													id="arrFilter_118_2301619550"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												L-образный											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_118_2575470644">
+												<input 
+													attr-value = "Микроплинтус"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Микроплинтус"
+													value="Y"
+													name="arrFilter_118_2575470644"
+													id="arrFilter_118_2575470644"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Микроплинтус											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_9159054">
+												<input 
+													attr-value = "Напольный"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Напольный"
+													value="Y"
+													name="arrFilter_118_9159054"
+													id="arrFilter_118_9159054"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Напольный											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2583444381">
+												<input 
+													attr-value = "Плинтус"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Плинтус"
+													value="Y"
+													name="arrFilter_118_2583444381"
+													id="arrFilter_118_2583444381"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Плинтус											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_118_1521215566">
+												<input 
+													attr-value = "Скрытый"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Скрытый"
+													value="Y"
+													name="arrFilter_118_1521215566"
+													id="arrFilter_118_1521215566"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Скрытый											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element filter-flex-element_active active" data-filter-name="Ширина, мм">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('SCHIRINA')" attr-name='Ширина, мм'>Ширина, мм</div>
+									<div class="select-options" id="SCHIRINA" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="SCHIRINA_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="SCHIRINA_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2628381300">
+												<input 
+													attr-value = "10"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="10"
+													value="Y"
+													name="arrFilter_122_2628381300"
+													id="arrFilter_122_2628381300"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												10											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3972210427">
+												<input 
+													attr-value = "20"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="20"
+													value="Y"
+													name="arrFilter_122_3972210427"
+													id="arrFilter_122_3972210427"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												20											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2613325421">
+												<input 
+													attr-value = "30"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="30"
+													value="Y"
+													name="arrFilter_122_2613325421"
+													id="arrFilter_122_2613325421"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												30											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1416650876">
+												<input 
+													attr-value = "40"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="40"
+													value="Y"
+													name="arrFilter_122_1416650876"
+													id="arrFilter_122_1416650876"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												40											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_47022039">
+												<input 
+													attr-value = "50"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="50"
+													value="Y"
+													name="arrFilter_122_47022039"
+													id="arrFilter_122_47022039"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												50											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3447271878">
+												<input 
+													attr-value = "60"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="60"
+													value="Y"
+													name="arrFilter_122_3447271878"
+													id="arrFilter_122_3447271878"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												60											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3128820048">
+												<input 
+													attr-value = "80"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="80"
+													value="Y"
+													name="arrFilter_122_3128820048"
+													id="arrFilter_122_3128820048"
+													checked="checked"													onclick="smartFilter.click(this); check(this)"
+												/> 
+												80											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_605721843">
+												<input 
+													attr-value = "100"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="100"
+													value="Y"
+													name="arrFilter_122_605721843"
+													id="arrFilter_122_605721843"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												100											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Толщина, мм">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('TOLSHINA')" attr-name='Толщина, мм'>Толщина, мм</div>
+									<div class="select-options" id="TOLSHINA" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="TOLSHINA_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="TOLSHINA_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1630258919">
+												<input 
+													attr-value = "2"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="2"
+													value="Y"
+													name="arrFilter_135_1630258919"
+													id="arrFilter_135_1630258919"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												2											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element active" data-filter-name="Цена">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+														<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('ATT_PRICE')">Цена</div>
+									<div class="select-options" id="ATT_PRICE" style="display: none;">
+										<div class="bx_filter_parameters_box_container_block catalog-filter__price">
+											<div class="bx_filter_input_container catalog-filter__price-item">
+												<input
+														class="min-price"
+														type="text"
+														data-filter-bound="min"
+														name="arrFilter_53_MIN"
+													id="arrFilter_53_MIN"
+													value=""
+													size="5"
+													onkeyup="smartFilter.keyup(this)"
+												/>
+											</div>
+										</div>
+										<div class="bx_filter_parameters_box_container_block catalog-filter__price">
+											<div class="bx_filter_input_container catalog-filter__price-item">
+												<input
+														class="max-price"
+														type="text"
+														data-filter-bound="max"
+														name="arrFilter_53_MAX"
+													id="arrFilter_53_MAX"
+													value=""
+													size="5"
+													onkeyup="smartFilter.keyup(this)"
+												/>
+											</div>
+										</div>
+										<div style="clear: both;"></div>
+
+										<div class="bx_ui_slider_track" id="drag_track_53">
+																						<div class="bx_ui_slider_part p1"><span class="pricespace">41</span></div>
+																						<div class="bx_ui_slider_part p5"><span class="pricespace">1000</span></div>
+
+											<div class="bx_ui_slider_pricebar_VD catalog-filter__line-vd" style="left: 0;right: 0;" id="colorUnavailableActive_53"></div>
+											<div class="bx_ui_slider_pricebar_VN catalog-filter__line-vn" style="left: 0;right: 0;" id="colorAvailableInactive_53"></div>
+											<div class="bx_ui_slider_pricebar_V catalog-filter__line-v"  style="left: 0;right: 0;" id="colorAvailableActive_53"></div>
+											<div class="bx_ui_slider_range" 	id="drag_tracker_53"  style="left: 0;right: 0;">
+												<a class="bx_ui_slider_handle left"  style="left:0;" href="javascript:void(0)" id="left_slider_53"></a>
+												<a class="bx_ui_slider_handle right" style="right:0;" href="javascript:void(0)" id="right_slider_53"></a>
+											</div>
+										</div>
+									</div>
+								</div>
+																				<script type="text/javascript">
+											BX.ready(function(){
+												window['trackBar53'] = new BX.Iblock.SmartFilter({'leftSlider':'left_slider_53','rightSlider':'right_slider_53','tracker':'drag_tracker_53','trackerWrap':'drag_track_53','minInputId':'arrFilter_53_MIN','maxInputId':'arrFilter_53_MAX','minPrice':'41','maxPrice':'1000','curMinPrice':'','curMaxPrice':'','fltMinPrice':'41','fltMaxPrice':'1000','precision':'0','colorUnavailableActive':'colorUnavailableActive_53','colorAvailableActive':'colorAvailableActive_53','colorAvailableInactive':'colorAvailableInactive_53'});
+											});
+										</script>
+														</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Цвет">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('ZWET')" attr-name='Цвет'>Цвет</div>
+									<div class="select-options" id="ZWET" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="ZWET_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="ZWET_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_127446590">
+												<input 
+													attr-value = "Белый"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Белый"
+													value="Y"
+													name="arrFilter_120_127446590"
+													id="arrFilter_120_127446590"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Белый											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_16083495">
+												<input 
+													attr-value = "Золото"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Золото"
+													value="Y"
+													name="arrFilter_120_16083495"
+													id="arrFilter_120_16083495"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Золото											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2012371633">
+												<input 
+													attr-value = "Серебро"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Серебро"
+													value="Y"
+													name="arrFilter_120_2012371633"
+													id="arrFilter_120_2012371633"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Серебро											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2660368260">
+												<input 
+													attr-value = "Черный"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Черный"
+													value="Y"
+													name="arrFilter_120_2660368260"
+													id="arrFilter_120_2660368260"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Черный											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_3918974738">
+												<input 
+													attr-value = "Шампань"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Шампань"
+													value="Y"
+													name="arrFilter_120_3918974738"
+													id="arrFilter_120_3918974738"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Шампань											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Покрытие">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('POKRYTIE')" attr-name='Покрытие'>Покрытие</div>
+									<div class="select-options" id="POKRYTIE" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="POKRYTIE_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="POKRYTIE_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_139_367689353">
+												<input 
+													attr-value = "аннодированное"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="аннодированное"
+													value="Y"
+													name="arrFilter_139_367689353"
+													id="arrFilter_139_367689353"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												аннодированное											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_139_1659719199">
+												<input 
+													attr-value = "матовое"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="матовое"
+													value="Y"
+													name="arrFilter_139_1659719199"
+													id="arrFilter_139_1659719199"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												матовое											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Длина, мм">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('DLINA')" attr-name='Длина, мм'>Длина, мм</div>
+									<div class="select-options" id="DLINA" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="DLINA_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="DLINA_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_137_3648979021">
+												<input 
+													attr-value = "6000"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="6000"
+													value="Y"
+													name="arrFilter_137_3648979021"
+													id="arrFilter_137_3648979021"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												6000											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Особенность">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('OSOBENNOST')" attr-name='Особенность'>Особенность</div>
+									<div class="select-options" id="OSOBENNOST" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="OSOBENNOST_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="OSOBENNOST_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_160_3878939785">
+												<input 
+													attr-value = "Радиусный"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Радиусный"
+													value="Y"
+													name="arrFilter_160_3878939785"
+													id="arrFilter_160_3878939785"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Радиусный											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_160_2419383327">
+												<input 
+													attr-value = "С заходом на стену"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="С заходом на стену"
+													value="Y"
+													name="arrFilter_160_2419383327"
+													id="arrFilter_160_2419383327"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												С заходом на стену											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_160_4042479098">
+												<input 
+													attr-value = "С рассеивателем"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="С рассеивателем"
+													value="Y"
+													name="arrFilter_160_4042479098"
+													id="arrFilter_160_4042479098"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												С рассеивателем											</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_160_519910614">
+												<input 
+													attr-value = "Щелевой"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="Щелевой"
+													value="Y"
+													name="arrFilter_160_519910614"
+													id="arrFilter_160_519910614"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												Щелевой											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Подсветка">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('PODSVETKA')" attr-name='Подсветка'>Подсветка</div>
+									<div class="select-options" id="PODSVETKA" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="PODSVETKA_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="PODSVETKA_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_161_1777992768">
+												<input 
+													attr-value = "да"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="да"
+													value="Y"
+													name="arrFilter_161_1777992768"
+													id="arrFilter_161_1777992768"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												да											</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_161_4154364387">
+												<input 
+													attr-value = "нет"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="нет"
+													value="Y"
+													name="arrFilter_161_4154364387"
+													id="arrFilter_161_4154364387"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												нет											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+							<div class="bx_filter_parameters_box filter-flex-element" data-filter-name="Марка сплава">
+					<span class="bx_filter_container_modef"></span>
+					<div>
+						<div class="bx_filter_parameters_box_container">
+						
+								<div class="multiselect">
+									<span class="cur"></span>
+									<div class="select-header" onclick="toggleDropdown('MARKA_SPLAVA')" attr-name='Марка сплава'>Марка сплава</div>
+									<div class="select-options" id="MARKA_SPLAVA" style="display: none;">
+										<label class="checkbox-label catalog-filter__checkbox-label" for="MARKA_SPLAVA_clear">
+											<input 
+												attr-value = "Очистить"
+												type="checkbox"
+												style="display:none"
+												value="Очистить"
+												name="Очистить"
+												id="MARKA_SPLAVA_clear"
+												onclick="check(this, true); smartFilter.click(this);"
+											/> 
+											Сбросить
+										</label>
+																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_134_884468121">
+												<input 
+													attr-value = "АД31Т1"
+													style="display:none"
+													type="checkbox"
+													data-filter-value="АД31Т1"
+													value="Y"
+													name="arrFilter_134_884468121"
+													id="arrFilter_134_884468121"
+																										onclick="smartFilter.click(this); check(this)"
+												/> 
+												АД31Т1											</label>
+																			</div>
+								</div>
+
+												</div>
+						<div class="clb"></div>
+					</div>
+				</div>
+						</div>
+			<div class="clb"></div>
+			<div class="bx_filter_button_box active">
+				<div class="bx_filter_block">
+					<div class="bx_filter_parameters_box_container">
+						<input class="btn-button catalog-filter__button" type="submit" id="set_filter" name="set_filter" value="Показать" />
+						<input class="catalog-filter__button-reset" type="submit" id="del_filter" name="del_filter" value="Сбросить" />
+
+						<div class="bx_filter_popup_result right" id="modef" style="display:none" style="display: inline-block;">
+							Выбрано: <span id="modef_num">0</span>							<span class="arrow"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+		<div style="clear: both;"></div>
+	</div>
+</div>
+<script>
+	var smartFilter = new JCSmartFilter('/catalog/alyuminievye-plintusy-napolnye-80-mm.tag', 'vertical');
+</script>
+                                        </div>
+                                    </div>
+                                    
+        
+<div class="cloud-items__wrapper cloud-items__wrapper-top">
+
+    <div class="cloud-items">
+                                            <div class="item my-1 section-page-tag">
+                                    <a class="btn py-2 px-3" href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/skrytye-plintusy-dlya-pola.tag">Скрытые</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/mikroplintusy.tag">Микроплинтус</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/plintus-alyuminievyy-napolnyy-chernyy.tag">Черные</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/plintus-napolnyy-alyuminievyy-belyy.tag">Белые</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/plintus-napolnyy-alyuminievyy-serebro.tag">Серебро</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/mikroplintusy-dlya-pola-s-podsvetkoy.tag">С подсветкой</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/mikroplintusy-s-zakhodom-na-stenu.tag">Микроплинтус с заходом на стену</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/alyuminievye-plintusy-napolnye-60-mm.tag">60 мм</a>
+                            </div>
+                                            <div class="item my-1 ">
+                                    <a class="btn  py-2 px-3" href="/catalog/alyuminievye-plintusy-napolnye-40-mm.tag">40мм</a>
+                            </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/alyuminievye-plintusy-napolnye-100-mm.tag">100 мм</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/plintus-napolnyy-alyuminievyy-zoloto.tag">Золото</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/plintus-napolnyy-alyuminievyy-shampan.tag">Шампань</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/belye-skrytye-plintusy.tag">Скрытые Белые</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/skrytye-plintusy-zoloto.tag">Скрытые Золото</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/skrytye-plintusy-serebro.tag">Скрытые Серебро</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/chernye-skrytye-plintusy.tag">Скрытые Черные</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/skrytye-plintusy-shampan.tag">Скрытые Шампань</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/chernye-mikroplintusy.tag">Микроплинтусы черные</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/belye-mikroplintusy.tag">Микроплинтусы Белые</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/mikroplintusy-shampan.tag">Микроплинтус Шампань</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/mikroplintusy-serebro.tag">Микроплинтус Серебро</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/mikroplintusy-zoloto.tag">Микроплинтус Золото</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/shchelevye-mikroplintusy.tag">Щелевые</a>
+                                    </div>
+                                                            <div class="item tire-2 my-1 ">
+                                            <a class="btn  py-2 px-3" href="/catalog/alyuminievye-l-obraznye-napolnye-plintusy.tag">L-образные</a>
+                                    </div>
+                        </div>
+            <a href="#" class="toggle-cloud-items" data-toggle="Скрыть">Показать ещё</a>
+    </div>
+
+                <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Product",
+              "name": "Алюминиевые напольные плинтусы",
+              "description": "Алюминиевые напольные плинтусы по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05",
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "RUR",
+                "lowPrice": "198",
+                "highPrice": "281",
+                "offerCount": "7"
+              }
+           }
+        </script>
+		<div class="catalog-section__selected-filters catalog-section__selected-filters_empty"></div>
+		<div class="catalog-section__top-line catalog-section__top-line_filter">
+		<div class='catalog-section__sort'>
+						<button class="catalog-section__filter-button" type="button">Фильтр</button>
+			
+			<div class='catalog-section__sort-text'>
+				Сортировка			</div>
+			<select name="sort-select">
+				<option data-field="popular" data-order="asc" value='сначала популярные' >сначала популярные</option><option data-field="price" data-order="asc" value='сначала дешевые' >сначала дешевые</option><option data-field="price" data-order="desc" value='сначала дорогие' >сначала дорогие</option><option data-field="name" data-order="asc" value='по названию (А-Я)' >по названию (А-Я)</option><option data-field="name" data-order="desc" value='по названию (Я-А)' >по названию (Я-А)</option>			</select>
+		</div>
+		<div class='catalog-section__view'>
+			<div data-display='tile' class="catalog-section__view-tile catalog-section__view-item active"></div><div data-display='list' class="catalog-section__view-list catalog-section__view-item "></div><div data-display='price' class="catalog-section__view-price catalog-section__view-item "></div>		</div>
+
+        <script>
+            BX.ready(function () {
+                $('.catalog-section__view-item').on('click', function(){
+                    document.cookie = "CATALOG_DISPLAY="+$(this).data('display')+";path=/;"
+                    location.reload()
+                })
+
+                $('[name="sort-select"]').on('change', function (){
+                    document.cookie = "CATALOG_SORT_FIELD="+$('[name="sort-select"] option[value="'+$('[name="sort-select"]').val()+'"]').data('field')+";path=/;";
+                    document.cookie = "CATALOG_SORT_ORDER="+$('[name="sort-select"] option[value="'+$('[name="sort-select"]').val()+'"]').data('order')+";path=/;";
+                    location.reload()
+                })
+
+                $('.catalog-section__filter-button').on('click', function () {
+                    $('.catalog-filter-popup .filter-flex-element.hide').removeClass('hide');
+                    $('.catalog-filter-popup').addClass('catalog-filter-popup_opened');
+                    $('body').addClass('catalog-filter-popup-lock');
+                })
+
+                $('.catalog-filter-popup__close').on('click', function () {
+                    $('.catalog-filter-popup').removeClass('catalog-filter-popup_opened');
+                    $('body').removeClass('catalog-filter-popup-lock');
+                })
+
+                $('.catalog-filter-popup').on('click', function (event) {
+                    if (event.target === this) {
+                        $('.catalog-filter-popup').removeClass('catalog-filter-popup_opened');
+                        $('body').removeClass('catalog-filter-popup-lock');
+                    }
+                })
+            })
+        </script>
+	</div>
+	<div class="catalog-section__row catalog-section-tile">
+		<div class="row row-10">
+			
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1095">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-belye.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/146/250_250_1/vf0wqmccb9t3wzzt133avr1y6xr24hy0.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм белые" title="Алюминиевые плинтусы напольные 12*80 мм белые" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 0034                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
+								Алюминиевые плинтусы напольные 12*80 мм белые							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Подсветка: "></span>
+									<span class="value-product-attribute" data-text="
+									нет									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									12 х 80									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">198</span>
+																						<span class="catalog-section-tile__price-rub">
+												р./пог.м											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм белые" data-price="198">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='3' data-step='3'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1095" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1097">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-shampan.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/043/250_250_1/dcprb4axt6qbwbzxbd2orhsc91awfbb1.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм шампань" title="Алюминиевые плинтусы напольные 12*80 мм шампань" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 0034                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
+								Алюминиевые плинтусы напольные 12*80 мм шампань							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Подсветка: "></span>
+									<span class="value-product-attribute" data-text="
+									нет									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									12 х 80									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">215</span>
+																						<span class="catalog-section-tile__price-rub">
+												р./пог.м											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм шампань" data-price="215">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='3' data-step='3'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1097" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1096">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/960/250_250_1/x4g2cpgx88v6oru630u3wbmkm5xvfouq.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм золото" title="Алюминиевые плинтусы напольные 12*80 мм золото" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 0034                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
+								Алюминиевые плинтусы напольные 12*80 мм золото							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Подсветка: "></span>
+									<span class="value-product-attribute" data-text="
+									нет									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									12 х 80									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">198</span>
+																						<span class="catalog-section-tile__price-rub">
+												р./пог.м											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм золото" data-price="198">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='3' data-step='3'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1096" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_140">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievyy-plintus-12-80mm-serebristyy.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/f7c/250_250_1/wrva9ak1npw5f6151khel3h5mkaevjbr.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм серебро" title="Алюминиевые плинтусы напольные 12*80 мм серебро" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 0034                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievyy-plintus-12-80mm-serebristyy.prod" class="catalog-section-tile__title-link">
+								Алюминиевые плинтусы напольные 12*80 мм серебро							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Подсветка: "></span>
+									<span class="value-product-attribute" data-text="
+									нет									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									12 х 80									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">198</span>
+																						<span class="catalog-section-tile__price-rub">
+												р./пог.м											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм серебро" data-price="198">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='3' data-step='3'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="140" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_144">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/4a9/250_250_1/9fsgey2ycmlyttzrhimhwrurxx7vt415.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм чёрные" title="Алюминиевые плинтусы напольные 12*80 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 0034                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod" class="catalog-section-tile__title-link">
+								Алюминиевые плинтусы напольные 12*80 мм чёрные							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Подсветка: "></span>
+									<span class="value-product-attribute" data-text="
+									нет									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									12 х 80									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">215</span>
+																						<span class="catalog-section-tile__price-rub">
+												р./пог.м											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм чёрные" data-price="215">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='3' data-step='3'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="144" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2972">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/alyuminievaya-shina-80-mm.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/2d1/250_250_1/18ox5lj08ox28g7e5b18f2p1yxxhinvs.jpg" alt="Алюминиевая шина 80 мм" title="Алюминиевая шина 80 мм" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/alyuminievaya-shina-80-mm.prod" class="catalog-section-tile__title-link">
+								Алюминиевая шина 80 мм							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
+									<span class="value-product-attribute" data-text="
+									80									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
+									<span class="value-product-attribute" data-text="
+									2									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">281</span>
+																						<span class="catalog-section-tile__price-rub">
+												р.											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая шина 80 мм" data-price="281">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='1' data-step='1'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2972" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+												
+            
+									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2862">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-80-mm.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/691/250_250_1/fx63cu4r9cjl9w8ofoivo4cgtaggr637.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" title="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт.: 9142                            </div>
+                                                        <div class="catalog-section-price__article">
+								                            </div>
+
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-80-mm.prod" class="catalog-section-tile__title-link">
+								Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный							</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Размеры: "></span>
+									<span class="value-product-attribute" data-text="
+									80 x 10									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
+																		<div class="catalog-section-tile__price-ot">
+										от									</div>
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">265</span>
+																						<span class="catalog-section-tile__price-rub">
+												р.											</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" data-price="265">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->	
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='1' data-step='1'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2862" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+														</div>
+	</div>
+		<br />		
+	<!--noindex-->
+<!--googleoff: all-->
+<div class="form-popup-request form-hide" id="form-popup-catalog">
+	<form class="form-popup-request__form feedback" method="post">
+		<div class="container">
+			<div class="row">
+								<div class="col-12">
+					<div class="form-popup-request__title">
+						Заказать товар
+					</div>
+					<div class="form-popup-catalog__product">Наименование: <span class="form-popup-catalog__product-name">Алюминиевые плинтусы напольные 80 мм</span></div>
+					<input type="text" name="form_catalog" hidden class="form-popup-request__input" value="Алюминиевые плинтусы напольные 80 мм">
+					<input type="text" name="form_name" placeholder="Ваше имя" maxlength="50" class="form-popup-request__input">
+					<input type="text" name="form_phone" placeholder="Ваш номер телефона*" class="inputmask form-popup-request__input">
+										<textarea name="form_message" placeholder="Комментарий к заказу*" rows="3" maxlength="500" class="form-popup-request__textarea"></textarea>
+										<div class="feedback-garant__mess-error"></div>
+					<div class="feedback-garant form-popup-request__feedback-garant">
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_read_8" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_read_8">
+                                Я ознакомлен(а) с <a href="/kontakty/politika-konfidentsialnosti/" target="_blank" class="feedback-garant__link">Политикой в отношении обработки персональных данных</a>
+                            </label>
+                        </div>
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_agree_8" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_agree_8">
+                                Я согласен(а) <a href="/kontakty/soglasie/" target="_blank" class="feedback-garant__link">на обработку персональных данных</a>
+                            </label>
+                        </div>
+                        					</div>
+					<button type="submit" class="form-popup-request__btn btn-button" >Отправить</button>
+					<div class="feedback-send-message"></div>
+				</div>
+			</div>
+		</div>
+        <input hidden readonly name="id_form" value="catalog" />
+        <input hidden readonly name="name_form" value="popup_catalog" />
+	</form>
+</div>
+<!--googleon: all-->
+<!--/noindex-->
+
+
+        <div class="mt-20">
+                    </div>
+    </div>
+
+
+</div>
+											</div>
+				</div>
+			</div>
+					</div>
+		<footer id="footer">
+			<div class="footer">
+				<div class="footer__top">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg">
+								<div class="footer__logo">
+                                        										<a href="/" class="header-logo__link">
+											<img src="/upload/main/16a/64wrireoocf77w5r5e36i88mmgt5strp.svg" alt="Главная">
+										</a>
+                                        									</div>
+									<div class="footer__text">
+										Производство и продажа алюминиевого профиля									</div>
+									<div class="footer__hr"></div>
+								<div class="footer__item1">
+									<div class="footer__item2">
+										<div class="footer__phone">
+											<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+<div class="header-phone__popup">
+		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+	</div>
+										</div>
+									</div>
+									<div class="footer__btn-callback">
+                                        <!--noindex-->
+                                        <!--googleoff: all-->
+                                        <a data-fancybox data-src="#form-popup-callback" href="javascript:;" class="footer__btn-callback-link btn-link">
+                                            Заказать звонок                                        </a>
+                                        <!--googleon: all-->
+                                        <!--/noindex-->
+                                    </div>
+									<div class="footer__item2">
+                                        <div class="mb-10">
+                                            <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
+                                        </div>
+										<div class="footer__mail">
+											<a href="mailto:dial@dial-td.ru">dial@dial-td.ru</a>										</div>
+										<div class="footer__address">
+											Московская область<br>
+Раменский городской округ, <br>д. Чулково, Дорожная улица, 1
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md">
+								<div class="footer__menu">
+									<div class="footer__menu-title">
+										Компания									</div>
+									<nav class="footer__menu-nav">
+										<ul>
+
+			<li><a href="/kompaniya/">О компании</a></li>
+		
+			<li><a href="/news/">Новости</a></li>
+		
+			<li><a href="/aktsii/">Акции</a></li>
+		
+			<li><a href="/blog/">Блог</a></li>
+		
+			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
+		
+			<li><a href="/portfolio/">Портфолио</a></li>
+		
+
+</ul>
+								</nav>
+							</div>
+						</div>
+						<div class="col-md">
+							<div class="footer__menu">
+								<div class="footer__menu-title">
+									Каталог								</div>
+								<nav class="footer__menu-nav">
+									<ul>
+
+			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевый плинтус</a></li>
+		
+			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Потолочные плинтусы</a></li>
+		
+			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
+		
+			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной профиль для цельностеклянных конструкций</a></li>
+		
+			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
+		
+			<li><a href="/catalog/alyuminievye-perila/">Перила</a></li>
+		
+			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
+		
+
+</ul>
+								</nav>
+							</div>
+						</div>
+						<div class="col-md">
+							<div class="footer__menu">
+								<div class="footer__menu-title">
+									Услуги								</div>
+								<nav class="footer__menu-nav">
+									<ul>
+
+			<li><a href="/uslugi/anodirovanie-alyuminievogo-profilya/">Анодирование</a></li>
+		
+			<li><a href="/uslugi/poroshkovoe-okrashivanie-alyuminievykh-profiley/">Порошковое окрашивание</a></li>
+		
+			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Профиль по чертежам заказчика</a></li>
+		
+			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
+		
+			<li><a href="/uslugi/sublimirovanie-alyuminievogo-profilya/">Сублимирование</a></li>
+		
+			<li><a href="/uslugi/lazernaya-rezka-trub-i-profilnykh-zagotovok/">Лазерная резка</a></li>
+		
+
+</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer__bottom">
+				<div class="container">
+					<div class="row">
+						<div class="col-md">
+							<div class="footer__copyright">
+								2026 © Все права защищены<br>
+<a href="/kontakty/politika-konfidentsialnosti/">Политика конфиденциальности</a> <a href="/sitemap/">Карта сайта</a>							</div>
+						</div>
+						<div class="col-md">
+							<div class="footer__metrics">
+								<!-- metrics, counters of site visits -->							</div>
+						</div>
+						<div class="col-md-auto ml-auto">
+							<div class="footer__social">
+															</div>
+						</div>
+                        <div class="col-md">
+                            <div class="creators">
+                                <div class="creators-block">
+                                    <a href="https://clickon.ru/" target="_blank" class="clickon-logo">
+                                        <span>Поддержка сайта</span>
+                                        <svg width="87" height="29" viewBox="0 0 87 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M83.6054 2.68921V11.6594L74.8544 2.68921H73.2791V17.5501H76.4696V8.34844L85.4557 17.7491H86.7974V2.68921H83.6054ZM61.4785 0C56.0443 0 51.624 4.26602 51.624 9.50867C51.624 14.7513 56.0443 19.0173 61.4785 19.0173C61.7535 19.0173 62.0286 19.0035 62.2989 18.9849L62.3228 15.3021C62.0478 15.3376 61.7631 15.3592 61.4801 15.3592C58.1345 15.3592 55.4158 12.7333 55.4158 9.50867C55.4158 6.28254 58.1345 3.65659 61.4801 3.65659C64.8224 3.65659 67.5427 6.28254 67.5427 9.50867C67.5427 11.4805 66.5224 13.2316 64.968 14.2885L67.5715 16.9746C69.8616 15.2327 71.3345 12.5342 71.3345 9.50867C71.3313 4.26602 66.911 0 61.4785 0Z" fill="#FFCC66"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M12.8717 2.50472L11.6642 4.83753C11.0118 4.2065 9.96106 3.89484 8.51216 3.89484C7.13843 3.89484 6.01097 4.45027 5.1314 5.55651C4.25183 6.66274 3.81524 8.06212 3.81524 9.75773C3.81524 11.4502 4.21984 12.7941 5.03705 13.7892C5.85105 14.7828 6.94012 15.2827 8.30107 15.2827C9.85871 15.2827 11.0725 14.7551 11.9537 13.6982L13.3178 15.9801C12.1264 17.1912 10.3769 17.8007 8.07398 17.8007C5.77109 17.8007 3.98156 17.0709 2.70857 15.6114C1.43399 14.1487 0.795898 12.16 0.795898 9.63738C0.795898 7.28914 1.50276 5.32817 2.91647 3.74982C4.33019 2.17147 6.13571 1.38306 8.34105 1.38306C10.2281 1.38152 11.7378 1.75643 12.8717 2.50472Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M15.9772 1.60055L18.7903 0.949463V13.999C18.7903 15.4277 19.2365 16.2809 20.1289 16.5555C19.6907 17.3393 18.947 17.7281 17.8947 17.7281C16.6169 17.7281 15.9756 16.8795 15.9756 15.1747V1.60055H15.9772Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M23.0462 17.5302V8.13112H21.5029V5.91402H25.8944V17.5302H23.0462ZM24.5063 1.4104C24.9525 1.4104 25.3395 1.56469 25.6577 1.87172C25.976 2.1772 26.1359 2.54903 26.1359 2.98104C26.1359 3.41458 25.9744 3.78641 25.6577 4.09498C25.3395 4.40201 24.9541 4.55476 24.5063 4.55476C24.0553 4.55476 23.6715 4.40201 23.3532 4.09498C23.035 3.78795 22.8751 3.41612 22.8751 2.98104C22.8751 2.54903 23.035 2.1772 23.3532 1.87172C23.6699 1.56623 24.0553 1.4104 24.5063 1.4104Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M38.5933 6.84068L37.3906 8.86183C36.7318 8.26474 35.8458 7.96697 34.7375 7.96697C33.6708 7.96697 32.8313 8.30794 32.2124 8.99143C31.5919 9.67338 31.2832 10.6192 31.2832 11.8257C31.2832 14.2619 32.489 15.4792 34.9007 15.4792C35.9434 15.4792 36.8629 15.1382 37.6593 14.4547L38.6956 16.607C37.8752 17.0961 37.1652 17.4078 36.5511 17.5389C35.9402 17.6685 35.2173 17.7318 34.3857 17.7318C32.5258 17.7318 31.0593 17.2103 29.9814 16.1704C28.9052 15.1274 28.3662 13.6817 28.3662 11.8272C28.3662 10.0051 28.9563 8.53011 30.1302 7.40691C31.3088 6.28062 32.9112 5.71901 34.939 5.71901C36.3432 5.71593 37.557 6.09084 38.5933 6.84068Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M48.6638 17.5306L45.1087 12.271L43.7574 13.6472V17.5306H40.9443V1.60055L43.7574 0.949463V10.3717L47.7698 5.9144H51.1682L47.0886 10.3162L51.9902 17.5306H48.6638Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" d="M61.4787 12.5281C63.2063 12.5281 64.6068 11.177 64.6068 9.51027C64.6068 7.84356 63.2063 6.49243 61.4787 6.49243C59.7511 6.49243 58.3506 7.84356 58.3506 9.51027C58.3506 11.177 59.7511 12.5281 61.4787 12.5281Z" fill="#BDBDBD"></path>
+                                            <path class="path-symbol" fill-rule="evenodd" clip-rule="evenodd" d="M63.4712 14.5237L72.2334 23.5633L67.7731 23.3303L69.8809 28.2984L68.2577 29.0019L66.2331 23.7593L63.3896 26.3821L63.4712 14.5237Z" fill="#BDBDBD"></path>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNJD9LPF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	</footer>
+	<!-- form popup -->
+	<!--noindex-->
+<!--googleoff: all-->
+<div class="form-popup-callback form-hide" id="form-popup-callback">
+	<form class="form-popup-callback__form feedback" method="post">
+		<div class="container">
+			<div class="row">
+								<div class="col-12">
+					<div class="form-popup-callback__title">
+						Консультация специалиста
+					</div>
+										<div class="form-popup-callback__text">
+						Мы свяжемся с вами в течение 5 минут					</div>
+										<input type="text" name="form_name" placeholder="Ваше имя" maxlength="50" class="form-popup-callback__input">
+					<input type="text" name="form_phone" placeholder="Ваш номер телефона*" class="inputmask form-popup-callback__input">
+															<div class="feedback-garant__mess-error"></div>
+					<div class="feedback-garant form-popup-callback__feedback-garant">
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_read_7" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_read_7">
+                                Я ознакомлен(а) с <a href="/kontakty/politika-konfidentsialnosti/" target="_blank" class="feedback-garant__link">Политикой в отношении обработки персональных данных</a>
+                            </label>
+                        </div>
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_agree_7" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_agree_7">
+                                Я согласен(а) <a href="/kontakty/soglasie/" target="_blank" class="feedback-garant__link">на обработку персональных данных</a>
+                            </label>
+                        </div>
+                        					</div>
+					<button type="submit" class="form-popup-callback__btn btn-button feedback-button" >Отправить</button>
+					<div class="feedback-send-message"></div>
+				</div>
+			</div>
+		</div>
+        <input hidden readonly name="id_form" value="callback">
+        <input hidden readonly name="name_form" value="popup_callback" />
+	</form>
+</div>
+<!--googleon: all-->
+<!--/noindex-->
+	<!--noindex-->
+<!--googleoff: all-->
+<div class="form-popup-request form-hide" id="form-popup-request">
+	<form class="form-popup-request__form feedback" method="post">
+		<div class="container">
+			<div class="row">
+								<div class="col-12">
+					<div class="form-popup-request__title">
+						Оставить заявку
+					</div>
+										<div class="form-popup-request__text">
+						Мы свяжемся с вами в течение 5 минут					</div>
+										<input type="text" name="form_name" placeholder="Ваше имя" maxlength="50" class="form-popup-request__input">
+					<input type="text" name="form_phone" placeholder="Ваш номер телефона*" class="inputmask form-popup-request__input">
+										<textarea name="form_message" placeholder="Комментарий к заявке*" rows="3" maxlength="500" class="form-popup-request__textarea"></textarea>
+					<div class="feedback-file form-popup-request__file">
+						<input type="file" name="files[]" accept=".png,.jpg,.jpeg,.tif,.pdf,.doc,.docx,.xls,.xlsx" multiple class="feedback-file__input">
+						<div class="feedback-file__box">
+							<div class="feedback-file__icon"></div>
+							<div class="feedback-file__text">
+								Прикрепить свои файлы
+							</div>
+						</div>
+					</div>
+										<div class="feedback-garant__mess-error"></div>
+					<div class="feedback-garant form-popup-request__feedback-garant">
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_read_12" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_read_12">
+                                Я ознакомлен(а) с <a href="/kontakty/politika-konfidentsialnosti/" target="_blank" class="feedback-garant__link">Политикой в отношении обработки персональных данных</a>
+                            </label>
+                        </div>
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_agree_12" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_agree_12">
+                                Я согласен(а) <a href="/kontakty/soglasie/" target="_blank" class="feedback-garant__link">на обработку персональных данных</a>
+                            </label>
+                        </div>
+                        					</div>
+					<button type="submit" class="form-popup-request__btn btn-button" >Отправить</button>
+					<div class="feedback-send-message"></div>
+				</div>
+			</div>
+		</div>
+        <input hidden readonly name="id_form" value="request" />
+        <input hidden readonly name="name_form" value="popup_request" />
+	</form>
+</div>
+<!--googleon: all-->
+<!--/noindex-->
+	<!--noindex-->
+<!--googleoff: all-->
+<div class="form-popup-estimate form-hide" id="form-popup-estimate">
+	<form class="form-popup-estimate__form feedback" method="post">
+		<div class="container">
+			<div class="row">
+								<div class="col-12">
+					<div class="form-popup-estimate__title">
+						Заказать расчет
+					</div>
+										<div class="form-popup-estimate__text">
+						Мы свяжемся с вами в течение 5 минут					</div>
+										<input type="text" name="form_name" placeholder="Ваше имя" maxlength="50" class="form-popup-estimate__input">
+					<input type="text" name="form_phone" placeholder="Ваш номер телефона*" required="required" class="inputmask form-popup-estimate__input">
+										<textarea name="form_message" placeholder="Комментарий к заявке*" required="required" rows="3" maxlength="500" class="form-popup-estimate__textarea"></textarea>
+					<div class="feedback-file form-popup-estimate__file">
+						<input type="file" name="files[]" accept=".png,.jpg,.jpeg,.tif,.pdf,.doc,.docx,.xls,.xlsx" multiple class="feedback-file__input">
+						<div class="feedback-file__box">
+							<div class="feedback-file__icon"></div>
+							<div class="feedback-file__text">
+								Прикрепить свои файлы
+							</div>
+						</div>
+					</div>
+										<div class="feedback-garant__mess-error"></div>
+					<div class="feedback-garant form-popup-estimate__feedback-garant">
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_read_9" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_read_9">
+                                Я ознакомлен(а) с <a href="/kontakty/politika-konfidentsialnosti/" target="_blank" class="feedback-garant__link">Политикой в отношении обработки персональных данных</a>
+                            </label>
+                        </div>
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_agree_9" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_agree_9">
+                                Я согласен(а) <a href="/kontakty/soglasie/" target="_blank" class="feedback-garant__link">на обработку персональных данных</a>
+                            </label>
+                        </div>
+                        					</div>
+					<button type="submit" class="form-popup-estimate__btn btn-button" >Отправить</button>
+					<div class="feedback-send-message"></div>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+<!--googleon: all-->
+<!--/noindex-->	<!--noindex-->
+<!--googleoff: all-->
+<div class="form-popup-request form-hide" id="form-popup-catalog">
+	<form class="form-popup-request__form feedback" method="post">
+		<div class="container">
+			<div class="row">
+								<div class="col-12">
+					<div class="form-popup-request__title">
+						Заказать товар
+					</div>
+					<div class="form-popup-catalog__product">Наименование: <span class="form-popup-catalog__product-name">Алюминиевые плинтусы напольные 80 мм</span></div>
+					<input type="text" name="form_catalog" hidden class="form-popup-request__input" value="Алюминиевые плинтусы напольные 80 мм">
+					<input type="text" name="form_name" placeholder="Ваше имя" maxlength="50" class="form-popup-request__input">
+					<input type="text" name="form_phone" placeholder="Ваш номер телефона*" class="inputmask form-popup-request__input">
+										<textarea name="form_message" placeholder="Комментарий к заказу*" rows="3" maxlength="500" class="form-popup-request__textarea"></textarea>
+										<div class="feedback-garant__mess-error"></div>
+					<div class="feedback-garant form-popup-request__feedback-garant">
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_read_8" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_read_8">
+                                Я ознакомлен(а) с <a href="/kontakty/politika-konfidentsialnosti/" target="_blank" class="feedback-garant__link">Политикой в отношении обработки персональных данных</a>
+                            </label>
+                        </div>
+                        <div class="feedback-garant__box">
+                            <input type="checkbox" id="checkbox_policy_agree_8" class="feedback-garant__checkbox" required>
+                            <label class="feedback-garant__label" for="checkbox_policy_agree_8">
+                                Я согласен(а) <a href="/kontakty/soglasie/" target="_blank" class="feedback-garant__link">на обработку персональных данных</a>
+                            </label>
+                        </div>
+                        					</div>
+					<button type="submit" class="form-popup-request__btn btn-button" >Отправить</button>
+					<div class="feedback-send-message"></div>
+				</div>
+			</div>
+		</div>
+        <input hidden readonly name="id_form" value="catalog" />
+        <input hidden readonly name="name_form" value="popup_catalog" />
+	</form>
+</div>
+<!--googleon: all-->
+<!--/noindex-->
+
+
+	<!-- /form popup -->
+
+
+            <div class="banner-cookies" id="banner_cookies">
+            <div class="banner-cookies-text">
+                Продолжая использовать наш сайт, вы даете согласие на обработку файлов <a href="/cookies/">cookie</a>
+                и пользовательских данных в целях функционирования сайта, проведения ретаргетинга и проведения
+                статистических исследований и обзоров.
+                Если вы не хотите, чтобы ваши данные обрабатывались, покиньте сайт.
+            </div>
+            <div>
+                <a href="javascript:void(0);" class="cookies_agree_btn" id="cookies_agree_btn">Согласен</a>
+            </div>
+        </div>
+    
+	<div class="feedback-block" style="display:none">
+		<div>Напишите нам в мессенджер</div>
+		<div class="social-block">
+			<a href="https://wa.me/+79616946119" class="footer-social-icon" target="_blank">
+				<svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M0.429199 32.4177L1.59172 28.9302L2.99899 24.7084C2.1424 23.2399 0.490384 19.9971 0.490384 16.2036C0.429198 7.51524 7.52672 0.417725 16.2151 0.417725C24.9034 0.417725 32.0009 7.51524 32.0009 16.2036C32.0009 24.8919 24.9034 31.9894 16.2151 31.9894C12.6663 31.9894 9.66821 30.5822 8.32213 29.8479L3.85558 31.3164L0.429199 32.4177Z" fill="#DDDDDD"/>
+					<path class="bg-wa" d="M16.2115 2.24976C8.50215 2.24976 2.26123 8.49067 2.26123 16.2C2.26123 20.7278 4.95339 24.4601 4.95339 24.4601L3.2402 29.5385L8.50215 27.8253C8.50215 27.8253 11.9285 30.1503 16.1503 30.1503C23.8597 30.1503 30.1006 23.9094 30.1006 16.2C30.1618 8.49067 23.9209 2.24976 16.2115 2.24976Z" fill="#65BC54"/>
+					<path d="M9.91202 8.98537C9.91202 8.98537 10.3403 8.67944 10.5851 8.67944C10.8298 8.67944 11.87 8.67944 11.87 8.67944C11.87 8.67944 12.2371 8.74063 12.3594 9.10774C12.543 9.47485 13.6443 12.0446 13.7055 12.2894C13.7667 12.4729 14.0114 12.9624 13.6443 13.4519C13.2772 13.8802 12.6042 14.7368 12.6042 14.7368C12.6042 14.7368 12.2983 14.9815 12.543 15.4098C12.7877 15.8381 13.6443 17.1842 14.8069 18.1632C15.9694 19.2033 17.3155 19.9376 17.9885 20.1823C18.6615 20.4271 18.8451 20.1211 19.0898 19.754C19.3346 19.3869 20.1912 18.3467 20.1912 18.3467C20.1912 18.3467 20.4971 17.9184 21.0478 18.1632C21.5984 18.4079 24.3518 19.754 24.3518 19.754C24.3518 19.754 24.6577 19.8152 24.7189 20.1823C24.7189 20.5494 24.9636 21.6508 23.9847 22.6909C23.0057 23.7311 20.9254 24.2206 19.8853 23.9758C18.9063 23.6699 15.6023 22.8133 13.4608 20.8554C11.3193 18.8362 9.60609 16.7559 8.87187 15.2263C8.13764 13.6967 8.19883 12.7789 8.26001 12.3506C8.3212 11.7999 8.56594 9.84197 9.91202 8.98537Z" fill="#DDDDDD"/>
+					<path d="M21.8711 4.92368C19.3205 3.69205 16.4338 3.33977 13.6618 3.92184C10.8898 4.50391 8.38864 5.98756 6.54884 8.14111C4.70905 10.2947 3.63422 12.9969 3.49221 15.8257C3.35019 18.6546 4.14898 21.4508 5.76385 23.7778C5.76385 23.7778 5.49933 17.9961 9.89064 12.7982C14.282 7.60031 21.8711 4.92368 21.8711 4.92368Z" fill="white" fill-opacity="0.2"/>
+				</svg>
+			</a>
+			<a href="https://t.me/+79616946119" class="footer-social-icon ">
+				<svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M32.4878 16.4177C32.4878 25.2543 25.3243 32.4177 16.4878 32.4177C7.65124 32.4177 0.487793 25.2543 0.487793 16.4177C0.487793 7.58117 7.65124 0.417725 16.4878 0.417725C25.3243 0.417725 32.4878 7.58117 32.4878 16.4177Z" fill="#DDDDDD"/>
+					<path class="bg-tg" d="M30.6431 16.4192C30.6431 24.2362 24.3062 30.5731 16.4893 30.5731C8.67234 30.5731 2.33545 24.2362 2.33545 16.4192C2.33545 8.60227 8.67234 2.26538 16.4893 2.26538C24.3062 2.26538 30.6431 8.60227 30.6431 16.4192Z" fill="#2AA1DA"/>
+					<path d="M8.08954 16.3375C8.45497 16.4593 10.6042 17.145 11.6331 17.4726C14.312 15.7848 19.7017 12.3864 19.8291 12.2954C19.9884 12.1816 20.0566 12.1437 20.2235 12.1361C20.3904 12.1285 20.4359 12.2878 20.2994 12.4091C20.1901 12.5062 19.9403 12.7277 19.8291 12.8263L13.6623 18.4697C13.5688 19.5822 13.3817 21.8709 13.3817 22.1258C13.6426 22.1744 14.0416 21.8477 14.2084 21.6783L15.8033 20.1382C16.6709 20.7839 18.5795 22.2016 19.2736 22.7073C20.1412 23.3395 20.538 22.7073 20.6456 22.3038C20.7317 21.981 20.7846 21.694 20.8003 21.5909C21.4639 18.4658 22.8273 12.0636 22.9726 11.4556C23.1542 10.6957 23.1138 10.393 22.9054 10.124C22.6969 9.85499 22.4749 9.81463 22.1454 9.92224C21.8817 10.0083 20.9729 10.3572 20.5514 10.5208C16.561 12.0632 8.49135 15.1816 8.13625 15.3161C7.69237 15.4842 7.52423 15.6994 7.53096 15.8945C7.53768 16.0895 7.63275 16.1853 8.08954 16.3375Z" fill="#DDDDDD"/>
+					<path d="M22.0976 4.92368C19.547 3.69205 16.6603 3.33977 13.8883 3.92184C11.1164 4.50391 8.6152 5.98756 6.77541 8.14111C4.93561 10.2947 3.86078 12.9969 3.71877 15.8257C3.57675 18.6546 4.37555 21.4508 5.99041 23.7778C5.99041 23.7778 5.72589 17.9961 10.1172 12.7982C14.5085 7.60031 22.0976 4.92368 22.0976 4.92368Z" fill="white" fill-opacity="0.2"/>
+				</svg>
+			</a>
+			<a href="https://max.ru/u/f9LHodD0cOJ1tUeEkAFKKiY2QXdMgPUc1yG-Zwz0wHioVmgr0zNWxfsxl_c" class="footer-social-icon max-button" target="_blank"></a>
+		</div>
+		<div class="phone-callback-block">
+			<a href="tel:+74952560505" class="header-phone__link">Позвонить нам</a>
+			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>
+		</div>
+	</div>
+</body>
+</html>

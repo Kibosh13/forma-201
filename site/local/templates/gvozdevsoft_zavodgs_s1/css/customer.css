@@ -1,0 +1,137 @@
+/* customer css */
+.btn-link, .btn-button {
+background: #459ABA;
+}
+
+#header .header-inner {
+     background: #fff;
+ }
+
+#header .header-slider__shadow{
+background: rgba(255,255,255,0.6);
+}
+
+#header{
+color: #000;
+}
+
+#flvmenu > ul > li > a, #header .header-address, #header .header-phone__link, #header .header-phone__main-phone:before, #header .header-btn-callback__link{
+color: #000;
+}
+
+#header .header-btn-callback__link{
+border-bottom:1px dotted #000;
+}
+#header .menu-line-main-page{
+border-bottom:1px solid #000;
+}
+
+@media (max-width: 768px) {
+    .minmenu i{
+        color: #000;
+    }
+    .minmenu a.header-menu{
+        color: #000;
+    }
+}
+
+.form-slider-main__feedback-garant {
+    margin: 10px auto 30px auto;
+    width: auto;
+}
+.feedback-garant {
+    height: auto;
+}
+
+
+
+.banner-cookies {
+    position: fixed;
+    bottom: 30px;
+    width: 70%;
+    left: 15%;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.07);
+    z-index: 10000;
+}
+.cookies_agree_btn {
+    background: #459ABA;
+    color: #fff;
+    display: block;
+    width: 140px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto 0 auto;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.cookies_agree_btn:hover {
+    background: #6aaec8;
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width: 1280px) {
+    .banner-cookies {
+        width: 90%;
+        left: 5%;
+    }
+}
+
+.catalog-section-tile .catalog-section-tile__price-box {
+    display: flex;
+    justify-content: center;
+}
+
+.catalog-section-tile .order-block {
+    text-align: center;
+}
+
+
+.text-in-attr:before {
+    content: attr(data-textbefore);
+    display: block;
+}
+.text-in-attr:after {
+    content: attr(data-textafter);
+    display: block;
+}
+
+.catalog-filter-popup__title {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .ral-form {
+        grid-template-columns: repeat(4, 1fr);
+        .ral-text {
+            font-size: 12px;
+        }
+    }
+
+    .catalog-filter-popup__title {
+        display: block;
+    }
+}
+@media (min-width: 768px) {
+    .ral-form {
+        grid-template-columns: repeat(8, 1fr);
+        .ral-text {
+            font-size: 14px;
+        }
+        .color-ral {
+            padding: 30px 30px;
+        }
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .header-top {
+        .offset-xl-2 {
+             margin-left: 2%;
+        }
+    }
+    
+}
