@@ -1,0 +1,19 @@
+.menu-element-list-active2{
+    display: none;
+}
+.menu-section-active2.opened .menu-element-list-active2{
+    display: block;
+}
+
+#section_element_menu .menu-element-items.opened .menu-element-list{
+    display: block;
+}
+
+
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > a::before{
+    content: "\f105"
+}
+
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2.opened > a::before{
+    content: "\f107"
+}

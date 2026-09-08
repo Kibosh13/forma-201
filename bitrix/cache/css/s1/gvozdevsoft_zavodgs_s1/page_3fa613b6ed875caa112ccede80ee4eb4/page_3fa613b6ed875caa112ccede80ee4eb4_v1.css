@@ -1,0 +1,138 @@
+
+
+/* Start:/local/components/clickon/tags.cloud/templates/only_top/style.css?17797160741411*/
+.cloud-items__wrapper{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.cloud-items{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cloud-items .item{
+    /*background-color: #339999;*/
+    background-color: #71c3c3;
+    margin-bottom: 0.25rem;
+    /*padding: 15px;*/
+    padding: 5px;
+}
+.cloud-items .item a{
+    color: white;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+
+.cloud-items .item{
+    margin-right: 15px;
+}
+
+.cloud-items .item:last-child{margin-right: 0}
+
+.toggle-cloud-items{
+    text-decoration: underline;
+}
+/* .cloud-items.tm .item{
+    background-color: #a5aaaf;
+} */
+.section-page-tag {
+    background-color: #a5aaaf !important;
+}
+.cloud-items__wrapper-top {
+    margin-top: -20px !important;
+}
+.cloud-items {
+    gap: 2px;
+}
+@media (max-width: 1024px) {
+    .cloud-items__wrapper-top {
+        margin-bottom: 10px !important;
+        margin-top: -25px !important;
+        overflow: hidden;
+        .cloud-items .item {
+            text-wrap: nowrap;
+            padding: 8px;
+        }
+        .cloud-items {
+            flex-wrap: nowrap;
+            overflow: auto;
+        }
+    }
+} 
+
+
+
+@media (max-width: 768px) {
+    .item.tire-2 {
+        display: block !important;
+    }
+    .toggle-cloud-items {
+        display: none;
+    }
+}
+
+@media (min-width: 769px) {
+    .item.tire-2 {
+        display: none;
+    } 
+    .toggle-cloud-items {
+        display: block;
+    }
+}
+/* End */
+
+
+/* Start:/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.list/catalog_new/style.css?1763549168785*/
+.btn-link.btn-order{
+    padding: 10px 15px;
+    white-space: nowrap;
+}
+
+.order-block{
+    margin-top: 20px;
+}
+
+.price-in-one-line {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.name-product-attribute::after {
+    content: attr(data-text);
+    color: #999999;
+}
+
+.value-product-attribute::after {
+    content: attr(data-text);
+}
+
+.main-property-products {
+    margin: 5px 0 5px 0;
+    min-height: 60px;
+
+    .main-property-product {
+        margin-bottom: 5px;
+    }
+}
+
+.catalog-section-tile__price-now {
+    font-size: 18px;
+}
+
+.catalog-section-tile__item {
+    padding: 40px 10px !important;
+}
+
+.catalog-section-tile__price-rub {
+    font-size: 14px !important;
+    font-weight: 100 !important;
+}
+
+.catalog-section-tile__title {
+    min-height: 58px;
+}
+/* End */
+/* /local/components/clickon/tags.cloud/templates/only_top/style.css?17797160741411 */
+/* /local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.list/catalog_new/style.css?1763549168785 */

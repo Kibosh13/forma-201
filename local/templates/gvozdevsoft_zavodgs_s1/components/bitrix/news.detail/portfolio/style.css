@@ -1,0 +1,24 @@
+.client-text {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.buy-slider .slick-arrow {
+    position: absolute;
+    cursor: pointer;
+    font-size: 25px;
+    color: #25344c;
+    background-color: #fff;
+    padding: 3px 10px;
+    bottom: -50px;
+}
+
+.buy-slider .slick-prev {
+    right: 50px;
+    transform: rotate(180deg);
+    left: 0;
+}
+
+.buy-slider .slick-next {
+    right: 0px;
+}

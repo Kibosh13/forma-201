@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Every HTML page carries noindex, nofollow, noimageindex.

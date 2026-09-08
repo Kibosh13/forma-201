@@ -1,0 +1,4 @@
+.demo-banner{box-sizing:border-box;padding:9px 16px;background:#e9eef1;color:#37474f;text-align:center;font:14px/1.4 system-ui,sans-serif;position:relative;z-index:100}
+.demo-embed{box-sizing:border-box;display:flex;align-items:center;justify-content:center;min-height:160px;padding:24px;background:#f0f2f3;color:#5b6266;font:16px/1.5 system-ui,sans-serif;text-align:center}
+#demo-message{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);box-sizing:border-box;width:min(560px,calc(100% - 32px));padding:18px 22px;background:#263238;color:#fff;border-radius:8px;box-shadow:0 4px 20px #0003;font:16px/1.5 system-ui,sans-serif;z-index:2147483647}
+@media(max-width:600px){.demo-banner{font-size:12px;padding:8px 12px}.demo-embed{min-height:120px}}

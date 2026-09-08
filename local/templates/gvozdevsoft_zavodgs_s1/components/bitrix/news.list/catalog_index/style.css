@@ -1,0 +1,25 @@
+.btn-link.btn-order{
+    padding: 10px 15px;
+    white-space: nowrap;
+}
+
+.order-block{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button-order-catalog-index {
+    bottom: -15px;
+    position: absolute;
+    left: 25%;
+}
+
+.price-catalog-index {
+    bottom: 20px;
+    position: absolute;
+}
+
+.catalog-index-relative {
+    position: relative;
+    height: 147px;
+}

@@ -1,0 +1,31 @@
+.creators .creators-block{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.creators .creators-block .clickon-logo{
+    display: inline-flex;
+    align-items: center;
+}
+.creators .creators-block .clickon-logo span{
+    color: #a1b0c1;
+    margin-right: 5px;
+    transition: color 0.5s ;
+}
+.creators .creators-block .clickon-logo svg .path-symbol{
+    fill: #a1b0c1;
+    transition: fill 0.5s ;
+}
+.creators .creators-block .clickon-logo svg :not(.path-symbol){
+    fill: red;
+}
+
+.creators .creators-block .clickon-logo:hover span{
+    color: #ffffff;
+    transition: color 0.5s;
+}
+.creators .creators-block .clickon-logo:hover svg .path-symbol{
+    fill: #ffffff;
+    transition: fill 0.5s;
+}

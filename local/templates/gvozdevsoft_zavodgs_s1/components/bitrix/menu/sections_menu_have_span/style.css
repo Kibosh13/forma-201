@@ -1,0 +1,180 @@
+#section_element_menu {
+    position: relative;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+ul#vertical-multilevel-menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    border: 1px solid #ececec;
+    box-sizing: border-box;
+}
+#section_element_menu .vertical-multilevel-menu.active {
+    display: block !important;
+}
+ul#vertical-multilevel-menu li {
+	border-bottom: 1px solid #ececec;
+}
+ul#vertical-multilevel-menu li:last-child {
+	border-bottom: 0;
+}
+ul#vertical-multilevel-menu li a {
+    display: block;
+    padding: 17px 5px 17px 10px;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    font-size: 0.93em;
+}
+#section_element_menu ul li.menu-element-items {
+    border: 0;
+}
+#section_element_menu ul.menu-element-list-active2 a {
+    padding-left: 35px;
+}
+#section_element_menu ul.menu-element-list-active2 ul li a {
+    padding-left: 56px;
+}
+#section_element_menu ul.menu-element-list-active2 {
+    border: 0;
+    background: #fcfcfc;
+}
+#section_element_menu ul.menu-element-list-active2 li {
+    border: 0;
+    line-height: 1.1;
+}
+#section_element_menu ul.menu-element-list-active2 a.item-selected:hover {
+    color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > a {
+    color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > a {
+    color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section > a::before{
+    color: #000;
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px; 
+}
+#section_element_menu ul#vertical-multilevel-menu li.menu-element-items > a.parent::before{
+    color: #000;
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px; 
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > a::before {
+    color: #fff;
+    content: "\f107";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px; 
+}
+#section_element_menu ul#vertical-multilevel-menu li.menu-element-items-active2 > a.parent::before {
+    color: #fff;
+    content: "\f107";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px; 
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > a::before {
+    color: #fff;
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px; 
+}
+#section_element_menu .menu-element-list {
+    display:none;
+}
+#section_element_menu ul#vertical-multilevel-menu li a:hover {
+	color: #fff !important;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section > a:hover:before {
+	color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu .menu-element-items > a.parent:hover:before {
+	color: #fff;
+}
+#section_element_menu ul.menu-element-list-active2 a.item-selected:hover {
+    color: #fff;
+}
+/* color */
+#section_element_menu ul.menu-element-list-active2 li a.item-selected.parent {
+    background: #f1f1f1;
+    color: #000;
+}
+#section_element_menu ul#vertical-multilevel-menu li.menu-element-items-active2 > a.parent::before {
+    color: #000;
+}
+#section_element_menu ul#vertical-multilevel-menu li.menu-element-items-active2 > a.parent:hover:before {
+	color: #fff;
+}
+#section_element_menu ul.menu-element-list-active2 a.item-selected {color: #CD2122;}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > a {background: #CD2122;}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > a {background: #CD2122;}
+#section_element_menu ul#vertical-multilevel-menu li a:hover {background: #CD2122;}
+
+ul#vertical-multilevel-menu li span {
+    display: block;
+    padding: 17px 5px 17px 10px;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    font-size: 0.93em;
+    cursor: pointer;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > span{
+    color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > span{
+    background-color: var(--main-template-color) !important
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2 > span::before {
+    color: #fff;
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px;
+}
+
+ul#vertical-multilevel-menu li span{
+    display: block;
+    padding: 17px 5px 17px 10px;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    font-size: 0.93em;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > span{
+    background-color: var(--main-template-color) !important;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > span{
+    color: #fff;
+}
+#section_element_menu ul#vertical-multilevel-menu > li.menu-section-drive-active > span::before {
+    color: #fff;
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    padding-right: 10px;
+}
