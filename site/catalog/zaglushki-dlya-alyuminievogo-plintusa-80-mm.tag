@@ -6,7 +6,7 @@
     
 	<title>Заглушки для алюминиевого плинтуса 80 мм купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="Заглушки для алюминиевого плинтуса 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05" />
+<meta name="description" content="Заглушки для алюминиевого плинтуса 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
 <link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?172070002723463" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17113696952320" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171136964126598" type="text/css"  rel="stylesheet" />
@@ -48,7 +48,7 @@
 									
 	<!-- Open Graph -->
 	<meta property="og:title" content="Заглушки для алюминиевого плинтуса 80 мм купить по цене от производителя оптом и в розницу">
-	<meta property="og:description" content="Заглушки для алюминиевого плинтуса 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05">
+	<meta property="og:description" content="Заглушки для алюминиевого плинтуса 80 мм по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/zaglushki-dlya-alyuminievogo-plintusa-80-mm.tag">
     	<meta property="og:image" content="">
@@ -106,8 +106,8 @@
 								<div class="header-address">
 									<div class="header-address__icon"></div>
 									<div class="header-address__text">
-										Московская область<br>
-Раменский городской округ, <br>д. Чулково, Дорожная улица, 1
+										140015, Московская область<br>
+Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
 
 									</div>
 								</div>
@@ -123,9 +123,9 @@
 							<div class="col mr-auto">
 								<div class="header-phone">
 									<div class="header-phone__main-phone">
-										<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
-		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
 			<div class="header-phone__popup-item"><a href="mailto:dial@dial-td.ru" class="header-phone__popup-link-email">dial@dial-td.ru</a></div>
 		</div>
 									</div>
@@ -1157,9 +1157,9 @@
 		<div class="hdslide_contact">
 			<div class="hdslide_contact_nomer">
 				<div class="header-phone__main-phone header-fix-phone">
-					<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
-		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
 			<div class="header-phone__popup-item"><a href="mailto:dial@dial-td.ru" class="header-phone__popup-link-email">dial@dial-td.ru</a></div>
 		</div>
 				</div>
@@ -1836,7 +1836,7 @@
               "@context": "https://schema.org",
               "@type": "Product",
               "name": "Аксессуары и фурнитура для алюминиевого плинтуса",
-              "description": "Аксессуары и фурнитура для алюминиевого плинтуса от производителя ООО Диал: заглушки, углы внутренние и внешние, соединители - оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните +7 (495) 256-05-05",
+              "description": "Аксессуары и фурнитура для алюминиевого плинтуса от производителя ООО Диал: заглушки, углы внутренние и внешние, соединители - оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04",
               "offers": {
                 "@type": "AggregateOffer",
                 "priceCurrency": "RUR",
@@ -2034,9 +2034,9 @@
 								<div class="footer__item1">
 									<div class="footer__item2">
 										<div class="footer__phone">
-											<a href="tel:+74952560505" class="header-phone__link">+7 (495) 256-05-05</a>
+											<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
-		<div class="header-phone__popup-item"><a href="tel:+74952560505" class="header-phone__popup-link-phone">+7 (495) 256-05-05</a></div>
+		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
 	</div>
 										</div>
 									</div>
@@ -2055,8 +2055,8 @@
 										<div class="footer__mail">
 											<a href="mailto:dial@dial-td.ru">dial@dial-td.ru</a>										</div>
 										<div class="footer__address">
-											Московская область<br>
-Раменский городской округ, <br>д. Чулково, Дорожная улица, 1
+											140015, Московская область<br>
+Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
 
 										</div>
 									</div>
@@ -2401,7 +2401,7 @@
 			<a href="https://max.ru/u/f9LHodD0cOJ1tUeEkAFKKiY2QXdMgPUc1yG-Zwz0wHioVmgr0zNWxfsxl_c" class="footer-social-icon max-button" target="_blank"></a>
 		</div>
 		<div class="phone-callback-block">
-			<a href="tel:+74952560505" class="header-phone__link">Позвонить нам</a>
+			<a href="tel:+74956643004" class="header-phone__link">Позвонить нам</a>
 			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>
 		</div>
 	</div>
