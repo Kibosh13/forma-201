@@ -1,6 +1,6 @@
 /* customer css */
 .btn-link, .btn-button {
-background: #459ABA;
+background: #303438;
 }
 
 #header .header-inner {
@@ -56,7 +56,7 @@ border-bottom:1px solid #000;
     z-index: 10000;
 }
 .cookies_agree_btn {
-    background: #459ABA;
+    background: #303438;
     color: #fff;
     display: block;
     width: 140px;
@@ -67,7 +67,7 @@ border-bottom:1px solid #000;
     border-radius: 4px;
 }
 .cookies_agree_btn:hover {
-    background: #6aaec8;
+    background: #454b51;
     color: #fff;
     text-decoration: none;
 }

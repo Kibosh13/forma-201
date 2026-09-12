@@ -28,7 +28,7 @@
 }
 .tabs>ul>li.active, .tabs>ul>li.active:hover,
 .tabs>ul>li:hover {
-	background-color: #25344c;
+	background-color: #454b51;
 	color: #fff;
 }
 @media screen and (max-width: 767px) {

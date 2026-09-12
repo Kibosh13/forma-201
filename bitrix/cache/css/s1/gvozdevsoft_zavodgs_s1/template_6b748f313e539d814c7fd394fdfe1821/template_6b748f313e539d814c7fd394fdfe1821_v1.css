@@ -3298,8 +3298,8 @@ img.catalog-section-list__img-img {
 }
 .catalog-section__view-item:hover,
 .catalog-section__view-item.active {
-  border: 1px solid #25344c;
-  box-shadow: 0 0 1px #25344c;
+  border: 1px solid #454b51;
+  box-shadow: 0 0 1px #454b51;
 }
 
 .catalog-filter-popup__title {
@@ -3354,7 +3354,7 @@ img.catalog-section-list__img-img {
     min-height: 28px;
     padding: 3px 12px;
     border: 1px solid #dadada;
-    background: #003249;
+    background: #303438;
     color: #ffffff;
     font-size: 0.9em;
     cursor: pointer;
@@ -3621,7 +3621,7 @@ img.catalog-section-tile__img-img {
   color: #f7f7f7;
 }
 .catalog-section-tile__promo-sale {
-  background-color: #25344c;
+  background-color: #454b51;
   color: #f7f7f7;
 }
 .catalog-section-tile__text-box {
@@ -3746,7 +3746,7 @@ img.catalog-section-list__img-img {
   color: #f7f7f7;
 }
 .catalog-section-list__promo-sale {
-  background-color: #25344c;
+  background-color: #454b51;
   color: #f7f7f7;
 }
 .catalog-section-list__text-box {
@@ -3989,7 +3989,7 @@ img.catalog-detail__img-img {
 }
 .catalog-detail__promo-sale {
   display: block;
-  background-color: #25344c;
+  background-color: #454b51;
   color: #f7f7f7;
 }
 .catalog-detail__status-box {
@@ -4138,7 +4138,7 @@ img.catalog-detail__img-img {
   text-wrap: nowrap;
 }
 .catalog-detail__btn-link.btn-dark {
-  background: #003249;
+  background: #303438;
 }
 
 .catalog-detail .tabs > ul {
@@ -4185,7 +4185,7 @@ img.catalog-detail__img-img {
 }
 .catalog-detail__file-icon .fa {
   font-size: 2.2em;
-  color: #25344c;
+  color: #454b51;
 }
 .catalog-detail__file-format {
   display: inline;
@@ -5531,7 +5531,7 @@ div.menu-clear-left
     font-size: 1.2em;
     color: #ffffff;
     font-weight: 900;
-    background: #459aba;
+    background: #303438;
     display: block;
     padding: 7px;
     text-align: center;
@@ -5762,7 +5762,7 @@ div.menu-clear-left
 }
 .tabs>ul>li.active, .tabs>ul>li.active:hover,
 .tabs>ul>li:hover {
-	background-color: #25344c;
+	background-color: #454b51;
 	color: #fff;
 }
 @media screen and (max-width: 767px) {
@@ -9582,7 +9582,7 @@ a {color: var(--main-template-color);}
 /* Start:/local/templates/gvozdevsoft_zavodgs_s1/css/customer.css?17823998242364*/
 /* customer css */
 .btn-link, .btn-button {
-background: #459ABA;
+background: #303438;
 }
 
 #header .header-inner {
@@ -9638,7 +9638,7 @@ border-bottom:1px solid #000;
     z-index: 10000;
 }
 .cookies_agree_btn {
-    background: #459ABA;
+    background: #303438;
     color: #fff;
     display: block;
     width: 140px;
@@ -9649,7 +9649,7 @@ border-bottom:1px solid #000;
     border-radius: 4px;
 }
 .cookies_agree_btn:hover {
-    background: #6aaec8;
+    background: #454b51;
     color: #fff;
     text-decoration: none;
 }
@@ -9918,7 +9918,7 @@ div.title-search-fader {
 				font-size: 14px;
 				font-weight: 700;
 				line-height: 120%;
-				background: #003249;
+				background: #303438;
 				border-radius: 6px;
 				height: 28px;
 			}
@@ -10192,6 +10192,107 @@ ul.left-menu li a.selected:hover
 #section_element_menu ul#vertical-multilevel-menu > li.menu-section-active2.opened > a::before{
     content: "\f107"
 }
+
+/* Silver, metallic gray, white and graphite. Keep this block last in the template. */
+:root:root {
+    --color-white: #ffffff;
+    --color-silver: #d5d7d9;
+    --color-silver-light: #f2f3f4;
+    --color-metal: #62686e;
+    --color-graphite: #303438;
+    --color-graphite-hover: #454b51;
+    /* Higher specificity overrides the archived inline :root theme setting. */
+    --main-template-color: var(--color-graphite);
+}
+
+body {
+    background-color: var(--color-white);
+    color: var(--color-graphite);
+    accent-color: var(--color-graphite);
+}
+
+.btn-link, .btn-button, .cookies_agree_btn {
+    background-color: var(--color-graphite);
+    background-image: linear-gradient(120deg, #454b51, #303438 65%, #393e43);
+    color: var(--color-white);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .14);
+}
+.btn-link:hover, .btn-button:hover, .cookies_agree_btn:hover {
+    background-color: var(--color-graphite-hover);
+    background-image: linear-gradient(120deg, #555c63, #3d4349);
+    color: var(--color-white);
+    opacity: 1;
+}
+a:focus-visible, button:focus-visible, input:focus-visible,
+textarea:focus-visible, select:focus-visible {
+    outline: 2px solid var(--color-metal);
+    outline-offset: 3px;
+}
+
+#header, #header .header-address, #header .header-phone__link,
+#header .header-phone__main-phone:before, #header .header-btn-callback__link,
+#flvmenu > ul > li > a, .minmenu i, .minmenu a.header-menu {
+    color: var(--color-graphite);
+}
+#header .header-btn-callback__link {
+    border-bottom-color: var(--color-metal);
+}
+#header .menu-line-main-page {
+    border-bottom-color: #a5a9ad;
+}
+#header .header-slider__shadow {
+    background: linear-gradient(110deg, rgba(245, 246, 247, .87), rgba(213, 215, 217, .65));
+}
+#header .header-inner {
+    background: linear-gradient(110deg, #ffffff 30%, #f2f3f4);
+}
+#header img, .minmenu img {
+    filter: grayscale(1);
+}
+
+.catalog-section-tile__status-nal, .catalog-section-list__status-nal,
+.catalog-section-price__status-nal, .catalog-detail__status-nal,
+.catalog-detail__price-level--large, .catalog-detail__price-level--large .catalog-detail__price-level-value {
+    color: var(--color-metal);
+}
+.catalog-section__filter-button, .catalog-detail__btn-link.btn-dark {
+    background-color: var(--color-graphite);
+}
+.catalog-section__view-item:hover, .catalog-section__view-item.active {
+    border-color: var(--color-metal);
+    box-shadow: 0 0 1px var(--color-metal);
+}
+
+#footer .footer__top {
+    background: linear-gradient(115deg, #3c4146, #292d31 70%);
+}
+#footer .footer__bottom {
+    background: #232629;
+}
+#footer .footer__logo img {
+    filter: brightness(0) invert(1);
+}
+#footer a, #footer .clickon-logo span,
+#footer .footer__mail a, #footer .footer__menu a,
+#footer .footer__copyright, #footer .footer__copyright a,
+#footer .footer__social a {
+    color: var(--color-silver);
+}
+#footer .footer__menu a:hover, #footer .footer__mail a:hover,
+#footer .footer__copyright a:hover, #footer .footer__social a:hover {
+    color: var(--color-white);
+}
+#footer .footer__hr, #footer .footer__menu-title:after {
+    background: var(--color-metal);
+}
+#footer .btn-link {
+    background: linear-gradient(120deg, #e5e7e9, #c1c5c9);
+    color: var(--color-graphite) !important;
+}
+#footer .btn-link:hover {
+    background: var(--color-white);
+}
+
 /* End */
 /* /local/templates/gvozdevsoft_zavodgs_s1/css/reset.css?17114274981311 */
 /* /local/templates/gvozdevsoft_zavodgs_s1/css/bootstrap-grid.min.css?171142749834243 */
