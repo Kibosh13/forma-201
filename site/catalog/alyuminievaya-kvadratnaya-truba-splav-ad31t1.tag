@@ -6,7 +6,7 @@
     
 	<title>Алюминиевая квадратная труба сплав АД31Т1 купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="Алюминиевая квадратная труба сплав АД31Т1 по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
+<meta name="description" content="Алюминиевая квадратная труба сплав АД31Т1 по цене от производителя ИП Притуленко С. Д. оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
 <link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?172070002723463" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17113696952320" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171136964126598" type="text/css"  rel="stylesheet" />
@@ -48,7 +48,7 @@
 									
 	<!-- Open Graph -->
 	<meta property="og:title" content="Алюминиевая квадратная труба сплав АД31Т1 купить по цене от производителя оптом и в розницу">
-	<meta property="og:description" content="Алюминиевая квадратная труба сплав АД31Т1 по цене от производителя ООО Диал оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
+	<meta property="og:description" content="Алюминиевая квадратная труба сплав АД31Т1 по цене от производителя ИП Притуленко С. Д. оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-kvadratnaya-truba-splav-ad31t1.tag">
     	<meta property="og:image" content="">
@@ -1940,7 +1940,7 @@
               "@context": "https://schema.org",
               "@type": "Product",
               "name": "Алюминиевая квадратная труба",
-              "description": "Алюминиевая квадратная труба от производителя ООО Диал. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04",
+              "description": "Алюминиевая квадратная труба от производителя ИП Притуленко С. Д.. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04",
               "offers": {
                 "@type": "AggregateOffer",
                 "priceCurrency": "RUR",
