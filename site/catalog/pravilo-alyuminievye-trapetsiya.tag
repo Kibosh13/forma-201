@@ -293,7 +293,7 @@
 	
 		
 			                                    <li>
-                        <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Напольные плинтусы</a>
+                        <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Алюминиевые напольные плинтусы, микроплинтусы</a>
                     </li>
                 
 			
@@ -307,7 +307,7 @@
 	
 		
 			                                    <li>
-                        <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Потолочные плинтусы</a>
+                        <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для алюминиевого плинтуса</a>
                     </li>
                 
 			
@@ -318,6 +318,42 @@
     
 	
 	
+	
+		
+			                                    <li>
+                        <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Алюминиевые потолочные плинтусы скрытого монтажа</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		
+			                                    <li>
+                        <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной алюминиевый профиль для стекла</a>
+                    </li>
+                
+			
+		
+	
+	
+
+    
+	
+	
+	
+		                            <li>
+                        <a href="/catalog/alyuminievye-perila/" itemprop="url">Алюминиевые перила и поручни</a>
+                    </li>	
+	
+		                            <li>
+                        <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для алюминиевых перил и поручней</a>
+                    </li>	
 	
 		
 			                                    <li>
@@ -334,20 +370,7 @@
 	
 	
 		
-			                                    <li>
-                        <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной профиль для стекла</a>
-                    </li>
-                
-			
-		
-	
-	
-
-    
-	
-	
-	
-		                            <li >
+			                                    <li >
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
                     <ul>
             		
@@ -384,9 +407,19 @@
 
     
 	
-			</ul></li>	
+			</ul></li>
+                
+			
+		
 	
-		                            <li >
+	
+
+    
+	
+	
+	
+		
+			                                    <li >
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
                     <ul>
             		
@@ -549,26 +582,7 @@
 
     
 	
-			</ul></li>	
-	
-		
-			                                    <li>
-                        <a href="/catalog/alyuminievye-perila/" itemprop="url">Перила и поручни</a>
-                    </li>
-                
-			
-		
-	
-	
-
-    
-	
-	
-	
-		
-			                                    <li>
-                        <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для перил</a>
-                    </li>
+			</ul></li>
                 
 			
 		
@@ -596,20 +610,6 @@
 		
 			                                    <li>
                         <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
-                    </li>
-                
-			
-		
-	
-	
-
-    
-	
-	
-	
-		
-			                                    <li>
-                        <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для плинтуса</a>
                     </li>
                 
 			
@@ -849,7 +849,7 @@
 	
 	
 		
-							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы</a></li>
+							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
 			
 		
 	
@@ -858,7 +858,7 @@
 	
 	
 		
-							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы</a></li>
+							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
 			
 		
 	
@@ -867,7 +867,7 @@
 	
 	
 		
-							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
+							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
 			
 		
 	
@@ -884,7 +884,21 @@
 
 	
 	
-					<li>
+					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>	
+	
+					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>	
+	
+		
+							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li>
                 <div>
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
                     <i class="fa fa-angle-right"></i>
@@ -912,9 +926,16 @@
 	
 	
 
-			</ul></li>	
+			</ul></li>
+			
+		
 	
-					<li>
+	
+
+	
+	
+		
+							<li>
                 <div>
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
                     <i class="fa fa-angle-right"></i>
@@ -1023,19 +1044,7 @@
 	
 	
 
-			</ul></li>	
-	
-		
-							<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-							<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил</a></li>
+			</ul></li>
 			
 		
 	
@@ -1054,15 +1063,6 @@
 	
 		
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
 			
 		
 	
@@ -2351,17 +2351,17 @@
 								<nav class="footer__menu-nav">
 									<ul>
 
-			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевый плинтус</a></li>
+			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
 		
-			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Потолочные плинтусы</a></li>
+			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
+		
+			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
+		
+			<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
 		
 			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
 		
-			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной профиль для цельностеклянных конструкций</a></li>
-		
 			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
-		
-			<li><a href="/catalog/alyuminievye-perila/">Перила</a></li>
 		
 			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
 		
