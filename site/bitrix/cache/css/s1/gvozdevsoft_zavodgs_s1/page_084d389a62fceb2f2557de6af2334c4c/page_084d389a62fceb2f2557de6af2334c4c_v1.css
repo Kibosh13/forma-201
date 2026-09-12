@@ -986,10 +986,10 @@
 	justify-content: center
 }
 .checkbox-label:has(input:checked) {
-	background-color: #459ABA;;
+	background-color: #303438;;
 	color: white;
 	opacity: 0.45;
-	border-color: #459ABA;;
+	border-color: #303438;;
 }
 
 .bx_filter {
@@ -1119,7 +1119,7 @@
     flex-wrap: wrap;
 }
 .cloud-items .item{
-    /*background-color: #339999;*/
+    /*background-color: #303438;*/
     background-color: #71c3c3;
     margin-bottom: 0.25rem;
     /*padding: 15px;*/

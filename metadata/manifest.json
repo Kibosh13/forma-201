@@ -253,7 +253,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "cfadc5f54070533a8e707d7de219b2a5f7d20afd63cfc5f6f15867f4937ab9cf"
+      "local_sha256": "2bd1de13209e4a8598fecadc358a86098359234a008d1e1b365094a52c6082b4",
+      "local_bytes": 40663
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_0e63a1d20a0bb9cd6a8f07db447ac01b/page_0e63a1d20a0bb9cd6a8f07db447ac01b_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_0e63a1d20a0bb9cd6a8f07db447ac01b/page_0e63a1d20a0bb9cd6a8f07db447ac01b_v1.css",
@@ -267,7 +268,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "e45f4270e17b1d3a7681116508f99fbff0c12bbcc06bbf2457caf8df5ec4852a"
+      "local_sha256": "1ccbbe4e883f8439001f2d4d6a680fe6d103639cd73fd51d4e2e3eb41894bead",
+      "local_bytes": 3874
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_1e0b939db427830495d7151aa3265a8f/page_1e0b939db427830495d7151aa3265a8f_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_1e0b939db427830495d7151aa3265a8f/page_1e0b939db427830495d7151aa3265a8f_v1.css",
@@ -295,7 +297,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "7dd424c9daf1c9778514d81b91ac2887367fbc07fd30f46d9886184ce5c0fb5b"
+      "local_sha256": "c3acb0ff4b711b21cf632603c73b5ed65ea71bd62a18636697b3034906c0695c",
+      "local_bytes": 14753
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3633116c41f9d8c17345382ff6cd1cfd/page_3633116c41f9d8c17345382ff6cd1cfd_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3633116c41f9d8c17345382ff6cd1cfd/page_3633116c41f9d8c17345382ff6cd1cfd_v1.css",
@@ -324,7 +327,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "5f8b9ce977aeb394474d873e4627d0f9ea5717b5ab33ee44c6416cceb0474f3b"
+      "local_sha256": "b990d5c8f34c880b7156e3411802c8dbd8237028826f936f2e1d8b978af62dde",
+      "local_bytes": 22373
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3dbe1aa4cb435ecbe6c218a6e7c3f663/page_3dbe1aa4cb435ecbe6c218a6e7c3f663_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3dbe1aa4cb435ecbe6c218a6e7c3f663/page_3dbe1aa4cb435ecbe6c218a6e7c3f663_v1.css",
@@ -338,7 +342,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "0787eb38ae76a4ac89c7a5f6b325cccdf32a3f07a93527067f3325b6eca25072"
+      "local_sha256": "a04d6e647240fec692b8cdce301c5f94ccff0148fe68f7f7e6c354657d6deda1",
+      "local_bytes": 14912
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3fa613b6ed875caa112ccede80ee4eb4/page_3fa613b6ed875caa112ccede80ee4eb4_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_3fa613b6ed875caa112ccede80ee4eb4/page_3fa613b6ed875caa112ccede80ee4eb4_v1.css",
@@ -352,7 +357,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "fe7b71aa3ce16ee485c31c049a0f962c3a602ad790a144e25a21890ad29ecda1"
+      "local_sha256": "f386651c4055c747600637b8d80201714f31c34ab0fa01fc211206b8a35fcee8",
+      "local_bytes": 2626
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_830394c7e9315b8ce803936003914565/page_830394c7e9315b8ce803936003914565_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_830394c7e9315b8ce803936003914565/page_830394c7e9315b8ce803936003914565_v1.css",
@@ -409,7 +415,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "0854745b72e5d617de447d348534003b60b49dd05f65e28611a38458873485d3"
+      "local_sha256": "0a2012c56b8992916a7c6b4a1d8e654004be22c2fb89eb69fa604ee10fcf2c7e",
+      "local_bytes": 23511
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css",
@@ -424,7 +431,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "224cca0b7e034cacbbb46ea1a15bb56b1d2b7a5609577bfe3320a9aa994d479f"
+      "local_sha256": "31fa547c1305d05e7c03e960d34aacebad4f3d7dfdcf85d57497c06468ccd90b",
+      "local_bytes": 298764
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_7436e12536082c57803c88fabacb48e0/template_7436e12536082c57803c88fabacb48e0_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_7436e12536082c57803c88fabacb48e0/template_7436e12536082c57803c88fabacb48e0_v1.css",
@@ -439,7 +447,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "0e69ed7d69940cd2684f34550c5ad565abae267ea5f63d8460a086a4b0c031e0"
+      "local_sha256": "73a3e86574a119c1ef87cd8e6d8a5ebb63b7217005282229dfa4730f84fcdaa9",
+      "local_bytes": 304323
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_bbb7881656d1d2a510bec0b0b391abfd/template_bbb7881656d1d2a510bec0b0b391abfd_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_bbb7881656d1d2a510bec0b0b391abfd/template_bbb7881656d1d2a510bec0b0b391abfd_v1.css",
@@ -454,7 +463,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "21d82782c73278646e5034e6747890485a6063effd92e48c129913a0b99b66a8"
+      "local_sha256": "21b83b03c0c27f0d3179e3b11115e160f4bfe4b0a55afafff4979fbe81f32689",
+      "local_bytes": 296314
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_d67e6311eaac4baa29121bcbb144c11c/template_d67e6311eaac4baa29121bcbb144c11c_v1.css": {
       "url": "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_d67e6311eaac4baa29121bcbb144c11c/template_d67e6311eaac4baa29121bcbb144c11c_v1.css",
@@ -468,7 +478,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "002417c4d6d6c06168c746ba819421b55dedea850422a5d9701ef5027f403b9b"
+      "local_sha256": "7357b59505a5e9eabbe8bf8d8e572e1d23374ecbb03c3108c597dcb36d3bf411",
+      "local_bytes": 301577
     },
     "https://dial-td.ru/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/kernel_main/kernel_main_v1.js": {
       "url": "https://dial-td.ru/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/kernel_main/kernel_main_v1.js",
@@ -15243,7 +15254,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "84d60a7abf78aade93ec86d58144e59ce1c0c64f3e72df121b2fff1a9f055adc"
+      "local_sha256": "07be5dcbbae91def1b81e96ee89946cf657dcab9185ae07b03e80290b4c15625",
+      "local_bytes": 1411
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/catalog.smart.filter/filter_catalog_top/images/handle_left.png": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/catalog.smart.filter/filter_catalog_top/images/handle_left.png",
@@ -15315,7 +15327,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "f8259323fe87aaf39ec78e68bcfcfba7e630173fe7307acab4eb3c1c5c4783b3"
+      "local_sha256": "7c46e9bf2ff558a41c2543d8470a3d902fe5663c6b6b9d34d831221c4d8aab91",
+      "local_bytes": 35702
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/catalog.smart.filter/filter_catalog_top/themes/blue/colors.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/catalog.smart.filter/filter_catalog_top/themes/blue/colors.css",
@@ -15360,7 +15373,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "3cc13924e0ce4e076065956e30f377f84844c56b9f3c39742847c128ae15a741"
+      "local_sha256": "1eb52041a31d437a0b0f8a4079eaff87279ecc3dfe7216a3ea28264ce4a12f24",
+      "local_bytes": 3606
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/main.map/sitemap/style.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/main.map/sitemap/style.css",
@@ -15523,7 +15537,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "970fafd77ed0a7599745d092e503ddb351fa4142f01c2925e6d76f4b6142388a"
+      "local_sha256": "3f253a8d95039a061de86f841ba42f1c12b97670bcf1eee9f63181e4c22f138b",
+      "local_bytes": 4123
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/new_blog/style.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/new_blog/style.css",
@@ -15552,7 +15567,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "7b0d22d84770dfed54d7ea6bf9f52e5f827dc50914ffbfbe2198c173419b772b"
+      "local_sha256": "2d1fba3c033d694ce2775a473bc0bd4ae78c0628803d8fc9b5602a70aaccebb0",
+      "local_bytes": 383
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/review/script.js": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/review/script.js",
@@ -15580,7 +15596,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "075b22ced6c102a5e2404007844af610cbc666b8b2ef77a970524bbd3eccfcc8"
+      "local_sha256": "2d21b262bbda01273a4f7655fa537df3f012d678fda945618736e9dcbd434e1f",
+      "local_bytes": 548
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/sotrudniki/style.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/news.detail/sotrudniki/style.css",
@@ -15711,7 +15728,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "c9e35b54da199549b5e35a0fc6b31ed0b01660eca4662e0e05703b3434b88073"
+      "local_sha256": "12587bf45c6ab47c8b595e91559e5cef5c92827ac0f166f648c73bbaaf301646",
+      "local_bytes": 894
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/search.title/search_mob/script.js": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/search.title/search_mob/script.js",
@@ -15741,7 +15759,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "fa53aacb32beeb9164bdef353fc15c1ad6f391e8800c073ff855a6958e7d8951"
+      "local_sha256": "3781bf55caf07be8b1ac5adde003554f39033cc67d3a23e1099d5959d39f3b9d",
+      "local_bytes": 2955
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/adaptive.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/adaptive.css",
@@ -15801,7 +15820,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "0c7b55c73b56dabc6aa50614059b68103d61ed03676afdd931f9ab8cfd8ed4b4"
+      "local_sha256": "458a498d8698535cc2697db4f6fce7c1c9f2513514072e0fabeddefedb5765bc",
+      "local_bytes": 24373
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/content.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/content.css",
@@ -15831,7 +15851,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "0a4d7e6666c32563d5d9f7dbebc25127555d9e864a45744a05f3ebf1189e4145"
+      "local_sha256": "a045ad8a7e46b5c2f09113ed87a99b77e3c84cfe7441088cd5825e592283f5bf",
+      "local_bytes": 2364
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/feedback.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/css/feedback.css",
@@ -16406,7 +16427,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "281ab6c0bb1d190d63dc2df10247cfc5c3333a87d49b8cfa3376bfddcf2eabbf"
+      "local_sha256": "ee9ed5b48f853d5b952ead1885b09d112326ae168476af6869bd16fbd18b80ca",
+      "local_bytes": 7465
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/lib/flmenu/flmenu.js": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/lib/flmenu/flmenu.js",
@@ -16601,7 +16623,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "cab08113862c1536b90c455d7c3db5c6d8903fe095c6169d524f9861f0db53df"
+      "local_sha256": "0035bbbbf8e046370f72685fa15ad8000a3b7d9a9ee26981aaa86bd8ad570ce6",
+      "local_bytes": 653
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/lib/tabs/tabs.js": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/lib/tabs/tabs.js",
@@ -16691,7 +16714,8 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "b8f66e29a28bef45793c508157b9b5fb1996a546cf4d1a13b0acf4d04343e55a"
+      "local_sha256": "7cd32d25f67d8408bfbf6da5b62b8bf1e59fad5e4dded4eb9a90faa34b4bbe6e",
+      "local_bytes": 3748
     },
     "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/themes/color_custom.css": {
       "url": "https://dial-td.ru/local/templates/gvozdevsoft_zavodgs_s1/themes/color_custom.css",
@@ -46607,5 +46631,15 @@
     "completed_at_utc": "2026-09-11T05:25:16.627534+00:00",
     "originals": 462,
     "thumbnails": 795
+  },
+  "local_theme": {
+    "name": "Silver and graphite",
+    "palette": {
+      "white": "#FFFFFF",
+      "silver": "#D5D7D9",
+      "metallic_gray": "#62686E",
+      "graphite": "#303438"
+    },
+    "shared_overrides": "site/local/templates/gvozdevsoft_zavodgs_s1/template_styles.css"
   }
 }
