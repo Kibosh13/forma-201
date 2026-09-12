@@ -3250,8 +3250,8 @@
   {
     "url": "https://dial-td.ru/upload/iblock/845/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
     "path": "site/upload/iblock/845/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
-    "bytes": 39831,
-    "sha256": "e3ea71b1e4ff3475bcd9de3b183ad631426469b252e39c34087ad4625aa9f7b8",
+    "bytes": 80282,
+    "sha256": "b0a1176a1326a72b0376ca327b8763c0291e70567134ab5293a977e6e0786751",
     "is_resized": false,
     "original_path": null
   },
@@ -12822,16 +12822,16 @@
   {
     "url": "https://dial-td.ru/upload/resize_cache/iblock/845/250_250_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
     "path": "site/upload/resize_cache/iblock/845/250_250_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
-    "bytes": 11398,
-    "sha256": "5d74a28f8f1ab21ac83de6f8e5a7a1fba0409567f89368646879fea6060230e8",
+    "bytes": 7639,
+    "sha256": "54fe86fc2340d812bbcd88927a9433104604fc9b49defe8a518c54316155d64c",
     "is_resized": true,
     "original_path": "site/upload/iblock/845/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg"
   },
   {
     "url": "https://dial-td.ru/upload/resize_cache/iblock/845/617_470_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
     "path": "site/upload/resize_cache/iblock/845/617_470_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg",
-    "bytes": 32366,
-    "sha256": "2de7d249c4d4e4dbd75dd85d9ef64cd721636fe60320835dc1249f5aaae1bd75",
+    "bytes": 27128,
+    "sha256": "581537fd8a25173a9cf51a2ec0c10b508f7ffca1cf8cf6bd746e6f095bbaa8ce",
     "is_resized": true,
     "original_path": "site/upload/iblock/845/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg"
   },
