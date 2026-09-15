@@ -16299,8 +16299,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "6a17609ba50ba4f371fa505eb86eaac72c97e38809e727dfc248cbd6760585b8",
-      "local_bytes": 63600
+      "local_sha256": "da824713e13c2338bf811b4bc49a445f9722f177f0e216ab66b325db37a72a37",
+      "local_bytes": 64388
     },
     "https://dial-td.ru/favicon-16x16.png": {
       "url": "https://dial-td.ru/favicon-16x16.png",
@@ -24835,8 +24835,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "e481fce16182999a760a31103c554b5faa17c63a4308208dd3c432f8dd81a9fd",
-      "local_bytes": 788573,
+      "local_sha256": "d0dcb07badd00e193ef5ddabd96b13d68c2c28286dbb144e8067aeaccb85167a",
+      "local_bytes": 2453477,
       "watermark_cleaned": true
     },
     "https://dial-td.ru/upload/iblock/b8a/j6dg3439d0d4q1invtj7lfj7aj7xc6il.jpg": {
@@ -40281,8 +40281,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "b375cf1bd2971b3b0dbd83c4ab3ddeb9aa4b69da1a6bc5d725f5dd7adb813771",
-      "local_bytes": 10899,
+      "local_sha256": "247b8971d440237e0f455961141140344c4b186148d964efbb2fa12ba2c5304d",
+      "local_bytes": 31286,
       "watermark_cleaned": true
     },
     "https://dial-td.ru/upload/resize_cache/iblock/b89/617_470_1/mw96yid59a71b44qkgrqtnnw2qpgovhb.jpg": {
@@ -40297,8 +40297,8 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "b6ad45646cefe473162efb1a23affa2a7cefe946a7406dc9dcf2bbe39f66f0ab",
-      "local_bytes": 43807,
+      "local_sha256": "b3d46d85442591626c3da9629596a53d980999c5dfb53919f1f6c236ff7e1d86",
+      "local_bytes": 141120,
       "watermark_cleaned": true
     },
     "https://dial-td.ru/upload/resize_cache/iblock/b8a/640_640_1/j6dg3439d0d4q1invtj7lfj7aj7xc6il.jpg": {
