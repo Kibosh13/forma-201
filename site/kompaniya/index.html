@@ -1275,6 +1275,122 @@
 <p>
 	 Вся продукция легко поддается механической обработке, такой как шлифовка, сверление и фрезерование, а также сваривается различными видами сварки.
 </p>
+
+<style>
+.about-benefits {
+	max-width: 820px;
+	margin: 42px 0 10px;
+}
+.about-benefits__item {
+	display: flex;
+	align-items: flex-start;
+	gap: 28px;
+	padding: 20px 0;
+}
+.about-benefits__icon {
+	position: relative;
+	flex: 0 0 58px;
+	width: 58px;
+	height: 58px;
+	border: 2px solid #3aa3a3;
+	border-radius: 6px;
+	box-sizing: border-box;
+}
+.about-benefits__icon::after {
+	content: "";
+	position: absolute;
+	left: 15px;
+	top: 10px;
+	width: 18px;
+	height: 30px;
+	border-right: 8px solid #3aa3a3;
+	border-bottom: 8px solid #3aa3a3;
+	transform: rotate(45deg);
+	box-sizing: border-box;
+}
+.about-benefits__title {
+	margin: -2px 0 5px;
+	font-size: 24px;
+	line-height: 1.25;
+	font-weight: 700;
+	color: #333;
+}
+.about-benefits__description {
+	font-size: 18px;
+	line-height: 1.45;
+	color: #777;
+}
+@media (max-width: 767px) {
+	.about-benefits {
+		margin-top: 30px;
+	}
+	.about-benefits__item {
+		gap: 17px;
+		padding: 18px 0;
+	}
+	.about-benefits__icon {
+		flex-basis: 52px;
+		width: 52px;
+		height: 52px;
+	}
+	.about-benefits__icon::after {
+		left: 13px;
+		top: 9px;
+		width: 17px;
+		height: 27px;
+		border-width: 0 7px 7px 0;
+	}
+	.about-benefits__title {
+		font-size: 20px;
+	}
+	.about-benefits__description {
+		font-size: 16px;
+	}
+}
+</style>
+
+<div class="about-benefits" aria-label="Преимущества компании">
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div><div class="about-benefits__title">Собственный инженерный отдел</div></div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div><div class="about-benefits__title">Опыт работы более 10 лет</div></div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div><div class="about-benefits__title">Цены завода-изготовителя</div></div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div>
+			<div class="about-benefits__title">Качественные материалы</div>
+			<div class="about-benefits__description">Используем только качественные материалы от лучших брендов</div>
+		</div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div>
+			<div class="about-benefits__title">Даём гарантию</div>
+			<div class="about-benefits__description">Предоставляем полную гарантию на всю продукцию</div>
+		</div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div>
+			<div class="about-benefits__title">Любые объёмы поставок</div>
+			<div class="about-benefits__description">Большие объёмы за короткое время</div>
+		</div>
+	</div>
+	<div class="about-benefits__item">
+		<span class="about-benefits__icon" aria-hidden="true"></span>
+		<div>
+			<div class="about-benefits__title">Широкий ассортимент</div>
+			<div class="about-benefits__description">Профили и комплектующие для различных задач</div>
+		</div>
+	</div>
+</div>
 </div>
 											</div>
 				</div>
