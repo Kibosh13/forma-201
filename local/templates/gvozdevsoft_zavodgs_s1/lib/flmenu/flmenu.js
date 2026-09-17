@@ -7,9 +7,9 @@ jQuery(document).ready(function() {
 	jQuery("#flvmenu > ul").append(lastli);
 	
 	if(document.location.pathname == '/forma-201/'){
-		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><div class='logo'><img src='/forma-201/local/templates/gvozdevsoft_zavodgs_s1/images/logo_for_menu.png' class='logo-menu'></div><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
+		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><div class='logo'><img src='/forma-201/upload/main/16a/64wrireoocf77w5r5e36i88mmgt5strp.svg' class='logo-menu'></div><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
 	}else{
-		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><a href='/forma-201/' class='logo'><img src='/forma-201/local/templates/gvozdevsoft_zavodgs_s1/images/logo_for_menu.png' class='logo-menu'/></a><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
+		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><a href='/forma-201/' class='logo'><img src='/forma-201/upload/main/16a/64wrireoocf77w5r5e36i88mmgt5strp.svg' class='logo-menu'/></a><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
 	}
 	jQuery("#flvmenu > ul li ul").before("<a class='flarr'></a>");
 	//scrwdth=scrlbarWidth();

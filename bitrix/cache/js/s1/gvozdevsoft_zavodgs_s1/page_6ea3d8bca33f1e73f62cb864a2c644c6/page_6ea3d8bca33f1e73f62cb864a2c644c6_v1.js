@@ -89,7 +89,7 @@ class Product {
     name = '';
     price = 0;
     quantity = 0;
-    brand = 'dial';
+    brand = 'ИП Притуленко С. Д.';
 }
 
 const product = new Product();
