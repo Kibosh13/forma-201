@@ -54,4 +54,4 @@ Allow: /bitrix/cache/
 Allow: /bitrix/js/
 Allow: /bitrix/templates/
 Allow: /bitrix/panel/
-Sitemap: https://dial-td.ru/sitemap.xml
+Sitemap: https://kibosh13.github.io/forma-201/sitemap.xml

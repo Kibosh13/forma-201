@@ -225,7 +225,7 @@ $(document).ready(function(){
 });
 
 function fetchPromo(){
-	BX.ajax.runAction('dial:utils.promotionsidebarcontroller.fetchPromotionSidebar').then(function (response){
+	BX.ajax.runAction('site:utils.promotionsidebarcontroller.fetchPromotionSidebar').then(function (response){
 		$owlSlide = $(response.data.html).children();
 		$actionSidebarAjax.trigger("remove.owl.carousel", [1]);
 		if( $owlSlide[0].classList.value === 'sidebar-action owl-carousel')
