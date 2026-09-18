@@ -636,7 +636,7 @@ $(document).ready(function(){
                                                                     "id": product.id,
                                                                     "name": product.name,
                                                                     "price": parseFloat(product.price),
-                                                                    "brand": "ИП Притуленко С. Д.",
+                                                                    "brand": "Производитель алюминиевого профиля",
                                                                     "quantity": parseInt(product.quantity),
                                                                     "position": 1
                                                                 }
@@ -657,7 +657,7 @@ $(document).ready(function(){
                                                                     "id": product.id,
                                                                     "name": product.name,
                                                                     "price": parseFloat(product.price),
-                                                                    "brand": "ИП Притуленко С. Д.",
+                                                                    "brand": "Производитель алюминиевого профиля",
                                                                     "position": 1
                                                                 }
                                                             ]

@@ -6,7 +6,7 @@
     
 	<title>Алюминиевый швеллер АД31Т1 сплава купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="Алюминиевый швеллер АД31Т1 сплава по цене от производителя ИП Притуленко С. Д. оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
+<meta name="description" content="Алюминиевый швеллер АД31Т1 сплава по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
 <link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?172070002723463" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17113696952320" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171136964126598" type="text/css"  rel="stylesheet" />
@@ -42,7 +42,7 @@
 									
 	<!-- Open Graph -->
 	<meta property="og:title" content="Алюминиевый швеллер АД31Т1 сплава купить по цене от производителя оптом и в розницу">
-	<meta property="og:description" content="Алюминиевый швеллер АД31Т1 сплава по цене от производителя ИП Притуленко С. Д. оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
+	<meta property="og:description" content="Алюминиевый швеллер АД31Т1 сплава по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-shveller-ad31t1-splava.tag">
     	<meta property="og:image" content="">
@@ -630,9 +630,7 @@
 	
 	
 		
-			                                    <li>
-                        <a href="/uslugi/alyuminievyy-profil-po-chertezham-zakazchika/" itemprop="url">Алюминиевый профиль по чертежам</a>
-                    </li>
+
                 
 			
 		
@@ -1070,7 +1068,7 @@
 	
 	
 		
-							<li><a href="/catalog/alyuminievyy-profil-po-chertezham/">Алюминиевый профиль по чертежам</a></li>
+
 			
 		
 	
@@ -1798,7 +1796,7 @@
               "@context": "https://schema.org",
               "@type": "Product",
               "name": "Алюминиевый швеллер",
-              "description": "Алюминиевый швеллер от производителя ИП Притуленко С. Д. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04",
+              "description": "Алюминиевый швеллер от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04",
               "offers": {
                 "@type": "AggregateOffer",
                 "priceCurrency": "RUR",
@@ -3092,18 +3090,12 @@
 									Услуги								</div>
 								<nav class="footer__menu-nav">
 									<ul>
-
-			<li><a href="/uslugi/anodirovanie-alyuminievogo-profilya/">Анодирование</a></li>
-		
-			<li><a href="/uslugi/poroshkovoe-okrashivanie-alyuminievykh-profiley/">Порошковое окрашивание</a></li>
-		
-			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Профиль по чертежам заказчика</a></li>
 		
 			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
 		
-			<li><a href="/uslugi/sublimirovanie-alyuminievogo-profilya/">Сублимирование</a></li>
+
 		
-			<li><a href="/uslugi/lazernaya-rezka-trub-i-profilnykh-zagotovok/">Лазерная резка</a></li>
+
 		
 
 </ul>
@@ -3118,7 +3110,7 @@
 					<div class="row">
 						<div class="col-md">
 							<div class="footer__copyright">
-								2026 © Все права защищены<br>
+								2026 © ИП Притуленко Семён Дмитриевич. Все права защищены<br>
 <a href="/kontakty/politika-konfidentsialnosti/">Политика конфиденциальности</a> <a href="/sitemap/">Карта сайта</a>							</div>
 						</div>
 						<div class="col-md">

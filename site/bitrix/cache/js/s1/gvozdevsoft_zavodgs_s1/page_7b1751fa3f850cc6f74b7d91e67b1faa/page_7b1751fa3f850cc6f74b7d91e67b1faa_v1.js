@@ -1091,7 +1091,7 @@ BX.ready(function() {
 class Product {
     name = '';
     price = 0;
-    brand = 'ИП Притуленко С. Д.';
+    brand = 'Производитель алюминиевого профиля';
 }
 
 const product = new Product();
