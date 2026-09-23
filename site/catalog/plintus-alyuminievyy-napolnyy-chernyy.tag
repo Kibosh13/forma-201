@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1984,7 +1984,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/41f/250_250_1/k8z3btvcn05aiztegxz8jfc2nosfwpdt.jpg" alt="Микроплинтус для пола с подсветкой 23,9*20 чёрный" title="Микроплинтус для пола с подсветкой 23,9*20 чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/41f/250_250_1/k8z3btvcn05aiztegxz8jfc2nosfwpdt.jpg" alt="Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра" title="Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1993,14 +1993,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2335                            </div>
+                                Арт. 0048                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 чёрный							</a>
+								Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2019,15 +2019,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">250</span>
+											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с подсветкой 23,9*20 чёрный" data-price="250">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра" data-price="1500">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2037,7 +2037,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="642" >
@@ -2053,7 +2053,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/428/250_250_1/q0f9pqdwb7v36pfo2fgdosyyd5i8b0a7.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" title="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/428/250_250_1/q0f9pqdwb7v36pfo2fgdosyyd5i8b0a7.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2062,14 +2062,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0042                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 чёрный							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2088,15 +2088,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2106,7 +2106,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="639" >
@@ -2122,7 +2122,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/ed9/250_250_1/5vvuisciny3iu24uspz63820bsyjr6do.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм чёрные" title="Алюминиевые плинтусы напольные 12*40 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/ed9/250_250_1/5vvuisciny3iu24uspz63820bsyjr6do.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2131,14 +2131,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0011                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2157,15 +2157,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">137</span>
+											<span class="pricespace">822</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм чёрные" data-price="137">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" data-price="822">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2175,7 +2175,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="142" >
@@ -2191,7 +2191,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-100mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f13/250_250_1/kkayp8g91sjrt5m83sg0xz3wzg6xtxpg.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм чёрные" title="Алюминиевые плинтусы напольные 12*100 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f13/250_250_1/kkayp8g91sjrt5m83sg0xz3wzg6xtxpg.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2200,14 +2200,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0005                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-100mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2226,15 +2226,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">281</span>
+											<span class="pricespace">1686</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм чёрные" data-price="281">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" data-price="1686">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2244,7 +2244,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="145" >
@@ -2260,7 +2260,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" title="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2269,14 +2269,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0058                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем черные							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2295,15 +2295,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2313,7 +2313,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="171" >
@@ -2329,7 +2329,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9e6/250_250_1/b4zbod6q7232i5gndruqfc9qqc348j1n.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные чёрные" title="Скрытые плинтусы для пола с подсветкой радиусные чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/9e6/250_250_1/b4zbod6q7232i5gndruqfc9qqc348j1n.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2338,14 +2338,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0064                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные чёрные							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2364,15 +2364,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрные" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2382,7 +2382,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1021" >
@@ -2398,7 +2398,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-5-9-20-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/db4/250_250_1/jfmrxil1yf18nt503228d7udq7hbu1cr.jpg" alt="Микроплинтус для пола 5,9*20 чёрный" title="Микроплинтус для пола 5,9*20 чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/db4/250_250_1/jfmrxil1yf18nt503228d7udq7hbu1cr.jpg" alt="Микроплинтус для пола 5,9*20 чёрный матовый 3 метра" title="Микроплинтус для пола 5,9*20 чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2407,14 +2407,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2336                            </div>
+                                Арт. 0036                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 чёрный							</a>
+								Микроплинтус для пола 5,9*20 чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2433,15 +2433,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">185</span>
+											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*20 чёрный" data-price="185">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*20 чёрный матовый 3 метра" data-price="1110">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2451,7 +2451,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="633" >
@@ -2467,7 +2467,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-60mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/7ac/250_250_1/2rixs4w6h0x3qa03izup0r73c6ayz0du.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм чёрные" title="Алюминиевые плинтусы напольные 12*60 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/7ac/250_250_1/2rixs4w6h0x3qa03izup0r73c6ayz0du.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2476,14 +2476,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0017                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-60mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2502,15 +2502,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">182</span>
+											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм чёрные" data-price="182">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" data-price="1092">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2520,7 +2520,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="143" >
@@ -2536,7 +2536,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4a9/250_250_1/9fsgey2ycmlyttzrhimhwrurxx7vt415.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм чёрные" title="Алюминиевые плинтусы напольные 12*80 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4a9/250_250_1/9fsgey2ycmlyttzrhimhwrurxx7vt415.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2545,14 +2545,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0023                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2571,15 +2571,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">215</span>
+											<span class="pricespace">1290</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм чёрные" data-price="215">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" data-price="1290">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2589,7 +2589,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="144" >
@@ -2605,7 +2605,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-stykovochnyy-porozhek.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/e26/250_250_1/8bq9c452opmbuc3rk0b6t0us9gubt1lz.jpg" alt="Алюминиевый стыковочный порожек 38 мм чёрный" title="Алюминиевый стыковочный порожек 38 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/e26/250_250_1/8bq9c452opmbuc3rk0b6t0us9gubt1lz.jpg" alt="Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра" title="Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2614,14 +2614,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9155                            </div>
+                                Арт. 0028                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-stykovochnyy-porozhek.prod" class="catalog-section-tile__title-link">
-								Алюминиевый стыковочный порожек 38 мм чёрный							</a>
+								Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2635,15 +2635,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">235</span>
+											<span class="pricespace">1410</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый стыковочный порожек 38 мм чёрный" data-price="235">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра" data-price="1410">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2669,7 +2669,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-5-9-16-chyernyy-9121.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/8ad/250_250_1/xnf1kaq77714su1l4p8hctm8k65e1tnr.jpg" alt="Микроплинтус для пола 5,9*16 чёрный" title="Микроплинтус для пола 5,9*16 чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/8ad/250_250_1/xnf1kaq77714su1l4p8hctm8k65e1tnr.jpg" alt="Микроплинтус для пола 5,9*16 чёрный матовый 3 метра" title="Микроплинтус для пола 5,9*16 чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2678,14 +2678,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2336                            </div>
+                                Арт. 0031                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-16-chyernyy-9121.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*16 чёрный							</a>
+								Микроплинтус для пола 5,9*16 чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2704,15 +2704,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">120</span>
+											<span class="pricespace">720</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 чёрный" data-price="120">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 чёрный матовый 3 метра" data-price="720">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2722,7 +2722,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2511" >
@@ -2738,7 +2738,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-dl-70.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/422/250_250_1/7bsc310c4ahs95p88wrlb4gjsmayp9hn.jpg" alt="Алюминиевый плинтус ДЛ-70, 70 мм чёрный" title="Алюминиевый плинтус ДЛ-70, 70 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/422/250_250_1/7bsc310c4ahs95p88wrlb4gjsmayp9hn.jpg" alt="Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра" title="Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2746,13 +2746,15 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">
+                                Арт. 0027                            </div>
+                            <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-dl-70.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус ДЛ-70, 70 мм чёрный							</a>
+								Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2766,15 +2768,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">220</span>
+											<span class="pricespace">1320</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус ДЛ-70, 70 мм чёрный" data-price="220">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра" data-price="1320">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2800,7 +2802,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-100mm-9146.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f48/250_250_1/ih2sol96n5mzli98jeywdbujszhhm4zu.jpg" alt="Алюминиевый плинтус 100 x 15 мм чёрный" title="Алюминиевый плинтус 100 x 15 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f48/250_250_1/ih2sol96n5mzli98jeywdbujszhhm4zu.jpg" alt="Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра" title="Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2809,14 +2811,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9146                            </div>
+                                Арт. 0026                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-100mm-9146.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус 100 x 15 мм чёрный							</a>
+								Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2830,15 +2832,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">312</span>
+											<span class="pricespace">1872</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус 100 x 15 мм чёрный" data-price="312">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра" data-price="1872">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2864,7 +2866,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-100-mm-9145.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/241/250_250_1/09xdrn2v2sms3emwsxk2stxstrveb168.jpg" alt="Алюминиевый плинтус 100 x 14 мм чёрный" title="Алюминиевый плинтус 100 x 14 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/241/250_250_1/09xdrn2v2sms3emwsxk2stxstrveb168.jpg" alt="Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра" title="Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2873,14 +2875,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9145                            </div>
+                                Арт. 0025                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-100-mm-9145.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус 100 x 14 мм чёрный							</a>
+								Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2894,15 +2896,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">297</span>
+											<span class="pricespace">1782</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус 100 x 14 мм чёрный" data-price="297">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра" data-price="1782">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2928,7 +2930,7 @@
 																	</div>
 					<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-100-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/077/250_250_1/d6t5qec70am012qyp9gg6q6g8dzr3kc9.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный" title="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/077/250_250_1/d6t5qec70am012qyp9gg6q6g8dzr3kc9.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра" title="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2937,14 +2939,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9141                            </div>
+                                Арт. 0050                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-100-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный							</a>
+								Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2958,15 +2960,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">310</span>
+											<span class="pricespace">1860</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный" data-price="310">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра" data-price="1860">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2992,7 +2994,7 @@
 																	</div>
 					<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-40-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f85/250_250_1/8abeaw37wnaobeiwcxhglnjoajl7p37k.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный" title="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f85/250_250_1/8abeaw37wnaobeiwcxhglnjoajl7p37k.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра" title="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3001,14 +3003,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9144                            </div>
+                                Арт. 0051                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-40-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный							</a>
+								Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3022,15 +3024,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">175</span>
+											<span class="pricespace">1050</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный" data-price="175">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра" data-price="1050">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3056,7 +3058,7 @@
 																	</div>
 					<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-80-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/691/250_250_1/fx63cu4r9cjl9w8ofoivo4cgtaggr637.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" title="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/691/250_250_1/fx63cu4r9cjl9w8ofoivo4cgtaggr637.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра" title="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3065,14 +3067,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9142                            </div>
+                                Арт. 0053                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-80-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный							</a>
+								Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3086,15 +3088,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">265</span>
+											<span class="pricespace">1590</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный" data-price="265">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра" data-price="1590">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3120,7 +3122,7 @@
 																	</div>
 					<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-60-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/663/250_250_1/7cnlyr9w6vyhhm46wzbn1qwmahdn82b1.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный" title="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/663/250_250_1/7cnlyr9w6vyhhm46wzbn1qwmahdn82b1.jpg" alt="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра" title="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3129,14 +3131,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 9143                            </div>
+                                Арт. 0052                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-60-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный							</a>
+								Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3150,15 +3152,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">225</span>
+											<span class="pricespace">1350</span>
 																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный" data-price="225">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра" data-price="1350">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

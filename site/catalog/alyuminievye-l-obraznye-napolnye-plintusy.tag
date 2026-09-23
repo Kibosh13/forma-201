@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1984,7 +1984,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-40mm-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/fee/250_250_1/mifpax5aakm134b6e1eunrju04pv93wg.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм серебро" title="Алюминиевые плинтусы напольные 12*40 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/fee/250_250_1/mifpax5aakm134b6e1eunrju04pv93wg.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1993,14 +1993,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0010                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм серебро							</a>
+								Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2019,15 +2019,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">121</span>
+											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм серебро" data-price="121">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра" data-price="726">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2037,7 +2037,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="129" >
@@ -2053,7 +2053,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/bea/250_250_1/f0ebrcia684rlr6kfz0mnt1nlo5oedj3.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм шампань" title="Алюминиевые плинтусы напольные 12*60 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/bea/250_250_1/f0ebrcia684rlr6kfz0mnt1nlo5oedj3.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2062,14 +2062,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0018                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм шампань							</a>
+								Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2088,15 +2088,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">182</span>
+											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм шампань" data-price="182">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра" data-price="1092">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2106,7 +2106,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1094" >
@@ -2122,7 +2122,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/31f/250_250_1/o37xy7q2b9n16iaje91g93v9xk48mhf5.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм белые" title="Алюминиевые плинтусы напольные 12*40 мм белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/31f/250_250_1/o37xy7q2b9n16iaje91g93v9xk48mhf5.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2131,14 +2131,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0008                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм белые							</a>
+								Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2157,15 +2157,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">121</span>
+											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм белые" data-price="121">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра" data-price="726">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2175,7 +2175,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1089" >
@@ -2191,7 +2191,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/2da/250_250_1/nusb8f6cid972j9cmijikwvj9c2gd9fr.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм белые" title="Алюминиевые плинтусы напольные 12*100 мм белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/2da/250_250_1/nusb8f6cid972j9cmijikwvj9c2gd9fr.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2200,14 +2200,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0002                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм белые							</a>
+								Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2226,15 +2226,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">259</span>
+											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм белые" data-price="259">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра" data-price="1554">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2244,7 +2244,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1098" >
@@ -2260,7 +2260,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/543/250_250_1/5ggy7zj0z51ub4ayzpn7lf23w4uhqhx2.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм шампань" title="Алюминиевые плинтусы напольные 12*40 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/543/250_250_1/5ggy7zj0z51ub4ayzpn7lf23w4uhqhx2.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2269,14 +2269,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0012                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм шампань							</a>
+								Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2295,15 +2295,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">137</span>
+											<span class="pricespace">822</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм шампань" data-price="137">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра" data-price="822">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2313,7 +2313,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1091" >
@@ -2329,7 +2329,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/146/250_250_1/vf0wqmccb9t3wzzt133avr1y6xr24hy0.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм белые" title="Алюминиевые плинтусы напольные 12*80 мм белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/146/250_250_1/vf0wqmccb9t3wzzt133avr1y6xr24hy0.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм белый матовый 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2338,14 +2338,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0020                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм белые							</a>
+								Алюминиевые плинтусы напольные 12*80 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2364,15 +2364,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">198</span>
+											<span class="pricespace">1188</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм белые" data-price="198">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм белый матовый 3 метра" data-price="1188">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2382,7 +2382,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1095" >
@@ -2398,7 +2398,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/b80/250_250_1/6fijqz6c0qw07ubt7rdd0wzj94gnjd44.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм шампань" title="Алюминиевые плинтусы напольные 12*100 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/b80/250_250_1/6fijqz6c0qw07ubt7rdd0wzj94gnjd44.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2407,14 +2407,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0006                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм шампань							</a>
+								Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2433,15 +2433,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">281</span>
+											<span class="pricespace">1686</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм шампань" data-price="281">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра" data-price="1686">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2451,7 +2451,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1100" >
@@ -2467,23 +2467,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/082/250_250_1/quv8lghyt5h3njrrzisybfcexxbpzv67.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм золото" title="Алюминиевые плинтусы напольные 12*40 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/082/250_250_1/quv8lghyt5h3njrrzisybfcexxbpzv67.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0009                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2502,15 +2502,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">121</span>
+											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм золото" data-price="121">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" data-price="726">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2520,7 +2520,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1090" >
@@ -2536,7 +2536,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/065/250_250_1/8qje58uvf6j7px5a0w7d9lna2f1mwqbq.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм белые" title="Алюминиевые плинтусы напольные 12*60 мм белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/065/250_250_1/8qje58uvf6j7px5a0w7d9lna2f1mwqbq.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм белый матовый 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2545,14 +2545,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0014                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм белые							</a>
+								Алюминиевые плинтусы напольные 12*60 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2571,15 +2571,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">165</span>
+											<span class="pricespace">990</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм белые" data-price="165">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм белый матовый 3 метра" data-price="990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2589,7 +2589,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1092" >
@@ -2605,7 +2605,7 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/043/250_250_1/dcprb4axt6qbwbzxbd2orhsc91awfbb1.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм шампань" title="Алюминиевые плинтусы напольные 12*80 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/043/250_250_1/dcprb4axt6qbwbzxbd2orhsc91awfbb1.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2614,14 +2614,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0024                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм шампань							</a>
+								Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2640,15 +2640,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">215</span>
+											<span class="pricespace">1290</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм шампань" data-price="215">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра" data-price="1290">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2658,7 +2658,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1097" >
@@ -2674,23 +2674,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/960/250_250_1/x4g2cpgx88v6oru630u3wbmkm5xvfouq.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм золото" title="Алюминиевые плинтусы напольные 12*80 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/960/250_250_1/x4g2cpgx88v6oru630u3wbmkm5xvfouq.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0021                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2709,15 +2709,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">198</span>
+											<span class="pricespace">1188</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм золото" data-price="198">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" data-price="1188">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2727,7 +2727,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1096" >
@@ -2743,23 +2743,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/60e/250_250_1/9tpq2vhvqp5678z9vuzqotzawnkcgjlw.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм золото" title="Алюминиевые плинтусы напольные 12*100 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/60e/250_250_1/9tpq2vhvqp5678z9vuzqotzawnkcgjlw.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0003                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2778,15 +2778,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">259</span>
+											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм золото" data-price="259">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" data-price="1554">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2796,7 +2796,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1099" >
@@ -2812,23 +2812,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/68e/250_250_1/rxxc1rzmtq58v6nzinsl4g12n6xtr3lz.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм золото" title="Алюминиевые плинтусы напольные 12*60 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/68e/250_250_1/rxxc1rzmtq58v6nzinsl4g12n6xtr3lz.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0015                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2847,15 +2847,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">165</span>
+											<span class="pricespace">990</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм золото" data-price="165">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" data-price="990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2865,7 +2865,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1093" >
@@ -2881,7 +2881,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/ed9/250_250_1/5vvuisciny3iu24uspz63820bsyjr6do.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм чёрные" title="Алюминиевые плинтусы напольные 12*40 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/ed9/250_250_1/5vvuisciny3iu24uspz63820bsyjr6do.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2890,14 +2890,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0011                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2916,15 +2916,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">137</span>
+											<span class="pricespace">822</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм чёрные" data-price="137">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра" data-price="822">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2934,7 +2934,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="142" >
@@ -2950,7 +2950,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-80mm-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f7c/250_250_1/wrva9ak1npw5f6151khel3h5mkaevjbr.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм серебро" title="Алюминиевые плинтусы напольные 12*80 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f7c/250_250_1/wrva9ak1npw5f6151khel3h5mkaevjbr.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм серебро матовое 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2959,14 +2959,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0022                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-80mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм серебро							</a>
+								Алюминиевые плинтусы напольные 12*80 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2985,15 +2985,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">198</span>
+											<span class="pricespace">1188</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм серебро" data-price="198">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм серебро матовое 3 метра" data-price="1188">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3003,7 +3003,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="140" >
@@ -3019,7 +3019,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-100mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f13/250_250_1/kkayp8g91sjrt5m83sg0xz3wzg6xtxpg.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм чёрные" title="Алюминиевые плинтусы напольные 12*100 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f13/250_250_1/kkayp8g91sjrt5m83sg0xz3wzg6xtxpg.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3028,14 +3028,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0005                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-100mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3054,15 +3054,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">281</span>
+											<span class="pricespace">1686</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм чёрные" data-price="281">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра" data-price="1686">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3072,7 +3072,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="145" >
@@ -3088,7 +3088,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-100mm-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/678/250_250_1/z1objvl0bwgeopxpli5hoag3ggvarov0.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм серебро" title="Алюминиевые плинтусы напольные 12*100 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/678/250_250_1/z1objvl0bwgeopxpli5hoag3ggvarov0.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм серебро матовое 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3097,14 +3097,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0004                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-100mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм серебро							</a>
+								Алюминиевые плинтусы напольные 12*100 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3123,15 +3123,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">259</span>
+											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм серебро" data-price="259">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм серебро матовое 3 метра" data-price="1554">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3141,7 +3141,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="141" >
@@ -3157,7 +3157,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-60mm-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/b9d/250_250_1/7tarrw342129lrzss8vp2reewslvqskq.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм серебро" title="Алюминиевые плинтусы напольные 12*60 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/b9d/250_250_1/7tarrw342129lrzss8vp2reewslvqskq.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм серебро матовое 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3166,14 +3166,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0016                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-60mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм серебро							</a>
+								Алюминиевые плинтусы напольные 12*60 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3192,15 +3192,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">165</span>
+											<span class="pricespace">990</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм серебро" data-price="165">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм серебро матовое 3 метра" data-price="990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3210,7 +3210,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="130" >
@@ -3226,7 +3226,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-60mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/7ac/250_250_1/2rixs4w6h0x3qa03izup0r73c6ayz0du.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм чёрные" title="Алюминиевые плинтусы напольные 12*60 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/7ac/250_250_1/2rixs4w6h0x3qa03izup0r73c6ayz0du.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3235,14 +3235,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0017                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-60mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3261,15 +3261,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">182</span>
+											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм чёрные" data-price="182">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра" data-price="1092">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3279,7 +3279,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="143" >
@@ -3295,7 +3295,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4a9/250_250_1/9fsgey2ycmlyttzrhimhwrurxx7vt415.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм чёрные" title="Алюминиевые плинтусы напольные 12*80 мм чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4a9/250_250_1/9fsgey2ycmlyttzrhimhwrurxx7vt415.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3304,14 +3304,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0023                            </div>
                                                         <div class="catalog-section-price__article">
 								L образные                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм чёрные							</a>
+								Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3330,15 +3330,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">215</span>
+											<span class="pricespace">1290</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм чёрные" data-price="215">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра" data-price="1290">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3348,7 +3348,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="144" >

@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1991,7 +1991,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/428/250_250_1/q0f9pqdwb7v36pfo2fgdosyyd5i8b0a7.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" title="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/428/250_250_1/q0f9pqdwb7v36pfo2fgdosyyd5i8b0a7.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2000,14 +2000,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0042                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 чёрный							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2026,15 +2026,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 чёрный" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2044,7 +2044,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="639" >
@@ -2060,7 +2060,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/a1d/250_250_1/yt3aehefcxzmgvp4xtbs3cxkpj6wqq9a.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 шампань" title="Микроплинтус для пола с заходом на стену 31,9*20 шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/a1d/250_250_1/yt3aehefcxzmgvp4xtbs3cxkpj6wqq9a.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2069,14 +2069,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0043                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 шампань							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2095,15 +2095,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 шампань" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2113,7 +2113,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1130" >
@@ -2129,7 +2129,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-belyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/6a3/250_250_1/qn0pqp5xsvuq07evet0wp3w6o1llm6w6.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 белый" title="Микроплинтус для пола с заходом на стену 31,9*20 белый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/6a3/250_250_1/qn0pqp5xsvuq07evet0wp3w6o1llm6w6.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2138,14 +2138,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0039                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-belyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 белый							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2164,15 +2164,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 белый" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2182,7 +2182,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1128" >
@@ -2198,7 +2198,7 @@
 																	</div>
 					<a href="/catalog/mikroplintus-31-9-20-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/853/250_250_1/y6obr2x67fotxlcwkda02qfo34bk3pmn.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 серебро" title="Микроплинтус для пола с заходом на стену 31,9*20 серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/853/250_250_1/y6obr2x67fotxlcwkda02qfo34bk3pmn.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2207,14 +2207,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0041                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-serebristyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 серебро							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2233,15 +2233,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 серебро" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2251,7 +2251,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="638" >
@@ -2267,23 +2267,23 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/52d/250_250_1/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 золото" title="Микроплинтус для пола с заходом на стену 31,9*20 золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/52d/250_250_1/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0040                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 золото							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2302,15 +2302,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 золото" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2320,7 +2320,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1129" >

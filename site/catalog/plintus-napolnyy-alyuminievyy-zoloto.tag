@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1984,23 +1984,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/082/250_250_1/quv8lghyt5h3njrrzisybfcexxbpzv67.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм золото" title="Алюминиевые плинтусы напольные 12*40 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/082/250_250_1/quv8lghyt5h3njrrzisybfcexxbpzv67.jpg" alt="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0032                            </div>
+                                Арт. 0009                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2019,15 +2019,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">121</span>
+											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм золото" data-price="121">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра" data-price="726">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2037,7 +2037,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1090" >
@@ -2053,23 +2053,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/960/250_250_1/x4g2cpgx88v6oru630u3wbmkm5xvfouq.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм золото" title="Алюминиевые плинтусы напольные 12*80 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/960/250_250_1/x4g2cpgx88v6oru630u3wbmkm5xvfouq.jpg" alt="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0034                            </div>
+                                Арт. 0021                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2088,15 +2088,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">198</span>
+											<span class="pricespace">1188</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм золото" data-price="198">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*80 мм золото матовое 3 метра" data-price="1188">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2106,7 +2106,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1096" >
@@ -2122,23 +2122,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/60e/250_250_1/9tpq2vhvqp5678z9vuzqotzawnkcgjlw.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм золото" title="Алюминиевые плинтусы напольные 12*100 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/60e/250_250_1/9tpq2vhvqp5678z9vuzqotzawnkcgjlw.jpg" alt="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0035                            </div>
+                                Арт. 0003                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2157,15 +2157,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">259</span>
+											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм золото" data-price="259">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*100 мм золото матовое 3 метра" data-price="1554">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2175,7 +2175,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1099" >
@@ -2191,23 +2191,23 @@
 																	</div>
 					<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/68e/250_250_1/rxxc1rzmtq58v6nzinsl4g12n6xtr3lz.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм золото" title="Алюминиевые плинтусы напольные 12*60 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/68e/250_250_1/rxxc1rzmtq58v6nzinsl4g12n6xtr3lz.jpg" alt="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" title="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 0033                            </div>
+                                Арт. 0015                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм золото							</a>
+								Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2226,15 +2226,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">165</span>
+											<span class="pricespace">990</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм золото" data-price="165">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые плинтусы напольные 12*60 мм золото матовое 3 метра" data-price="990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2244,7 +2244,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1093" >
@@ -2260,23 +2260,23 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4ee/250_250_1/dof80hny2r2k2b5dgxoosgcjnz4cm8oj.jpg" alt="Микроплинтус для пола с подсветкой 23,9*20 золото" title="Микроплинтус для пола с подсветкой 23,9*20 золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4ee/250_250_1/dof80hny2r2k2b5dgxoosgcjnz4cm8oj.jpg" alt="Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра" title="Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2335                            </div>
+                                Арт. 0046                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 золото							</a>
+								Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2295,15 +2295,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">250</span>
+											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с подсветкой 23,9*20 золото" data-price="250">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра" data-price="1500">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2313,7 +2313,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1126" >
@@ -2329,23 +2329,23 @@
 																	</div>
 					<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/52d/250_250_1/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 золото" title="Микроплинтус для пола с заходом на стену 31,9*20 золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/52d/250_250_1/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg" alt="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" title="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2334                            </div>
+                                Арт. 0040                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 золото							</a>
+								Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2364,15 +2364,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">210</span>
+											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 золото" data-price="210">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра" data-price="1260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2382,7 +2382,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1129" >
@@ -2398,23 +2398,23 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-zoloto-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/b72/250_250_1/9odd8jk0weyl0126yl6vidf01sx8qiat.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные золото" title="Скрытые плинтусы для пола с подсветкой радиусные золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/b72/250_250_1/9odd8jk0weyl0126yl6vidf01sx8qiat.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0062                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-zoloto-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные золото							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2433,15 +2433,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные золото" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2451,7 +2451,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1102" >
@@ -2467,23 +2467,23 @@
 																	</div>
 					<a href="/catalog/mikroplintus-5-9-20-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/3de/250_250_1/ndfjuo9t05ex2z5b4yfpwerhbcwnoa48.jpg" alt="Микроплинтус для пола 5,9*20 золото" title="Микроплинтус для пола 5,9*20 золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/3de/250_250_1/ndfjuo9t05ex2z5b4yfpwerhbcwnoa48.jpg" alt="Микроплинтус для пола 5,9*20 золото матовое 3 метра" title="Микроплинтус для пола 5,9*20 золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2336                            </div>
+                                Арт. 0034                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 золото							</a>
+								Микроплинтус для пола 5,9*20 золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2502,15 +2502,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">185</span>
+											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*20 золото" data-price="185">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*20 золото матовое 3 метра" data-price="1110">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2520,7 +2520,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1132" >
@@ -2536,23 +2536,23 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/043/250_250_1/avozu3jhruxkyzo90iw50p7lrxomqh1z.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" title="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/043/250_250_1/avozu3jhruxkyzo90iw50p7lrxomqh1z.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0056                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем золото							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2571,15 +2571,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2589,7 +2589,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1106" >

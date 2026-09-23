@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1761,7 +1761,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">115</span>
+											<span class="pricespace">230</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -1769,7 +1769,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)" data-price="115">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)" data-price="230">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1823,7 +1823,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">115</span>
+											<span class="pricespace">230</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -1831,7 +1831,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм шампань (левая, правая)" data-price="115">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм шампань (левая, правая)" data-price="230">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1885,7 +1885,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">115</span>
+											<span class="pricespace">230</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -1893,7 +1893,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм белый (левая, правая)" data-price="115">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм белый (левая, правая)" data-price="230">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1925,7 +1925,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -1947,7 +1947,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">115</span>
+											<span class="pricespace">230</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -1955,7 +1955,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм золото (левая, правая)" data-price="115">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм золото (левая, правая)" data-price="230">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2009,7 +2009,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">75</span>
+											<span class="pricespace">150</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2017,7 +2017,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм чёрный (левая, правая)" data-price="75">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм чёрный (левая, правая)" data-price="150">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2071,7 +2071,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">75</span>
+											<span class="pricespace">150</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2079,7 +2079,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм серебро (левая, правая)" data-price="75">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм серебро (левая, правая)" data-price="150">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2138,7 +2138,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">240</span>
+											<span class="pricespace">480</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2146,7 +2146,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 100 мм чёрный" data-price="240">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 100 мм чёрный" data-price="480">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2200,7 +2200,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">95</span>
+											<span class="pricespace">190</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2208,7 +2208,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм серебро (левая, правая)" data-price="95">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 100 мм серебро (левая, правая)" data-price="190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2267,7 +2267,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">110</span>
+											<span class="pricespace">220</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2275,7 +2275,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 40 мм чёрный" data-price="110">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 40 мм чёрный" data-price="220">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2329,7 +2329,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">85</span>
+											<span class="pricespace">170</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2337,7 +2337,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм чёрный (левая, правая)" data-price="85">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм чёрный (левая, правая)" data-price="170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2391,7 +2391,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">96</span>
+											<span class="pricespace">192</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2399,7 +2399,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм шампань (левая, правая)" data-price="96">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм шампань (левая, правая)" data-price="192">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2431,7 +2431,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -2453,7 +2453,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">75</span>
+											<span class="pricespace">150</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2461,7 +2461,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм золото (левая, правая)" data-price="75">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм золото (левая, правая)" data-price="150">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2520,7 +2520,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">150</span>
+											<span class="pricespace">300</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2528,7 +2528,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 60 мм чёрный" data-price="150">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 60 мм чёрный" data-price="300">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2582,7 +2582,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">65</span>
+											<span class="pricespace">130</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2590,7 +2590,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм серебро (левая, правая)" data-price="65">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм серебро (левая, правая)" data-price="130">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2644,7 +2644,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">96</span>
+											<span class="pricespace">192</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2652,7 +2652,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм белый (левая, правая)" data-price="96">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм белый (левая, правая)" data-price="192">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2706,7 +2706,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">55</span>
+											<span class="pricespace">110</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2714,7 +2714,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм серебро (левая, правая)" data-price="55">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм серебро (левая, правая)" data-price="110">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2768,7 +2768,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">75</span>
+											<span class="pricespace">150</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2776,7 +2776,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм белый (левая, правая)" data-price="75">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм белый (левая, правая)" data-price="150">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2830,7 +2830,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">96</span>
+											<span class="pricespace">192</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2838,7 +2838,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм чёрный (левая, правая)" data-price="96">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм чёрный (левая, правая)" data-price="192">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2897,7 +2897,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">180</span>
+											<span class="pricespace">360</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2905,7 +2905,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 80 мм чёрный" data-price="180">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка плинтуса с кабель каналом 80 мм чёрный" data-price="360">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2937,7 +2937,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -2959,7 +2959,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">85</span>
+											<span class="pricespace">170</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -2967,7 +2967,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм золото (левая, правая)" data-price="85">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм золото (левая, правая)" data-price="170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2999,7 +2999,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -3021,7 +3021,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">96</span>
+											<span class="pricespace">192</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -3029,7 +3029,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм золото (левая, правая)" data-price="96">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 80 мм золото (левая, правая)" data-price="192">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3083,7 +3083,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">75</span>
+											<span class="pricespace">150</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -3091,7 +3091,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм шампань (левая, правая)" data-price="75">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 40 мм шампань (левая, правая)" data-price="150">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3145,7 +3145,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">85</span>
+											<span class="pricespace">170</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -3153,7 +3153,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм белый (левая, правая)" data-price="85">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм белый (левая, правая)" data-price="170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3207,7 +3207,7 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">85</span>
+											<span class="pricespace">170</span>
 																						<span class="catalog-section-tile__price-rub">
 												р.											</span>
 																					</div>
@@ -3215,7 +3215,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм шампань (левая, правая)" data-price="85">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушки алюминиевого плинтуса 60 мм шампань (левая, правая)" data-price="170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

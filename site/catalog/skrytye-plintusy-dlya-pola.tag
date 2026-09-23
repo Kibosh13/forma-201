@@ -32,7 +32,7 @@
 <script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?171142724265824"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/script.js","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery-3.3.1.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/form_handler.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/js\/owl.carousel.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/sticky\/jquery.sticky.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/jquery.justified-gallery.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/magnific-popup\/jquery.magnific-popup.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/banner-cookies.js","\/lib\/feedback\/feedback.js","\/lib\/cart\/cart.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/inputmask\/jquery.inputmask.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/jquery.mask.min.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/js\/main.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/script.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/catalog.smart.filter\/filter_catalog_top\/themes\/blue\/colors.css","\/local\/components\/clickon\/tags.cloud\/templates\/only_top\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/catalog_new\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/reset.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/bootstrap-grid.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/font-awesome\/css\/font-awesome.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.carousel.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/owl-carousel-2\/css\/owl.theme.default.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/fancybox\/jquery.fancybox.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flex-gallery\/justified-gallery.min.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/template.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/mainpage.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/content.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/catalog.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/sidebar.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/feedback.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/flmenu\/flmenu.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/accordion\/accordion.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/tabs\/tabs.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/arrup\/arrup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/hdfix\/hdfix.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/lib\/img-zoom\/img-zoom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/cart.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/magnific-popup.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/swiper-slider.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/themes\/color_custom.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/adaptive.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/css\/customer.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/mn_flmenu_top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/search.title\/search_mob\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/hdtopmenu\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/news.list\/aktsii_sidebar_ajax\/style.css","\/bitrix\/components\/bitrix\/system.pagenavigation\/templates\/round\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/components\/bitrix\/menu\/top_have_span\/style.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/styles.css","\/local\/templates\/gvozdevsoft_zavodgs_s1\/template_styles.css"]);</script>
-<style>:root{ --main-template-color: #339999 }</style>
+<style>:root{ --main-template-color: #4b5359 }</style>
 
 
 
@@ -1984,7 +1984,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-shampan-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f7e/250_250_1/bcwhsgd4iezvycmm065f3x72eyop2s8f.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные шампань" title="Скрытые плинтусы для пола с подсветкой радиусные шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f7e/250_250_1/bcwhsgd4iezvycmm065f3x72eyop2s8f.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1993,14 +1993,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0065                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-shampan-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные шампань							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2019,15 +2019,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные шампань" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2037,7 +2037,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1103" >
@@ -2053,7 +2053,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" title="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2062,14 +2062,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0058                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем черные							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2088,15 +2088,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем черные" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2106,7 +2106,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="171" >
@@ -2122,7 +2122,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9e6/250_250_1/b4zbod6q7232i5gndruqfc9qqc348j1n.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные чёрные" title="Скрытые плинтусы для пола с подсветкой радиусные чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/9e6/250_250_1/b4zbod6q7232i5gndruqfc9qqc348j1n.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2131,14 +2131,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0064                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные чёрные							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2157,15 +2157,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрные" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2175,7 +2175,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1021" >
@@ -2191,7 +2191,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/955/250_250_1/jn9i8ky7iqvjs05pk5uk5dq4mrtite0b.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем белые" title="Скрытые плинтусы для пола с подсветкой и рассеивателем белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/955/250_250_1/jn9i8ky7iqvjs05pk5uk5dq4mrtite0b.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем белый матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2200,14 +2200,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0055                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-belye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем белые							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2226,15 +2226,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем белые" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем белый матовый 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2244,7 +2244,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1108" >
@@ -2260,7 +2260,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-serebro-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/f8f/250_250_1/hkenx29nu1szcfz2cetsfebyhhpy18ii.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные серебро" title="Скрытые плинтусы для пола с подсветкой радиусные серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/f8f/250_250_1/hkenx29nu1szcfz2cetsfebyhhpy18ii.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2269,14 +2269,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0063                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-serebro-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные серебро							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2295,15 +2295,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные серебро" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2313,7 +2313,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1104" >
@@ -2329,7 +2329,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/7ba/250_250_1/ptl9g09cvapl4y388gkq3yvux3xkm8o5.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро" title="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/7ba/250_250_1/ptl9g09cvapl4y388gkq3yvux3xkm8o5.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2338,14 +2338,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0057                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-serebro.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем серебро							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2364,15 +2364,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2382,7 +2382,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1105" >
@@ -2398,7 +2398,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/0a8/250_250_1/k7swn72zq1oxgvchii5bqsolr9a62v0q.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань" title="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/0a8/250_250_1/k7swn72zq1oxgvchii5bqsolr9a62v0q.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2407,14 +2407,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0059                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем шампань							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2433,15 +2433,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2451,7 +2451,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1107" >
@@ -2467,23 +2467,23 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-zoloto-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/b72/250_250_1/9odd8jk0weyl0126yl6vidf01sx8qiat.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные золото" title="Скрытые плинтусы для пола с подсветкой радиусные золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/b72/250_250_1/9odd8jk0weyl0126yl6vidf01sx8qiat.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0062                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-zoloto-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные золото							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2502,15 +2502,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные золото" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные золото матовое 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2520,7 +2520,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1102" >
@@ -2536,7 +2536,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-belye-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/3b4/250_250_1/a34vz6lt5w60h8dsexcb7qmh8w1k5nzh.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные белые" title="Скрытые плинтусы для пола с подсветкой радиусные белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/3b4/250_250_1/a34vz6lt5w60h8dsexcb7qmh8w1k5nzh.jpg" alt="Скрытые плинтусы для пола с подсветкой радиусные белый матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой радиусные белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2545,14 +2545,14 @@
                                     В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2337                            </div>
+                                Арт. 0061                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-belye-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные белые							</a>
+								Скрытые плинтусы для пола с подсветкой радиусные белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2571,15 +2571,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">450</span>
+											<span class="pricespace">2700</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные белые" data-price="450">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные белый матовый 3 метра" data-price="2700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2589,7 +2589,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1101" >
@@ -2605,23 +2605,23 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/043/250_250_1/avozu3jhruxkyzo90iw50p7lrxomqh1z.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" title="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/043/250_250_1/avozu3jhruxkyzo90iw50p7lrxomqh1z.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
-                                Арт.: 2333                            </div>
+                                Арт. 0056                            </div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем золото							</a>
+								Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2640,15 +2640,15 @@
 																		<div class="catalog-section-tile__price-ot">
 										от									</div>
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
+											<span class="pricespace">6000</span>
 																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+                                                р./шт.                                            </span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем золото" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра" data-price="6000">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2658,7 +2658,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1106" >
