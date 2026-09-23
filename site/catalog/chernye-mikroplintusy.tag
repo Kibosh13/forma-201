@@ -62,7 +62,6 @@
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-WNJD9LPF');</script>
     <!-- End Google Tag Manager -->
-    <script src="//code.jivo.ru/widget/SIeUjc09Nb" async></script>
 	<!-- Yandex.Metrika counter -->
 
 	<script type="text/javascript">
@@ -190,9 +189,7 @@
 	
 	
 		
-			                                    <li>
-                        <a href="/kompaniya/sertifikaty/" itemprop="url">Сертификаты</a>
-                    </li>
+
                 
 			
 		
@@ -203,34 +200,7 @@
 	
 	
 	
-		                            <li >
-                    <a href="/portfolio/" class="parent" itemprop="url">Портфолио</a>
-                    <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
-			                                    <li>
-                        <a href="/portfolio/zazhimnoy-profil/" itemprop="url">Зажимной профиль</a>
-                    </li>
-                
-			
-		
-	
-	
-
-    
-	
-    
-	
-    
-	
-			</ul></li>	
 	
 		
 			                                    <li>
@@ -261,9 +231,7 @@
 	
 	
 		
-			                                    <li>
-                        <a href="/kp/" itemprop="url">Заказать КП</a>
-                    </li>
+
                 
 			
 		
@@ -616,20 +584,6 @@
 	
 	
 		
-			                                    <li>
-                        <a href="/catalog/stroitelnyy-instrument/" itemprop="url">Строительный инструмент</a>
-                    </li>
-                
-			
-		
-	
-	
-
-    
-	
-	
-	
-		
 
                 
 			
@@ -780,7 +734,7 @@
 	
 	
 		
-							<li><a href="/kompaniya/sertifikaty/">Сертификаты</a></li>
+
 			
 		
 	
@@ -789,7 +743,7 @@
 	
 	
 		
-							<li><a href="/portfolio/">Портфолио</a></li>
+
 			
 		
 	
@@ -816,7 +770,7 @@
 	
 	
 		
-							<li><a href="/kp/">Заказать КП</a></li>
+
 			
 		
 	
@@ -1051,15 +1005,6 @@
 	
 		
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-							<li><a href="/catalog/stroitelnyy-instrument/">Строительный инструмент</a></li>
 			
 		
 	
@@ -2430,7 +2375,7 @@
 		
 			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
 		
-			<li><a href="/portfolio/">Портфолио</a></li>
+
 		
 
 </ul>
