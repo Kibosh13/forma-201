@@ -49,7 +49,7 @@
 	background: #DADADA;
 }
 .bx-pagination .bx-pagination-container ul li.bx-active span{
-	background: #0083d1;
+	background: #4b5359;
 	color: #fff;
 }
 .bx-pagination .bx-pagination-container ul li.bx-pag-all a span,
@@ -92,6 +92,6 @@
 	color: #fff;
 }
 .bx-pagination.bx-blue .bx-pagination-container ul li.bx-active span{
-	background: #0083d1;
+	background: #4b5359;
 	color: #fff;
 }
