@@ -237,7 +237,7 @@
       "kind": "asset",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "adf394dfce826ee6f38a6f28dd36ad946c5cace333efc70ed38de8e8281e269e",
+      "local_sha256": "a034d9e6fddd89186295cd01c164ccf575cf836c19b9b8a6f8806587d908cd00",
       "local_bytes": 3027
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_39f66eafd63f395471f8fbba3156d0cb/page_39f66eafd63f395471f8fbba3156d0cb_v1.css": {
@@ -360,7 +360,7 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "31fa547c1305d05e7c03e960d34aacebad4f3d7dfdcf85d57497c06468ccd90b",
+      "local_sha256": "92e14a58721452767d6fcba3eff56361ba52068f0d4b3c9d2b907ea64e04b899",
       "local_bytes": 298764
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_7436e12536082c57803c88fabacb48e0/template_7436e12536082c57803c88fabacb48e0_v1.css": {
@@ -376,7 +376,7 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "73a3e86574a119c1ef87cd8e6d8a5ebb63b7217005282229dfa4730f84fcdaa9",
+      "local_sha256": "92278eb2f2d87d543964dfe52c4e7a05bac7e5d9c13d5813883f2d2fc095bef3",
       "local_bytes": 304323
     },
     "https://dial-td.ru/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_bbb7881656d1d2a510bec0b0b391abfd/template_bbb7881656d1d2a510bec0b0b391abfd_v1.css": {
@@ -644,7 +644,7 @@
       "inferred_original": false,
       "status": "ok",
       "cached": true,
-      "local_sha256": "074b11cf495f7574a2e307c10f88daf3fa571b6ed39a025f6f14c18ae942385f",
+      "local_sha256": "ba652a98edacabc85e55f451ea62e4a3a5fb180dbb9bb437d97825404eeeddf5",
       "local_bytes": 2820
     },
     "https://dial-td.ru/bitrix/js/main/core/core.js": {
@@ -5197,8 +5197,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "0c4cb4282e2d6b41a995f5850a67c6dd7c8d34dbd340a772cced898de427f104",
-      "local_bytes": 162039
+      "local_sha256": "3d2d1b33745d6818eb5e79c6bfb154ea2ec8f36d2579f57754ba9c2dc158b860",
+      "local_bytes": 162056
     },
     "https://dial-td.ru/catalog/alyuminievye-treugolnye-poruchni.tag": {
       "url": "https://dial-td.ru/catalog/alyuminievye-treugolnye-poruchni.tag",
@@ -7527,8 +7527,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "889e582a6e267715e5f55648c42c59ad8217847f292f81325df9a12814f9ccf4",
-      "local_bytes": 209184
+      "local_sha256": "c9dfee07d2b0681bc072e0cfc78f4dcc398fef63b93b4cf3c438ef8d19e8c53f",
+      "local_bytes": 209201
     },
     "https://dial-td.ru/catalog/alyuminievyy-plintus/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-plintus/?PAGEN_1=2",
@@ -7543,8 +7543,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/f85bbd7f3a66b562ee421b773bb808f964c179ec60165c68781ba76027babec2.html",
-      "local_sha256": "113ed6211e1cabb13da357c1a25cd16d227f5dd8908f3c8e7c3b4f97aee3b6e2",
-      "local_bytes": 208612
+      "local_sha256": "1be90e1fd82070b8260f6d8187159c904c40b7592b832968d7f3f0e0d4589ff4",
+      "local_bytes": 208629
     },
     "https://dial-td.ru/catalog/alyuminievyy-plintus/?PAGEN_1=3": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-plintus/?PAGEN_1=3",
@@ -7559,8 +7559,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/3db1601cd185d07ea7f0c19135edf409bac6ed824642863b02d894e5360855dd.html",
-      "local_sha256": "7446f3819b1f08f55adeb7cf8b99d8a5c0fff176fb0b7749e0ee75feda796128",
-      "local_bytes": 134394
+      "local_sha256": "2a782c1fdf2eef97f62da3d03bfc0b91b5bb83b847b992d0b4cdb91bd5ad9a39",
+      "local_bytes": 134411
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-dushevykh-kabin.tag": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-dushevykh-kabin.tag",
@@ -7635,8 +7635,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "a6a41fc817350c8a7b93e4bb929dd78f19c4355b5966e8dbd948c840c7901934",
-      "local_bytes": 169633
+      "local_sha256": "7dc2e52b809ea65cc36407ea7e5a8588c83873db38ebbb368e75ab7d2d835e0d",
+      "local_bytes": 169650
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/?PAGEN_1=2",
@@ -7651,8 +7651,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/8ff5fc07d1927fd65080af29638613921238fd8234de09ef4074fae6c4ad7d4e.html",
-      "local_sha256": "c18f1d35406aee593e7a776d5023fb99c86480e5274e49d5247e54047571b6ad",
-      "local_bytes": 168875
+      "local_sha256": "5ceed4fa9d7f3318aba9df250a49458701d3a0352fa9097dac71c172110738d9",
+      "local_bytes": 168892
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/?PAGEN_1=3": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/?PAGEN_1=3",
@@ -7667,8 +7667,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/4dc673b3281132eb0a609b4cbeda10d112eb16294e5fce5ba08a748eb64aaf9f.html",
-      "local_sha256": "49c1a5e64e00c29764b23a862ff88969cc2f886dd480c1531e44588278639503",
-      "local_bytes": 102681
+      "local_sha256": "e994efffde285fdfc3c7ad0293ef3effdfbc050e4ba830c6403c5210d69f3d72",
+      "local_bytes": 102698
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/",
@@ -7682,8 +7682,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "47f858a1ca74aab6656ed94b5532427eed6fdef2b00d171774847841575fe304",
-      "local_bytes": 162039
+      "local_sha256": "7884eb04813bda19ffe4c57889a24b15a5e88d5e95a211a8a0d22161f8213a4d",
+      "local_bytes": 162056
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/?PAGEN_1=2",
@@ -7698,8 +7698,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/b89efbee15e3e43d1af65b75610176c37b4042128c201f595c9bb117b91d6a25.html",
-      "local_sha256": "c2ec25a8c6f3fb7720bfea6db0dd6e84e578859502c2ada556f0c935abcaf0a8",
-      "local_bytes": 98872
+      "local_sha256": "9d787855bda03ee9d7511841a3368369c27285a68caa610654e6ecf801204889",
+      "local_bytes": 98889
     },
     "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/",
@@ -7849,8 +7849,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "b907a02e1cca7c38b86de89491c32dbec9fba42445a15c6835d6f8b210abf2c8",
-      "local_bytes": 195442
+      "local_sha256": "e326c95e4f080d573dccb20d13642444824d2ef4c8a058633502c22f9b60b68f",
+      "local_bytes": 195459
     },
     "https://dial-td.ru/catalog/alyuminievyy-ugolok-10-10-1-2-6000-ral.prod": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-ugolok-10-10-1-2-6000-ral.prod",
@@ -8952,8 +8952,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "75ea31ec4fecb9f657e378b9ed04bb06a6c15b86edcd77adb8223ca335c7a1ca",
-      "local_bytes": 192341
+      "local_sha256": "7b1f3b820fb753c614d7abac0e0a092e126443e9efbe3991bf2659eaeeb25527",
+      "local_bytes": 192358
     },
     "https://dial-td.ru/catalog/alyuminievyy-ugolok-ad31t1.tag?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/alyuminievyy-ugolok-ad31t1.tag?PAGEN_1=2",
@@ -8968,8 +8968,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/fc2b2286a7c6d8dda92997794e1dded321fb953d637638306e9afe08dae6eaef.html",
-      "local_sha256": "58d9f16442cb1795a62be79955f455b4e5081e911be94c8343b94f615cd23f6c",
-      "local_bytes": 126998
+      "local_sha256": "3db4e36a8ac530c0d07d0648f2e04d452147ef96b62814b39413cc3e5f9d98f3",
+      "local_bytes": 127015
     },
     "https://dial-td.ru/catalog/belye-mikroplintusy.tag": {
       "url": "https://dial-td.ru/catalog/belye-mikroplintusy.tag",
@@ -9298,8 +9298,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "12819332c13e0b331b072181ede7740c68e6dcd7d75a3ac54080a7a0ed1f3ad6",
-      "local_bytes": 185893
+      "local_sha256": "8da74d00282c8d20eae4c6b350c23b724c49f75f8e64fba10666c6c4396134c9",
+      "local_bytes": 185910
     },
     "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=2",
@@ -9314,8 +9314,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/9d40f616e7bf1a76b26d7d3bee88c9a6124b2693ca4138151234b44893a9019a.html",
-      "local_sha256": "c74e7d17603440de0b0409fdd8bdf7566fe5b43d214a9e42f9bd83946f090a33",
-      "local_bytes": 186526
+      "local_sha256": "a71543a1cea9ca489dae986c0dac2111c33f93f12ee04674e62157ab9e3bca18",
+      "local_bytes": 186543
     },
     "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=3": {
       "url": "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=3",
@@ -9330,8 +9330,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/7eb869d88538641a8b5f460332f90b5566af4a133802cf588596fa6e63326776.html",
-      "local_sha256": "9a2f6b0202384a90af95ff1be1dfdf4f45cae6e2467f3c66e08c8a586d8732ef",
-      "local_bytes": 186513
+      "local_sha256": "029e8991f251b58e27bb79bb77fa18515bc39472a65caf1c169e9fa7ccac260a",
+      "local_bytes": 186530
     },
     "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=4": {
       "url": "https://dial-td.ru/catalog/furnitura-dlya-alyuminievogo-plintusa/?PAGEN_1=4",
@@ -9346,8 +9346,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/2d16e22d91c190fc7549f42a7d99b3a220be78a0483eec21d962fe1a18c8805d.html",
-      "local_sha256": "812045ae5877b04949ee3d4fdd7ecd2622f4506d8fd26bd902b6c4f93412bb36",
-      "local_bytes": 160802
+      "local_sha256": "a4fefba37d0dcb83c003fa0962310b379261cadf10aff32776b90cfc4f6cbfcf",
+      "local_bytes": 160819
     },
     "https://dial-td.ru/catalog/furnitura-dlya-alyuminievykh-peril/": {
       "url": "https://dial-td.ru/catalog/furnitura-dlya-alyuminievykh-peril/",
@@ -9361,8 +9361,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "e8c758ff100af72fda47a5cb749a30cad9ac91037e64f7f7967676f549fdf1f8",
-      "local_bytes": 187715
+      "local_sha256": "0800f5a73057cc36bed94d2b1b77206fc1094e9b925577acc430e223b402b9d1",
+      "local_bytes": 187732
     },
     "https://dial-td.ru/catalog/furnitura-dlya-alyuminievykh-peril/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/furnitura-dlya-alyuminievykh-peril/?PAGEN_1=2",
@@ -9377,8 +9377,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/75e99c8521906c326ba6e6d56e3ff3689a4897debb6fd1dd60bb4c6fda0eaafa.html",
-      "local_sha256": "09c9a2ff83f1b0734f47d9ba47b73542857a2c6fe1a7da8128a67b68ab127bc6",
-      "local_bytes": 160740
+      "local_sha256": "38ee5b7087adcae3dc0b0fb4ce1316747e00ede359fef4f4ee236263f1f56c62",
+      "local_bytes": 160757
     },
     "https://dial-td.ru/catalog/karkas-pvu-30-30-mm-dlya-paneley-25-mm.prod": {
       "url": "https://dial-td.ru/catalog/karkas-pvu-30-30-mm-dlya-paneley-25-mm.prod",
@@ -11849,8 +11849,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "074bbb0b1a77cf59fc3628424601f0f4eaa7acd91e36749525e59604814e3c79",
-      "local_bytes": 292996
+      "local_sha256": "1c86c41ea242fe6d36d0458f11c34aa0ef5a627fd581b3bb8c69341efd53f922",
+      "local_bytes": 293013
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=10": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=10",
@@ -11865,8 +11865,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/4f3ca14d7456ac518f77c84d6d461f4f16ffe5149f748b107bbd9a7dfb0f643f.html",
-      "local_sha256": "a6dad9d617281cc60d69deedde99fc604e98c5adf48fdce929a4741f01cb54fb",
-      "local_bytes": 288110
+      "local_sha256": "21591004aaaeb9a7dd94cc4c0152db1da2471611acc943cc025edf4260002ac0",
+      "local_bytes": 288127
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=11": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=11",
@@ -11881,8 +11881,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/14173e91da448b929826e0ac9c1a22646ce6afe37768426f8b3c7a11b46f8e01.html",
-      "local_sha256": "1fbb1850463969424fa34bc3eaa84f551ea0d10befc61715460564f0aa3aa6e1",
-      "local_bytes": 290007
+      "local_sha256": "b1644fdb6b577625c14c8a757398727305ed2627d9da7892c833566f069c2b06",
+      "local_bytes": 290024
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=12": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=12",
@@ -11897,8 +11897,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/adb0bce3c13461c14adca569b4f5a76a0254b910080756ef961ce65222730224.html",
-      "local_sha256": "5df3b3ac941f619740967dc0b5a28fe917d7e49fcaa66d776a3dba0b4aa665df",
-      "local_bytes": 290782
+      "local_sha256": "8178b26b29b6140e1ab2306acad50d7cbc3915b7c67b58da642dd518e59dbb0e",
+      "local_bytes": 290799
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=13": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=13",
@@ -11913,8 +11913,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/c9a8e1dc929e3ef868ef5c43d21d9ff1745743209630e88732c198820b694718.html",
-      "local_sha256": "963dfa2681d78386fd9f2bf85fc5d02dc9142c502c8915e3fd55e4d8f011001d",
-      "local_bytes": 284354
+      "local_sha256": "2d9f477665584b3bf6354fd57c487740991da4836b93b7fda4c967089a976ba2",
+      "local_bytes": 284371
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=14": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=14",
@@ -11929,8 +11929,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/6dc464f33e71008947ec2f9a638afaff72aef815d41c0af90fda43477f9a9d6f.html",
-      "local_sha256": "75d00a4f211743f3170ac3de198963250e090d2fd442d05b7bdec48189b95a66",
-      "local_bytes": 285221
+      "local_sha256": "ae9761164ade50ea7c1c8121993c76e7a8fe698de5e3e58aca7182cde823804a",
+      "local_bytes": 285238
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=15": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=15",
@@ -11945,8 +11945,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/45c4b6d6c7da215c02bc1bb177a3a554ae3c564e60bf130c6b09e8a77f1fa8e9.html",
-      "local_sha256": "33746f1be165db7e1bdefd88a5212ff121e858cd068d3d44756f64685714f734",
-      "local_bytes": 285901
+      "local_sha256": "7663c44882151245ed075fc26b39baa7041bbc85038d4414abddfbe5b41ed0e8",
+      "local_bytes": 285918
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=16": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=16",
@@ -11961,8 +11961,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/e506c004e2eed9c91455ffe3595d36fa4c1f8c3c8e2658af9b693b4da9b3aa7b.html",
-      "local_sha256": "291e5ebabac05c86912b931cf382f3500d86176733009d548e4ddd625cbfdf6a",
-      "local_bytes": 279451
+      "local_sha256": "ca17d54626d96bb52e836117e060d13c7776261ac58ec9bb855bcd39c8a3ea2a",
+      "local_bytes": 279468
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=17": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=17",
@@ -11977,8 +11977,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/f4edd15c2268b22e3a5312a57c629544fb5221d8d98bb51e1c5f224c74542f12.html",
-      "local_sha256": "94494391f46b9a9d0facbd819468231be4c09d295b127253e981a310a8648301",
-      "local_bytes": 268416
+      "local_sha256": "a32150226d06be7550e7b066d834d0adff6a57e3728b24932e8db3aaaee964bf",
+      "local_bytes": 268433
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=18": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=18",
@@ -11993,8 +11993,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/b3b0be0cd3b7f35b10247208537d99ef9bb3b0f1cd61c922bc86422e8fdba7c9.html",
-      "local_sha256": "7914ab8262917999bd3bd023090eeade8af6432cccad295223531f1ce02318bb",
-      "local_bytes": 271722
+      "local_sha256": "aaeff5436bb9c603d7ca430b795f1778ee5c87ba4f1c66a9f99079cd4dc46521",
+      "local_bytes": 271739
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=19": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=19",
@@ -12009,8 +12009,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/3c88bf7b9f1fa3811fdab757bc8205df850773ff03b4c0d548ce0a76082162e7.html",
-      "local_sha256": "c3eb6aae019b4b5ec19782138056b02825049ab669630527ac6f387a561c7042",
-      "local_bytes": 280242
+      "local_sha256": "44ccdc836fb91117424ba80531bcf42e9c545d5f600a41abdc268102f9677a49",
+      "local_bytes": 280259
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=2",
@@ -12025,8 +12025,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/251abc5101ea6472314f4dbd245f3fca00ff8b340b833419ff4b05798001a461.html",
-      "local_sha256": "a322e06bbc3126cbbab5c6ca303796a6443eb531cb13a2f50342ea1040bbc6f1",
-      "local_bytes": 291948
+      "local_sha256": "b2f46b4118bfbf9a4651e2648f5c95e03c6bebe1aec78e753b0c0eaae5ccf43d",
+      "local_bytes": 291965
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=20": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=20",
@@ -12041,8 +12041,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/5f12f9d63d5c728248fdfb138e0365eb90e0828e1454acd16f290dfaffe04cfe.html",
-      "local_sha256": "aa8e0abad3b7c7947a406f9d69788e4a6ef7a8cd1e21a88244fe881ec02aeef7",
-      "local_bytes": 284728
+      "local_sha256": "6ce9d018e8ce409e30b995a9220940c710ef5f3b26aa75f1ee5c840468da4bae",
+      "local_bytes": 284745
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=21": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=21",
@@ -12057,8 +12057,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/c8d4400ec78d71bf2af9c0d95ccd98d85f04919cefdf7cec3282a82de332aa14.html",
-      "local_sha256": "e6ad23ae87a8b1f1c87614f5ab6d156ffeeb2dff0bd73cd7ed75a7133e4dc352",
-      "local_bytes": 268292
+      "local_sha256": "91af4c98cd0bf2561527f35344b03e1037a8c553ea1464fdec120118cd65050e",
+      "local_bytes": 268309
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=22": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=22",
@@ -12073,8 +12073,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/c23dcf7512a7cbc2e8480696f7daf6a849b285bd13a37bea9ab3d31e53376794.html",
-      "local_sha256": "a856d2464702545334c5b2617f70aee4ec21d91f0bf72ff85076bcb3702142b3",
-      "local_bytes": 192910
+      "local_sha256": "3c90765b6fd1aed8367aa16bfbca0659c5733492a8143011ceab0394e98d3a75",
+      "local_bytes": 192927
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=3": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=3",
@@ -12089,8 +12089,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/7df085ce6d712ceaed5dd678a057579a8ef1de5bafe8d54449e07e1748de3a73.html",
-      "local_sha256": "230f744a64ccdd21e0b2e58f8d7b066f79a8675b8b39e12daf3e5967f698a3d2",
-      "local_bytes": 290621
+      "local_sha256": "21b3bcbe9689526aaea6d6ea8d1adcaef5b1d09e482804dafad19d5cdbe6a5b9",
+      "local_bytes": 290638
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=4": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=4",
@@ -12105,8 +12105,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/8aa95eebe60b59704e02fca07aaead1efc4d8e5f6c9b555d187bbdfe595f8742.html",
-      "local_sha256": "cc8d4b9d3b1fe0ec2a3083dd669a84084607f181b540d90a84a296f64d97c78b",
-      "local_bytes": 290827
+      "local_sha256": "70ff29e0b132b20431cc4d14040e63144b4e2300896582048638a0ce66ab17ea",
+      "local_bytes": 290844
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=5": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=5",
@@ -12121,8 +12121,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/3881907b3a126e4bd996b7329c862615d1cc5e3c1e15c9defb84b727b7611025.html",
-      "local_sha256": "0fdf671d1766ea7370cecc9766f74b8f7ea8a3ede7bede67ac2c9a5fdcea3f42",
-      "local_bytes": 290096
+      "local_sha256": "decacee3b0bdb5e77a78f3c9a7a37219f8235447c06883875748d2af07f94e44",
+      "local_bytes": 290113
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=6": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=6",
@@ -12137,8 +12137,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/2bce492f647125c7a4a235a6dd13c8fb19c3eb4c9cece7b1bb830d236760a895.html",
-      "local_sha256": "cb0c8fc577519c5926934fb7a516dec792c8e5dab146194e23158079e35f13d6",
-      "local_bytes": 289379
+      "local_sha256": "0c84e2da6a5cd87de19bbf9e355272a1bcc70e0f5516318cc7da1fd8d71f7119",
+      "local_bytes": 289396
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=7": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=7",
@@ -12153,8 +12153,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/f3df0fa3024c3d1cd1f11e362cf0b1141d3373b57a1538a6af3666357e4ba71f.html",
-      "local_sha256": "e90f207ca9bac452d4b1b027ab20f7ea269a9b88602684ef878b3272ff361043",
-      "local_bytes": 287709
+      "local_sha256": "802deda032671a7e52b6058585e99024dcd359f3745b2f45cfa90fe6853bad64",
+      "local_bytes": 287726
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=8": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=8",
@@ -12169,8 +12169,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/b8bed778b7b5d46c01d33fbf424faf1254ce89047857aaef30db053a2eb60bbe.html",
-      "local_sha256": "0b31d0da60bed79b4cb6d8803b13c05384e763f0fbdbb77ac198f241d53fa380",
-      "local_bytes": 291535
+      "local_sha256": "d56d014a6680a4255f329a865f6d5fad552649ed2a5c201a3e78cb1f021de960",
+      "local_bytes": 291552
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=9": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=9",
@@ -12185,8 +12185,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/db29bb7e41027b45e0563d2987e3e31b3d82fc5caa80c386812dfad8bac99049.html",
-      "local_sha256": "41925e8a660fddf8fa461a8c2f03c056f9c0d7a68079e475f52a244fe3b0f7e0",
-      "local_bytes": 291335
+      "local_sha256": "b1bdc8328b84a9bf639504746082acd4d045e3517579bbcecdd87adee54ecc93",
+      "local_bytes": 291352
     },
     "https://dial-td.ru/catalog/skrytye-plintusy-serebro.tag": {
       "url": "https://dial-td.ru/catalog/skrytye-plintusy-serebro.tag",
@@ -13222,8 +13222,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "3e95e61e689a458b5e39cd0d442d412378c2b8f6eb28ab2e51d118bb4e4d91fd",
-      "local_bytes": 225864
+      "local_sha256": "2ed40ddce4403cfacd8f8a488c507116743e5439f7fb23f0fc112166220c62e3",
+      "local_bytes": 225881
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=2",
@@ -13238,8 +13238,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/37bf840813c12d78bc5224246ecc5c8ae858c151a7ca49536e7764465e485348.html",
-      "local_sha256": "4553d1340de2a12fa02bf832a6d12545cd51669a78ebb8ee4d2be322ed51fda7",
-      "local_bytes": 225226
+      "local_sha256": "575302a152f486606af475221d9b6ce57c7f8d43e72f73c21af2c7acdaed4eee",
+      "local_bytes": 225243
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=3": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=3",
@@ -13254,8 +13254,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/82af2db2468273c2b69dd68ddb110623c26299367f86d60425c8c5d72277acff.html",
-      "local_sha256": "55523fa16d997d65206c57aa1ead5224217dee4ef48a630622b2cee0954b34bd",
-      "local_bytes": 224276
+      "local_sha256": "aee2d2e8835e474f77d9270f332b3bb3b12eeb28d52a48f65b2106a0bf0fefe2",
+      "local_bytes": 224293
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=4": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=4",
@@ -13270,8 +13270,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/23a6ee08e7bb2da783800aa89954357cd46ae280cd81448733fbe49e869accae.html",
-      "local_sha256": "ba2290614066e5752e4a65cf41e16ef231370ca283a03edbf066ceb6843239d7",
-      "local_bytes": 226286
+      "local_sha256": "341d7e428ddd76662425fc2c985e618290cce81e3f94da3f573d54adfab729cd",
+      "local_bytes": 226303
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=5": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=5",
@@ -13286,8 +13286,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/0672b9a5d555018db2b894cd7b347d66ddf182a5672cbe69cc03d256006c450d.html",
-      "local_sha256": "50e9e30b4481e3255ccfd80782044f11d9a5ea8ba8c614f93e4895d67eac99ad",
-      "local_bytes": 225887
+      "local_sha256": "0b811d6d1f8ca68d4cf0af9c939c101863df5a9bc7040495524858c2cc5b2dde",
+      "local_bytes": 225904
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=6": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=6",
@@ -13302,8 +13302,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/aaec58929e0416d42b86273e757f817cc2014f6b0203efea5999866b9b808e58.html",
-      "local_sha256": "bb9b7022c6b23a30a49d37f033a64247afdc485644daad68be447ad930862f6b",
-      "local_bytes": 226204
+      "local_sha256": "4cb4472ccd0d4a0f1bbbe03249e63a96bb3dbcee1e0be5bbab170df086ed9744",
+      "local_bytes": 226221
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=7": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=7",
@@ -13318,8 +13318,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/2a52924b19920997c0ee882d1c649bf48ffcb8e4fdfe03ac5d92161acdb743d4.html",
-      "local_sha256": "f8933c5ef242c733903715da0c4a6f3faa0b34f974ba0e6167cacf79ee93a10d",
-      "local_bytes": 223314
+      "local_sha256": "c3d395f9681f6946c5ee391a2c55e069f061b826b82ce58f748e1ac20436624d",
+      "local_bytes": 223331
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=8": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/?PAGEN_1=8",
@@ -13334,8 +13334,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/beac0b7229407af7dbaf32d949cc4ac15b0597984d06fe6f7627dcdb5dac7391.html",
-      "local_sha256": "eac14dff3bd4ba3fd062af7e13ee65ad30cb42ba04c8e33cc2f51c0b229ca803",
-      "local_bytes": 131347
+      "local_sha256": "d0867bfa1b7d5fab297ad28adbb00bb3a1ea6b61d3792fe6483fb02e18cf7e0e",
+      "local_bytes": 131364
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/",
@@ -13499,8 +13499,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "539a741f1ad03f089de0ac9593157f76b622747b64e5f4d0cde57cfa6029a564",
-      "local_bytes": 195442
+      "local_sha256": "9d97a51f481cea5ac53c1bb479ef093adabefa2915d9f915fdc8662f3f757536",
+      "local_bytes": 195459
     },
     "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/?PAGEN_1=2",
@@ -13515,8 +13515,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/4489ce8a72898163a0da1e2c404a18635398ea5c3e6d0facfd24d0f46858cd3b.html",
-      "local_sha256": "4f2eb42a7854ebf9ffe79ad4e55aa34326ffcc5ed4435e76a85b0d6a8061e806",
-      "local_bytes": 133676
+      "local_sha256": "35d0fc276b7a96c15b24daa97c94e14ce7e0f8e2e1e591822be8286d51282c69",
+      "local_bytes": 133693
     },
     "https://dial-td.ru/catalog/tavr-15-x-15-x-2.prod": {
       "url": "https://dial-td.ru/catalog/tavr-15-x-15-x-2.prod",
@@ -15037,8 +15037,8 @@
       "kind": "page",
       "inferred_original": false,
       "status": "ok",
-      "local_sha256": "21a9011064a375946433dd15fad91cd9baf68d36a3b210f7d5358c09cc8e4556",
-      "local_bytes": 187366
+      "local_sha256": "179ab555fd15214933bee8b9b095110fc93832cb8ac21989b0a24e06ce0ef1fa",
+      "local_bytes": 187383
     },
     "https://dial-td.ru/catalog/zaglushki-dlya-alyuminievogo-plintusa.tag?PAGEN_1=2": {
       "url": "https://dial-td.ru/catalog/zaglushki-dlya-alyuminievogo-plintusa.tag?PAGEN_1=2",
@@ -15053,8 +15053,8 @@
       "inferred_original": false,
       "status": "ok",
       "original_text_file": "original-text/_mirror/query/2cd12c6ca5280bdf181acd802ff242b4f22ad5edd096987cfbc6c7edc7adb9ac.html",
-      "local_sha256": "7535f1b4680ca9a84987629dd246d335cbc7831236c778bad792c70caf7c2e70",
-      "local_bytes": 100063
+      "local_sha256": "dbfef5903adb09ba6acbab008996ba9a2353bdba562350244cd3afabbcf639da",
+      "local_bytes": 100080
     },
     "https://dial-td.ru/catalog/zaglushki-levaya-pravaya-100-belyy.prod": {
       "url": "https://dial-td.ru/catalog/zaglushki-levaya-pravaya-100-belyy.prod",
