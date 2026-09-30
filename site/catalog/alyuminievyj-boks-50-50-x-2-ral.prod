@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый бокс 25 * 25 * 2 * 6000 RAL представляет собой алюминиевую профильную трубу для строительных, инженерных и производственных задач. Материал АД31Т1 сочетает прочность с небольшой массой, а ровная поверхность придаёт…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-boks-50-50-x-2-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/1d3/a0g1y3307xoc38ur701af8yr7z1x65qb.jpg">
+	<meta property="og:image" content="https:///upload/iblock/1d3/a0g1y3307xoc38ur701af8yr7z1x65qb.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1377.24</span>
 						</span>

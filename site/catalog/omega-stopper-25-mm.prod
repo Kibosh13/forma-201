@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Омега стоппер 25 мм по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/omega-stopper-25-mm.prod">
-    	<meta property="og:image" content="https:///upload/iblock/981/z4buk40ruwjldkum819ctat8wnhh06dr.jpg">
+	<meta property="og:image" content="https:///upload/iblock/981/z4buk40ruwjldkum819ctat8wnhh06dr.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1149,8 +1149,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">437</span>
 						</span>

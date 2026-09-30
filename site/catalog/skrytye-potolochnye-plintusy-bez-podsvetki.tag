@@ -1850,7 +1850,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/1fd/250_250_1/ue5rai8a4njf0yejr0xy0accbeq6sfd0.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/1fd/250_250_1/ue5rai8a4njf0yejr0xy0accbeq6sfd0.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1858,15 +1858,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2341                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0074</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1881,24 +1880,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Чёрный									"></span>
+									<span class="value-product-attribute" data-text="чёрный матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1256</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра" data-price="1256">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1908,7 +1907,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1023" >
@@ -1924,7 +1923,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/1f2/250_250_1/1701rtur8kqlpmso7zpmwtz5stgerbsb.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/1f2/250_250_1/1701rtur8kqlpmso7zpmwtz5stgerbsb.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1932,15 +1931,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2341                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0075</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-zoloto.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1955,24 +1953,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Золото									"></span>
+									<span class="value-product-attribute" data-text="золото матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1256</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра" data-price="1256">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1982,7 +1980,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1119" >
@@ -1998,7 +1996,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/056/250_250_1/ug063skkn1w87fqp33zi2xxal0tlidxc.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/056/250_250_1/ug063skkn1w87fqp33zi2xxal0tlidxc.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2006,15 +2004,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2340                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0076</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2029,24 +2026,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Чёрный									"></span>
+									<span class="value-product-attribute" data-text="чёрный матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">205</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1190</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный" data-price="205">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра" data-price="1190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2056,7 +2053,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1022" >
@@ -2072,23 +2069,22 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/984/250_250_1/t3umteshf3ndkflyuhuttppovg1zn7bg.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/984/250_250_1/t3umteshf3ndkflyuhuttppovg1zn7bg.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2341                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0078</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-shampan.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2103,34 +2099,34 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Шампань									"></span>
+									<span class="value-product-attribute" data-text="шампань матовая"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1256</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра" data-price="1256">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1120" >
@@ -2138,15 +2134,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1122">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-serebro-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/b0e/250_250_1/3feiph3iwf1f5acaqbyej2jz0iitonjg.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/b0e/250_250_1/3feiph3iwf1f5acaqbyej2jz0iitonjg.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2154,15 +2150,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2340                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0079</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-serebro-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2177,24 +2172,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="серебро матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">205</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1190</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро" data-price="205">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра" data-price="1190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2204,7 +2199,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1122" >
@@ -2220,7 +2215,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-zoloto-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/740/250_250_1/lwc1sgkdfe875ratcck2r875otf3v6j2.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/740/250_250_1/lwc1sgkdfe875ratcck2r875otf3v6j2.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2228,15 +2223,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2340                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0082</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-zoloto-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2251,34 +2245,34 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="золото матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">205</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1190</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото" data-price="205">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра" data-price="1190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1123" >
@@ -2286,31 +2280,30 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1121">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-belye-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/757/250_250_1/1enae49gl7bwskybpwfam1ei8067mp9b.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белые" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/757/250_250_1/1enae49gl7bwskybpwfam1ei8067mp9b.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2340                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0083</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-belye-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белые							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2325,34 +2318,34 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="белый матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">205</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1190</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белые" data-price="205">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра" data-price="1190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1121" >
@@ -2360,15 +2353,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1118">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/845/250_250_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/845/250_250_1/fgyu8uwjnq6a8rso848oq8d6ibq3z13z.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2376,15 +2369,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2341                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0085</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2399,24 +2391,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Серебро									"></span>
+									<span class="value-product-attribute" data-text="серебро матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1256</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра" data-price="1256">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2426,7 +2418,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1118" >
@@ -2442,23 +2434,22 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-shampan-6m.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/894/250_250_1/8nz2o5qcrs98fb1bub2jckleptuw9rj0.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/894/250_250_1/8nz2o5qcrs98fb1bub2jckleptuw9rj0.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2340                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0086</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-shampan-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2473,24 +2464,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="шампань матовая"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">205</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1190</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань" data-price="205">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра" data-price="1190">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2500,7 +2491,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1124" >
@@ -2516,23 +2507,22 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-belyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/3d4/250_250_1/gmca8wln5ntqkjhr92t63du02hie22i6.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/3d4/250_250_1/gmca8wln5ntqkjhr92t63du02hie22i6.jpg" alt="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра" title="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2341                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0087</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-belyy.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый							</a>
+								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2547,24 +2537,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="белый матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1256</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый" data-price="1000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра" data-price="1256">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2574,7 +2564,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1117" >

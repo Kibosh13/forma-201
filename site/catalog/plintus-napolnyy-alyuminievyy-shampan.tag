@@ -1990,7 +1990,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0018                            </div>
@@ -2016,8 +2016,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2059,7 +2058,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0012                            </div>
@@ -2085,8 +2084,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">822</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2128,7 +2126,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0006                            </div>
@@ -2154,8 +2152,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1686</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2197,7 +2194,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0024                            </div>
@@ -2223,8 +2220,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1290</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2266,7 +2262,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0049                            </div>
@@ -2292,8 +2288,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2335,7 +2330,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0043                            </div>
@@ -2361,8 +2356,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2404,7 +2398,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0065                            </div>
@@ -2430,10 +2424,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">2700</span>
+											<span class="pricespace">2207</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2441,7 +2434,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра" data-price="2700">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра" data-price="2207">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2473,7 +2466,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0037                            </div>
@@ -2499,8 +2492,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2536,13 +2528,13 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/0a8/250_250_1/k7swn72zq1oxgvchii5bqsolr9a62v0q.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/0a8/250_250_1/k7swn72zq1oxgvchii5bqsolr9a62v0q.jpg" alt="Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра" title="Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0059                            </div>
@@ -2552,7 +2544,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра							</a>
+								Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2568,10 +2560,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">6000</span>
+											<span class="pricespace">1406</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2579,7 +2570,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем шампань матовая 3 метра" data-price="6000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра" data-price="1406">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

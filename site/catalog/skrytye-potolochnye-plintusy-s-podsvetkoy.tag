@@ -1850,7 +1850,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/1d8/250_250_1/4m1s9dfmh7mqkamv78j4yrf1vvd5d0vn.jpg" alt="Потолочные скрытые плинтусы для подсветки чёрные" title="Потолочные скрытые плинтусы для подсветки чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/1d8/250_250_1/4m1s9dfmh7mqkamv78j4yrf1vvd5d0vn.jpg" alt="Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра" title="Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1858,15 +1858,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2338                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0072</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки чёрные							</a>
+								Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1876,24 +1875,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Чёрный									"></span>
+									<span class="value-product-attribute" data-text="чёрный матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">320</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1690</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки чёрные" data-price="320">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра" data-price="1690">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1903,7 +1902,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1024" >
@@ -1919,23 +1918,22 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4a8/250_250_1/jw9llu4pld1p9208jo18q1foytz8p4ll.jpg" alt="Потолочные скрытые плинтусы для подсветки шампань" title="Потолочные скрытые плинтусы для подсветки шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4a8/250_250_1/jw9llu4pld1p9208jo18q1foytz8p4ll.jpg" alt="Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра" title="Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2338                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0073</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-shampan.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки шампань							</a>
+								Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1943,31 +1941,32 @@
 									<span class="value-product-attribute" data-text="
 									да									"></span>
 								</div>
-																					</div>
+																					<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">320</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1690</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки шампань" data-price="320">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра" data-price="1690">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1116" >
@@ -1975,15 +1974,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1114">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/6a0/250_250_1/aofako16lemk4i46rnxlfaakr07oea0a.jpg" alt="Потолочные скрытые плинтусы для подсветки серебро" title="Потолочные скрытые плинтусы для подсветки серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/6a0/250_250_1/aofako16lemk4i46rnxlfaakr07oea0a.jpg" alt="Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра" title="Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1991,15 +1990,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2338                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0080</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-serebro.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки серебро							</a>
+								Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2009,24 +2007,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Серебро									"></span>
+									<span class="value-product-attribute" data-text="серебро матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">320</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1690</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки серебро" data-price="320">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра" data-price="1690">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2036,7 +2034,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1114" >
@@ -2052,23 +2050,22 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/c73/250_250_1/29fjlkzuk0u9vyrs7oq81p99g923dane.jpg" alt="Потолочные скрытые плинтусы для подсветки белые" title="Потолочные скрытые плинтусы для подсветки белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/c73/250_250_1/29fjlkzuk0u9vyrs7oq81p99g923dane.jpg" alt="Потолочные скрытые плинтусы для подсветки белый матовый 3 метра" title="Потолочные скрытые плинтусы для подсветки белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2338                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0081</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-belye.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки белые							</a>
+								Потолочные скрытые плинтусы для подсветки белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2078,24 +2075,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="белый матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">320</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1690</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки белые" data-price="320">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки белый матовый 3 метра" data-price="1690">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2105,7 +2102,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1113" >
@@ -2121,7 +2118,7 @@
 																	</div>
 					<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/af2/250_250_1/x7r27to0akuhbgizk2ov6mrxgdtuzf0l.jpg" alt="Потолочные скрытые плинтусы для подсветки золото" title="Потолочные скрытые плинтусы для подсветки золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/af2/250_250_1/x7r27to0akuhbgizk2ov6mrxgdtuzf0l.jpg" alt="Потолочные скрытые плинтусы для подсветки золото матовое 3 метра" title="Потолочные скрытые плинтусы для подсветки золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2129,15 +2126,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2338                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0088</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-zoloto.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки золото							</a>
+								Потолочные скрытые плинтусы для подсветки золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2147,24 +2143,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Золото									"></span>
+									<span class="value-product-attribute" data-text="золото матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">320</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1690</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки золото" data-price="320">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Потолочные скрытые плинтусы для подсветки золото матовое 3 метра" data-price="1690">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2174,7 +2170,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1115" >

@@ -2016,8 +2016,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2085,8 +2084,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1188</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2154,8 +2152,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2223,8 +2220,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2292,8 +2288,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">990</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2361,8 +2356,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2430,8 +2424,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2499,10 +2492,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">2700</span>
+											<span class="pricespace">2207</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2510,7 +2502,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра" data-price="2700">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра" data-price="2207">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2536,7 +2528,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/7ba/250_250_1/ptl9g09cvapl4y388gkq3yvux3xkm8o5.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/7ba/250_250_1/ptl9g09cvapl4y388gkq3yvux3xkm8o5.jpg" alt="Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра" title="Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2552,7 +2544,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-serebro.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра							</a>
+								Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2568,10 +2560,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">6000</span>
+											<span class="pricespace">1406</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2579,7 +2570,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем серебро матовое 3 метра" data-price="6000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра" data-price="1406">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2637,10 +2628,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">720</span>
+											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2648,7 +2638,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 серебро матовое 3 метра" data-price="720">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 серебро матовое 3 метра" data-price="1110">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

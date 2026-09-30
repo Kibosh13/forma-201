@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый П-профиль 10 * 10 * 10 * 1,5 * 6000 RAL — отделочный и монтажный профиль с П-образным сечением. Его изготавливают из лёгкого алюминиевого сплава АД31Т1, чтобы обрамлять края материалов и формировать ровные переходы.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-p-profil-10-x-10-x-10-x-1-5-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/5a7/ss3fxdqw239qg7o31et7pur1ouxab13a.jpg">
+	<meta property="og:image" content="https:///upload/iblock/5a7/ss3fxdqw239qg7o31et7pur1ouxab13a.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">300.84</span>
 						</span>

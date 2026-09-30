@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 12 * 1,0 * 6000 используется в строительстве, производстве мебели и промышленном оборудовании. Труба из АД31Т1 имеет небольшую массу и гладкую поверхность, сочетая механическую прочность с коррозионной стойкостью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-12x1-0x6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/932/70mar8qv8nse2i33n9eqotnayffgz4y8.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/932/70mar8qv8nse2i33n9eqotnayffgz4y8.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">282</span>
 						</span>

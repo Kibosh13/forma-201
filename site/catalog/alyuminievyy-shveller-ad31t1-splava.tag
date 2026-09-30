@@ -1842,8 +1842,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1149</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -1914,8 +1913,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">327</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -1986,8 +1984,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1170</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2058,8 +2055,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1062</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2130,8 +2126,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">438</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2202,8 +2197,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1884</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2274,8 +2268,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">693</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2346,8 +2339,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">510</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2418,8 +2410,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">912</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2490,8 +2481,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">267</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2562,8 +2552,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">270</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2634,8 +2623,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">630</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2706,8 +2694,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1236</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2778,8 +2765,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">573</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2850,8 +2836,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">993</span>
 																						<span class="catalog-section-tile__price-rub">

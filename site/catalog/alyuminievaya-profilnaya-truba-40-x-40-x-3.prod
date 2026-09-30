@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая профильная труба 40 * 40 * 3 * 6000 — лёгкий конструкционный элемент для строительных каркасов, перегородок и инженерного оборудования. Алюминий сочетает прочность с коррозионной стойкостью, а аккуратная поверхность подходит…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-profilnaya-truba-40-x-40-x-3.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/44f/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/44f/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">3320.28</span>
 						</span>

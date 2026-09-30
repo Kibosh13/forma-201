@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый П-профиль 40 * 40 * 40 * 2 * 6000 помогает оформить стыки и закрыть открытые кромки отделки. Основой служит сплав АД31Т1: прочный алюминий при небольшом весе удобен в монтажных работах.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-p-profil-40-x-40-x-40-x-2.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/d7f/75x79qkp99t3qegyfdcqtu4ly4bqrekj.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/d7f/75x79qkp99t3qegyfdcqtu4ly4bqrekj.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1733.28</span>
 						</span>

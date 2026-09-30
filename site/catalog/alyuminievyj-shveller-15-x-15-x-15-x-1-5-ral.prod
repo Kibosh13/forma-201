@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 6000 RAL относится к конструкционным П-образным профилям. Материал АД31Т1 позволяет сочетать небольшую массу швеллера с жёсткостью и коррозионной стойкостью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-shveller-15-x-15-x-15-x-1-5-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/9ed/nclq96m1bfetytj9of7l63qmd1xev7xc.jpg">
+	<meta property="og:image" content="https:///upload/iblock/9ed/nclq96m1bfetytj9of7l63qmd1xev7xc.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">510</span>
 						</span>

@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Внутренний угол алюминиевого плинтуса 60 мм золото применяется в местах внутренних углов при установке алюминиевого плинтуса. Деталь помогает оформить переход между соседними участками профиля.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/vnutrenniy-ugol-60-zoloto.prod">
-    	<meta property="og:image" content="https:///upload/iblock/10e/0a4pzebu7ye20o1xt2nhd3ya7pti0yhv.jpg">
+	<meta property="og:image" content="https:///upload/iblock/10e/0a4pzebu7ye20o1xt2nhd3ya7pti0yhv.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">170</span>
 						</span>
@@ -1419,7 +1418,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod">Скрытые плинтусы для пола с подсветкой и рассеивателем золото матовое 3 метра</a><a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-zoloto.prod">Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-zoloto.prod">Скрытые плинтусы для пола с подсветкой золото матовое 3 метра</a><a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-zoloto.prod">Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

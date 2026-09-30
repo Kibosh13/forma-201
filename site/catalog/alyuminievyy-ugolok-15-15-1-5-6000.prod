@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый Уголок 15 * 15 * 1,5 * 6000 помогает связать детали каркаса, укрепить его углы и защитить края отделки. Небольшая масса алюминия удобна при сборке, а жёсткая форма подходит и для конструкционных, и для декоративных работ.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-ugolok-15-15-1-5-6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/524/8qbou7pfkq1vreujp0q5hyr1e6can24w.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/524/8qbou7pfkq1vreujp0q5hyr1e6can24w.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">348</span>
 						</span>

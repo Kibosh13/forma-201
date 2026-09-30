@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая профильная труба 40 * 60 * 2 * 6000 RAL позволяет собирать прочные конструкции без значительного увеличения их массы. Профиль востребован в архитектурных, строительных и промышленных проектах, включая каркасы и перегородки.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-profilnaya-truba-40-x-60-x-2-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/802/oh2ba6m82ewa5dpbf7dzohi0s1xjwiy0.jpg">
+	<meta property="og:image" content="https:///upload/iblock/802/oh2ba6m82ewa5dpbf7dzohi0s1xjwiy0.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">2862.12</span>
 						</span>

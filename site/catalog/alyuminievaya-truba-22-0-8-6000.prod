@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 22 * 0,8 * 6000 — лёгкая алюминиевая труба из сплава АД31Т1 для строительных, производственных и бытовых задач. Прочность материала сочетается с сопротивляемостью коррозии, а гладкая поверхность удобна при стыковке…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-22-0-8-6000.prod">
-    	<meta property="og:image" content="https:///upload/iblock/47d/xedeyez7vsp9pzw6k33gpzxly1ynyjoo.png">
+	<meta property="og:image" content="https:///upload/iblock/47d/xedeyez7vsp9pzw6k33gpzxly1ynyjoo.png">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">432</span>
 						</span>

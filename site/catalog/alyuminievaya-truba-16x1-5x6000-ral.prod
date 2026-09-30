@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 16 * 1,5 * 6000 RAL — лёгкая алюминиевая труба из сплава АД31Т1 для строительных, производственных и бытовых задач. Прочность материала сочетается с сопротивляемостью коррозии, а гладкая поверхность удобна при стыковке…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-16x1-5x6000-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/682/2tdbnrmohf5fdjriguge60qu0jt0ovle.jpg">
+	<meta property="og:image" content="https:///upload/iblock/682/2tdbnrmohf5fdjriguge60qu0jt0ovle.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">552</span>
 						</span>

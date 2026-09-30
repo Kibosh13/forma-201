@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый П-образный полированный поручень для стекла 10 мм от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-p-obraznyy-polirovanyi-poruchen-pod-uplotnitel-dlya-stekla-10-mm.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/50b/rrg0g20wmu16g02230nf8zq6e2ntzz3b.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/50b/rrg0g20wmu16g02230nf8zq6e2ntzz3b.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1152,8 +1152,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">306</span>
 						</span>
@@ -1394,7 +1393,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/p-profil-serebristyy.prod">П-образный профиль для стекла серебро</a><a href="/catalog/alyuminievyy-p-obraznyy-poruchen-pod-uplotnitel-dlya-stekla-10-mm.prod">Алюминиевый П-образный поручень для стекла 10 мм</a><a href="/catalog/alyuminievyy-p-obraznyy-poruchen-pod-uplotnitel-dlya-stekla-12-mm.prod">Алюминиевый П-образный поручень для стекла 12 мм</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/p-profil-serebristyy.prod">П-образный профиль для стекла серебро матовое 3 метра</a><a href="/catalog/alyuminievyy-p-obraznyy-poruchen-pod-uplotnitel-dlya-stekla-10-mm.prod">Алюминиевый П-образный поручень для стекла 10 мм</a><a href="/catalog/alyuminievyy-p-obraznyy-poruchen-pod-uplotnitel-dlya-stekla-12-mm.prod">Алюминиевый П-образный поручень для стекла 12 мм</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

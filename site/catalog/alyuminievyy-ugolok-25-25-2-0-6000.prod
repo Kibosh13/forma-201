@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый Уголок 25 * 25 * 2,0 * 6000 используется там, где требуется усилить угловое соединение или аккуратно закрыть край конструкции. Это лёгкий алюминиевый элемент для сборки каркасов, ремонтных работ и оформления поверхностей.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-ugolok-25-25-2-0-6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/925/ducwuo3ba2vblp29y29aheg9cbapifh4.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/925/ducwuo3ba2vblp29y29aheg9cbapifh4.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">777</span>
 						</span>

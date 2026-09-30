@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевые полированные поручни круглые 43 мм под стекло 16 мм предназначены для ограждений с удобной округлой линией опоры. Наружный диаметр составляет 43 мм, а посадочный паз этой версии рассчитан на стекло 16 мм.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-16-mm.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/b00/pj9o678hqk8lyin7hrrt6hn43xh3ks7i.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/b00/pj9o678hqk8lyin7hrrt6hn43xh3ks7i.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">600</span>
 						</span>

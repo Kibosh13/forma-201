@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Рамка 30*30 90° наружной решетки облегченная по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/ramka-30-30-90-naruzhnoy-reshetki-oblegchennaya.prod">
-    	<meta property="og:image" content="https:///upload/iblock/e53/8s0ie6jyvo39crdgcv0bs2mj221tlo5e.jpg">
+	<meta property="og:image" content="https:///upload/iblock/e53/8s0ie6jyvo39crdgcv0bs2mj221tlo5e.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1149,8 +1149,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">101</span>
 						</span>

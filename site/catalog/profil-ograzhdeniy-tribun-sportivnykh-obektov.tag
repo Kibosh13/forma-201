@@ -1922,7 +1922,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1930,13 +1930,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0096</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1954,21 +1955,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро матовое									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">16845</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" data-price="3000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="16845">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1978,7 +1980,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="283" >
@@ -1994,7 +1996,7 @@
 																	</div>
 					<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/2de/250_250_1/902on342b11axttur0pkb2ycul9o2cgi.jpg" alt="Универсальный зажимной профиль 102 мм для стекла серебро матовое" title="Универсальный зажимной профиль 102 мм для стекла серебро матовое" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/2de/250_250_1/902on342b11axttur0pkb2ycul9o2cgi.jpg" alt="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" title="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2002,13 +2004,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0097</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Универсальный зажимной профиль 102 мм для стекла серебро матовое							</a>
+								Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2026,21 +2029,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3800</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">19855</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Универсальный зажимной профиль 102 мм для стекла серебро матовое" data-price="3800">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" data-price="19855">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2050,7 +2054,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2647" >
@@ -2066,7 +2070,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/13b/250_250_1/qakdxlx1gcldsiq12r6d3i8wvnhn8z68.jpg" alt="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/13b/250_250_1/qakdxlx1gcldsiq12r6d3i8wvnhn8z68.jpg" alt="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2074,13 +2078,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0100</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2095,24 +2100,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									матовый									"></span>
+									<span class="value-product-attribute" data-text="матовый без покрытия"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3300</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">18756</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" data-price="3300">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="18756">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2122,7 +2127,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="288" >
@@ -2138,7 +2143,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2146,13 +2151,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0101</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2165,21 +2171,22 @@
 									<span class="value-product-attribute" data-text="
 									60									"></span>
 								</div>
-																					</div>
+																					<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">2700</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">15900</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" data-price="2700">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="15900">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2189,7 +2196,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="284" >
@@ -2205,7 +2212,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-106-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/48b/250_250_1/53f1vszviyjgwl7mqc1l592lb8e206e2.jpg" alt="Комплект опорного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/48b/250_250_1/53f1vszviyjgwl7mqc1l592lb8e206e2.jpg" alt="Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2213,13 +2220,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0102</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2237,21 +2245,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро матовое									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3750</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">18200</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм" data-price="3750">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="18200">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2261,7 +2270,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="287" >

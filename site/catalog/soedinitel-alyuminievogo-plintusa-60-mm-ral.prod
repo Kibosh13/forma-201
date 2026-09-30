@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Соединитель алюминиевого плинтуса 60 мм RAL — стыковочная деталь для алюминиевого напольного профиля. Её используют в местах соединения плинтуса, подбирая фурнитуру по размеру и цвету.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/soedinitel-alyuminievogo-plintusa-60-mm-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/442/vpy1a4hicmi1zumj8gu0wfhrugqqceyg.jpg">
+	<meta property="og:image" content="https:///upload/iblock/442/vpy1a4hicmi1zumj8gu0wfhrugqqceyg.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">100</span>
 						</span>
@@ -1396,7 +1395,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-ral.prod">Скрытые плинтусы для пола с подсветкой и рассеивателем RAL 3 метра</a><a href="/catalog/mikroplintus-dlya-pola-5-9-20-ral.prod">Микроплинтус для пола 5,9*20 RAL 3 метра</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-ral.prod">Скрытые плинтусы для пола с подсветкой RAL 3 метра</a><a href="/catalog/mikroplintus-dlya-pola-5-9-20-ral.prod">Микроплинтус для пола 5,9*20 RAL 3 метра</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

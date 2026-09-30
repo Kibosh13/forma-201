@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Перемычка 50 мм для панелей 45 мм Р-350-450 по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/peremychka-50-mm-dlya-paneley-45-mm.prod">
-    	<meta property="og:image" content="https:///upload/iblock/dfa/vlk5ayditgjj1ezfrhkd8tggsvzo1fgk.jpg">
+	<meta property="og:image" content="https:///upload/iblock/dfa/vlk5ayditgjj1ezfrhkd8tggsvzo1fgk.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1149,8 +1149,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">475</span>
 						</span>

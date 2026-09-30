@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 20 * 1,5 * 6000 RAL используется в строительстве, производстве мебели и промышленном оборудовании. Труба из АД31Т1 имеет небольшую массу и гладкую поверхность, сочетая механическую прочность с коррозионной стойкостью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-20x1-5x6000-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/76b/352r5x5qmfe5wnvgykpl36kwdg7b9fpe.jpg">
+	<meta property="og:image" content="https:///upload/iblock/76b/352r5x5qmfe5wnvgykpl36kwdg7b9fpe.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">708</span>
 						</span>

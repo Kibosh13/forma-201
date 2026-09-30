@@ -1844,7 +1844,7 @@
 																	</div>
 					<a href="/catalog/razdelitel-dlya-sten.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/2dc/250_250_1/mi3w3p86000p1wl8kmv9r8kul7uazm4z.jpg" alt="Разделительный профиль для стен чёрные" title="Разделительный профиль для стен чёрные" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/2dc/250_250_1/mi3w3p86000p1wl8kmv9r8kul7uazm4z.jpg" alt="Разделительный профиль для стен чёрный матовый 3 метра" title="Разделительный профиль для стен чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1852,37 +1852,36 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2339                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0071</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdelitel-dlya-sten.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен чёрные							</a>
+								Разделительный профиль для стен чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Чёрный									"></span>
+									<span class="value-product-attribute" data-text="чёрный матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">280</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1576</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен чёрные" data-price="280">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен чёрный матовый 3 метра" data-price="1576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1892,7 +1891,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1025" >
@@ -1908,7 +1907,7 @@
 																	</div>
 					<a href="/catalog/razdeliteli-dlya-sten-zoloto.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/a37/250_250_1/4dcaf94d3tg1k99t4fj1cd11wxdi4s8j.jpg" alt="Разделительный профиль для стен золото" title="Разделительный профиль для стен золото" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/a37/250_250_1/4dcaf94d3tg1k99t4fj1cd11wxdi4s8j.jpg" alt="Разделительный профиль для стен золото матовое 3 метра" title="Разделительный профиль для стен золото матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1916,37 +1915,36 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2339                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0077</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-zoloto.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен золото							</a>
+								Разделительный профиль для стен золото матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Золото									"></span>
+									<span class="value-product-attribute" data-text="золото матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">280</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1576</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен золото" data-price="280">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен золото матовое 3 метра" data-price="1576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1956,7 +1954,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1111" >
@@ -1972,45 +1970,44 @@
 																	</div>
 					<a href="/catalog/razdeliteli-dlya-sten-belye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4b5/250_250_1/n51ffkqsu72hx8bu6fg4k8h52aulcoyo.jpg" alt="Разделительный профиль для стен белые" title="Разделительный профиль для стен белые" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4b5/250_250_1/n51ffkqsu72hx8bu6fg4k8h52aulcoyo.jpg" alt="Разделительный профиль для стен белый матовый 3 метра" title="Разделительный профиль для стен белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2339                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0084</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-belye.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен белые							</a>
+								Разделительный профиль для стен белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="белый матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">230</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1576</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен белые" data-price="230">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен белый матовый 3 метра" data-price="1576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2020,7 +2017,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1109" >
@@ -2036,7 +2033,7 @@
 																	</div>
 					<a href="/catalog/razdeliteli-dlya-sten-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/2d4/250_250_1/ww5cqpvck13359ftci0oi2jc71sz1gp7.jpg" alt="Разделительный профиль для стен серебро" title="Разделительный профиль для стен серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/2d4/250_250_1/ww5cqpvck13359ftci0oi2jc71sz1gp7.jpg" alt="Разделительный профиль для стен серебро матовое 3 метра" title="Разделительный профиль для стен серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2044,37 +2041,36 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2339                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0089</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-serebro.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен серебро							</a>
+								Разделительный профиль для стен серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Серебро									"></span>
+									<span class="value-product-attribute" data-text="серебро матовое"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">280</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1576</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен серебро" data-price="280">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен серебро матовое 3 метра" data-price="1576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2084,7 +2080,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1110" >
@@ -2100,45 +2096,44 @@
 																	</div>
 					<a href="/catalog/razdeliteli-dlya-sten-shampan.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/d66/250_250_1/r3woaqw2jyq38fu5mnuieafnif16wjjm.jpg" alt="Разделительный профиль для стен шампань" title="Разделительный профиль для стен шампань" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/d66/250_250_1/r3woaqw2jyq38fu5mnuieafnif16wjjm.jpg" alt="Разделительный профиль для стен шампань матовая 3 метра" title="Разделительный профиль для стен шампань матовая 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-tile__article">
-                                Арт.: 2339                            </div>
+                                                                                    <div class="catalog-section-tile__article">Арт. 0090</div>
                                                         <div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-shampan.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен шампань							</a>
+								Разделительный профиль для стен шампань матовая 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Шампань									"></span>
+									<span class="value-product-attribute" data-text="шампань матовая"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">280</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">1576</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен шампань" data-price="280">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Разделительный профиль для стен шампань матовая 3 метра" data-price="1576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2148,7 +2143,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1112" >

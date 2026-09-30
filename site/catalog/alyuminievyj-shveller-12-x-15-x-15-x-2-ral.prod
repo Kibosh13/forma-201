@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый швеллер 12 * 15 * 15 * 2 * 6000 RAL используется как лёгкий конструкционный элемент с открытым П-образным сечением. Сплав АД31Т1 обеспечивает прочность, жёсткость и сопротивляемость коррозии.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-shveller-12-x-15-x-15-x-2-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/955/t6pnbttexam4ys2wazr53a9fkubh8e4i.jpg">
+	<meta property="og:image" content="https:///upload/iblock/955/t6pnbttexam4ys2wazr53a9fkubh8e4i.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">630</span>
 						</span>

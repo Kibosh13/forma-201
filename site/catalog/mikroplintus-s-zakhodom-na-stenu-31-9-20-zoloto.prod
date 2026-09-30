@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod">
-    	<meta property="og:image" content="https:///upload/iblock/52d/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg">
+	<meta property="og:image" content="https:///upload/iblock/52d/r18ag8e9dl1vhjpuypfy67l0twv68rbi.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1150,8 +1150,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1260</span>
 						</span>

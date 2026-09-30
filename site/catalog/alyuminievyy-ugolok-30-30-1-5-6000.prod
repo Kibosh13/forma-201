@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый Уголок 30 * 30 * 1,5 * 6000 служит соединительным и усиливающим элементом в каркасах, а в отделке закрывает и защищает углы. Профиль сочетает небольшую массу с прочностью, необходимой для монтажных работ.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-ugolok-30-30-1-5-6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/73a/0mlnbmpadw1z9f920ggaq1j3awp3qsrs.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/73a/0mlnbmpadw1z9f920ggaq1j3awp3qsrs.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">714</span>
 						</span>

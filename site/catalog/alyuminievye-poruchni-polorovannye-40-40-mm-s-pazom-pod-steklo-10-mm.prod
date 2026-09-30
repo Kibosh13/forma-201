@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевые поручни полированные 40*40 мм с пазом под стекло 10 мм формируют удобную опору на стеклянном ограждении и подчёркивают его геометрию. Квадратное сечение 40 × 40 мм рассчитано на комфортный обхват, а паз этой модели…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievye-poruchni-polorovannye-40-40-mm-s-pazom-pod-steklo-10-mm.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/395/3jeizc38xz0e2nhmqegg2mo7vdywixk5.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/395/3jeizc38xz0e2nhmqegg2mo7vdywixk5.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">816</span>
 						</span>

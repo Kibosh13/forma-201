@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 25 * 1,5 * 6000 используется в строительстве, производстве мебели и промышленном оборудовании. Труба из АД31Т1 имеет небольшую массу и гладкую поверхность, сочетая механическую прочность с коррозионной стойкостью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-25x1-5x6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/3cf/t69tyo7ukd35pw7rpk6pxs8308a4mw9g.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/3cf/t69tyo7ukd35pw7rpk6pxs8308a4mw9g.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">903</span>
 						</span>

@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый бокс 20 * 40 * 3 * 6000 RAL подходит для конструкций, в которых важны малый вес и прочность деталей. Этот бокс из сплава АД31Т1 применяют в строительстве, промышленном оборудовании и инженерных системах.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-boks-20-40-x-3-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/28f/lfilemm1s1s303mo73j23rbgh335vkmj.jpg">
+	<meta property="og:image" content="https:///upload/iblock/28f/lfilemm1s1s303mo73j23rbgh335vkmj.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">2634</span>
 						</span>

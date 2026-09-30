@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod">
-    	<meta property="og:image" content="https:///upload/iblock/414/y6da4at5qx64huic37a6h2guw8mykess.jpg">
+	<meta property="og:image" content="https:///upload/iblock/414/y6da4at5qx64huic37a6h2guw8mykess.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">200</span>
 						</span>

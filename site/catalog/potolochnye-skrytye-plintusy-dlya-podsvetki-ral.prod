@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Потолочные скрытые плинтусы для подсветки RAL с отделкой по RAL позволяют согласовать скрытую подсветку с цветовой гаммой интерьера. Профиль оформляет примыкание стены и потолка, оставляя LED-ленту внутри монтажного паза.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/46e/epw0ahxkgkz43vrx15okaw8ftm2z7vpb.jpg">
+	<meta property="og:image" content="https:///upload/iblock/46e/epw0ahxkgkz43vrx15okaw8ftm2z7vpb.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1151,8 +1151,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">320</span>
 						</span>
@@ -1370,6 +1369,10 @@
         
 
         
+                                                <section class="related-accessories" aria-labelledby="related-accessories-title">
+<h2 id="related-accessories-title">С этим покупают</h2>
+<div class="related-accessories__list"><a class="related-accessories__item" href="/catalog/rasseivatel-dlya-svetodiodnoy-lenty-belyy-2-metra.prod"><img src="/upload/iblock/custom-hidden/led-diffuser-white.jpg" alt="Рассеиватель для светодиодной ленты белый 2 метра"><span>Рассеиватель для светодиодной ленты белый 2 метра</span><strong>164 ₽</strong></a></div>
+</section>
                                                 <script>
                     function initSwiperProductsSlider() {
                         const swiperProductsSlider = new Swiper('.products-custom__slider-js', {

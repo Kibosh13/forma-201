@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Фланец с пазом для поручня 40*40 мм алюминиевый от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm-alyuminievyy.prod">
-    	<meta property="og:image" content="https:///upload/iblock/a53/413rbbwofxssv29e75x1pfmwy3ad0ihv.jpg">
+	<meta property="og:image" content="https:///upload/iblock/a53/413rbbwofxssv29e75x1pfmwy3ad0ihv.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">200</span>
 						</span>

@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый П-профиль 25 * 25 * 25 * 2 * 6000 RAL используется для аккуратного обрамления и защиты кромок. Профиль из АД31Т1 имеет П-образное сечение и подходит для отделочных и монтажных работ, сочетая небольшой вес с прочностью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-p-profil-25-x-25-x-25-x-2-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/ec3/j5mgel4taotegmz4w949720pbdzzm6hk.jpg">
+	<meta property="og:image" content="https:///upload/iblock/ec3/j5mgel4taotegmz4w949720pbdzzm6hk.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1057.08</span>
 						</span>

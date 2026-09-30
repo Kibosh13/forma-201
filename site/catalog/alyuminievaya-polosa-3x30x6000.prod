@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая полоса 3 * 30 * 6000 имеет форму прямоугольной алюминиевой ленты. Для изготовления используют сплав АД31Т1, сочетающий пластичность, прочность и сопротивляемость коррозии; малый вес удобен при перевозке и установке.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-polosa-3x30x6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/0ba/janktcq1kj6nr77f4yolk298k74vfug8.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/0ba/janktcq1kj6nr77f4yolk298k74vfug8.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">673.44</span>
 						</span>

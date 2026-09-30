@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая труба 22 * 1,2 * 6000 используется в строительстве, производстве мебели и промышленном оборудовании. Труба из АД31Т1 имеет небольшую массу и гладкую поверхность, сочетая механическую прочность с коррозионной стойкостью.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-truba-22-1-2-6000.prod">
-    	<meta property="og:image" content="https:///upload/iblock/45a/4qbqk00falt5id0aguv0q0ohv9bq0fmu.png">
+	<meta property="og:image" content="https:///upload/iblock/45a/4qbqk00falt5id0aguv0q0ohv9bq0fmu.png">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">559.68</span>
 						</span>

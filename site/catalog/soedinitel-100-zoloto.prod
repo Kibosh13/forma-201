@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Соединитель алюминиевого плинтуса 100 мм золото — стыковочная деталь для алюминиевого напольного профиля. Её используют в местах соединения плинтуса, подбирая фурнитуру по размеру и цвету.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/soedinitel-100-zoloto.prod">
-    	<meta property="og:image" content="https:///upload/iblock/a45/pzus00zfzlalo6we3auwdtc9daad3xlq.jpg">
+	<meta property="og:image" content="https:///upload/iblock/a45/pzus00zfzlalo6we3auwdtc9daad3xlq.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">140</span>
 						</span>
@@ -1242,7 +1241,7 @@
                             <div class="catalog-detail__text">
 <p><strong>Соединитель алюминиевого плинтуса 100 мм золото</strong> — стыковочная деталь для алюминиевого напольного профиля. Её используют в местах соединения плинтуса, подбирая фурнитуру по размеру и цвету.</p>
 <p>Размер по высоте — 100 мм. Цвет этой позиции — «золото».</p>
-<p>Цветовую отделку профилей выбирают по палитре RAL Classic. В наличии предусмотрены анодированные исполнения: серебристое и чёрное.</p>
+<p>Цветовую отделку профилей выбирают по палитре RAL Classic. Под заказ предусмотрены анодированные исполнения: серебристое и чёрное.</p>
 </div>
                         </div>
                                         <div class="catalog-detail__parameter tabs_block2">
@@ -1419,7 +1418,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/razdeliteli-dlya-sten-zoloto.prod">Разделительный профиль для стен золото</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-zoloto-6m.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/razdeliteli-dlya-sten-zoloto.prod">Разделительный профиль для стен золото матовое 3 метра</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-zoloto-6m.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

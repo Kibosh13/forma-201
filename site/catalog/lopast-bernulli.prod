@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Лопасть Бернулли по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/lopast-bernulli.prod">
-    	<meta property="og:image" content="https:///upload/iblock/1ff/w2dhzgrt4gse52yl0u6h3k8qhhu0q82i.jpg">
+	<meta property="og:image" content="https:///upload/iblock/1ff/w2dhzgrt4gse52yl0u6h3k8qhhu0q82i.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1149,8 +1149,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">229</span>
 						</span>

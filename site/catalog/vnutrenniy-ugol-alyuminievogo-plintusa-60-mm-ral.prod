@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Внутренний угол алюминиевого плинтуса 60 мм RAL применяется в местах внутренних углов при установке алюминиевого плинтуса. Деталь помогает оформить переход между соседними участками профиля.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/vnutrenniy-ugol-alyuminievogo-plintusa-60-mm-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/41b/n4vtc1ayu5pl73hn0awlapvk3oevamcq.jpg">
+	<meta property="og:image" content="https:///upload/iblock/41b/n4vtc1ayu5pl73hn0awlapvk3oevamcq.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">170</span>
 						</span>

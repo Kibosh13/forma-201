@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая профильная труба 40 * 40 * 1,5 * 6000 используется в каркасных конструкциях и перегородках, а также при решении инженерных задач. Небольшая масса, сопротивляемость коррозии и аккуратный вид делают профиль удобным для…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-profilnaya-truba-40-x-40-x-1-5.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/7ae/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/7ae/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1727.76</span>
 						</span>

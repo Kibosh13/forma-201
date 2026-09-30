@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевые поручни треугольные 45*30 мм под стекло 10 мм задают выразительную трёхгранную линию стеклянного ограждения. Сечение 45 × 30 мм имеет форму равнобедренного треугольника со скруглёнными рёбрами, за которые удобно держаться…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievye-poruchni-treugolnye-45-30-mm-pod-steklo-10-mm.prod">
-    	<meta property="og:image" content="https:///upload/iblock/bbe/wwosrbia4nc5dmq82n65fpfj2kpek3fa.jpg">
+	<meta property="og:image" content="https:///upload/iblock/bbe/wwosrbia4nc5dmq82n65fpfj2kpek3fa.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">400</span>
 						</span>

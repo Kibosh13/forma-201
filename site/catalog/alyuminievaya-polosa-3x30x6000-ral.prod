@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая полоса 3 * 30 * 6000 RAL представляет собой плоскую алюминиевую заготовку из АД31Т1. Это лёгкий и прочный материал, который удобен для монтажа и транспортировки и хорошо подходит для дальнейшей обработки благодаря…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-polosa-3x30x6000-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/557/voy68x5p9ct9ftvxnlwlvqbyxbd0vmce.jpg">
+	<meta property="og:image" content="https:///upload/iblock/557/voy68x5p9ct9ftvxnlwlvqbyxbd0vmce.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">673.44</span>
 						</span>

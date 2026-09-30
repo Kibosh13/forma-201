@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевые плинтусы напольные 12*60 мм RAL 3 метра — пристеночные напольные профили с L-образным сечением. Они предназначены для применения в закрытых помещениях и оформляют примыкание пола к стене.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievye-plintusy-napolnye-12-60mm-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/d56/nvmi76ndf0w7w1dtluowofryve6phvfh.jpg">
+	<meta property="og:image" content="https:///upload/iblock/d56/nvmi76ndf0w7w1dtluowofryve6phvfh.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1145,8 +1145,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">990</span>
 						</span>
@@ -1342,7 +1341,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-ral.prod">Скрытые плинтусы для пола с подсветкой и рассеивателем RAL 3 метра</a><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-6m-ral.prod">Скрытые плинтусы для пола с подсветкой радиусные RAL 3 метра</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-6m-ral.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм RAL</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-ral.prod">Скрытые плинтусы для пола с подсветкой RAL 3 метра</a><a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-6m-ral.prod">Скрытые плинтусы для пола с подсветкой радиусные RAL 3 метра</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-6m-ral.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм RAL</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 6000 — швеллер из алюминиевого сплава АД31Т1 с сечением в форме буквы П. Профиль применяют в конструкциях, которым нужны жёсткость и механическая прочность при небольшой массе деталей.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-shveller-30-x-30-x-30-x-1-5.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/877/2x9v6q0h5sbhp2g9wepbicy96prcwht3.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/877/2x9v6q0h5sbhp2g9wepbicy96prcwht3.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1062</span>
 						</span>

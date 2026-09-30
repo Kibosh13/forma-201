@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая профильная труба 12 * 12 * 1 * 6000 RAL — лёгкий конструкционный элемент для строительных каркасов, перегородок и инженерного оборудования. Алюминий сочетает прочность с коррозионной стойкостью, а аккуратная поверхность…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-profilnaya-truba-12-x-12-x-1-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/2f4/24rf5jzc91t9tbbdfp3j1ha9wughcgh9.jpg">
+	<meta property="og:image" content="https:///upload/iblock/2f4/24rf5jzc91t9tbbdfp3j1ha9wughcgh9.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">328.44</span>
 						</span>

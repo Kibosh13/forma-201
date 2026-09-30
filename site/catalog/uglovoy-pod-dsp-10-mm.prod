@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Угловой под ДСП 10 мм от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/uglovoy-pod-dsp-10-mm.prod">
-    	<meta property="og:image" content="https:///upload/iblock/65c/twse65sut0w8t0znx41o5w5343jn6pqu.jpg">
+	<meta property="og:image" content="https:///upload/iblock/65c/twse65sut0w8t0znx41o5w5343jn6pqu.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">945</span>
 						</span>

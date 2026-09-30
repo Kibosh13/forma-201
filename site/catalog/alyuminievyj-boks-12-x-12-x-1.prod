@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый бокс 12 * 12 * 1 * 6000 представляет собой алюминиевую профильную трубу для строительных, инженерных и производственных задач. Материал АД31Т1 сочетает прочность с небольшой массой, а ровная поверхность придаёт собранному…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyj-boks-12-x-12-x-1.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/e72/iwpwnw6indfebptx0awda20hwas0vyc7.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/e72/iwpwnw6indfebptx0awda20hwas0vyc7.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">357</span>
 						</span>

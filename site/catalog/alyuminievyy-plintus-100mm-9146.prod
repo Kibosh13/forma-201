@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-plintus-100mm-9146.prod">
-    	<meta property="og:image" content="https:///upload/iblock/f48/ih2sol96n5mzli98jeywdbujszhhm4zu.jpg">
+	<meta property="og:image" content="https:///upload/iblock/f48/ih2sol96n5mzli98jeywdbujszhhm4zu.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1149,8 +1149,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1872</span>
 						</span>
@@ -1274,10 +1273,7 @@
         
 
     </div>
-<section class="related-accessories" aria-labelledby="related-accessories-title">
-<h2 id="related-accessories-title">С этим покупают</h2>
-<div class="related-accessories__list"><a class="related-accessories__item" href="/catalog/vneshniy-ugol-100-chyernyy.prod"><img src="/upload/resize_cache/iblock/7a7/617_470_1/evqc7zjgvpfshsgc34sib3a4yhcu4nb9.jpg" alt="Внешний угол алюминиевого плинтуса 100 мм чёрный"><span>Внешний угол алюминиевого плинтуса 100 мм чёрный</span><strong>230 ₽</strong></a><a class="related-accessories__item" href="/catalog/vnutrenniy-ugol-100-chyernyy.prod"><img src="/upload/resize_cache/iblock/dc5/617_470_1/tlqam2dy9cvz91jz7tne3o3irp8glu2a.jpg" alt="Внутренний угол алюминиевого плинтуса 100 мм чёрный"><span>Внутренний угол алюминиевого плинтуса 100 мм чёрный</span><strong>230 ₽</strong></a><a class="related-accessories__item" href="/catalog/soedinitel-100-chyernyy.prod"><img src="/upload/resize_cache/iblock/cf8/617_470_1/pimjcg93c1y9ry7w0vwwd183psvmd6r1.jpg" alt="Соединитель алюминиевого плинтуса 100 мм чёрный"><span>Соединитель алюминиевого плинтуса 100 мм чёрный</span><strong>140 ₽</strong></a><a class="related-accessories__item" href="/catalog/zaglushki-levaya-pravaya-100-chyernyy.prod"><img src="/upload/resize_cache/iblock/ec3/617_470_1/ghjprtq27m486wbg0zbf085b8f05toqd.jpg" alt="Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)"><span>Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)</span><strong>230 ₽</strong></a></div>
-</section>
+
     <div class="catalog-detail__form-manager mt-70 mb-70">
         <!-- FORM EXPERT -->
         <!--noindex-->

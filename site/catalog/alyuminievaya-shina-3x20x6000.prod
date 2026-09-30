@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая Шина 3 * 20 * 6000 представляет собой цельную прямоугольную шину из алюминиевого сплава. Прочность и малый вес полезны при работе с конструкциями в строительстве, машиностроении, промышленности и электроэнергетике.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-shina-3x20x6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/df5/mvbqubau235r34weu8kivv36q5umnycg.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/df5/mvbqubau235r34weu8kivv36q5umnycg.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">447.12</span>
 						</span>

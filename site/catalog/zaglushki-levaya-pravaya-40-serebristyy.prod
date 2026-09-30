@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Заглушки алюминиевого плинтуса 40 мм серебро (левая, правая) используются на открытых торцах напольного плинтуса. Предусмотрены левое и правое исполнения, которые подбирают по стороне завершения профиля.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/zaglushki-levaya-pravaya-40-serebristyy.prod">
-    	<meta property="og:image" content="https:///upload/iblock/90f/whiai5kcr7v7mloxbhr91kvnlenoamn5.jpg">
+	<meta property="og:image" content="https:///upload/iblock/90f/whiai5kcr7v7mloxbhr91kvnlenoamn5.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">110</span>
 						</span>
@@ -1419,7 +1418,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/razdeliteli-dlya-sten-serebro.prod">Разделительный профиль для стен серебро</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-serebro-6m.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/razdeliteli-dlya-sten-serebro.prod">Разделительный профиль для стен серебро матовое 3 метра</a><a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-serebro-6m.prod">Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

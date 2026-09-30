@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая квадратная труба 20 * 20 * 2 * 6000 подходит для каркасных решений, где важны жёсткость и аккуратное сопряжение деталей. Квадратное сечение и гладкая поверхность сочетаются с небольшим весом алюминия.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-kvadratnaya-truba-20-x-20-x-2.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/5e1/kpdb0w157hklksefglo6dvzytw8shstf.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/5e1/kpdb0w157hklksefglo6dvzytw8shstf.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1076.4</span>
 						</span>

@@ -4035,8 +4035,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4072,21 +4071,22 @@
 																	</div>
 					<a href="/catalog/karniz-dlya-skrytogo-osveshcheniya-pod-gipsokarton-60-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/6c2/250_250_1/is0347foc33b5qj8u5czaso5bxqps8g6.jpg" alt="Карниз для скрытого освещения 60 мм" title="Карниз для скрытого освещения 60 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/6c2/250_250_1/is0347foc33b5qj8u5czaso5bxqps8g6.jpg" alt="Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра" title="Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0070</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/karniz-dlya-skrytogo-osveshcheniya-pod-gipsokarton-60-mm.prod" class="catalog-section-tile__title-link">
-								Карниз для скрытого освещения 60 мм							</a>
+								Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4101,34 +4101,34 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									Белый									"></span>
+									<span class="value-product-attribute" data-text="белый матовый"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">500</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">3568</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Карниз для скрытого освещения 60 мм" data-price="500">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра" data-price="3568">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2471" >
@@ -4136,15 +4136,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1027">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-10-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/93b/250_250_1/7cr1ku6vc23uuqr1591ilk6gpfgg9vgy.jpg" alt="Комплект опорного профиля серебро матовое h 40 мм для стекол 10 мм" title="Комплект опорного профиля серебро матовое h 40 мм для стекол 10 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/93b/250_250_1/7cr1ku6vc23uuqr1591ilk6gpfgg9vgy.jpg" alt="Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра" title="Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4152,13 +4152,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0095</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля серебро матовое h 40 мм для стекол 10 мм							</a>
+								Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4176,21 +4177,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро матовое									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">600</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">4790</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля серебро матовое h 40 мм для стекол 10 мм" data-price="600">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра" data-price="4790">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -4200,7 +4202,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1027" >
@@ -4216,7 +4218,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4224,13 +4226,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0096</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4248,21 +4251,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро матовое									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3000</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">16845</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм" data-price="3000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="16845">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -4272,7 +4276,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="283" >
@@ -4320,8 +4324,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4357,7 +4360,7 @@
 																	</div>
 					<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/2de/250_250_1/902on342b11axttur0pkb2ycul9o2cgi.jpg" alt="Универсальный зажимной профиль 102 мм для стекла серебро матовое" title="Универсальный зажимной профиль 102 мм для стекла серебро матовое" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/2de/250_250_1/902on342b11axttur0pkb2ycul9o2cgi.jpg" alt="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" title="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4365,13 +4368,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0097</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Универсальный зажимной профиль 102 мм для стекла серебро матовое							</a>
+								Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4389,21 +4393,22 @@
 									<span class="value-product-attribute" data-text="
 									серебро									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3800</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">19855</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Универсальный зажимной профиль 102 мм для стекла серебро матовое" data-price="3800">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра" data-price="19855">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -4413,7 +4418,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2647" >
@@ -4464,8 +4469,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1277.88</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4536,8 +4540,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">663</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4608,8 +4611,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">663</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4645,7 +4647,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-40-mm-dlya-stekol-10-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/4f8/250_250_1/tb9suieavdnkhft51cx4jpzxsie1w9uz.jpg" alt="Комплект опорного профиля матовый h 40 мм для стекол 10 мм" title="Комплект опорного профиля матовый h 40 мм для стекол 10 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/4f8/250_250_1/tb9suieavdnkhft51cx4jpzxsie1w9uz.jpg" alt="Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра" title="Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4653,13 +4655,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0098</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля матовый h 40 мм для стекол 10 мм							</a>
+								Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4674,24 +4677,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									матовый									"></span>
+									<span class="value-product-attribute" data-text="матовый без покрытия"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">600</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">4638</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля матовый h 40 мм для стекол 10 мм" data-price="600">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра" data-price="4638">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -4701,7 +4704,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1028" >
@@ -4752,8 +4755,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1222.32</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4795,7 +4797,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0018                            </div>
@@ -4821,8 +4823,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -4858,7 +4859,7 @@
 																	</div>
 					<a href="/catalog/p-profil-serebristyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/5e7/250_250_1/j6288bzku5lvn4rvu17ji3b1qwzkes62.png" alt="П-образный профиль для стекла серебро" title="П-образный профиль для стекла серебро" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/5e7/250_250_1/j6288bzku5lvn4rvu17ji3b1qwzkes62.png" alt="П-образный профиль для стекла серебро матовое 3 метра" title="П-образный профиль для стекла серебро матовое 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4866,13 +4867,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0099</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/p-profil-serebristyy.prod" class="catalog-section-tile__title-link">
-								П-образный профиль для стекла серебро							</a>
+								П-образный профиль для стекла серебро матовое 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4885,21 +4887,22 @@
 									<span class="value-product-attribute" data-text="
 									12									"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">179</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">2956</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="П-образный профиль для стекла серебро" data-price="179">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="П-образный профиль для стекла серебро матовое 3 метра" data-price="2956">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -4909,7 +4912,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="1310" >
@@ -4960,8 +4963,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1675.32</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5017,8 +5019,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">6200</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5089,8 +5090,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1277.88</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5132,7 +5132,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0008                            </div>
@@ -5158,8 +5158,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">726</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5195,7 +5194,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/13b/250_250_1/qakdxlx1gcldsiq12r6d3i8wvnhn8z68.jpg" alt="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/13b/250_250_1/qakdxlx1gcldsiq12r6d3i8wvnhn8z68.jpg" alt="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5203,13 +5202,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0100</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5224,24 +5224,24 @@
 								</div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Цвет: "></span>
-									<span class="value-product-attribute" data-text="
-									матовый									"></span>
+									<span class="value-product-attribute" data-text="матовый без покрытия"></span>
 								</div>
-													</div>
+													<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">3300</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">18756</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля матовый h 106 мм для стекол 10, 12, 16, 20 мм" data-price="3300">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="18756">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -5251,7 +5251,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="288" >
@@ -5267,7 +5267,7 @@
 																	</div>
 					<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" title="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/261/250_250_1/j4i44dt7hr5od8sjnlxv6y0lem3eldrt.jpg" alt="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" title="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5275,13 +5275,14 @@
                                                                 <div class="catalog-section-tile__status-nal">
                                     В наличии                                </div>
                                                                                                                                                             </div>
-                                                                                    <div class="catalog-section-price__article">
+                                                                                    <div class="catalog-section-tile__article">Арт. 0101</div>
+<div class="catalog-section-price__article">
 								                            </div>
 
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм							</a>
+								Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5294,21 +5295,22 @@
 									<span class="value-product-attribute" data-text="
 									60									"></span>
 								</div>
-																					</div>
+																					<div class="main-property-product">
+<span class="name-product-attribute" data-text="Длина: "></span>
+<span class="value-product-attribute" data-text="3 метра"></span>
+</div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">2700</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">15900</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект опорного профиля h 102 мм для стекол 10, 12, 16, 20 мм" data-price="2700">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра" data-price="15900">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -5318,7 +5320,7 @@
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="284" >
@@ -5369,8 +5371,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">663</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5436,8 +5437,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3739.8</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5508,8 +5508,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2748.24</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5575,8 +5574,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1675.32</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -5618,7 +5616,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
+                                    Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0002                            </div>
@@ -5644,8 +5642,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1554</span>
 																						<span class="catalog-section-tile__price-rub">

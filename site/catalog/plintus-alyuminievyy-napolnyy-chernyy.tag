@@ -2016,8 +2016,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1500</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2085,8 +2084,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1260</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2154,8 +2152,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">822</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2223,8 +2220,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1686</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2260,7 +2256,7 @@
 																	</div>
 					<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/d2c/250_250_1/r1w2x46x0kuynqgo04qagmo3gl6qc477.jpg" alt="Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра" title="Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2276,7 +2272,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра							</a>
+								Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра							</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2292,10 +2288,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">6000</span>
+											<span class="pricespace">1406</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2303,7 +2298,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой и рассеивателем чёрный матовый 3 метра" data-price="6000">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра" data-price="1406">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2361,10 +2356,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">2700</span>
+											<span class="pricespace">2207</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2372,7 +2366,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" data-price="2700">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра" data-price="2207">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2430,8 +2424,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2499,8 +2492,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1092</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2568,8 +2560,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1290</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2632,8 +2623,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1410</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2701,10 +2691,9 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">720</span>
+											<span class="pricespace">1110</span>
 																						<span class="catalog-section-tile__price-rub">
                                                 р./шт.                                            </span>
 																					</div>
@@ -2712,7 +2701,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 чёрный матовый 3 метра" data-price="720">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Микроплинтус для пола 5,9*16 чёрный матовый 3 метра" data-price="1110">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2765,8 +2754,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1320</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2829,8 +2817,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1872</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2893,8 +2880,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1782</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -2957,8 +2943,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1860</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -3021,8 +3006,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1050</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -3085,8 +3069,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1590</span>
 																						<span class="catalog-section-tile__price-rub">
@@ -3149,8 +3132,7 @@
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
-																		<div class="catalog-section-tile__price-ot">
-										от									</div>
+
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1350</span>
 																						<span class="catalog-section-tile__price-rub">

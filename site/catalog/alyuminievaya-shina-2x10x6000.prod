@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая Шина 2 * 10 * 6000 имеет прямоугольное сечение без полостей. Этот лёгкий алюминиевый профиль используют для строительных и промышленных задач, изготовления машин и электротехнических систем.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-shina-2x10x6000.prod">
-    	<meta property="og:image" content="https:///upload/medialibrary/661/wjdk8ljb4rs522t6igmn3f2xq5z1k6k5.jpg">
+	<meta property="og:image" content="https:///upload/medialibrary/661/wjdk8ljb4rs522t6igmn3f2xq5z1k6k5.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">162</span>
 						</span>

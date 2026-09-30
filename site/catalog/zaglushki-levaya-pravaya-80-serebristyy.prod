@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Заглушки алюминиевого плинтуса 80 мм серебро (левая, правая) закрывают концы алюминиевого плинтуса и завершают его оформление. В этой серии предусмотрены заглушки для левого и правого торца.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/zaglushki-levaya-pravaya-80-serebristyy.prod">
-    	<meta property="og:image" content="https:///upload/iblock/90f/whiai5kcr7v7mloxbhr91kvnlenoamn5.jpg">
+	<meta property="og:image" content="https:///upload/iblock/90f/whiai5kcr7v7mloxbhr91kvnlenoamn5.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">150</span>
 						</span>

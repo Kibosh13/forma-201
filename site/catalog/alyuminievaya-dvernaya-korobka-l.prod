@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая дверная коробка L предназначена для дверных проёмов, которые должны выглядеть частью стены. L-образный профиль устанавливается в одной плоскости с отделкой, без массивных выступающих наличников.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-dvernaya-korobka-l.prod">
-    	<meta property="og:image" content="https:///upload/iblock/e1c/b2d6vilzzhgeyblxscjyahrs4qz95sfn.jpg">
+	<meta property="og:image" content="https:///upload/iblock/e1c/b2d6vilzzhgeyblxscjyahrs4qz95sfn.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1157,8 +1157,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">2400</span>
 						</span>

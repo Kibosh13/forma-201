@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевый Уголок 20 * 80 * 2,0 * 6000 RAL служит соединительным и усиливающим элементом в каркасах, а в отделке закрывает и защищает углы. Профиль сочетает небольшую массу с прочностью, необходимой для монтажных работ.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievyy-ugolok-20-80-2-0-6000-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/560/fsbm1jqsl9jq46b7u1tekhd7ztxluwl4.jpg">
+	<meta property="og:image" content="https:///upload/iblock/560/fsbm1jqsl9jq46b7u1tekhd7ztxluwl4.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1596</span>
 						</span>

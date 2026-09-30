@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая квадратная труба 25 * 25 * 2 * 6000 RAL имеет квадратное сечение, которое сочетает жёсткость с малой массой профиля. Гладкие грани и точная геометрия удобны при сборке технических и архитектурных конструкций.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-kvadratnaya-truba-50-50-x-2-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/1d3/a0g1y3307xoc38ur701af8yr7z1x65qb.jpg">
+	<meta property="og:image" content="https:///upload/iblock/1d3/a0g1y3307xoc38ur701af8yr7z1x65qb.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">1377.24</span>
 						</span>

@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Заглушка с пазом для поручня 40*40 мм алюминиевая от производителя. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm-alyuminievaya.prod">
-    	<meta property="og:image" content="https:///upload/iblock/13e/j3efa63m8l62bn3keh3ervp9wjgxtsh5.jpg">
+	<meta property="og:image" content="https:///upload/iblock/13e/j3efa63m8l62bn3keh3ervp9wjgxtsh5.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1147,8 +1147,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">150</span>
 						</span>

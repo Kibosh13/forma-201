@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Алюминиевая Шина 3 * 25 * 6000 RAL — сплошной алюминиевый профиль прямоугольного сечения. Его применяют в строительных и производственных конструкциях, машиностроении и энергетике, когда нужны небольшая масса и механическая прочность.">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/alyuminievaya-shina-3x25x6000-ral.prod">
-    	<meta property="og:image" content="https:///upload/iblock/98c/5ocgt9yd61pftgaquy42f6xpbmxmkmwa.jpg">
+	<meta property="og:image" content="https:///upload/iblock/98c/5ocgt9yd61pftgaquy42f6xpbmxmkmwa.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1140,8 +1140,7 @@
                                     </div>
                                     <div class="catalog-detail__price-box">
                         <div class="catalog-detail__price">
-                                                            <div class="catalog-detail__price-ot">
-                                    от                                </div>
+
                                                                                         <span>
 							<span class="pricespace">609</span>
 						</span>
