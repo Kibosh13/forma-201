@@ -85,7 +85,7 @@
 							<div class="col-lg-auto text-xs-center col-5">
 								<div class="header-logo">
                                     									<a href="/" class="header-logo__link">
-										<img src="/upload/main/logo-alymprofi-light.svg" alt="Главная">
+										<img src="/upload/main/logo-alymprofi-light.svg?v=2" alt="Главная">
 									</a>
                                     								</div>
 							</div>
@@ -696,7 +696,7 @@
 	<div class="hdslide_inn">
 		<div class="hdslide_home"style="background: none">
             			<a href="/" class="hdslide_home-logo">
-				<img src="/upload/main/logo-alymprofi-mark.svg" alt="Главная">
+				<img src="/upload/main/logo-alymprofi-mark.svg?v=2" alt="Главная">
 			</a>
             		</div>
 		<div class="hdtopmenu">
@@ -1451,7 +1451,7 @@
 							<div class="col-lg">
 								<div class="footer__logo">
                                         										<a href="/" class="header-logo__link">
-											<img src="/upload/main/logo-alymprofi-light.svg" alt="Главная">
+											<img src="/upload/main/logo-alymprofi-light.svg?v=2" alt="Главная">
 										</a>
                                         									</div>
 									<div class="footer__text">

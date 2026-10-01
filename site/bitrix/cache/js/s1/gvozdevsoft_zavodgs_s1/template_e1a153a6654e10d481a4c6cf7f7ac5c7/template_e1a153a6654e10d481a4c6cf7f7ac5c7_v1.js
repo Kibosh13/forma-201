@@ -165,9 +165,9 @@ jQuery(document).ready(function() {
 	jQuery("#flvmenu > ul").append(lastli);
 	
 	if(document.location.pathname == '/'){
-		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><div class='logo'><img src='/upload/main/logo-alymprofi-mark.svg' class='logo-menu'></div><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
+		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><div class='logo'><img src='/upload/main/logo-alymprofi-mark.svg?v=2' class='logo-menu'></div><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
 	}else{
-		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><a href='/' class='logo'><img src='/upload/main/logo-alymprofi-mark.svg' class='logo-menu'/></a><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
+		jQuery("#flvmenu").prepend("<div class='minmenu'><i class='fa fa-bars'></i><a class='header-menu'>&#1052;&#1045;&#1053;&#1070;</a><a href='/' class='logo'><img src='/upload/main/logo-alymprofi-mark.svg?v=2' class='logo-menu'/></a><a href='/poisk/' class='search-menu'></a><div class='phone-menu'></div></div>");
 	}
 	jQuery("#flvmenu > ul li ul").before("<a class='flarr'></a>");
 	//scrwdth=scrlbarWidth();

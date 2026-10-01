@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title">
   <title id="title">АлюмПрофи</title>
-  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
-    <path d="M12 103 49 22 87 103" stroke="#1D3447" stroke-width="13"/>
-    <path d="M31 69h38" stroke="#168EAF" stroke-width="13"/>
-    <path d="M65 22h41v81" stroke="#1D3447" stroke-width="13"/>
-  </g>
+  <rect x="3" y="3" width="114" height="114" rx="24" fill="#1B2E3D"/>
+  <path d="M24 29h72L82 44H38z" fill="#FFFFFF"/>
+  <path d="M38 51h58L82 66H24z" fill="#18A0B8"/>
+  <path d="M24 73h72L82 88H38z" fill="#FFFFFF" opacity=".88"/>
 </svg>

@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="130" viewBox="0 0 650 130" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="116" viewBox="0 0 610 116" role="img" aria-labelledby="title desc">
   <title id="title">АлюмПрофи</title>
-  <desc id="desc">Производство алюминиевого профиля</desc>
-  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
-    <path d="M16 105 52 27 89 105" stroke="#F3F6F8" stroke-width="14"/>
-    <path d="M34 72h37" stroke="#24B6D8" stroke-width="14"/>
-    <path d="M68 27h39v78" stroke="#F3F6F8" stroke-width="14"/>
-  </g>
-  <text x="137" y="85" fill="#F3F6F8" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.7">Алюм<tspan fill="#24B6D8">Профи</tspan></text>
-  <text x="141" y="113" fill="#AEBBC5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4.2">АЛЮМИНИЕВЫЙ ПРОФИЛЬ</text>
+  <desc id="desc">Алюминиевые профили</desc>
+  <rect x="3" y="3" width="110" height="110" rx="22" fill="#078CA7"/>
+  <path d="M24 29h68L79 43H37z" fill="#FFFFFF"/>
+  <path d="M37 50h55L79 64H24z" fill="#1B2E3D"/>
+  <path d="M24 71h68L79 85H37z" fill="#FFFFFF" opacity=".9"/>
+  <text x="139" y="72" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="53" font-weight="800" letter-spacing="-.9">АЛЮМ<tspan fill="#21B8D0">ПРОФИ</tspan></text>
+  <text x="142" y="99" fill="#C1CDD4" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="4.1">АЛЮМИНИЕВЫЕ ПРОФИЛИ</text>
 </svg>
