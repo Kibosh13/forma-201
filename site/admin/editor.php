@@ -156,6 +156,8 @@ function update_product_card(DOMElement $card, DOMXPath $xpath, array $entry): v
     if ($title) $title->textContent = $entry['name'];
     $price = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," pricespace ")]', $card)?->item(0);
     if ($price) $price->textContent = $entry['price'];
+    $unit = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__price-rub ")]', $card)?->item(0);
+    if ($unit) $unit->textContent = $entry['unit'] ?? 'р./шт.';
     $status = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-order ")]', $card)?->item(0);
     if ($status instanceof DOMElement) {
         $status->textContent = $entry['status'];
@@ -163,6 +165,92 @@ function update_product_card(DOMElement $card, DOMXPath $xpath, array $entry): v
     }
     foreach ($xpath->query('.//*[@data-name]', $card) ?: array() as $button) if ($button instanceof DOMElement) $button->setAttribute('data-name', $entry['name']);
     foreach ($xpath->query('.//*[@data-price]', $card) ?: array() as $button) if ($button instanceof DOMElement) $button->setAttribute('data-price', $entry['price']);
+}
+
+function update_related_accessory(DOMElement $anchor, DOMXPath $xpath, array $entry): void {
+    $anchor->setAttribute('href', $entry['route']);
+    $image = $xpath->query('.//img', $anchor)?->item(0);
+    if ($image instanceof DOMElement) {
+        $image->setAttribute('src', $entry['image']);
+        $image->setAttribute('alt', $entry['name']);
+        $image->removeAttribute('srcset');
+    }
+    $name = $xpath->query('.//span', $anchor)?->item(0);
+    if ($name) $name->textContent = $entry['name'];
+    $price = $xpath->query('.//strong', $anchor)?->item(0);
+    if ($price) $price->textContent = $entry['price'] . ' ₽';
+}
+
+function sync_popular_script(string $relative, array $entry, array $routes, bool $delete): void {
+    $path = site_path($relative);
+    $source = (string)file_get_contents($path);
+    $updated = preg_replace_callback(
+        '/(\$\([\'\"]\\.popular-section[\'\"]\)\\.html\([\'\"])(.*?)([\'\"]\);)/su',
+        static function (array $match) use ($entry, $routes, $delete): string {
+            $markup = $match[2];
+            foreach ($routes as $route) {
+                $pattern = '/<a href="' . preg_quote($route, '/') . '">[^<]*<\/a>/u';
+                $replacement = $delete ? '' : '<a href="' . $entry['route'] . '">' . $entry['name'] . '</a>';
+                $markup = preg_replace($pattern, $replacement, $markup) ?? $markup;
+            }
+            return $match[1] . $markup . $match[3];
+        },
+        $source
+    ) ?? $source;
+    if ($updated !== $source) {
+        backup_file($relative);
+        file_put_contents($path, $updated, LOCK_EX);
+        chmod($path, 0640);
+    }
+}
+
+function sync_product_references(array $entry, string $oldRoute = '', bool $delete = false): void {
+    $routes = array_values(array_unique(array_filter(array($oldRoute, $entry['route']))));
+    $files = array('index.html');
+    foreach (glob(ALYM_SITE_ROOT . '/catalog/*.prod') ?: array() as $path) {
+        $files[] = 'catalog/' . basename($path);
+    }
+    foreach ($files as $relative) {
+        $source = (string)file_get_contents(site_path($relative));
+        $hasReference = false;
+        foreach ($routes as $route) {
+            if (str_contains($source, $route)) {
+                $hasReference = true;
+                break;
+            }
+        }
+        if (!$hasReference) continue;
+
+        [$dom, $xpath] = load_dom_file($relative);
+        $anchors = array();
+        foreach ($routes as $route) {
+            foreach ($xpath->query('//a[@href="' . $route . '"]') ?: array() as $anchor) {
+                if ($anchor instanceof DOMElement) $anchors[spl_object_id($anchor)] = $anchor;
+            }
+        }
+        $changed = false;
+        foreach ($anchors as $anchor) {
+            $relatedClass = ' ' . $anchor->getAttribute('class') . ' ';
+            $card = find_card_ancestor($anchor, 'catalog-section-tile__item');
+            if ($delete) {
+                if ($card) {
+                    $column = find_card_ancestor($card, 'col-xl-3') ?: find_card_ancestor($card, 'col-xl-4') ?: $card;
+                    $column->parentNode?->removeChild($column);
+                } elseif (str_contains($relatedClass, ' related-accessories__item ')) {
+                    $anchor->parentNode?->removeChild($anchor);
+                }
+                $changed = true;
+            } elseif ($card) {
+                update_product_card($card, $xpath, $entry);
+                $changed = true;
+            } elseif (str_contains($relatedClass, ' related-accessories__item ')) {
+                update_related_accessory($anchor, $xpath, $entry);
+                $changed = true;
+            }
+        }
+        if ($changed) save_dom_file($relative, $dom);
+        sync_popular_script($relative, $entry, $routes, $delete);
+    }
 }
 
 function sync_product_cards(array $catalog, array $entry, string $oldRoute = '', bool $delete = false): void {
@@ -253,12 +341,14 @@ function product_save(array &$catalog, ?string $oldSlug): string {
     $entry += array('category' => '');
     $entry['name'] = $values['name'];
     $entry['price'] = $values['price'];
+    $entry['unit'] = $values['unit'];
     $entry['status'] = $values['status'];
     $entry['image'] = $values['image'];
     $category = (string)($_POST['category'] ?? '');
     $entry['category'] = isset($catalog['categories'][$category]) ? $category : '';
     $catalog['products'][$slug] = $entry;
     sync_product_cards($catalog, $entry, $oldRoute);
+    sync_product_references($entry, $oldRoute);
     save_catalog($catalog);
     return $slug;
 }
@@ -267,6 +357,7 @@ function product_delete(array &$catalog, string $slug): void {
     if (!isset($catalog['products'][$slug])) throw new RuntimeException('Товар не найден.');
     $entry = $catalog['products'][$slug];
     sync_product_cards($catalog, $entry, $entry['route'], true);
+    sync_product_references($entry, $entry['route'], true);
     $source = site_path($entry['path']);
     if (is_file($source)) {
         $trash = ALYM_STORAGE_DIR . '/trash/' . date('Y-m-d_His') . '/' . basename($source);
