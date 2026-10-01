@@ -2,6 +2,7 @@
 declare(strict_types=1);
 require __DIR__ . '/bootstrap.php';
 require __DIR__ . '/editor.php';
+require __DIR__ . '/leads.php';
 
 if (isset($_GET['logout'])) {
     $_SESSION = array();
@@ -39,6 +40,27 @@ if (!is_logged_in()) {
 
 require_login();
 $catalog = load_catalog();
+
+if (($_GET['section'] ?? '') === 'leads' && ($_GET['action'] ?? '') === 'file') {
+    $lead = find_lead((string)($_GET['id'] ?? ''));
+    $fileIndex = max(0, (int)($_GET['file'] ?? 0));
+    $file = $lead['files'][$fileIndex] ?? null;
+    if (!$file) {
+        http_response_code(404);
+        exit('Файл не найден.');
+    }
+    $relative = str_replace(array('..', '\\'), '', (string)$file['path']);
+    $absolute = ALYM_STORAGE_DIR . '/' . ltrim($relative, '/');
+    if (!is_file($absolute)) {
+        http_response_code(404);
+        exit('Файл не найден.');
+    }
+    header('Content-Type: application/octet-stream');
+    header('Content-Length: ' . filesize($absolute));
+    header('Content-Disposition: attachment; filename*=UTF-8\'\'' . rawurlencode((string)$file['name']));
+    readfile($absolute);
+    exit;
+}
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     check_csrf();
@@ -82,6 +104,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             flash('Настройки сохранены. Обновлено файлов: ' . $count . '.');
             redirect('/admin/?section=settings');
         }
+        if ($action === 'complete_lead') {
+            set_lead_status((string)$_POST['id'], 'done');
+            flash('Заявка отмечена как обработанная.');
+            redirect('/admin/?section=leads&action=view&id=' . rawurlencode((string)$_POST['id']));
+        }
+        if ($action === 'reopen_lead') {
+            set_lead_status((string)$_POST['id'], 'new');
+            flash('Заявка возвращена в новые.');
+            redirect('/admin/?section=leads&action=view&id=' . rawurlencode((string)$_POST['id']));
+        }
+        if ($action === 'delete_lead') {
+            delete_lead((string)$_POST['id']);
+            flash('Заявка удалена.');
+            redirect('/admin/?section=leads');
+        }
     } catch (Throwable $error) {
         flash($error->getMessage(), 'error');
         redirect($_SERVER['HTTP_REFERER'] ?? '/admin/');
@@ -93,6 +130,7 @@ $action = (string)($_GET['action'] ?? 'list');
 $flash = take_flash();
 $nav = array(
     'dashboard' => 'Обзор',
+    'leads' => 'Заявки' . (new_leads_count() ? ' (' . new_leads_count() . ')' : ''),
     'products' => 'Товары',
     'categories' => 'Категории',
     'pages' => 'Страницы и тексты',
@@ -105,13 +143,34 @@ function admin_header(string $title, string $section, array $nav, ?array $flash)
 }
 
 function admin_footer(): void {
-    ?></main></div></body></html><?php
+    ?></main></div><script src="/admin/admin.js"></script></body></html><?php
+}
+
+function rich_editor(string $name, string $html): void {
+    ?><div class="rich-editor" data-rich-editor>
+        <div class="rich-toolbar" role="toolbar" aria-label="Панель форматирования">
+            <select data-rich-block aria-label="Стиль текста"><option value="p">Обычный текст</option><option value="h2">Заголовок 2</option><option value="h3">Заголовок 3</option><option value="blockquote">Цитата</option></select>
+            <button type="button" data-rich-command="bold" title="Жирный"><strong>Ж</strong></button>
+            <button type="button" data-rich-command="italic" title="Курсив"><em>К</em></button>
+            <button type="button" data-rich-command="underline" title="Подчёркнутый"><u>Ч</u></button>
+            <button type="button" data-rich-command="insertUnorderedList" title="Маркированный список">• Список</button>
+            <button type="button" data-rich-command="insertOrderedList" title="Нумерованный список">1. Список</button>
+            <button type="button" data-rich-link title="Добавить ссылку">Ссылка</button>
+            <button type="button" data-rich-command="unlink" title="Удалить ссылку">Убрать ссылку</button>
+            <button type="button" data-rich-command="removeFormat" title="Очистить форматирование">Очистить</button>
+            <button type="button" data-rich-command="undo" title="Отменить">↶</button>
+            <button type="button" data-rich-command="redo" title="Повторить">↷</button>
+        </div>
+        <div class="rich-content" contenteditable="true" data-rich-content></div>
+        <textarea name="<?= h($name) ?>" data-rich-source hidden><?= h($html) ?></textarea>
+    </div><?php
 }
 
 if ($section === 'dashboard') {
     admin_header('Обзор', $section, $nav, $flash);
     ?><div class="topline"><h1>Управление сайтом</h1><a class="button secondary" href="/" target="_blank">Открыть сайт</a></div>
     <div class="grid">
+        <div class="panel stat"><strong><?= new_leads_count() ?></strong><span>новых заявок</span></div>
         <div class="panel stat"><strong><?= count($catalog['products']) ?></strong><span>товаров</span></div>
         <div class="panel stat"><strong><?= count($catalog['categories']) ?></strong><span>категорий</span></div>
         <div class="panel stat"><strong><?= count($catalog['pages']) ?></strong><span>редактируемых страниц</span></div>
@@ -124,7 +183,7 @@ if ($section === 'products' && $action === 'edit') {
     $slug = (string)($_GET['slug'] ?? '');
     $creating = $slug === '' || !isset($catalog['products'][$slug]);
     $entry = $creating ? array('slug'=>'','category'=>'','path'=>'','route'=>'','name'=>'','price'=>'','status'=>'В наличии','image'=>'') : $catalog['products'][$slug];
-    $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','status'=>'В наличии','summary'=>'','description'=>'','attributes'=>'','image'=>'','seo_title'=>'','seo_description'=>'') : product_read($entry);
+    $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','status'=>'В наличии','summary'=>'','description'=>'','attributes'=>array(),'image'=>'','seo_title'=>'','seo_description'=>'') : product_read($entry);
     admin_header($creating ? 'Новый товар' : $product['name'], $section, $nav, $flash);
     ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($entry['route']) ?>" target="_blank">Открыть карточку</a><?php endif; ?></div>
     <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>">
@@ -136,8 +195,8 @@ if ($section === 'products' && $action === 'edit') {
         <div class="field"><label>Статус</label><select name="status"><option <?= $product['status']==='В наличии'?'selected':'' ?>>В наличии</option><option <?= $product['status']==='Под заказ'?'selected':'' ?>>Под заказ</option></select></div>
         <div class="field"><label>Категория</label><select name="category"><option value="">Без категории</option><?php foreach ($catalog['categories'] as $catSlug=>$cat): ?><option value="<?= h($catSlug) ?>" <?= ($entry['category']??'')===$catSlug?'selected':'' ?>><?= h($cat['name']) ?></option><?php endforeach; ?></select></div>
         <div class="field full"><label>Краткий текст</label><textarea name="summary"><?= h($product['summary']) ?></textarea></div>
-        <div class="field full"><label>Описание</label><textarea class="code" name="description"><?= h($product['description']) ?></textarea><span class="help">Можно использовать обычный HTML: абзацы, заголовки и списки.</span></div>
-        <div class="field full"><label>Характеристики</label><textarea name="attributes" placeholder="Длина: 3000 мм&#10;Цвет: чёрный матовый"><?= h($product['attributes']) ?></textarea><span class="help">Одна характеристика в строке, формат «Название: значение».</span></div>
+        <div class="field full"><label>Описание</label><?php rich_editor('description', $product['description']); ?><span class="help">Редактируйте текст визуально: выделяйте слова и выбирайте нужное форматирование.</span></div>
+        <div class="field full"><label>Характеристики</label><div class="attributes-editor" data-attributes-editor><div class="attribute-labels"><span>Название характеристики</span><span>Значение</span><span></span></div><div class="attribute-rows" data-attribute-rows><?php foreach ($product['attributes'] ?: array(array('name'=>'','value'=>'')) as $attribute): ?><div class="attribute-row"><input name="attribute_name[]" value="<?= h((string)$attribute['name']) ?>" placeholder="Например: Длина"><input name="attribute_value[]" value="<?= h((string)$attribute['value']) ?>" placeholder="Например: 3000 мм"><button class="attribute-remove" type="button" data-remove-attribute aria-label="Удалить характеристику">Удалить</button></div><?php endforeach; ?></div><button class="button secondary attribute-add" type="button" data-add-attribute>+ Добавить характеристику</button></div><span class="help">Каждая характеристика заполняется отдельно. Пустые строки не сохраняются.</span></div>
         <div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?= h($product['seo_title']) ?>"></div>
         <div class="field"><label>SEO-описание</label><textarea name="seo_description"><?= h($product['seo_description']) ?></textarea></div>
         <div class="field full"><label>Основное изображение</label><?php if ($product['image']): ?><img class="image-preview" src="<?= h($product['image']) ?>" alt=""><?php endif; ?><input type="file" name="image_upload" accept="image/*"><span class="help">Выберите файл с компьютера. Путь вводить не нужно.</span></div>
@@ -157,6 +216,28 @@ if ($section === 'products') {
     admin_footer(); exit;
 }
 
+if ($section === 'leads' && $action === 'view') {
+    $lead = find_lead((string)($_GET['id'] ?? ''));
+    if (!$lead) redirect('/admin/?section=leads');
+    $isNew = ($lead['status'] ?? 'new') === 'new';
+    admin_header('Заявка ' . $lead['id'], $section, $nav, $flash);
+    ?><div class="topline"><h1>Заявка <?= h($lead['id']) ?></h1><a class="button secondary" href="/admin/?section=leads">Все заявки</a></div>
+    <div class="panel lead-card">
+        <div class="lead-meta"><span><?= h(date('d.m.Y H:i', strtotime((string)$lead['created_at']))) ?></span><span><?= $isNew ? '<span class="lead-new">Новая</span>' : '<span class="lead-done">Обработана</span>' ?></span><span>Форма: <?= h((string)($lead['form'] ?? '')) ?></span></div>
+        <?php if (!empty($lead['page'])): ?><div><strong>Страница:</strong> <?php if (filter_var($lead['page'], FILTER_VALIDATE_URL)): ?><a href="<?= h($lead['page']) ?>" target="_blank" rel="noopener"><?= h($lead['page']) ?></a><?php else: ?><?= h($lead['page']) ?><?php endif; ?></div><?php endif; ?>
+        <dl class="lead-fields"><?php foreach (($lead['fields'] ?? array()) as $key => $value): if ($value === '') continue; ?><dt><?= h(lead_field_label((string)$key)) ?></dt><dd><?= nl2br(h((string)$value)) ?></dd><?php endforeach; ?></dl>
+        <?php if (!empty($lead['files'])): ?><div><strong>Файлы:</strong><div class="actions"><?php foreach ($lead['files'] as $index => $file): ?><a class="button secondary" href="/admin/?section=leads&action=file&id=<?= rawurlencode($lead['id']) ?>&file=<?= $index ?>"><?= h((string)$file['name']) ?></a><?php endforeach; ?></div></div><?php endif; ?>
+        <div class="help">Email: <?= !empty($lead['mail_sent']) ? 'отправлен на ' . h((string)$lead['mail_to']) : 'заявка сохранена, почтовый сервер не подтвердил отправку на ' . h((string)$lead['mail_to']) ?></div>
+        <div class="actions"><form method="post"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="id" value="<?= h($lead['id']) ?>"><input type="hidden" name="action" value="<?= $isNew ? 'complete_lead' : 'reopen_lead' ?>"><button><?= $isNew ? 'Отметить обработанной' : 'Вернуть в новые' ?></button></form><form method="post" onsubmit="return confirm('Удалить заявку?')"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="id" value="<?= h($lead['id']) ?>"><input type="hidden" name="action" value="delete_lead"><button class="danger">Удалить</button></form></div>
+    </div><?php admin_footer(); exit;
+}
+
+if ($section === 'leads') {
+    $leads = load_leads();
+    admin_header('Заявки', $section, $nav, $flash);
+    ?><div class="topline"><h1>Заявки с сайта</h1><span class="muted">Новых: <?= new_leads_count() ?></span></div><div class="panel table-wrap"><table class="table"><thead><tr><th>Дата</th><th>Имя</th><th>Телефон</th><th>Форма</th><th>Статус</th><th></th></tr></thead><tbody><?php if (!$leads): ?><tr><td colspan="6" class="muted">Заявок пока нет.</td></tr><?php endif; ?><?php foreach ($leads as $lead): $fields=$lead['fields']??array();$isNew=($lead['status']??'new')==='new'; ?><tr><td><?=h(date('d.m.Y H:i',strtotime((string)$lead['created_at'])))?></td><td><?=h((string)($fields['form_name']??''))?></td><td><?=h((string)($fields['form_phone']??''))?></td><td><?=h((string)($lead['form']??''))?></td><td><?=$isNew?'<span class="lead-new">Новая</span>':'<span class="lead-done">Обработана</span>'?></td><td><a class="button secondary" href="/admin/?section=leads&action=view&id=<?=rawurlencode((string)$lead['id'])?>">Открыть</a></td></tr><?php endforeach; ?></tbody></table></div><?php admin_footer(); exit;
+}
+
 if ($section === 'categories' && $action === 'edit') {
     $slug=(string)($_GET['slug']??''); $creating=$slug===''||!isset($catalog['categories'][$slug]); $entry=$creating?array('name'=>'','image'=>''): $catalog['categories'][$slug]; $category=$creating?array('name'=>'','seo_title'=>'','seo_description'=>'','image'=>''):category_read($entry);
     admin_header($creating?'Новая категория':$category['name'],$section,$nav,$flash);
@@ -173,7 +254,7 @@ if ($section === 'categories') {
 if ($section === 'pages' && $action === 'edit') {
     $path=(string)($_GET['path']??''); if(!isset($catalog['pages'][$path]))redirect('/admin/?section=pages'); $entry=$catalog['pages'][$path];$pageData=page_read($entry);
     admin_header($pageData['name'],$section,$nav,$flash);
-    ?><div class="topline"><h1><?=h($pageData['name'])?></h1><a class="button secondary" href="<?=h($entry['route'])?>" target="_blank">Открыть страницу</a></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_page"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="path" value="<?=h($path)?>"><div class="form-grid"><div class="field full"><label>Заголовок страницы</label><input name="name" value="<?=h($pageData['name'])?>"></div><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($pageData['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($pageData['seo_description'])?></textarea></div><div class="field full"><label>Содержимое страницы</label><textarea class="code" name="content"><?=h($pageData['content'])?></textarea><span class="help">Редактируется основной блок страницы. Поддерживается HTML.</span></div><div class="field full"><label>Изображения этой страницы</label><div class="image-list"><?php foreach($pageData['images'] as $image):?><div class="image-card"><img src="<?=h($image['src'])?>"><div class="help"><?=h($image['alt']?:$image['src'])?></div><input type="file" name="replace_image_<?=$image['index']?>" accept="image/*"></div><?php endforeach;?></div></div></div><div class="actions"><button>Сохранить страницу</button><a class="button secondary" href="/admin/?section=pages">Назад</a></div></form><?php admin_footer();exit;
+    ?><div class="topline"><h1><?=h($pageData['name'])?></h1><a class="button secondary" href="<?=h($entry['route'])?>" target="_blank">Открыть страницу</a></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_page"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="path" value="<?=h($path)?>"><div class="form-grid"><div class="field full"><label>Заголовок страницы</label><input name="name" value="<?=h($pageData['name'])?>"></div><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($pageData['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($pageData['seo_description'])?></textarea></div><div class="field full"><label>Содержимое страницы</label><?php rich_editor('content', $pageData['content']); ?><span class="help">Основной текст страницы редактируется визуально.</span></div><div class="field full"><label>Изображения этой страницы</label><div class="image-list"><?php foreach($pageData['images'] as $image):?><div class="image-card"><img src="<?=h($image['src'])?>"><div class="help"><?=h($image['alt']?:$image['src'])?></div><input type="file" name="replace_image_<?=$image['index']?>" accept="image/*"></div><?php endforeach;?></div></div></div><div class="actions"><button>Сохранить страницу</button><a class="button secondary" href="/admin/?section=pages">Назад</a></div></form><?php admin_footer();exit;
 }
 
 if ($section === 'pages') {
@@ -188,7 +269,7 @@ if ($section === 'media') {
 
 if ($section === 'settings') {
     $settings=load_settings(); admin_header('Настройки сайта',$section,$nav,$flash);
-    ?><div class="topline"><h1>Настройки сайта</h1></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_settings"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><div class="form-grid"><div class="field full"><label>Название компании</label><input name="company_name" value="<?=h($settings['company_name'])?>"></div><div class="field"><label>Телефон на сайте</label><input name="phone" value="<?=h($settings['phone'])?>"></div><div class="field"><label>Телефон для ссылки</label><input name="phone_link" value="<?=h($settings['phone_link'])?>" placeholder="+74956643004"></div><div class="field"><label>Email</label><input type="email" name="email" value="<?=h($settings['email'])?>"></div><div class="field full"><label>Адрес</label><textarea name="address"><?=h($settings['address'])?></textarea></div><div class="field full"><label>Логотип</label><img class="image-preview" src="<?=h($settings['logo'])?>"><input type="file" name="logo_upload" accept="image/*"></div></div><div class="actions"><button>Сохранить настройки</button></div></form><?php admin_footer();exit;
+    ?><div class="topline"><h1>Настройки сайта</h1></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_settings"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><div class="form-grid"><div class="field full"><label>Название компании</label><input name="company_name" value="<?=h($settings['company_name'])?>"></div><div class="field"><label>Телефон на сайте</label><input name="phone" value="<?=h($settings['phone'])?>"></div><div class="field"><label>Телефон для ссылки</label><input name="phone_link" value="<?=h($settings['phone_link'])?>" placeholder="+74956643004"></div><div class="field"><label>Email на сайте</label><input type="email" name="email" value="<?=h($settings['email'])?>"></div><div class="field"><label>Email для заявок</label><input type="email" name="lead_email" value="<?=h($settings['lead_email'])?>" placeholder="info@alymprofi.ru"><span class="help">На этот адрес приходят новые заявки; одновременно они сохраняются в разделе «Заявки».</span></div><div class="field full"><label>Адрес</label><textarea name="address"><?=h($settings['address'])?></textarea></div><div class="field full"><label>Логотип</label><img class="image-preview" src="<?=h($settings['logo'])?>"><input type="file" name="logo_upload" accept="image/*"></div></div><div class="actions"><button>Сохранить настройки</button></div></form><?php admin_footer();exit;
 }
 
 redirect('/admin/');

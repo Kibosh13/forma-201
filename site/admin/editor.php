@@ -26,8 +26,18 @@ function product_read(array $entry): array {
         $nameNode = $itemXpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__parameter-name ")]', $item)?->item(0);
         $valueNode = $itemXpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__parameter-size ")]', $item)?->item(0);
         $name = $nameNode ? trim($nameNode->textContent) : '';
-        $value = $valueNode ? trim($valueNode->textContent) : '';
-        if ($name !== '' || $value !== '') $attributes[] = $name . ': ' . $value;
+        $value = '';
+        if ($valueNode) {
+            $parts = array();
+            foreach ($valueNode->getElementsByTagName('span') as $part) {
+                $partText = text_of($part);
+                if ($partText !== '') $parts[] = $partText;
+            }
+            $value = $parts ? implode(', ', $parts) : text_of($valueNode);
+        }
+        if ($name !== '' || $value !== '') {
+            $attributes[] = array('name' => $name, 'value' => $value);
+        }
     }
     return array(
         'name' => $h1,
@@ -36,7 +46,7 @@ function product_read(array $entry): array {
         'status' => $status ?: 'В наличии',
         'summary' => $summary ? inner_html($summary) : '',
         'description' => $description ? inner_html($description) : '',
-        'attributes' => implode("\n", $attributes),
+        'attributes' => $attributes,
         'image' => $image?->getAttribute('src') ?? '',
         'seo_title' => $title,
         'seo_description' => meta_content($xpath, 'description'),
@@ -88,19 +98,20 @@ function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values):
         $column = first_node($xpath, class_query('catalog-detail__parameter') . '//*[contains(concat(" ",normalize-space(@class)," ")," col-xl-9 ")]');
         if ($column) {
             while ($column->firstChild) $column->removeChild($column->firstChild);
-            foreach (preg_split('/\r?\n/', trim($values['attributes'])) ?: array() as $line) {
-                if (trim($line) === '') continue;
-                [$attributeName, $attributeValue] = array_pad(explode(':', $line, 2), 2, '');
+            foreach ($values['attributes'] as $attribute) {
+                $attributeName = trim((string)($attribute['name'] ?? ''));
+                $attributeValue = trim((string)($attribute['value'] ?? ''));
+                if ($attributeName === '' && $attributeValue === '') continue;
                 $item = $dom->createElement('div');
                 $item->setAttribute('class', 'catalog-detail__parameter-item');
                 $nameNode = $dom->createElement('div');
                 $nameNode->setAttribute('class', 'catalog-detail__parameter-name');
-                $nameNode->textContent = trim($attributeName);
+                $nameNode->textContent = $attributeName;
                 $lineNode = $dom->createElement('div');
                 $lineNode->setAttribute('class', 'catalog-detail__parameter-line');
                 $valueNode = $dom->createElement('div');
                 $valueNode->setAttribute('class', 'catalog-detail__parameter-size');
-                $valueNode->textContent = trim($attributeValue);
+                $valueNode->textContent = $attributeValue;
                 $item->append($nameNode, $lineNode, $valueNode);
                 $column->appendChild($item);
             }
@@ -214,6 +225,16 @@ function product_save(array &$catalog, ?string $oldSlug): string {
     }
     $current = product_read($entry);
     $uploaded = upload_image('image_upload', $slug);
+    $attributeNames = is_array($_POST['attribute_name'] ?? null) ? $_POST['attribute_name'] : array();
+    $attributeValues = is_array($_POST['attribute_value'] ?? null) ? $_POST['attribute_value'] : array();
+    $attributes = array();
+    $attributeCount = max(count($attributeNames), count($attributeValues));
+    for ($index = 0; $index < $attributeCount; $index++) {
+        $attributeName = trim((string)($attributeNames[$index] ?? ''));
+        $attributeValue = trim((string)($attributeValues[$index] ?? ''));
+        if ($attributeName === '' && $attributeValue === '') continue;
+        $attributes[] = array('name' => $attributeName, 'value' => $attributeValue);
+    }
     $values = array(
         'name' => $name,
         'price' => trim((string)($_POST['price'] ?? '0')),
@@ -221,7 +242,7 @@ function product_save(array &$catalog, ?string $oldSlug): string {
         'status' => (string)($_POST['status'] ?? 'В наличии'),
         'summary' => (string)($_POST['summary'] ?? ''),
         'description' => (string)($_POST['description'] ?? ''),
-        'attributes' => (string)($_POST['attributes'] ?? ''),
+        'attributes' => $attributes,
         'image' => $uploaded ?: $current['image'],
         'seo_title' => trim((string)($_POST['seo_title'] ?? '')),
         'seo_description' => trim((string)($_POST['seo_description'] ?? '')),
@@ -434,19 +455,21 @@ function media_files(): array {
 }
 
 function load_settings(): array {
-    $path = ALYM_STORAGE_DIR . '/settings.json';
-    if (is_file($path)) {
-        $data = json_decode((string)file_get_contents($path), true);
-        if (is_array($data)) return $data;
-    }
-    return array(
+    $defaults = array(
         'company_name' => 'Производитель алюминиевого профиля',
         'phone' => '8 (495) 664-30-04',
         'phone_link' => '+74956643004',
         'email' => '',
+        'lead_email' => 'info@alymprofi.ru',
         'address' => "140015, Московская область<br>\nЛюберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13",
         'logo' => '/upload/main/16a/64wrireoocf77w5r5e36i88mmgt5strp.svg',
     );
+    $path = ALYM_STORAGE_DIR . '/settings.json';
+    if (is_file($path)) {
+        $data = json_decode((string)file_get_contents($path), true);
+        if (is_array($data)) return $data + $defaults;
+    }
+    return $defaults;
 }
 
 function save_settings_file(array $settings): void {
@@ -478,6 +501,7 @@ function global_settings_save(): int {
         'phone' => trim((string)($_POST['phone'] ?? $old['phone'])),
         'phone_link' => trim((string)($_POST['phone_link'] ?? $old['phone_link'])),
         'email' => trim((string)($_POST['email'] ?? $old['email'])),
+        'lead_email' => trim((string)($_POST['lead_email'] ?? $old['lead_email'])),
         'address' => trim((string)($_POST['address'] ?? $old['address'])),
         'logo' => $old['logo'],
     );
