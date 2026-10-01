@@ -33,9 +33,11 @@ __pycache__/
 /build/
 /coverage/
 .pages-build/
-.wordpress-build/
 .publish-work/
 work/
+site/admin/config.local.php
+site/admin/storage/*
+!site/admin/storage/.htaccess
 
 # Download logs, local reports and unprocessed archival duplicates
 original-text/

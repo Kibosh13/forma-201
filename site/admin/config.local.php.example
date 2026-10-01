@@ -1,0 +1,5 @@
+<?php
+return array(
+    'user' => 'alymadmin',
+    'password_hash' => 'REPLACE_WITH_PASSWORD_HASH',
+);
