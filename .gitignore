@@ -33,6 +33,7 @@ __pycache__/
 /build/
 /coverage/
 .pages-build/
+.wordpress-build/
 .publish-work/
 work/
 
