@@ -3,7 +3,7 @@
 <head>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
-    
+
 	<title>Соединители для поручней с пазом купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Соединители для поручней с пазом по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
@@ -39,7 +39,7 @@
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?1786550428521541"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
-									
+
 	<!-- Open Graph -->
 	<meta property="og:title" content="Соединители для поручней с пазом купить по цене от производителя оптом и в розницу">
 	<meta property="og:description" content="Соединители для поручней с пазом по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
@@ -81,10 +81,10 @@
 	<!-- /Yandex.Metrika counter -->
 </head>
 <body>
-	
+
 	<header id="header">
 								<div class="header-inner">
-								<div class="container">		
+								<div class="container">
 					<div class="header-top">
 						<div class="row align-items-center">
 							<div class="col-lg-auto text-xs-center col-5">
@@ -110,7 +110,7 @@
 								<form action="/poisk/">
 									<input type="text" name="q" placeholder="Поиск..." required="">
 									<button type="submit"></button>
-								</form>	
+								</form>
 							</div>
 							<!-- col -->
 							<div class="col mr-auto">
@@ -119,7 +119,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 									</div>
 
@@ -159,511 +159,511 @@
 <ul id="horizontal-multilevel-menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 
 
-    
-	
-	
-	
+
+
+
+
 		                            <li class="root-item">
                     <a href="/kompaniya/" itemprop="url">О компании</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/rekvizity/" itemprop="url">Реквизиты</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
 
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/otzyvy/" itemprop="url">Отзывы о нас</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/blog/" itemprop="url">Блог</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 		                            <li class="root-item-selected">
                     <span itemprop="url">Каталог</span>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Алюминиевые напольные плинтусы, микроплинтусы</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для алюминиевого плинтуса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Алюминиевые потолочные плинтусы скрытого монтажа</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной алюминиевый профиль для стекла</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
+
+
+
+
+
+
+
+
+
 		                            <li>
                         <a href="/catalog/alyuminievye-perila/" itemprop="url">Алюминиевые перила и поручни</a>
-                    </li>	
-	
+                    </li>
+
 		                            <li>
                         <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для алюминиевых перил и поручней</a>
-                    </li>	
-	
-		
+                    </li>
+
+
 			                                    <li>
                         <a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/" itemprop="url">Профили для сантехнических кабинок и перегородок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/" itemprop="url">Профили</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/" itemprop="url">Решетки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/" itemprop="url">Квадратная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/" itemprop="url">Полоса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/" itemprop="url">П-профиль</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/" itemprop="url">Уголок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/" itemprop="url">Шина</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/" itemprop="url">Труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/" itemprop="url">Профильная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/" itemprop="url">Бокс</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/" itemprop="url">Алюминиевый тавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/" itemprop="url">Алюминиевый двутавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/" itemprop="url">Швеллер</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/" itemprop="url">Профили и фурнитура для козырьков</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 			                                    <li>
                         <a href="/uslugi/" itemprop="url">Услуги</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/aktsii/" itemprop="url">Акции</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kontakty/" itemprop="url">Контакты</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/delivery/" itemprop="url">Доставка</a>
                     </li>
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
 
 
-                			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -690,12 +690,12 @@
 </script>
 						</div>
 					</div>
-					<!-- /top-menu -->	
+					<!-- /top-menu -->
 									</div>
 			</div>
 			<!-- /header-inner -->
-				
-						<!-- header-fix -->	
+
+						<!-- header-fix -->
 			<div class="header-fix">
 				<div class="head_slide">
 	<div class="hdslide_inn">
@@ -710,368 +710,368 @@
 <ul>
 
 
-	
-	
+
+
 					<li>
                 <div>
                     <a href="/kompaniya/">О компании</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/kompaniya/rekvizity/">Реквизиты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 							<li><a href="/kompaniya/otzyvy/">Отзывы о нас</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/blog/">Блог</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 					<li>
                 <div>
                     <a href="/catalog/">Каталог</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-			
-		
-	
-	
 
-	
-	
-					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>	
-	
-					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>	
-	
-		
+
+
+
+
+
+
+					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
+
+					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>
+
+
 							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/">Алюминиевые профили для вентиляции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/">Алюминиевые решетки для вентиляции</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/">Алюминиевая квадратная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/">Алюминиевая полоса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/">Алюминиевый П-профиль</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/">Алюминиевый уголок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/">Алюминиевая шина</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/">Алюминиевые трубы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/">Алюминиевая профильная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/">Алюминиевый бокс</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/">Алюминиевый тавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/">Алюминиевый двутавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/">Алюминиевый швеллер</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/">Зажимные профили и фурнитура для стеклянных козырьков</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 							<li><a href="/uslugi/">Услуги</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/aktsii/">Акции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/kontakty/">Контакты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/delivery/">Доставка</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-			
-		
-	
-	
-
-	
-	
-		
 
 
-			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -1081,7 +1081,7 @@
 			<form action="/poisk/">
 				<input type="text" name="q" placeholder="Поиск..." required>
 				<button type="submit"></button>
-			</form>	
+			</form>
 		</div>
 		<div class="hdslide_contact_zayvka zvonok_view">
 			<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link">
@@ -1093,7 +1093,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 				</div>
 			</div>
@@ -1116,12 +1116,12 @@
 
 															</div>
 						</div>
-							
-						<div class="content-box">	
+
+						<div class="content-box">
 																	<div class="breadcrumb">
 											<ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/catalog/" title="Каталог" itemprop="item"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></li></ul>										</div>
 										<h1>Соединители для поручней с пазом</h1>
-							
+
     <div class="borderbx">
                                                                                 <div class="search-catalog catalog-filter-popup">
                                         <div class="catalog-filter-popup__panel">
@@ -1149,13 +1149,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TIP_DETALI')" attr-name='Тип профиля'>Тип профиля</div>
 									<div class="select-options" id="TIP_DETALI" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TIP_DETALI_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1163,11 +1163,11 @@
 												name="Очистить"
 												id="TIP_DETALI_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_4009429771">
-												<input 
+												<input
 													attr-value = "Заглушка"
 													style="display:none"
 													type="checkbox"
@@ -1176,10 +1176,10 @@
 													name="arrFilter_118_4009429771"
 													id="arrFilter_118_4009429771"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Заглушка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2118391450">
-												<input 
+												<input
 													attr-value = "Соединитель"
 													style="display:none"
 													type="checkbox"
@@ -1188,10 +1188,10 @@
 													name="arrFilter_118_2118391450"
 													id="arrFilter_118_2118391450"
 													checked="checked"													onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1879477548">
-												<input 
+												<input
 													attr-value = "Соединитель прямой"
 													style="display:none"
 													type="checkbox"
@@ -1200,10 +1200,10 @@
 													name="arrFilter_118_1879477548"
 													id="arrFilter_118_1879477548"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель прямой											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_117554618">
-												<input 
+												<input
 													attr-value = "Соединитель угол"
 													style="display:none"
 													type="checkbox"
@@ -1212,10 +1212,10 @@
 													name="arrFilter_118_117554618"
 													id="arrFilter_118_117554618"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель угол											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_725690976">
-												<input 
+												<input
 													attr-value = "Стеклодержатель"
 													style="display:none"
 													type="checkbox"
@@ -1224,10 +1224,10 @@
 													name="arrFilter_118_725690976"
 													id="arrFilter_118_725690976"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Стеклодержатель											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2573543449">
-												<input 
+												<input
 													attr-value = "Фланец"
 													style="display:none"
 													type="checkbox"
@@ -1236,7 +1236,7 @@
 													name="arrFilter_118_2573543449"
 													id="arrFilter_118_2573543449"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Фланец											</label>
 																			</div>
 								</div>
@@ -1249,13 +1249,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('SCHIRINA')" attr-name='Ширина, мм'>Ширина, мм</div>
 									<div class="select-options" id="SCHIRINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="SCHIRINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1263,11 +1263,11 @@
 												name="Очистить"
 												id="SCHIRINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_1416650876">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1276,10 +1276,10 @@
 													name="arrFilter_122_1416650876"
 													id="arrFilter_122_1416650876"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_505056507">
-												<input 
+												<input
 													attr-value = "90"
 													style="display:none"
 													type="checkbox"
@@ -1288,10 +1288,10 @@
 													name="arrFilter_122_505056507"
 													id="arrFilter_122_505056507"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												90											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_3310308172">
-												<input 
+												<input
 													attr-value = "95"
 													style="display:none"
 													type="checkbox"
@@ -1300,7 +1300,7 @@
 													name="arrFilter_122_3310308172"
 													id="arrFilter_122_3310308172"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												95											</label>
 																			</div>
 								</div>
@@ -1374,13 +1374,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('ZWET')" attr-name='Цвет'>Цвет</div>
 									<div class="select-options" id="ZWET" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="ZWET_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1388,11 +1388,11 @@
 												name="Очистить"
 												id="ZWET_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2012371633">
-												<input 
+												<input
 													attr-value = "Серебро"
 													style="display:none"
 													type="checkbox"
@@ -1401,10 +1401,10 @@
 													name="arrFilter_120_2012371633"
 													id="arrFilter_120_2012371633"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Серебро											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2660368260">
-												<input 
+												<input
 													attr-value = "Черный"
 													style="display:none"
 													type="checkbox"
@@ -1413,7 +1413,7 @@
 													name="arrFilter_120_2660368260"
 													id="arrFilter_120_2660368260"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Черный											</label>
 																			</div>
 								</div>
@@ -1426,13 +1426,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('POKRYTIE')" attr-name='Покрытие'>Покрытие</div>
 									<div class="select-options" id="POKRYTIE" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="POKRYTIE_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1440,11 +1440,11 @@
 												name="Очистить"
 												id="POKRYTIE_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_1659719199">
-												<input 
+												<input
 													attr-value = "матовое"
 													style="display:none"
 													type="checkbox"
@@ -1453,10 +1453,10 @@
 													name="arrFilter_139_1659719199"
 													id="arrFilter_139_1659719199"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												матовое											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_926105079">
-												<input 
+												<input
 													attr-value = "полированное"
 													style="display:none"
 													type="checkbox"
@@ -1465,7 +1465,7 @@
 													name="arrFilter_139_926105079"
 													id="arrFilter_139_926105079"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												полированное											</label>
 																			</div>
 								</div>
@@ -1478,13 +1478,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('VYSOTA')" attr-name='Высота, мм'>Высота, мм</div>
 									<div class="select-options" id="VYSOTA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="VYSOTA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1492,11 +1492,11 @@
 												name="Очистить"
 												id="VYSOTA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_136_2520684170">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1505,10 +1505,10 @@
 													name="arrFilter_136_2520684170"
 													id="arrFilter_136_2520684170"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2266225985">
-												<input 
+												<input
 													attr-value = "90"
 													style="display:none"
 													type="checkbox"
@@ -1517,10 +1517,10 @@
 													name="arrFilter_136_2266225985"
 													id="arrFilter_136_2266225985"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												90											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_136_2991094746">
-												<input 
+												<input
 													attr-value = "95"
 													style="display:none"
 													type="checkbox"
@@ -1529,7 +1529,7 @@
 													name="arrFilter_136_2991094746"
 													id="arrFilter_136_2991094746"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												95											</label>
 																			</div>
 								</div>
@@ -1542,13 +1542,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DLINA')" attr-name='Длина, мм'>Длина, мм</div>
 									<div class="select-options" id="DLINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DLINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1556,11 +1556,11 @@
 												name="Очистить"
 												id="DLINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_137_1529601775">
-												<input 
+												<input
 													attr-value = "160"
 													style="display:none"
 													type="checkbox"
@@ -1569,10 +1569,10 @@
 													name="arrFilter_137_1529601775"
 													id="arrFilter_137_1529601775"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												160											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_314959366">
-												<input 
+												<input
 													attr-value = "65"
 													style="display:none"
 													type="checkbox"
@@ -1581,7 +1581,7 @@
 													name="arrFilter_137_314959366"
 													id="arrFilter_137_314959366"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												65											</label>
 																			</div>
 								</div>
@@ -1594,13 +1594,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DIAMETR')" attr-name='Диаметр, мм'>Диаметр, мм</div>
 									<div class="select-options" id="DIAMETR" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DIAMETR_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1608,11 +1608,11 @@
 												name="Очистить"
 												id="DIAMETR_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1015124755">
-												<input 
+												<input
 													attr-value = "43"
 													style="display:none"
 													type="checkbox"
@@ -1621,7 +1621,7 @@
 													name="arrFilter_138_1015124755"
 													id="arrFilter_138_1015124755"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												43											</label>
 																			</div>
 								</div>
@@ -1634,13 +1634,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('PAZ')" attr-name='Паз, мм'>Паз, мм</div>
 									<div class="select-options" id="PAZ" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="PAZ_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1648,11 +1648,11 @@
 												name="Очистить"
 												id="PAZ_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_741142137">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -1661,10 +1661,10 @@
 													name="arrFilter_148_741142137"
 													id="arrFilter_148_741142137"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_3039150019">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -1673,10 +1673,10 @@
 													name="arrFilter_148_3039150019"
 													id="arrFilter_148_3039150019"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_3257044821">
-												<input 
+												<input
 													attr-value = "16"
 													style="display:none"
 													type="checkbox"
@@ -1685,10 +1685,10 @@
 													name="arrFilter_148_3257044821"
 													id="arrFilter_148_3257044821"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												16											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_1763556461">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1697,10 +1697,10 @@
 													name="arrFilter_148_1763556461"
 													id="arrFilter_148_1763556461"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_2155747672">
-												<input 
+												<input
 													attr-value = "45"
 													style="display:none"
 													type="checkbox"
@@ -1709,10 +1709,10 @@
 													name="arrFilter_148_2155747672"
 													id="arrFilter_148_2155747672"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												45											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_4151912910">
-												<input 
+												<input
 													attr-value = "48"
 													style="display:none"
 													type="checkbox"
@@ -1721,7 +1721,7 @@
 													name="arrFilter_148_4151912910"
 													id="arrFilter_148_4151912910"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												48											</label>
 																			</div>
 								</div>
@@ -1734,13 +1734,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('MARKA_SPLAVA')" attr-name='Марка сплава'>Марка сплава</div>
 									<div class="select-options" id="MARKA_SPLAVA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="MARKA_SPLAVA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1748,11 +1748,11 @@
 												name="Очистить"
 												id="MARKA_SPLAVA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_134_884468121">
-												<input 
+												<input
 													attr-value = "АД31Т1"
 													style="display:none"
 													type="checkbox"
@@ -1761,7 +1761,7 @@
 													name="arrFilter_134_884468121"
 													id="arrFilter_134_884468121"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												АД31Т1											</label>
 																			</div>
 								</div>
@@ -1793,8 +1793,8 @@
 </script>
                                         </div>
                                     </div>
-                                    
-        
+
+
 <div class="cloud-items__wrapper cloud-items__wrapper-top">
 
     <div class="cloud-items">
@@ -1829,7 +1829,7 @@
 		<div class="catalog-section__top-line catalog-section__top-line_filter">
 		<div class='catalog-section__sort'>
 						<button class="catalog-section__filter-button" type="button">Фильтр</button>
-			
+
 			<div class='catalog-section__sort-text'>
 				Сортировка			</div>
 			<select name="sort-select">
@@ -1873,8 +1873,8 @@
 	</div>
 	<div class="catalog-section__row catalog-section-tile">
 		<div class="row row-10">
-			
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2470">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -1895,7 +1895,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для поручня 40*40 мм с пазом							</a>
+Соединитель угловой для поручня 40*40 мм с пазом</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1930,7 +1930,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -1944,8 +1944,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2468">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -1966,7 +1966,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для круглого поручня 43 мм с пазом							</a>
+Соединитель угловой для круглого поручня 43 мм с пазом</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1991,7 +1991,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2005,8 +2005,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2467">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2027,7 +2027,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для поручня 40*40 мм с пазом							</a>
+Соединитель прямой для поручня 40*40 мм с пазом</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2057,7 +2057,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2071,8 +2071,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2466">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2093,7 +2093,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для круглого поручня 43 мм с пазом							</a>
+Соединитель прямой для круглого поручня 43 мм с пазом</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2118,7 +2118,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2132,15 +2132,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3051">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/576/250_250_1/ngewjm8fd4c28pnqxj4ayo7xhgwfqy3p.jpg" alt="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" title="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/hardware-black-soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.png" alt="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" title="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2154,7 +2154,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый							</a>
+Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2177,19 +2177,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">350</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1225</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" data-price="350">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" data-price="1225">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2203,8 +2202,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3049">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2225,7 +2224,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для поручня 40*40 мм с пазом алюминиевый							</a>
+Соединитель угловой для поручня 40*40 мм с пазом алюминиевый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2260,7 +2259,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2274,8 +2273,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3038">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2296,7 +2295,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро матовое							</a>
+Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро матовое</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2309,19 +2308,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">200</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">700</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро матовое" data-price="200">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро матовое" data-price="700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2335,8 +2333,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3041">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2357,7 +2355,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для поручня 40*40 мм с пазом алюминиевый							</a>
+Соединитель прямой для поручня 40*40 мм с пазом алюминиевый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2387,7 +2385,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2401,15 +2399,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3052">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-polirovannyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/576/250_250_1/ngewjm8fd4c28pnqxj4ayo7xhgwfqy3p.jpg" alt="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый полированный" title="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый полированный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/576/250_250_1/ngewjm8fd4c28pnqxj4ayo7xhgwfqy3p.jpg" alt="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро полированное" title="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро полированное" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2423,7 +2421,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-polirovannyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для поручня 40*40 мм с пазом алюминиевый полированный							</a>
+Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро полированное</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2446,19 +2444,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">400</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1400</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый полированный" data-price="400">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро полированное" data-price="1400">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2472,8 +2469,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3050">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2494,7 +2491,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро матовое							</a>
+Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро матовое</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2517,19 +2514,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">350</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1225</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро матовое" data-price="350">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый серебро матовое" data-price="1225">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2543,15 +2539,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3040">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-polirovannyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9b6/250_250_1/xmo0ydgjd2jxjsrm627f01fvf3cg6e30.jpg" alt="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый полированный" title="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый полированный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/9b6/250_250_1/xmo0ydgjd2jxjsrm627f01fvf3cg6e30.jpg" alt="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" title="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2565,7 +2561,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-polirovannyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый полированный							</a>
+Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро полированное</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2578,19 +2574,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">250</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">875</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый полированный" data-price="250">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" data-price="875">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2604,15 +2599,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3039">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9b6/250_250_1/xmo0ydgjd2jxjsrm627f01fvf3cg6e30.jpg" alt="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" title="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/hardware-black-soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.png" alt="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" title="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2626,7 +2621,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый							</a>
+Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2639,19 +2634,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">200</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">700</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" data-price="200">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" data-price="700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2665,8 +2659,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3037">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2687,7 +2681,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый							</a>
+Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2712,7 +2706,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2726,15 +2720,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3044">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-polirovannyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/414/250_250_1/y6da4at5qx64huic37a6h2guw8mykess.jpg" alt="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый полированный" title="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый полированный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/414/250_250_1/y6da4at5qx64huic37a6h2guw8mykess.jpg" alt="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро полированное" title="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро полированное" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2748,7 +2742,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-polirovannyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для поручня 40*40 мм с пазом алюминиевый полированный							</a>
+Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро полированное</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2766,19 +2760,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">250</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">875</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый полированный" data-price="250">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро полированное" data-price="875">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2792,8 +2785,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3042">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2814,7 +2807,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро матовое							</a>
+Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро матовое</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2832,19 +2825,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">200</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">700</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро матовое" data-price="200">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый серебро матовое" data-price="700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2858,15 +2850,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3047">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/e19/250_250_1/3kh516ra9ob6824gsib8brdrch1psxd3.jpg" alt="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" title="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/hardware-black-soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.png" alt="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" title="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2880,7 +2872,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый							</a>
+Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2893,19 +2885,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">350</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1225</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" data-price="350">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый чёрный матовый" data-price="1225">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2919,15 +2910,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3043">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/414/250_250_1/y6da4at5qx64huic37a6h2guw8mykess.jpg" alt="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" title="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/hardware-black-soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.png" alt="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" title="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2941,7 +2932,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy-chyernyy-matovyy.prod" class="catalog-section-tile__title-link">
-								Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый							</a>
+Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2959,19 +2950,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">200</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">700</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" data-price="200">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый чёрный матовый" data-price="700">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2985,8 +2975,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3046">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -3007,7 +2997,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро матовое							</a>
+Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро матовое</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3020,19 +3010,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">350</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1225</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро матовое" data-price="350">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро матовое" data-price="1225">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3046,8 +3035,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3045">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -3068,7 +3057,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый							</a>
+Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3093,7 +3082,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3107,15 +3096,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3048">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-polirovannyy.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/e19/250_250_1/3kh516ra9ob6824gsib8brdrch1psxd3.jpg" alt="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый полированный" title="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый полированный" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/e19/250_250_1/3kh516ra9ob6824gsib8brdrch1psxd3.jpg" alt="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" title="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3129,7 +3118,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy-polirovannyy.prod" class="catalog-section-tile__title-link">
-								Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый полированный							</a>
+Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро полированное</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3142,19 +3131,18 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">400</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
+											<span class="pricespace">1400</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый полированный" data-price="400">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый серебро полированное" data-price="1400">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3170,7 +3158,7 @@
 			</div>
 														</div>
 	</div>
-		<br />		
+		<br />
 	<!--noindex-->
 <!--googleoff: all-->
 <div class="form-popup-request form-hide" id="form-popup-catalog">
@@ -3288,7 +3276,7 @@
                                         <div class="mb-10">
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
-										
+
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
@@ -3305,17 +3293,17 @@
 										<ul>
 
 			<li><a href="/kompaniya/">О компании</a></li>
-		
 
-		
+
+
 			<li><a href="/aktsii/">Акции</a></li>
-		
-			<li><a href="/blog/">Блог</a></li>
-		
-			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
-		
 
-		
+			<li><a href="/blog/">Блог</a></li>
+
+			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
+
+
+
 
 </ul>
 								</nav>
@@ -3329,19 +3317,19 @@
 									<ul>
 
 			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-		
+
 			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
-		
+
 			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
-		
+
 			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
-		
+
 			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
-		
+
 
 </ul>
 								</nav>
@@ -3353,13 +3341,13 @@
 									Услуги								</div>
 								<nav class="footer__menu-nav">
 									<ul>
-		
+
 			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
-		
 
-		
 
-		
+
+
+
 
 </ul>
 								</nav>
@@ -3607,10 +3595,10 @@
                 <a href="javascript:void(0);" class="cookies_agree_btn" id="cookies_agree_btn">Согласен</a>
             </div>
         </div>
-    
+
 	<div class="feedback-block" style="display:none">
 		<div>Свяжитесь с нами</div>
-		
+
 		<div class="phone-callback-block">
 			<a href="tel:+74956643004" class="header-phone__link">Позвонить нам</a>
 			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>

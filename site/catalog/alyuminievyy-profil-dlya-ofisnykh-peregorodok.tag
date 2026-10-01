@@ -1937,7 +1937,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2011,7 +2011,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2084,7 +2084,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-chyernyy-matovyy-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля чёрный матовый h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля чёрный матовый h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2157,7 +2157,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-chyernyy-polirovannyy-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля чёрный полированный h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля чёрный полированный h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2230,7 +2230,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-polirovannoe-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро полированное h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля серебро полированное h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

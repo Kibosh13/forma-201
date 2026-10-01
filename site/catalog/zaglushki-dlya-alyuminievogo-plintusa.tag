@@ -1747,7 +1747,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-100-chyernyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 100 мм чёрный (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1808,7 +1808,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-100-shampan.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 100 мм шампань (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 100 мм шампань (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1869,7 +1869,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-100-belyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 100 мм белый (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 100 мм белый (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1930,7 +1930,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-100-zoloto.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 100 мм золото (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 100 мм золото (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1991,7 +1991,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-40-chyernyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 40 мм чёрный (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 40 мм чёрный (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2052,7 +2052,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-80-serebristyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 80 мм серебро (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 80 мм серебро (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2113,7 +2113,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushka-plintusa-s-kabel-kanalom-100-mm.prod" class="catalog-section-tile__title-link">
-								Заглушка плинтуса с кабель каналом 100 мм чёрный							</a>
+Заглушка плинтуса с кабель каналом 100 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2179,7 +2179,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-100-serebristyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 100 мм серебро (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 100 мм серебро (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2240,7 +2240,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushka-plintusa-s-kabel-kanalom-40-mm.prod" class="catalog-section-tile__title-link">
-								Заглушка плинтуса с кабель каналом 40 мм чёрный							</a>
+Заглушка плинтуса с кабель каналом 40 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2306,7 +2306,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-60-chyernyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 60 мм чёрный (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 60 мм чёрный (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2367,7 +2367,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-80-shampan.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 80 мм шампань (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 80 мм шампань (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2428,7 +2428,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-40-zoloto.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 40 мм золото (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 40 мм золото (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2489,7 +2489,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushka-plintusa-s-kabel-kanalom-60-mm.prod" class="catalog-section-tile__title-link">
-								Заглушка плинтуса с кабель каналом 60 мм чёрный							</a>
+Заглушка плинтуса с кабель каналом 60 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2555,7 +2555,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-60-serebristyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 60 мм серебро (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 60 мм серебро (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2616,7 +2616,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-80-belyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 80 мм белый (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 80 мм белый (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2677,7 +2677,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-40-serebristyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 40 мм серебро (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 40 мм серебро (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2738,7 +2738,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-40-belyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 40 мм белый (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 40 мм белый (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2799,7 +2799,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-80-chyernyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 80 мм чёрный (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 80 мм чёрный (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2860,7 +2860,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushka-plintusa-s-kabel-kanalom-80-mm.prod" class="catalog-section-tile__title-link">
-								Заглушка плинтуса с кабель каналом 80 мм чёрный							</a>
+Заглушка плинтуса с кабель каналом 80 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2926,7 +2926,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-60-zoloto.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 60 мм золото (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 60 мм золото (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2987,7 +2987,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-80-zoloto.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 80 мм золото (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 80 мм золото (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -3048,7 +3048,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-40-shampan.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 40 мм шампань (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 40 мм шампань (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -3109,7 +3109,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-60-belyy.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 60 мм белый (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 60 мм белый (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -3170,7 +3170,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushki-levaya-pravaya-60-shampan.prod" class="catalog-section-tile__title-link">
-								Заглушки алюминиевого плинтуса 60 мм шампань (левая, правая)							</a>
+Заглушки алюминиевого плинтуса 60 мм шампань (левая, правая)</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">

@@ -1807,7 +1807,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-25-x-25-x-25-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/b8d/250_250_1/fb83i01umqccjmhmu2j6yv7syxec7l2d.jpg" alt="Алюминиевый швеллер 25 * 25 * 25 * 2 * 6000" title="Алюминиевый швеллер 25 * 25 * 25 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/b8d/250_250_1/fb83i01umqccjmhmu2j6yv7syxec7l2d.jpg" alt="Алюминиевый швеллер 25 * 25 * 25 * 2 * 3000" title="Алюминиевый швеллер 25 * 25 * 25 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1821,7 +1821,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-25-x-25-x-25-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 25 * 25 * 25 * 2 * 6000							</a>
+Алюминиевый швеллер 25 * 25 * 25 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1839,20 +1839,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1149</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 25 * 25 * 25 * 2 * 6000" data-price="1149">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 25 * 25 * 25 * 2 * 3000" data-price="1149">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1878,7 +1877,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-10-x-10-x-10-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/ff7/250_250_1/4rrm3jv7b89guftgifqe605wodt0s60s.jpg" alt="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 6000" title="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/ff7/250_250_1/4rrm3jv7b89guftgifqe605wodt0s60s.jpg" alt="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 3000" title="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1892,7 +1891,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-10-x-10-x-10-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 6000							</a>
+Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1910,20 +1909,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">327</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 6000" data-price="327">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 10 * 10 * 10 * 1,5 * 3000" data-price="327">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1949,7 +1947,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-36-x-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/6de/250_250_1/g3icg2o6mciub5iz07krbsi1xsme8uar.jpg" alt="Алюминиевый швеллер 36 * 20 * 20 * 2 * 6000" title="Алюминиевый швеллер 36 * 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/6de/250_250_1/g3icg2o6mciub5iz07krbsi1xsme8uar.jpg" alt="Алюминиевый швеллер 36 * 20 * 20 * 2 * 3000" title="Алюминиевый швеллер 36 * 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1963,7 +1961,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-36-x-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 36 * 20 * 20 * 2 * 6000							</a>
+Алюминиевый швеллер 36 * 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1981,20 +1979,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1170</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 36 * 20 * 20 * 2 * 6000" data-price="1170">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 36 * 20 * 20 * 2 * 3000" data-price="1170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2020,7 +2017,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-30-x-30-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/877/250_250_1/2x9v6q0h5sbhp2g9wepbicy96prcwht3.jpg" alt="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 6000" title="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/877/250_250_1/2x9v6q0h5sbhp2g9wepbicy96prcwht3.jpg" alt="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 3000" title="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2034,7 +2031,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-30-x-30-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 6000							</a>
+Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2052,20 +2049,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1062</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 6000" data-price="1062">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 30 * 30 * 30 * 1,5 * 3000" data-price="1062">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2091,7 +2087,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-13-x-13-x-13-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/a82/250_250_1/2wsd9a9d1rvkw1k5j2ljehhq6n3l9vso.jpg" alt="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 6000" title="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/a82/250_250_1/2wsd9a9d1rvkw1k5j2ljehhq6n3l9vso.jpg" alt="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 3000" title="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2105,7 +2101,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-13-x-13-x-13-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 6000							</a>
+Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2123,20 +2119,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">438</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 6000" data-price="438">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 13 * 13 * 13 * 1,5 * 3000" data-price="438">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2162,7 +2157,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-40-x-40-x-40-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/d7f/250_250_1/75x79qkp99t3qegyfdcqtu4ly4bqrekj.jpg" alt="Алюминиевый швеллер 40 * 40 * 40 * 2 * 6000" title="Алюминиевый швеллер 40 * 40 * 40 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/d7f/250_250_1/75x79qkp99t3qegyfdcqtu4ly4bqrekj.jpg" alt="Алюминиевый швеллер 40 * 40 * 40 * 2 * 3000" title="Алюминиевый швеллер 40 * 40 * 40 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2176,7 +2171,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-40-x-40-x-40-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 40 * 40 * 40 * 2 * 6000							</a>
+Алюминиевый швеллер 40 * 40 * 40 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2194,20 +2189,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1884</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 40 * 40 * 40 * 2 * 6000" data-price="1884">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 40 * 40 * 40 * 2 * 3000" data-price="1884">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2233,7 +2227,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-20-x-20-x-20-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/99c/250_250_1/l5i32s4fxw7fbhy4kyfjv6d5wizze4yp.jpg" alt="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 6000" title="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/99c/250_250_1/l5i32s4fxw7fbhy4kyfjv6d5wizze4yp.jpg" alt="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 3000" title="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2247,7 +2241,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-20-x-20-x-20-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 6000							</a>
+Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2265,20 +2259,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">693</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 6000" data-price="693">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 20 * 20 * 1,5 * 3000" data-price="693">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2304,7 +2297,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-15-x-15-x-15-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e56/250_250_1/mk6zb9sr1hzh4sw8o7kcfubr30ky2dkz.jpg" alt="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 6000" title="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e56/250_250_1/mk6zb9sr1hzh4sw8o7kcfubr30ky2dkz.jpg" alt="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 3000" title="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2318,7 +2311,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-15-x-15-x-15-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 6000							</a>
+Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2336,20 +2329,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">510</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 6000" data-price="510">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 15 * 15 * 15 * 1,5 * 3000" data-price="510">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2375,7 +2367,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-20-x-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/83c/250_250_1/x71qxez3ivhayp4e2lck34vfhgcgqw43.jpg" alt="Алюминиевый швеллер 20 * 20 * 20 * 2 * 6000" title="Алюминиевый швеллер 20 * 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/83c/250_250_1/x71qxez3ivhayp4e2lck34vfhgcgqw43.jpg" alt="Алюминиевый швеллер 20 * 20 * 20 * 2 * 3000" title="Алюминиевый швеллер 20 * 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2389,7 +2381,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-20-x-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 20 * 20 * 20 * 2 * 6000							</a>
+Алюминиевый швеллер 20 * 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2407,20 +2399,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">912</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 20 * 20 * 2 * 6000" data-price="912">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 20 * 20 * 2 * 3000" data-price="912">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2446,7 +2437,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-15-x-10-x-10-x-1.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/805/250_250_1/w9w9uykybnnw5j0p0b2uhdqge77yb4lv.jpg" alt="Алюминиевый швеллер 15 * 10 * 10 * 1 * 6000" title="Алюминиевый швеллер 15 * 10 * 10 * 1 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/805/250_250_1/w9w9uykybnnw5j0p0b2uhdqge77yb4lv.jpg" alt="Алюминиевый швеллер 15 * 10 * 10 * 1 * 3000" title="Алюминиевый швеллер 15 * 10 * 10 * 1 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2460,7 +2451,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-15-x-10-x-10-x-1.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 15 * 10 * 10 * 1 * 6000							</a>
+Алюминиевый швеллер 15 * 10 * 10 * 1 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2478,20 +2469,19 @@
 									<span class="value-product-attribute" data-text="
 									1									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">267</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 15 * 10 * 10 * 1 * 6000" data-price="267">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 15 * 10 * 10 * 1 * 3000" data-price="267">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2517,7 +2507,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-10-x-10-x-10-x-1-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/c83/250_250_1/c48uob3smy2b7n4och7ase4jyu1yhz8s.jpg" alt="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 6000" title="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/c83/250_250_1/c48uob3smy2b7n4och7ase4jyu1yhz8s.jpg" alt="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 3000" title="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2531,7 +2521,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-10-x-10-x-10-x-1-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 6000							</a>
+Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2549,20 +2539,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">270</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 6000" data-price="270">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 10 * 10 * 10 * 1,2 * 3000" data-price="270">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2588,7 +2577,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-12-x-15-x-15-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/a30/250_250_1/kn1e0109p2xgyqemqdgiheb7ros5sy4b.jpg" alt="Алюминиевый швеллер 12 * 15 * 15 * 2 * 6000" title="Алюминиевый швеллер 12 * 15 * 15 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/a30/250_250_1/kn1e0109p2xgyqemqdgiheb7ros5sy4b.jpg" alt="Алюминиевый швеллер 12 * 15 * 15 * 2 * 3000" title="Алюминиевый швеллер 12 * 15 * 15 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2602,7 +2591,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-12-x-15-x-15-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 12 * 15 * 15 * 2 * 6000							</a>
+Алюминиевый швеллер 12 * 15 * 15 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2620,20 +2609,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">630</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 12 * 15 * 15 * 2 * 6000" data-price="630">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 12 * 15 * 15 * 2 * 3000" data-price="630">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2659,7 +2647,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-40-x-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/fe0/250_250_1/l2mucd12touf2vkumf68kwo2exh5srjg.jpg" alt="Алюминиевый швеллер 40 * 20 * 20 * 2 * 6000" title="Алюминиевый швеллер 40 * 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/fe0/250_250_1/l2mucd12touf2vkumf68kwo2exh5srjg.jpg" alt="Алюминиевый швеллер 40 * 20 * 20 * 2 * 3000" title="Алюминиевый швеллер 40 * 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2673,7 +2661,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-40-x-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 40 * 20 * 20 * 2 * 6000							</a>
+Алюминиевый швеллер 40 * 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2691,20 +2679,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1236</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 40 * 20 * 20 * 2 * 6000" data-price="1236">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 40 * 20 * 20 * 2 * 3000" data-price="1236">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2730,7 +2717,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-20-x-15-x-15-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/eab/250_250_1/6efll0g7dx87ss1krmq5k1l4xti07z5c.jpg" alt="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 6000" title="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/eab/250_250_1/6efll0g7dx87ss1krmq5k1l4xti07z5c.jpg" alt="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 3000" title="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2744,7 +2731,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-20-x-15-x-15-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 6000							</a>
+Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2762,20 +2749,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">573</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 6000" data-price="573">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 20 * 15 * 15 * 1,5 * 3000" data-price="573">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2801,7 +2787,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-shveller-25-x-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/90e/250_250_1/0d6k02vvpwdtj7xiguel4wz44aawh4t4.jpg" alt="Алюминиевый швеллер 25 * 20 * 20 * 2 * 6000" title="Алюминиевый швеллер 25 * 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/90e/250_250_1/0d6k02vvpwdtj7xiguel4wz44aawh4t4.jpg" alt="Алюминиевый швеллер 25 * 20 * 20 * 2 * 3000" title="Алюминиевый швеллер 25 * 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2815,7 +2801,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-shveller-25-x-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый швеллер 25 * 20 * 20 * 2 * 6000							</a>
+Алюминиевый швеллер 25 * 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2833,20 +2819,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">993</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 25 * 20 * 20 * 2 * 6000" data-price="993">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый швеллер 25 * 20 * 20 * 2 * 3000" data-price="993">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

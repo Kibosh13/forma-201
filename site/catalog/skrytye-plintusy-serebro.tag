@@ -2006,7 +2006,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-serebro-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой радиусные серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2074,7 +2074,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-serebro.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2125,7 +2125,8 @@
     <a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-serebro.prod"><div class="catalog-section-tile__img-box"><img src="/upload/iblock/custom-hidden/hidden-no-light-silver.jpg" alt="Скрытые плинтусы для пола без подсветки серебро матовое 3 метра" title="Скрытые плинтусы для пола без подсветки серебро матовое 3 метра" class="catalog-section-tile__img-img"></div></a>
     <div class="catalog-section-tile__text-box">
       <div class="catalog-section-tile__status-box"><div class="catalog-section-tile__status"><div class="catalog-section-tile__status-nal">В наличии</div></div><div class="catalog-section-tile__article">Арт. 0067</div><div class="catalog-section-price__article"></div></div>
-      <div class="catalog-section-tile__title"><a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-serebro.prod" class="catalog-section-tile__title-link">Скрытые плинтусы для пола без подсветки серебро матовое 3 метра</a></div>
+      <div class="catalog-section-tile__title"><a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-serebro.prod" class="catalog-section-tile__title-link">
+Скрытые плинтусы для пола без подсветки серебро матовое 3 метра</a></div>
       <div class="main-property-products"><div class="main-property-product"><span class="name-product-attribute" data-text="Подсветка: "></span><span class="value-product-attribute" data-text="нет"></span></div></div>
       <div class="price-in-one-line"><div class="catalog-section-tile__price-box"><div class="catalog-section-tile__price-now"><span class="pricespace">1406</span><span class="catalog-section-tile__price-rub">р./шт.</span></div></div>
         <div class="order-block"><a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола без подсветки серебро матовое 3 метра" data-price="1406">Заказать</a></div>

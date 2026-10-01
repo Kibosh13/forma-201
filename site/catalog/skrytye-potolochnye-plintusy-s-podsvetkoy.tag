@@ -1865,7 +1865,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1933,7 +1933,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-shampan.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1997,7 +1997,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-serebro.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2065,7 +2065,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-belye.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки белый матовый 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2133,7 +2133,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-zoloto.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки золото матовое 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

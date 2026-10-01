@@ -1859,7 +1859,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1927,7 +1927,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-shampan.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1991,7 +1991,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2064,7 +2064,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-zoloto.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2137,7 +2137,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2210,7 +2210,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-shampan.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2283,7 +2283,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-serebro-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2356,7 +2356,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-serebro.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2424,7 +2424,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-belye.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки белый матовый 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2492,7 +2492,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-zoloto-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2565,7 +2565,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-belye-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2638,7 +2638,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2711,7 +2711,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-10-mm-shampan-6m.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 10 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2784,7 +2784,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-bez-podsvetki-pod-gipsokarton-12-mm-belyy.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра							</a>
+Потолочные скрытые плинтусы без подсветки под гипсокартон 12 мм белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2857,7 +2857,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/potolochnye-skrytye-plintusy-dlya-podsvetki-zoloto.prod" class="catalog-section-tile__title-link">
-								Потолочные скрытые плинтусы для подсветки золото матовое 3 метра							</a>
+Потолочные скрытые плинтусы для подсветки золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

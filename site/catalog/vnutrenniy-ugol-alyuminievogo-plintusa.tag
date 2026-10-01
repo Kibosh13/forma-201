@@ -1747,7 +1747,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-100-chyernyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 100 мм чёрный							</a>
+Внутренний угол алюминиевого плинтуса 100 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1808,7 +1808,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-100-shampan.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 100 мм шампань							</a>
+Внутренний угол алюминиевого плинтуса 100 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1869,7 +1869,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-100-belyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 100 мм белый							</a>
+Внутренний угол алюминиевого плинтуса 100 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1930,7 +1930,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-100-zoloto.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 100 мм золото							</a>
+Внутренний угол алюминиевого плинтуса 100 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1991,7 +1991,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-100-serebristyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 100 мм серебро							</a>
+Внутренний угол алюминиевого плинтуса 100 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2052,7 +2052,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-40-serebristyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 40 мм серебро							</a>
+Внутренний угол алюминиевого плинтуса 40 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2113,7 +2113,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-60-chyernyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 60 мм чёрный							</a>
+Внутренний угол алюминиевого плинтуса 60 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2174,7 +2174,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-40-chyernyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 40 мм чёрный							</a>
+Внутренний угол алюминиевого плинтуса 40 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2235,7 +2235,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-80-shampan.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 80 мм шампань							</a>
+Внутренний угол алюминиевого плинтуса 80 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2296,7 +2296,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-40-shampan.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 40 мм шампань							</a>
+Внутренний угол алюминиевого плинтуса 40 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2357,7 +2357,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-60-shampan.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 60 мм шампань							</a>
+Внутренний угол алюминиевого плинтуса 60 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2418,7 +2418,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-40-zoloto.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 40 мм золото							</a>
+Внутренний угол алюминиевого плинтуса 40 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2479,7 +2479,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-80-chyernyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 80 мм чёрный							</a>
+Внутренний угол алюминиевого плинтуса 80 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2540,7 +2540,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-80-serebristyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 80 мм серебро							</a>
+Внутренний угол алюминиевого плинтуса 80 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2601,7 +2601,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-60-zoloto.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 60 мм золото							</a>
+Внутренний угол алюминиевого плинтуса 60 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2662,7 +2662,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-40-belyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 40 мм белый							</a>
+Внутренний угол алюминиевого плинтуса 40 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2723,7 +2723,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-80-zoloto.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 80 мм золото							</a>
+Внутренний угол алюминиевого плинтуса 80 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2784,7 +2784,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-60-serebristyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 60 мм серебро							</a>
+Внутренний угол алюминиевого плинтуса 60 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2845,7 +2845,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-80-belyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 80 мм белый							</a>
+Внутренний угол алюминиевого плинтуса 80 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2906,7 +2906,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-alyuminievogo-plintusa-dl-70.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса ДЛ-70 чёрный							</a>
+Внутренний угол алюминиевого плинтуса ДЛ-70 чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2972,7 +2972,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/vnutrenniy-ugol-60-belyy.prod" class="catalog-section-tile__title-link">
-								Внутренний угол алюминиевого плинтуса 60 мм белый							</a>
+Внутренний угол алюминиевого плинтуса 60 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">

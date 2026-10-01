@@ -2007,7 +2007,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2075,7 +2075,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2143,7 +2143,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2211,7 +2211,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2279,7 +2279,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-serebristyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 серебро матовое 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2347,7 +2347,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола 5,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2415,7 +2415,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-belyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2483,7 +2483,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-belyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 белый матовый 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2551,7 +2551,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-serebristyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 серебро матовое 3 метра							</a>
+Микроплинтус для пола 5,9*20 серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2619,7 +2619,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-serebristyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2687,7 +2687,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2755,7 +2755,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола 5,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2823,7 +2823,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-belyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 белый матовый 3 метра							</a>
+Микроплинтус для пола 5,9*20 белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2891,7 +2891,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2959,7 +2959,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-zoloto.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 золото матовое 3 метра							</a>
+Микроплинтус для пола 5,9*20 золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3027,7 +3027,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-16-chyernyy-9121.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*16 чёрный матовый 3 метра							</a>
+Микроплинтус для пола 5,9*16 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3095,7 +3095,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-16-serebro-9121.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*16 серебро матовое 3 метра							</a>
+Микроплинтус для пола 5,9*16 серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

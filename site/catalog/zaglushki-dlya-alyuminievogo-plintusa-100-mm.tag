@@ -1753,7 +1753,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zaglushka-plintusa-s-kabel-kanalom-100-mm.prod" class="catalog-section-tile__title-link">
-								Заглушка плинтуса с кабель каналом 100 мм чёрный							</a>
+Заглушка плинтуса с кабель каналом 100 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

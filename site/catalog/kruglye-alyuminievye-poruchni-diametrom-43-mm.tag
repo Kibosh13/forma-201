@@ -3,7 +3,7 @@
 <head>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
-    
+
 	<title>Круглые алюминиевые поручни диаметром 43 мм купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Круглые алюминиевые поручни диаметром 43 мм по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
@@ -39,7 +39,7 @@
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?1786550428521541"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
-									
+
 	<!-- Open Graph -->
 	<meta property="og:title" content="Круглые алюминиевые поручни диаметром 43 мм купить по цене от производителя оптом и в розницу">
 	<meta property="og:description" content="Круглые алюминиевые поручни диаметром 43 мм по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
@@ -81,10 +81,10 @@
 	<!-- /Yandex.Metrika counter -->
 </head>
 <body>
-	
+
 	<header id="header">
 								<div class="header-inner">
-								<div class="container">		
+								<div class="container">
 					<div class="header-top">
 						<div class="row align-items-center">
 							<div class="col-lg-auto text-xs-center col-5">
@@ -110,7 +110,7 @@
 								<form action="/poisk/">
 									<input type="text" name="q" placeholder="Поиск..." required="">
 									<button type="submit"></button>
-								</form>	
+								</form>
 							</div>
 							<!-- col -->
 							<div class="col mr-auto">
@@ -119,7 +119,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 									</div>
 
@@ -159,511 +159,511 @@
 <ul id="horizontal-multilevel-menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 
 
-    
-	
-	
-	
+
+
+
+
 		                            <li class="root-item">
                     <a href="/kompaniya/" itemprop="url">О компании</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/rekvizity/" itemprop="url">Реквизиты</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
 
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/otzyvy/" itemprop="url">Отзывы о нас</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/blog/" itemprop="url">Блог</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 		                            <li class="root-item-selected">
                     <span itemprop="url">Каталог</span>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Алюминиевые напольные плинтусы, микроплинтусы</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для алюминиевого плинтуса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Алюминиевые потолочные плинтусы скрытого монтажа</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной алюминиевый профиль для стекла</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
+
+
+
+
+
+
+
+
+
 		                            <li>
                         <a href="/catalog/alyuminievye-perila/" itemprop="url">Алюминиевые перила и поручни</a>
-                    </li>	
-	
+                    </li>
+
 		                            <li>
                         <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для алюминиевых перил и поручней</a>
-                    </li>	
-	
-		
+                    </li>
+
+
 			                                    <li>
                         <a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/" itemprop="url">Профили для сантехнических кабинок и перегородок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/" itemprop="url">Профили</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/" itemprop="url">Решетки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/" itemprop="url">Квадратная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/" itemprop="url">Полоса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/" itemprop="url">П-профиль</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/" itemprop="url">Уголок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/" itemprop="url">Шина</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/" itemprop="url">Труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/" itemprop="url">Профильная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/" itemprop="url">Бокс</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/" itemprop="url">Алюминиевый тавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/" itemprop="url">Алюминиевый двутавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/" itemprop="url">Швеллер</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/" itemprop="url">Профили и фурнитура для козырьков</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 			                                    <li>
                         <a href="/uslugi/" itemprop="url">Услуги</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/aktsii/" itemprop="url">Акции</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kontakty/" itemprop="url">Контакты</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/delivery/" itemprop="url">Доставка</a>
                     </li>
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
 
 
-                			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -690,12 +690,12 @@
 </script>
 						</div>
 					</div>
-					<!-- /top-menu -->	
+					<!-- /top-menu -->
 									</div>
 			</div>
 			<!-- /header-inner -->
-				
-						<!-- header-fix -->	
+
+						<!-- header-fix -->
 			<div class="header-fix">
 				<div class="head_slide">
 	<div class="hdslide_inn">
@@ -710,368 +710,368 @@
 <ul>
 
 
-	
-	
+
+
 					<li>
                 <div>
                     <a href="/kompaniya/">О компании</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/kompaniya/rekvizity/">Реквизиты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 							<li><a href="/kompaniya/otzyvy/">Отзывы о нас</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/blog/">Блог</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 					<li>
                 <div>
                     <a href="/catalog/">Каталог</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-			
-		
-	
-	
 
-	
-	
-					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>	
-	
-					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>	
-	
-		
+
+
+
+
+
+
+					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
+
+					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>
+
+
 							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/">Алюминиевые профили для вентиляции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/">Алюминиевые решетки для вентиляции</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/">Алюминиевая квадратная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/">Алюминиевая полоса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/">Алюминиевый П-профиль</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/">Алюминиевый уголок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/">Алюминиевая шина</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/">Алюминиевые трубы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/">Алюминиевая профильная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/">Алюминиевый бокс</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/">Алюминиевый тавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/">Алюминиевый двутавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/">Алюминиевый швеллер</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/">Зажимные профили и фурнитура для стеклянных козырьков</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 							<li><a href="/uslugi/">Услуги</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/aktsii/">Акции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/kontakty/">Контакты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/delivery/">Доставка</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-			
-		
-	
-	
-
-	
-	
-		
 
 
-			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -1081,7 +1081,7 @@
 			<form action="/poisk/">
 				<input type="text" name="q" placeholder="Поиск..." required>
 				<button type="submit"></button>
-			</form>	
+			</form>
 		</div>
 		<div class="hdslide_contact_zayvka zvonok_view">
 			<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link">
@@ -1093,7 +1093,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 				</div>
 			</div>
@@ -1116,12 +1116,12 @@
 
 															</div>
 						</div>
-							
-						<div class="content-box">	
+
+						<div class="content-box">
 																	<div class="breadcrumb">
 											<ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/catalog/" title="Каталог" itemprop="item"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></li></ul>										</div>
 										<h1>Круглые алюминиевые поручни диаметром 43 мм</h1>
-							
+
     <div class="borderbx">
                                                                                 <div class="search-catalog catalog-filter-popup">
                                         <div class="catalog-filter-popup__panel">
@@ -1149,13 +1149,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TIP_DETALI')" attr-name='Тип профиля'>Тип профиля</div>
 									<div class="select-options" id="TIP_DETALI" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TIP_DETALI_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1163,11 +1163,11 @@
 												name="Очистить"
 												id="TIP_DETALI_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_118_7109027">
-												<input 
+												<input
 													attr-value = "П-образный поручень"
 													style="display:none"
 													type="checkbox"
@@ -1176,10 +1176,10 @@
 													name="arrFilter_118_7109027"
 													id="arrFilter_118_7109027"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												П-образный поручень											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1548098294">
-												<input 
+												<input
 													attr-value = "Поручень"
 													style="display:none"
 													type="checkbox"
@@ -1188,10 +1188,10 @@
 													name="arrFilter_118_1548098294"
 													id="arrFilter_118_1548098294"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Поручень											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_118_1621880902">
-												<input 
+												<input
 													attr-value = "Треугольный поручень"
 													style="display:none"
 													type="checkbox"
@@ -1200,7 +1200,7 @@
 													name="arrFilter_118_1621880902"
 													id="arrFilter_118_1621880902"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Треугольный поручень											</label>
 																			</div>
 								</div>
@@ -1213,13 +1213,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('SCHIRINA')" attr-name='Ширина, мм'>Ширина, мм</div>
 									<div class="select-options" id="SCHIRINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="SCHIRINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1227,11 +1227,11 @@
 												name="Очистить"
 												id="SCHIRINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_2041626887">
-												<input 
+												<input
 													attr-value = "13.6"
 													style="display:none"
 													type="checkbox"
@@ -1240,10 +1240,10 @@
 													name="arrFilter_122_2041626887"
 													id="arrFilter_122_2041626887"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												13.6											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_246935953">
-												<input 
+												<input
 													attr-value = "15.6"
 													style="display:none"
 													type="checkbox"
@@ -1252,10 +1252,10 @@
 													name="arrFilter_122_246935953"
 													id="arrFilter_122_246935953"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15.6											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_1852864628">
-												<input 
+												<input
 													attr-value = "19.6"
 													style="display:none"
 													type="checkbox"
@@ -1264,10 +1264,10 @@
 													name="arrFilter_122_1852864628"
 													id="arrFilter_122_1852864628"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												19.6											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_427247842">
-												<input 
+												<input
 													attr-value = "23.6"
 													style="display:none"
 													type="checkbox"
@@ -1276,10 +1276,10 @@
 													name="arrFilter_122_427247842"
 													id="arrFilter_122_427247842"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												23.6											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_1416650876">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1288,10 +1288,10 @@
 													name="arrFilter_122_1416650876"
 													id="arrFilter_122_1416650876"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_122_4072008611">
-												<input 
+												<input
 													attr-value = "45"
 													style="display:none"
 													type="checkbox"
@@ -1300,7 +1300,7 @@
 													name="arrFilter_122_4072008611"
 													id="arrFilter_122_4072008611"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												45											</label>
 																			</div>
 								</div>
@@ -1374,13 +1374,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('ZWET')" attr-name='Цвет'>Цвет</div>
 									<div class="select-options" id="ZWET" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="ZWET_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1388,11 +1388,11 @@
 												name="Очистить"
 												id="ZWET_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_120_2012371633">
-												<input 
+												<input
 													attr-value = "Серебро"
 													style="display:none"
 													type="checkbox"
@@ -1401,7 +1401,7 @@
 													name="arrFilter_120_2012371633"
 													id="arrFilter_120_2012371633"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Серебро											</label>
 																			</div>
 								</div>
@@ -1414,13 +1414,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('POKRYTIE')" attr-name='Покрытие'>Покрытие</div>
 									<div class="select-options" id="POKRYTIE" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="POKRYTIE_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1428,11 +1428,11 @@
 												name="Очистить"
 												id="POKRYTIE_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_367689353">
-												<input 
+												<input
 													attr-value = "аннодированное"
 													style="display:none"
 													type="checkbox"
@@ -1441,10 +1441,10 @@
 													name="arrFilter_139_367689353"
 													id="arrFilter_139_367689353"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												аннодированное											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_139_1659719199">
-												<input 
+												<input
 													attr-value = "матовое"
 													style="display:none"
 													type="checkbox"
@@ -1453,10 +1453,10 @@
 													name="arrFilter_139_1659719199"
 													id="arrFilter_139_1659719199"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												матовое											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_926105079">
-												<input 
+												<input
 													attr-value = "полированное"
 													style="display:none"
 													type="checkbox"
@@ -1465,7 +1465,7 @@
 													name="arrFilter_139_926105079"
 													id="arrFilter_139_926105079"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												полированное											</label>
 																			</div>
 								</div>
@@ -1478,13 +1478,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('VYSOTA')" attr-name='Высота, мм'>Высота, мм</div>
 									<div class="select-options" id="VYSOTA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="VYSOTA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1492,11 +1492,11 @@
 												name="Очистить"
 												id="VYSOTA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_136_3910130838">
-												<input 
+												<input
 													attr-value = "17"
 													style="display:none"
 													type="checkbox"
@@ -1505,10 +1505,10 @@
 													name="arrFilter_136_3910130838"
 													id="arrFilter_136_3910130838"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												17											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_136_3778651676">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -1517,10 +1517,10 @@
 													name="arrFilter_136_3778651676"
 													id="arrFilter_136_3778651676"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_136_2520684170">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1529,7 +1529,7 @@
 													name="arrFilter_136_2520684170"
 													id="arrFilter_136_2520684170"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																			</div>
 								</div>
@@ -1542,13 +1542,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DLINA')" attr-name='Длина, мм'>Длина, мм</div>
 									<div class="select-options" id="DLINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DLINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1556,11 +1556,11 @@
 												name="Очистить"
 												id="DLINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3648979021">
-												<input 
+												<input
 													attr-value = "6000"
 													style="display:none"
 													type="checkbox"
@@ -1569,7 +1569,7 @@
 													name="arrFilter_137_3648979021"
 													id="arrFilter_137_3648979021"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												6000											</label>
 																			</div>
 								</div>
@@ -1582,13 +1582,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DIAMETR')" attr-name='Диаметр, мм'>Диаметр, мм</div>
 									<div class="select-options" id="DIAMETR" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DIAMETR_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1596,11 +1596,11 @@
 												name="Очистить"
 												id="DIAMETR_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_688362553">
-												<input 
+												<input
 													attr-value = "6"
 													style="display:none"
 													type="checkbox"
@@ -1609,10 +1609,10 @@
 													name="arrFilter_138_688362553"
 													id="arrFilter_138_688362553"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1015124755">
-												<input 
+												<input
 													attr-value = "43"
 													style="display:none"
 													type="checkbox"
@@ -1621,7 +1621,7 @@
 													name="arrFilter_138_1015124755"
 													id="arrFilter_138_1015124755"
 													checked="checked"													onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												43											</label>
 																			</div>
 								</div>
@@ -1634,13 +1634,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('PAZ')" attr-name='Паз, мм'>Паз, мм</div>
 									<div class="select-options" id="PAZ" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="PAZ_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1648,11 +1648,11 @@
 												name="Очистить"
 												id="PAZ_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_741142137">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -1661,10 +1661,10 @@
 													name="arrFilter_148_741142137"
 													id="arrFilter_148_741142137"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_3039150019">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -1673,10 +1673,10 @@
 													name="arrFilter_148_3039150019"
 													id="arrFilter_148_3039150019"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_3257044821">
-												<input 
+												<input
 													attr-value = "16"
 													style="display:none"
 													type="checkbox"
@@ -1685,10 +1685,10 @@
 													name="arrFilter_148_3257044821"
 													id="arrFilter_148_3257044821"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												16											</label>
 																					<label class="checkbox-label disabled catalog-filter__checkbox-label" for="arrFilter_148_1386058436">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -1697,7 +1697,7 @@
 													name="arrFilter_148_1386058436"
 													id="arrFilter_148_1386058436"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																			</div>
 								</div>
@@ -1710,13 +1710,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('MARKA_SPLAVA')" attr-name='Марка сплава'>Марка сплава</div>
 									<div class="select-options" id="MARKA_SPLAVA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="MARKA_SPLAVA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1724,11 +1724,11 @@
 												name="Очистить"
 												id="MARKA_SPLAVA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_134_884468121">
-												<input 
+												<input
 													attr-value = "АД31Т1"
 													style="display:none"
 													type="checkbox"
@@ -1737,7 +1737,7 @@
 													name="arrFilter_134_884468121"
 													id="arrFilter_134_884468121"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												АД31Т1											</label>
 																			</div>
 								</div>
@@ -1769,8 +1769,8 @@
 </script>
                                         </div>
                                     </div>
-                                    
-        
+
+
 <div class="cloud-items__wrapper cloud-items__wrapper-top">
 
     <div class="cloud-items">
@@ -1808,7 +1808,7 @@
 		<div class="catalog-section__top-line catalog-section__top-line_filter">
 		<div class='catalog-section__sort'>
 						<button class="catalog-section__filter-button" type="button">Фильтр</button>
-			
+
 			<div class='catalog-section__sort-text'>
 				Сортировка			</div>
 			<select name="sort-select">
@@ -1852,15 +1852,15 @@
 	</div>
 	<div class="catalog-section__row catalog-section-tile">
 		<div class="row row-10">
-			
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2366">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo-12-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/1dd/250_250_1/waqkm31o29k79e82m85sxobkbpp9vpqt.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 12 мм" title="Алюминиевые поручни круглые 43 мм под стекло 12 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/1dd/250_250_1/waqkm31o29k79e82m85sxobkbpp9vpqt.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро матовое длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1874,7 +1874,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo-12-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни круглые 43 мм под стекло 12 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1882,11 +1882,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -1897,25 +1893,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">500</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">4890</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 12 мм" data-price="500">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро матовое длина 3 метра" data-price="4890">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2366" >
@@ -1923,15 +1918,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2361">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/123/250_250_1/whkhjlsxapkt91fs5jfhz7sj1y20id4h.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 10 мм" title="Алюминиевые поручни круглые 43 мм под стекло 10 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/123/250_250_1/whkhjlsxapkt91fs5jfhz7sj1y20id4h.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро матовое длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1945,7 +1940,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни круглые 43 мм под стекло 10 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1953,11 +1948,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -1968,25 +1959,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">500</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">4890</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 10 мм" data-price="500">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро матовое длина 3 метра" data-price="4890">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2361" >
@@ -1994,15 +1984,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2367">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo-16-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/633/250_250_1/440rcucd5722f0rf1qfnfji11er3npvn.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 16 мм" title="Алюминиевые поручни круглые 43 мм под стекло 16 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/633/250_250_1/440rcucd5722f0rf1qfnfji11er3npvn.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро матовое длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2016,7 +2006,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-kruglye-43-mm-pod-steklo-16-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни круглые 43 мм под стекло 16 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2024,11 +2014,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2039,25 +2025,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">500</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">4890</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 16 мм" data-price="500">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро матовое длина 3 метра" data-price="4890">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2367" >
@@ -2065,15 +2050,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2763">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-16-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/b00/250_250_1/pj9o678hqk8lyin7hrrt6hn43xh3ks7i.jpg" alt="Алюминиевые полированные поручни круглые 43 мм под стекло 16 мм" title="Алюминиевые полированные поручни круглые 43 мм под стекло 16 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/b00/250_250_1/pj9o678hqk8lyin7hrrt6hn43xh3ks7i.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро полированное длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро полированное длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2087,7 +2072,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-16-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые полированные поручни круглые 43 мм под стекло 16 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро полированное длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2095,11 +2080,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2110,25 +2091,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">600</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5280</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые полированные поручни круглые 43 мм под стекло 16 мм" data-price="600">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 16 мм серебро полированное длина 3 метра" data-price="5280">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2763" >
@@ -2136,15 +2116,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2761">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-10-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/5e3/250_250_1/01hnvkn84rzz8wqvq392hht5zksveza1.jpg" alt="Алюминиевые полированные поручни круглые 43 мм под стекло 10 мм" title="Алюминиевые полированные поручни круглые 43 мм под стекло 10 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/5e3/250_250_1/01hnvkn84rzz8wqvq392hht5zksveza1.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро полированное длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро полированное длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2158,7 +2138,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-10-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые полированные поручни круглые 43 мм под стекло 10 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро полированное длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2166,11 +2146,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2181,25 +2157,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">600</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5280</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые полированные поручни круглые 43 мм под стекло 10 мм" data-price="600">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 10 мм серебро полированное длина 3 метра" data-price="5280">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2761" >
@@ -2207,15 +2182,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2762">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-12-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/86f/250_250_1/9ufol2hwe798e8igdhy7o4xb3sn7atei.jpg" alt="Алюминиевые полированные поручни круглые 43 мм под стекло 12 мм" title="Алюминиевые полированные поручни круглые 43 мм под стекло 12 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/86f/250_250_1/9ufol2hwe798e8igdhy7o4xb3sn7atei.jpg" alt="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро полированное длина 3 метра" title="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро полированное длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2229,7 +2204,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-polorovannye-kruglye-43-mm-pod-steklo-12-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые полированные поручни круглые 43 мм под стекло 12 мм							</a>
+Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро полированное длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2237,11 +2212,7 @@
 									<span class="value-product-attribute" data-text="
 									43									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Паз, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2252,25 +2223,24 @@
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">600</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5280</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые полированные поручни круглые 43 мм под стекло 12 мм" data-price="600">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни круглые 43 мм под стекло 12 мм серебро полированное длина 3 метра" data-price="5280">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2762" >
@@ -2280,7 +2250,7 @@
 			</div>
 														</div>
 	</div>
-		<br />		
+		<br />
 	<!--noindex-->
 <!--googleoff: all-->
 <div class="form-popup-request form-hide" id="form-popup-catalog">
@@ -2453,7 +2423,7 @@
                                         <div class="mb-10">
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
-										
+
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
@@ -2470,17 +2440,17 @@
 										<ul>
 
 			<li><a href="/kompaniya/">О компании</a></li>
-		
 
-		
+
+
 			<li><a href="/aktsii/">Акции</a></li>
-		
-			<li><a href="/blog/">Блог</a></li>
-		
-			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
-		
 
-		
+			<li><a href="/blog/">Блог</a></li>
+
+			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
+
+
+
 
 </ul>
 								</nav>
@@ -2494,19 +2464,19 @@
 									<ul>
 
 			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-		
+
 			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
-		
+
 			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
-		
+
 			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
-		
+
 			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
-		
+
 
 </ul>
 								</nav>
@@ -2518,13 +2488,13 @@
 									Услуги								</div>
 								<nav class="footer__menu-nav">
 									<ul>
-		
+
 			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
-		
 
-		
 
-		
+
+
+
 
 </ul>
 								</nav>
@@ -2772,10 +2742,10 @@
                 <a href="javascript:void(0);" class="cookies_agree_btn" id="cookies_agree_btn">Согласен</a>
             </div>
         </div>
-    
+
 	<div class="feedback-block" style="display:none">
 		<div>Свяжитесь с нами</div>
-		
+
 		<div class="phone-callback-block">
 			<a href="tel:+74956643004" class="header-phone__link">Позвонить нам</a>
 			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>

@@ -3,7 +3,7 @@
 <head>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
-    
+
 	<title>Скрытые плинтусы с подсветкой купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Скрытые плинтусы с подсветкой по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
@@ -39,7 +39,7 @@
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?1786550428521541"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
-									
+
 	<!-- Open Graph -->
 	<meta property="og:title" content="Скрытые плинтусы с подсветкой купить по цене от производителя оптом и в розницу">
 	<meta property="og:description" content="Скрытые плинтусы с подсветкой по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
@@ -81,10 +81,10 @@
 	<!-- /Yandex.Metrika counter -->
 </head>
 <body>
-	
+
 	<header id="header">
 								<div class="header-inner">
-								<div class="container">		
+								<div class="container">
 					<div class="header-top">
 						<div class="row align-items-center">
 							<div class="col-lg-auto text-xs-center col-5">
@@ -110,7 +110,7 @@
 								<form action="/poisk/">
 									<input type="text" name="q" placeholder="Поиск..." required="">
 									<button type="submit"></button>
-								</form>	
+								</form>
 							</div>
 							<!-- col -->
 							<div class="col mr-auto">
@@ -119,7 +119,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 									</div>
 
@@ -159,511 +159,511 @@
 <ul id="horizontal-multilevel-menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 
 
-    
-	
-	
-	
+
+
+
+
 		                            <li class="root-item">
                     <a href="/kompaniya/" itemprop="url">О компании</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/rekvizity/" itemprop="url">Реквизиты</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
 
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/otzyvy/" itemprop="url">Отзывы о нас</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/blog/" itemprop="url">Блог</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 		                            <li class="root-item-selected">
                     <span itemprop="url">Каталог</span>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Алюминиевые напольные плинтусы, микроплинтусы</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для алюминиевого плинтуса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Алюминиевые потолочные плинтусы скрытого монтажа</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной алюминиевый профиль для стекла</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
+
+
+
+
+
+
+
+
+
 		                            <li>
                         <a href="/catalog/alyuminievye-perila/" itemprop="url">Алюминиевые перила и поручни</a>
-                    </li>	
-	
+                    </li>
+
 		                            <li>
                         <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для алюминиевых перил и поручней</a>
-                    </li>	
-	
-		
+                    </li>
+
+
 			                                    <li>
                         <a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/" itemprop="url">Профили для сантехнических кабинок и перегородок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/" itemprop="url">Профили</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/" itemprop="url">Решетки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/" itemprop="url">Квадратная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/" itemprop="url">Полоса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/" itemprop="url">П-профиль</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/" itemprop="url">Уголок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/" itemprop="url">Шина</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/" itemprop="url">Труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/" itemprop="url">Профильная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/" itemprop="url">Бокс</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/" itemprop="url">Алюминиевый тавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/" itemprop="url">Алюминиевый двутавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/" itemprop="url">Швеллер</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/" itemprop="url">Профили и фурнитура для козырьков</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 			                                    <li>
                         <a href="/uslugi/" itemprop="url">Услуги</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/aktsii/" itemprop="url">Акции</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kontakty/" itemprop="url">Контакты</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/delivery/" itemprop="url">Доставка</a>
                     </li>
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
 
 
-                			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -690,12 +690,12 @@
 </script>
 						</div>
 					</div>
-					<!-- /top-menu -->	
+					<!-- /top-menu -->
 									</div>
 			</div>
 			<!-- /header-inner -->
-				
-						<!-- header-fix -->	
+
+						<!-- header-fix -->
 			<div class="header-fix">
 				<div class="head_slide">
 	<div class="hdslide_inn">
@@ -710,368 +710,368 @@
 <ul>
 
 
-	
-	
+
+
 					<li>
                 <div>
                     <a href="/kompaniya/">О компании</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/kompaniya/rekvizity/">Реквизиты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 							<li><a href="/kompaniya/otzyvy/">Отзывы о нас</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/blog/">Блог</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 					<li>
                 <div>
                     <a href="/catalog/">Каталог</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-			
-		
-	
-	
 
-	
-	
-					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>	
-	
-					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>	
-	
-		
+
+
+
+
+
+
+					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
+
+					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>
+
+
 							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/">Алюминиевые профили для вентиляции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/">Алюминиевые решетки для вентиляции</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/">Алюминиевая квадратная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/">Алюминиевая полоса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/">Алюминиевый П-профиль</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/">Алюминиевый уголок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/">Алюминиевая шина</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/">Алюминиевые трубы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/">Алюминиевая профильная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/">Алюминиевый бокс</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/">Алюминиевый тавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/">Алюминиевый двутавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/">Алюминиевый швеллер</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/">Зажимные профили и фурнитура для стеклянных козырьков</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 							<li><a href="/uslugi/">Услуги</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/aktsii/">Акции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/kontakty/">Контакты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/delivery/">Доставка</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-			
-		
-	
-	
-
-	
-	
-		
 
 
-			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -1081,7 +1081,7 @@
 			<form action="/poisk/">
 				<input type="text" name="q" placeholder="Поиск..." required>
 				<button type="submit"></button>
-			</form>	
+			</form>
 		</div>
 		<div class="hdslide_contact_zayvka zvonok_view">
 			<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link">
@@ -1093,7 +1093,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 				</div>
 			</div>
@@ -1116,12 +1116,12 @@
 
 															</div>
 						</div>
-							
-						<div class="content-box">	
+
+						<div class="content-box">
 																	<div class="breadcrumb">
 											<ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/catalog/" title="Каталог" itemprop="item"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></li></ul>										</div>
 										<h1>Скрытые плинтусы с подсветкой</h1>
-							
+
     <div class="borderbx">
                                                                                 <div class="search-catalog catalog-filter-popup">
                                         <div class="catalog-filter-popup__panel">
@@ -1145,13 +1145,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TIP_DETALI')" attr-name='Тип профиля'>Тип профиля</div>
 									<div class="select-options" id="TIP_DETALI" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TIP_DETALI_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1159,11 +1159,11 @@
 												name="Очистить"
 												id="TIP_DETALI_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2301619550">
-												<input 
+												<input
 													attr-value = "L-образный"
 													style="display:none"
 													type="checkbox"
@@ -1172,22 +1172,22 @@
 													name="arrFilter_118_2301619550"
 													id="arrFilter_118_2301619550"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												L-образный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3260818684">
-												<input 
-													attr-value = "Боковина клапана"
+												<input
+													attr-value = "Боковина клапана длина 3 метра"
 													style="display:none"
 													type="checkbox"
-													data-filter-value="Боковина клапана"
+													data-filter-value="Боковина клапана длина 3 метра"
 													value="Y"
 													name="arrFilter_118_3260818684"
 													id="arrFilter_118_3260818684"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
-												Боковина клапана											</label>
+												/>
+												Боковина клапана длина 3 метра											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1023518130">
-												<input 
+												<input
 													attr-value = "Бокс"
 													style="display:none"
 													type="checkbox"
@@ -1196,10 +1196,10 @@
 													name="arrFilter_118_1023518130"
 													id="arrFilter_118_1023518130"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1110503342">
-												<input 
+												<input
 													attr-value = "Бокс квадратный"
 													style="display:none"
 													type="checkbox"
@@ -1208,10 +1208,10 @@
 													name="arrFilter_118_1110503342"
 													id="arrFilter_118_1110503342"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс квадратный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_892854072">
-												<input 
+												<input
 													attr-value = "Бокс профильный"
 													style="display:none"
 													type="checkbox"
@@ -1220,10 +1220,10 @@
 													name="arrFilter_118_892854072"
 													id="arrFilter_118_892854072"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс профильный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2889780866">
-												<input 
+												<input
 													attr-value = "Бокс прямоугольный"
 													style="display:none"
 													type="checkbox"
@@ -1232,10 +1232,10 @@
 													name="arrFilter_118_2889780866"
 													id="arrFilter_118_2889780866"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс прямоугольный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3421137111">
-												<input 
+												<input
 													attr-value = "Верх-низ клапана"
 													style="display:none"
 													type="checkbox"
@@ -1244,10 +1244,10 @@
 													name="arrFilter_118_3421137111"
 													id="arrFilter_118_3421137111"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Верх-низ клапана											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1770303465">
-												<input 
+												<input
 													attr-value = "Внешний угол"
 													style="display:none"
 													type="checkbox"
@@ -1256,10 +1256,10 @@
 													name="arrFilter_118_1770303465"
 													id="arrFilter_118_1770303465"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Внешний угол											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_155395596">
-												<input 
+												<input
 													attr-value = "Внутренний угол"
 													style="display:none"
 													type="checkbox"
@@ -1268,10 +1268,10 @@
 													name="arrFilter_118_155395596"
 													id="arrFilter_118_155395596"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Внутренний угол											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3541025950">
-												<input 
+												<input
 													attr-value = "Двутавр"
 													style="display:none"
 													type="checkbox"
@@ -1280,22 +1280,22 @@
 													name="arrFilter_118_3541025950"
 													id="arrFilter_118_3541025950"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Двутавр											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1997922972">
-												<input 
-													attr-value = "Диффузор щелевой"
+												<input
+													attr-value = "Диффузор щелевой длина 3 метра"
 													style="display:none"
 													type="checkbox"
-													data-filter-value="Диффузор щелевой"
+													data-filter-value="Диффузор щелевой длина 3 метра"
 													value="Y"
 													name="arrFilter_118_1997922972"
 													id="arrFilter_118_1997922972"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
-												Диффузор щелевой											</label>
+												/>
+												Диффузор щелевой длина 3 метра											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1855438937">
-												<input 
+												<input
 													attr-value = "Для козырька"
 													style="display:none"
 													type="checkbox"
@@ -1304,10 +1304,10 @@
 													name="arrFilter_118_1855438937"
 													id="arrFilter_118_1855438937"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Для козырька											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3916527423">
-												<input 
+												<input
 													attr-value = "Жалюзи"
 													style="display:none"
 													type="checkbox"
@@ -1316,10 +1316,10 @@
 													name="arrFilter_118_3916527423"
 													id="arrFilter_118_3916527423"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Жалюзи											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_4009429771">
-												<input 
+												<input
 													attr-value = "Заглушка"
 													style="display:none"
 													type="checkbox"
@@ -1328,10 +1328,10 @@
 													name="arrFilter_118_4009429771"
 													id="arrFilter_118_4009429771"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Заглушка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1893807361">
-												<input 
+												<input
 													attr-value = "Задвижка"
 													style="display:none"
 													type="checkbox"
@@ -1340,10 +1340,10 @@
 													name="arrFilter_118_1893807361"
 													id="arrFilter_118_1893807361"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Задвижка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_4264091080">
-												<input 
+												<input
 													attr-value = "Зажимной"
 													style="display:none"
 													type="checkbox"
@@ -1352,10 +1352,10 @@
 													name="arrFilter_118_4264091080"
 													id="arrFilter_118_4264091080"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Зажимной											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_397197520">
-												<input 
+												<input
 													attr-value = "Закладная"
 													style="display:none"
 													type="checkbox"
@@ -1364,10 +1364,10 @@
 													name="arrFilter_118_397197520"
 													id="arrFilter_118_397197520"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Закладная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3994858278">
-												<input 
+												<input
 													attr-value = "Защелка стоппер"
 													style="display:none"
 													type="checkbox"
@@ -1376,10 +1376,10 @@
 													name="arrFilter_118_3994858278"
 													id="arrFilter_118_3994858278"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Защелка стоппер											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3539032470">
-												<input 
+												<input
 													attr-value = "Каркас ПВУ"
 													style="display:none"
 													type="checkbox"
@@ -1388,10 +1388,10 @@
 													name="arrFilter_118_3539032470"
 													id="arrFilter_118_3539032470"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Каркас ПВУ											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3771153172">
-												<input 
+												<input
 													attr-value = "Каркас стоппер"
 													style="display:none"
 													type="checkbox"
@@ -1400,10 +1400,10 @@
 													name="arrFilter_118_3771153172"
 													id="arrFilter_118_3771153172"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Каркас стоппер											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2651384832">
-												<input 
+												<input
 													attr-value = "Карниз"
 													style="display:none"
 													type="checkbox"
@@ -1412,10 +1412,10 @@
 													name="arrFilter_118_2651384832"
 													id="arrFilter_118_2651384832"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Карниз											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2568717232">
-												<input 
+												<input
 													attr-value = "Ламель"
 													style="display:none"
 													type="checkbox"
@@ -1424,10 +1424,10 @@
 													name="arrFilter_118_2568717232"
 													id="arrFilter_118_2568717232"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Ламель											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_725582281">
-												<input 
+												<input
 													attr-value = "Лопасть заслонки"
 													style="display:none"
 													type="checkbox"
@@ -1436,10 +1436,10 @@
 													name="arrFilter_118_725582281"
 													id="arrFilter_118_725582281"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Лопасть заслонки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1547219295">
-												<input 
+												<input
 													attr-value = "Лопасть решетки"
 													style="display:none"
 													type="checkbox"
@@ -1448,10 +1448,10 @@
 													name="arrFilter_118_1547219295"
 													id="arrFilter_118_1547219295"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Лопасть решетки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_743589328">
-												<input 
+												<input
 													attr-value = "Лопатка клапана"
 													style="display:none"
 													type="checkbox"
@@ -1460,10 +1460,10 @@
 													name="arrFilter_118_743589328"
 													id="arrFilter_118_743589328"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Лопатка клапана											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2575470644">
-												<input 
+												<input
 													attr-value = "Микроплинтус"
 													style="display:none"
 													type="checkbox"
@@ -1472,10 +1472,10 @@
 													name="arrFilter_118_2575470644"
 													id="arrFilter_118_2575470644"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Микроплинтус											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_225540457">
-												<input 
+												<input
 													attr-value = "Н-образный"
 													style="display:none"
 													type="checkbox"
@@ -1484,10 +1484,10 @@
 													name="arrFilter_118_225540457"
 													id="arrFilter_118_225540457"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Н-образный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_9159054">
-												<input 
+												<input
 													attr-value = "Напольный"
 													style="display:none"
 													type="checkbox"
@@ -1496,10 +1496,10 @@
 													name="arrFilter_118_9159054"
 													id="arrFilter_118_9159054"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Напольный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3120223550">
-												<input 
+												<input
 													attr-value = "Окантовка"
 													style="display:none"
 													type="checkbox"
@@ -1508,10 +1508,10 @@
 													name="arrFilter_118_3120223550"
 													id="arrFilter_118_3120223550"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Окантовка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3042645098">
-												<input 
+												<input
 													attr-value = "Омега стоппер"
 													style="display:none"
 													type="checkbox"
@@ -1520,10 +1520,10 @@
 													name="arrFilter_118_3042645098"
 													id="arrFilter_118_3042645098"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Омега стоппер											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3511253703">
-												<input 
+												<input
 													attr-value = "П-образный"
 													style="display:none"
 													type="checkbox"
@@ -1532,10 +1532,10 @@
 													name="arrFilter_118_3511253703"
 													id="arrFilter_118_3511253703"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												П-образный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_7109027">
-												<input 
+												<input
 													attr-value = "П-образный поручень"
 													style="display:none"
 													type="checkbox"
@@ -1544,10 +1544,10 @@
 													name="arrFilter_118_7109027"
 													id="arrFilter_118_7109027"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												П-образный поручень											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2784389376">
-												<input 
+												<input
 													attr-value = "Перемычка"
 													style="display:none"
 													type="checkbox"
@@ -1556,10 +1556,10 @@
 													name="arrFilter_118_2784389376"
 													id="arrFilter_118_2784389376"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Перемычка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2075403208">
-												<input 
+												<input
 													attr-value = "Перчатки"
 													style="display:none"
 													type="checkbox"
@@ -1568,10 +1568,10 @@
 													name="arrFilter_118_2075403208"
 													id="arrFilter_118_2075403208"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Перчатки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2583444381">
-												<input 
+												<input
 													attr-value = "Плинтус"
 													style="display:none"
 													type="checkbox"
@@ -1580,10 +1580,10 @@
 													name="arrFilter_118_2583444381"
 													id="arrFilter_118_2583444381"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Плинтус											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3563192455">
-												<input 
+												<input
 													attr-value = "Полоса"
 													style="display:none"
 													type="checkbox"
@@ -1592,10 +1592,10 @@
 													name="arrFilter_118_3563192455"
 													id="arrFilter_118_3563192455"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Полоса											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1548098294">
-												<input 
+												<input
 													attr-value = "Поручень"
 													style="display:none"
 													type="checkbox"
@@ -1604,10 +1604,10 @@
 													name="arrFilter_118_1548098294"
 													id="arrFilter_118_1548098294"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Поручень											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2005725464">
-												<input 
+												<input
 													attr-value = "Потолочный"
 													style="display:none"
 													type="checkbox"
@@ -1616,10 +1616,10 @@
 													name="arrFilter_118_2005725464"
 													id="arrFilter_118_2005725464"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Потолочный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3677994516">
-												<input 
+												<input
 													attr-value = "Правило прямоугольное"
 													style="display:none"
 													type="checkbox"
@@ -1628,10 +1628,10 @@
 													name="arrFilter_118_3677994516"
 													id="arrFilter_118_3677994516"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Правило прямоугольное											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1532327238">
-												<input 
+												<input
 													attr-value = "Пруток"
 													style="display:none"
 													type="checkbox"
@@ -1640,10 +1640,10 @@
 													name="arrFilter_118_1532327238"
 													id="arrFilter_118_1532327238"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Пруток											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_511942527">
-												<input 
+												<input
 													attr-value = "Разделительный профиль"
 													style="display:none"
 													type="checkbox"
@@ -1652,10 +1652,10 @@
 													name="arrFilter_118_511942527"
 													id="arrFilter_118_511942527"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Разделительный профиль											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3308380389">
-												<input 
+												<input
 													attr-value = "Рама опорная"
 													style="display:none"
 													type="checkbox"
@@ -1664,10 +1664,10 @@
 													name="arrFilter_118_3308380389"
 													id="arrFilter_118_3308380389"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Рама опорная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1233418">
-												<input 
+												<input
 													attr-value = "Рамка решетки"
 													style="display:none"
 													type="checkbox"
@@ -1676,10 +1676,10 @@
 													name="arrFilter_118_1233418"
 													id="arrFilter_118_1233418"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Рамка решетки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_132515223">
-												<input 
+												<input
 													attr-value = "Ручка"
 													style="display:none"
 													type="checkbox"
@@ -1688,10 +1688,10 @@
 													name="arrFilter_118_132515223"
 													id="arrFilter_118_132515223"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Ручка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1521215566">
-												<input 
+												<input
 													attr-value = "Скрытый"
 													style="display:none"
 													type="checkbox"
@@ -1700,10 +1700,10 @@
 													name="arrFilter_118_1521215566"
 													id="arrFilter_118_1521215566"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Скрытый											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2118391450">
-												<input 
+												<input
 													attr-value = "Соединитель"
 													style="display:none"
 													type="checkbox"
@@ -1712,10 +1712,10 @@
 													name="arrFilter_118_2118391450"
 													id="arrFilter_118_2118391450"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1879477548">
-												<input 
+												<input
 													attr-value = "Соединитель прямой"
 													style="display:none"
 													type="checkbox"
@@ -1724,10 +1724,10 @@
 													name="arrFilter_118_1879477548"
 													id="arrFilter_118_1879477548"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель прямой											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_117554618">
-												<input 
+												<input
 													attr-value = "Соединитель угол"
 													style="display:none"
 													type="checkbox"
@@ -1736,10 +1736,10 @@
 													name="arrFilter_118_117554618"
 													id="arrFilter_118_117554618"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Соединитель угол											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_725690976">
-												<input 
+												<input
 													attr-value = "Стеклодержатель"
 													style="display:none"
 													type="checkbox"
@@ -1748,10 +1748,10 @@
 													name="arrFilter_118_725690976"
 													id="arrFilter_118_725690976"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Стеклодержатель											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3472745896">
-												<input 
+												<input
 													attr-value = "Стойка"
 													style="display:none"
 													type="checkbox"
@@ -1760,10 +1760,10 @@
 													name="arrFilter_118_3472745896"
 													id="arrFilter_118_3472745896"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Стойка											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3169671233">
-												<input 
+												<input
 													attr-value = "Стойка клапана"
 													style="display:none"
 													type="checkbox"
@@ -1772,10 +1772,10 @@
 													name="arrFilter_118_3169671233"
 													id="arrFilter_118_3169671233"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Стойка клапана											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1792750741">
-												<input 
+												<input
 													attr-value = "Т-образный"
 													style="display:none"
 													type="checkbox"
@@ -1784,10 +1784,10 @@
 													name="arrFilter_118_1792750741"
 													id="arrFilter_118_1792750741"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Т-образный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1241945380">
-												<input 
+												<input
 													attr-value = "Тавр"
 													style="display:none"
 													type="checkbox"
@@ -1796,10 +1796,10 @@
 													name="arrFilter_118_1241945380"
 													id="arrFilter_118_1241945380"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Тавр											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1621880902">
-												<input 
+												<input
 													attr-value = "Треугольный поручень"
 													style="display:none"
 													type="checkbox"
@@ -1808,10 +1808,10 @@
 													name="arrFilter_118_1621880902"
 													id="arrFilter_118_1621880902"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Треугольный поручень											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2741317649">
-												<input 
+												<input
 													attr-value = "Труба"
 													style="display:none"
 													type="checkbox"
@@ -1820,10 +1820,10 @@
 													name="arrFilter_118_2741317649"
 													id="arrFilter_118_2741317649"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3592732382">
-												<input 
+												<input
 													attr-value = "Труба квадратная"
 													style="display:none"
 													type="checkbox"
@@ -1832,10 +1832,10 @@
 													name="arrFilter_118_3592732382"
 													id="arrFilter_118_3592732382"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба квадратная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1328410468">
-												<input 
+												<input
 													attr-value = "Труба круглая"
 													style="display:none"
 													type="checkbox"
@@ -1844,10 +1844,10 @@
 													name="arrFilter_118_1328410468"
 													id="arrFilter_118_1328410468"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба круглая											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1061624811">
-												<input 
+												<input
 													attr-value = "Труба профильная"
 													style="display:none"
 													type="checkbox"
@@ -1856,10 +1856,10 @@
 													name="arrFilter_118_1061624811"
 													id="arrFilter_118_1061624811"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба профильная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2703461960">
-												<input 
+												<input
 													attr-value = "Труба прямоугольная"
 													style="display:none"
 													type="checkbox"
@@ -1868,10 +1868,10 @@
 													name="arrFilter_118_2703461960"
 													id="arrFilter_118_2703461960"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба прямоугольная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1475654674">
-												<input 
+												<input
 													attr-value = "Угловой"
 													style="display:none"
 													type="checkbox"
@@ -1880,10 +1880,10 @@
 													name="arrFilter_118_1475654674"
 													id="arrFilter_118_1475654674"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Угловой											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_980181419">
-												<input 
+												<input
 													attr-value = "Уголок"
 													style="display:none"
 													type="checkbox"
@@ -1892,10 +1892,10 @@
 													name="arrFilter_118_980181419"
 													id="arrFilter_118_980181419"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Уголок											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_552830084">
-												<input 
+												<input
 													attr-value = "Установочный"
 													style="display:none"
 													type="checkbox"
@@ -1904,10 +1904,10 @@
 													name="arrFilter_118_552830084"
 													id="arrFilter_118_552830084"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Установочный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2573543449">
-												<input 
+												<input
 													attr-value = "Фланец"
 													style="display:none"
 													type="checkbox"
@@ -1916,10 +1916,10 @@
 													name="arrFilter_118_2573543449"
 													id="arrFilter_118_2573543449"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Фланец											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2752050184">
-												<input 
+												<input
 													attr-value = "Швеллер"
 													style="display:none"
 													type="checkbox"
@@ -1928,10 +1928,10 @@
 													name="arrFilter_118_2752050184"
 													id="arrFilter_118_2752050184"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Швеллер											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1298878781">
-												<input 
+												<input
 													attr-value = "Шина"
 													style="display:none"
 													type="checkbox"
@@ -1940,7 +1940,7 @@
 													name="arrFilter_118_1298878781"
 													id="arrFilter_118_1298878781"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Шина											</label>
 																			</div>
 								</div>
@@ -1953,13 +1953,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('SCHIRINA')" attr-name='Ширина, мм'>Ширина, мм</div>
 									<div class="select-options" id="SCHIRINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="SCHIRINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1967,11 +1967,11 @@
 												name="Очистить"
 												id="SCHIRINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2628381300">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -1980,10 +1980,10 @@
 													name="arrFilter_122_2628381300"
 													id="arrFilter_122_2628381300"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3924321467">
-												<input 
+												<input
 													attr-value = "10.7"
 													style="display:none"
 													type="checkbox"
@@ -1992,10 +1992,10 @@
 													name="arrFilter_122_3924321467"
 													id="arrFilter_122_3924321467"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10.7											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1923582808">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -2004,10 +2004,10 @@
 													name="arrFilter_122_1923582808"
 													id="arrFilter_122_1923582808"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2316230027">
-												<input 
+												<input
 													attr-value = "13"
 													style="display:none"
 													type="checkbox"
@@ -2016,10 +2016,10 @@
 													name="arrFilter_122_2316230027"
 													id="arrFilter_122_2316230027"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												13											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2041626887">
-												<input 
+												<input
 													attr-value = "13.6"
 													style="display:none"
 													type="checkbox"
@@ -2028,10 +2028,10 @@
 													name="arrFilter_122_2041626887"
 													id="arrFilter_122_2041626887"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												13.6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_94419918">
-												<input 
+												<input
 													attr-value = "15"
 													style="display:none"
 													type="checkbox"
@@ -2040,10 +2040,10 @@
 													name="arrFilter_122_94419918"
 													id="arrFilter_122_94419918"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_246935953">
-												<input 
+												<input
 													attr-value = "15.6"
 													style="display:none"
 													type="checkbox"
@@ -2052,10 +2052,10 @@
 													name="arrFilter_122_246935953"
 													id="arrFilter_122_246935953"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15.6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3360836486">
-												<input 
+												<input
 													attr-value = "18"
 													style="display:none"
 													type="checkbox"
@@ -2064,10 +2064,10 @@
 													name="arrFilter_122_3360836486"
 													id="arrFilter_122_3360836486"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												18											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1852864628">
-												<input 
+												<input
 													attr-value = "19.6"
 													style="display:none"
 													type="checkbox"
@@ -2076,10 +2076,10 @@
 													name="arrFilter_122_1852864628"
 													id="arrFilter_122_1852864628"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												19.6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3972210427">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -2088,10 +2088,10 @@
 													name="arrFilter_122_3972210427"
 													id="arrFilter_122_3972210427"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_427247842">
-												<input 
+												<input
 													attr-value = "23.6"
 													style="display:none"
 													type="checkbox"
@@ -2100,10 +2100,10 @@
 													name="arrFilter_122_427247842"
 													id="arrFilter_122_427247842"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												23.6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1976192833">
-												<input 
+												<input
 													attr-value = "25"
 													style="display:none"
 													type="checkbox"
@@ -2112,10 +2112,10 @@
 													name="arrFilter_122_1976192833"
 													id="arrFilter_122_1976192833"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2861637804">
-												<input 
+												<input
 													attr-value = "27.4"
 													style="display:none"
 													type="checkbox"
@@ -2124,10 +2124,10 @@
 													name="arrFilter_122_2861637804"
 													id="arrFilter_122_2861637804"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												27.4											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2613325421">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -2136,10 +2136,10 @@
 													name="arrFilter_122_2613325421"
 													id="arrFilter_122_2613325421"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2345449404">
-												<input 
+												<input
 													attr-value = "31"
 													style="display:none"
 													type="checkbox"
@@ -2148,10 +2148,10 @@
 													name="arrFilter_122_2345449404"
 													id="arrFilter_122_2345449404"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												31											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3717599290">
-												<input 
+												<input
 													attr-value = "33.5"
 													style="display:none"
 													type="checkbox"
@@ -2160,10 +2160,10 @@
 													name="arrFilter_122_3717599290"
 													id="arrFilter_122_3717599290"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												33.5											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_342509608">
-												<input 
+												<input
 													attr-value = "36"
 													style="display:none"
 													type="checkbox"
@@ -2172,10 +2172,10 @@
 													name="arrFilter_122_342509608"
 													id="arrFilter_122_342509608"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												36											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_4027903447">
-												<input 
+												<input
 													attr-value = "36.1"
 													style="display:none"
 													type="checkbox"
@@ -2184,10 +2184,10 @@
 													name="arrFilter_122_4027903447"
 													id="arrFilter_122_4027903447"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												36.1											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1416650876">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -2196,10 +2196,10 @@
 													name="arrFilter_122_1416650876"
 													id="arrFilter_122_1416650876"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_4072008611">
-												<input 
+												<input
 													attr-value = "45"
 													style="display:none"
 													type="checkbox"
@@ -2208,10 +2208,10 @@
 													name="arrFilter_122_4072008611"
 													id="arrFilter_122_4072008611"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												45											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1139967385">
-												<input 
+												<input
 													attr-value = "46.1"
 													style="display:none"
 													type="checkbox"
@@ -2220,10 +2220,10 @@
 													name="arrFilter_122_1139967385"
 													id="arrFilter_122_1139967385"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												46.1											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_47022039">
-												<input 
+												<input
 													attr-value = "50"
 													style="display:none"
 													type="checkbox"
@@ -2232,10 +2232,10 @@
 													name="arrFilter_122_47022039"
 													id="arrFilter_122_47022039"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												50											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1246022066">
-												<input 
+												<input
 													attr-value = "54.5"
 													style="display:none"
 													type="checkbox"
@@ -2244,10 +2244,10 @@
 													name="arrFilter_122_1246022066"
 													id="arrFilter_122_1246022066"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												54.5											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2512012004">
-												<input 
+												<input
 													attr-value = "55.5"
 													style="display:none"
 													type="checkbox"
@@ -2256,10 +2256,10 @@
 													name="arrFilter_122_2512012004"
 													id="arrFilter_122_2512012004"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												55.5											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3447271878">
-												<input 
+												<input
 													attr-value = "60"
 													style="display:none"
 													type="checkbox"
@@ -2268,10 +2268,10 @@
 													name="arrFilter_122_3447271878"
 													id="arrFilter_122_3447271878"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												60											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_363340319">
-												<input 
+												<input
 													attr-value = "62"
 													style="display:none"
 													type="checkbox"
@@ -2280,10 +2280,10 @@
 													name="arrFilter_122_363340319"
 													id="arrFilter_122_363340319"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												62											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_84238197">
-												<input 
+												<input
 													attr-value = "71"
 													style="display:none"
 													type="checkbox"
@@ -2292,10 +2292,10 @@
 													name="arrFilter_122_84238197"
 													id="arrFilter_122_84238197"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												71											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3128820048">
-												<input 
+												<input
 													attr-value = "80"
 													style="display:none"
 													type="checkbox"
@@ -2304,10 +2304,10 @@
 													name="arrFilter_122_3128820048"
 													id="arrFilter_122_3128820048"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												80											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_505056507">
-												<input 
+												<input
 													attr-value = "90"
 													style="display:none"
 													type="checkbox"
@@ -2316,10 +2316,10 @@
 													name="arrFilter_122_505056507"
 													id="arrFilter_122_505056507"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												90											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_4241196842">
-												<input 
+												<input
 													attr-value = "92"
 													style="display:none"
 													type="checkbox"
@@ -2328,10 +2328,10 @@
 													name="arrFilter_122_4241196842"
 													id="arrFilter_122_4241196842"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												92											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3310308172">
-												<input 
+												<input
 													attr-value = "95"
 													style="display:none"
 													type="checkbox"
@@ -2340,10 +2340,10 @@
 													name="arrFilter_122_3310308172"
 													id="arrFilter_122_3310308172"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												95											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_605721843">
-												<input 
+												<input
 													attr-value = "100"
 													style="display:none"
 													type="checkbox"
@@ -2352,7 +2352,7 @@
 													name="arrFilter_122_605721843"
 													id="arrFilter_122_605721843"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												100											</label>
 																			</div>
 								</div>
@@ -2365,13 +2365,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TOLSHINA')" attr-name='Толщина, мм'>Толщина, мм</div>
 									<div class="select-options" id="TOLSHINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TOLSHINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -2379,11 +2379,11 @@
 												name="Очистить"
 												id="TOLSHINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1912762339">
-												<input 
+												<input
 													attr-value = "0,8"
 													style="display:none"
 													type="checkbox"
@@ -2392,10 +2392,10 @@
 													name="arrFilter_135_1912762339"
 													id="arrFilter_135_1912762339"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												0,8											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_289485416">
-												<input 
+												<input
 													attr-value = "1"
 													style="display:none"
 													type="checkbox"
@@ -2404,10 +2404,10 @@
 													name="arrFilter_135_289485416"
 													id="arrFilter_135_289485416"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1715864318">
-												<input 
+												<input
 													attr-value = "1,2"
 													style="display:none"
 													type="checkbox"
@@ -2416,10 +2416,10 @@
 													name="arrFilter_135_1715864318"
 													id="arrFilter_135_1715864318"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1,2											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_2286445522">
-												<input 
+												<input
 													attr-value = "1,5"
 													style="display:none"
 													type="checkbox"
@@ -2428,10 +2428,10 @@
 													name="arrFilter_135_2286445522"
 													id="arrFilter_135_2286445522"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1,5											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_372045425">
-												<input 
+												<input
 													attr-value = "1,8"
 													style="display:none"
 													type="checkbox"
@@ -2440,10 +2440,10 @@
 													name="arrFilter_135_372045425"
 													id="arrFilter_135_372045425"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1,8											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1630258919">
-												<input 
+												<input
 													attr-value = "2"
 													style="display:none"
 													type="checkbox"
@@ -2452,10 +2452,10 @@
 													name="arrFilter_135_1630258919"
 													id="arrFilter_135_1630258919"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												2											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_2401609675">
-												<input 
+												<input
 													attr-value = "3"
 													style="display:none"
 													type="checkbox"
@@ -2464,10 +2464,10 @@
 													name="arrFilter_135_2401609675"
 													id="arrFilter_135_2401609675"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												3											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1755155148">
-												<input 
+												<input
 													attr-value = "5"
 													style="display:none"
 													type="checkbox"
@@ -2476,7 +2476,7 @@
 													name="arrFilter_135_1755155148"
 													id="arrFilter_135_1755155148"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												5											</label>
 																			</div>
 								</div>
@@ -2550,13 +2550,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('ZWET')" attr-name='Цвет'>Цвет</div>
 									<div class="select-options" id="ZWET" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="ZWET_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -2564,11 +2564,11 @@
 												name="Очистить"
 												id="ZWET_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_127446590">
-												<input 
+												<input
 													attr-value = "Белый"
 													style="display:none"
 													type="checkbox"
@@ -2577,10 +2577,10 @@
 													name="arrFilter_120_127446590"
 													id="arrFilter_120_127446590"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Белый											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_16083495">
-												<input 
+												<input
 													attr-value = "Золото"
 													style="display:none"
 													type="checkbox"
@@ -2589,10 +2589,10 @@
 													name="arrFilter_120_16083495"
 													id="arrFilter_120_16083495"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Золото											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2012371633">
-												<input 
+												<input
 													attr-value = "Серебро"
 													style="display:none"
 													type="checkbox"
@@ -2601,10 +2601,10 @@
 													name="arrFilter_120_2012371633"
 													id="arrFilter_120_2012371633"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Серебро											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_4001734818">
-												<input 
+												<input
 													attr-value = "Серый"
 													style="display:none"
 													type="checkbox"
@@ -2613,10 +2613,10 @@
 													name="arrFilter_120_4001734818"
 													id="arrFilter_120_4001734818"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Серый											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2660368260">
-												<input 
+												<input
 													attr-value = "Черный"
 													style="display:none"
 													type="checkbox"
@@ -2625,10 +2625,10 @@
 													name="arrFilter_120_2660368260"
 													id="arrFilter_120_2660368260"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Черный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_3918974738">
-												<input 
+												<input
 													attr-value = "Шампань"
 													style="display:none"
 													type="checkbox"
@@ -2637,7 +2637,7 @@
 													name="arrFilter_120_3918974738"
 													id="arrFilter_120_3918974738"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Шампань											</label>
 																			</div>
 								</div>
@@ -2650,13 +2650,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('POKRYTIE')" attr-name='Покрытие'>Покрытие</div>
 									<div class="select-options" id="POKRYTIE" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="POKRYTIE_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -2664,11 +2664,11 @@
 												name="Очистить"
 												id="POKRYTIE_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_367689353">
-												<input 
+												<input
 													attr-value = "аннодированное"
 													style="display:none"
 													type="checkbox"
@@ -2677,10 +2677,10 @@
 													name="arrFilter_139_367689353"
 													id="arrFilter_139_367689353"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												аннодированное											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_1659719199">
-												<input 
+												<input
 													attr-value = "матовое"
 													style="display:none"
 													type="checkbox"
@@ -2689,10 +2689,10 @@
 													name="arrFilter_139_1659719199"
 													id="arrFilter_139_1659719199"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												матовое											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_139_926105079">
-												<input 
+												<input
 													attr-value = "полированное"
 													style="display:none"
 													type="checkbox"
@@ -2701,7 +2701,7 @@
 													name="arrFilter_139_926105079"
 													id="arrFilter_139_926105079"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												полированное											</label>
 																			</div>
 								</div>
@@ -2714,13 +2714,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('VYSOTA')" attr-name='Высота, мм'>Высота, мм</div>
 									<div class="select-options" id="VYSOTA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="VYSOTA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -2728,11 +2728,11 @@
 												name="Очистить"
 												id="VYSOTA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3864289797">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -2741,10 +2741,10 @@
 													name="arrFilter_136_3864289797"
 													id="arrFilter_136_3864289797"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2016475046">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -2753,10 +2753,10 @@
 													name="arrFilter_136_2016475046"
 													id="arrFilter_136_2016475046"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_4245286173">
-												<input 
+												<input
 													attr-value = "13"
 													style="display:none"
 													type="checkbox"
@@ -2765,10 +2765,10 @@
 													name="arrFilter_136_4245286173"
 													id="arrFilter_136_4245286173"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												13											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2136814527">
-												<input 
+												<input
 													attr-value = "15"
 													style="display:none"
 													type="checkbox"
@@ -2777,10 +2777,10 @@
 													name="arrFilter_136_2136814527"
 													id="arrFilter_136_2136814527"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2666484781">
-												<input 
+												<input
 													attr-value = "16"
 													style="display:none"
 													type="checkbox"
@@ -2789,10 +2789,10 @@
 													name="arrFilter_136_2666484781"
 													id="arrFilter_136_2666484781"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												16											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3910130838">
-												<input 
+												<input
 													attr-value = "17"
 													style="display:none"
 													type="checkbox"
@@ -2801,10 +2801,10 @@
 													name="arrFilter_136_3910130838"
 													id="arrFilter_136_3910130838"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												17											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1655640713">
-												<input 
+												<input
 													attr-value = "19"
 													style="display:none"
 													type="checkbox"
@@ -2813,10 +2813,10 @@
 													name="arrFilter_136_1655640713"
 													id="arrFilter_136_1655640713"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												19											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2438156947">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -2825,10 +2825,10 @@
 													name="arrFilter_136_2438156947"
 													id="arrFilter_136_2438156947"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1027864868">
-												<input 
+												<input
 													attr-value = "21.1"
 													style="display:none"
 													type="checkbox"
@@ -2837,10 +2837,10 @@
 													name="arrFilter_136_1027864868"
 													id="arrFilter_136_1027864868"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												21.1											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1904655245">
-												<input 
+												<input
 													attr-value = "25"
 													style="display:none"
 													type="checkbox"
@@ -2849,10 +2849,10 @@
 													name="arrFilter_136_1904655245"
 													id="arrFilter_136_1904655245"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_713244759">
-												<input 
+												<input
 													attr-value = "25.8"
 													style="display:none"
 													type="checkbox"
@@ -2861,10 +2861,10 @@
 													name="arrFilter_136_713244759"
 													id="arrFilter_136_713244759"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25.8											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3778651676">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -2873,10 +2873,10 @@
 													name="arrFilter_136_3778651676"
 													id="arrFilter_136_3778651676"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3673936931">
-												<input 
+												<input
 													attr-value = "39.3"
 													style="display:none"
 													type="checkbox"
@@ -2885,10 +2885,10 @@
 													name="arrFilter_136_3673936931"
 													id="arrFilter_136_3673936931"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												39.3											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2520684170">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -2897,10 +2897,10 @@
 													name="arrFilter_136_2520684170"
 													id="arrFilter_136_2520684170"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_888517903">
-												<input 
+												<input
 													attr-value = "42.9"
 													style="display:none"
 													type="checkbox"
@@ -2909,10 +2909,10 @@
 													name="arrFilter_136_888517903"
 													id="arrFilter_136_888517903"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												42.9											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2836788418">
-												<input 
+												<input
 													attr-value = "45"
 													style="display:none"
 													type="checkbox"
@@ -2921,10 +2921,10 @@
 													name="arrFilter_136_2836788418"
 													id="arrFilter_136_2836788418"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												45											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_109153051">
-												<input 
+												<input
 													attr-value = "50"
 													style="display:none"
 													type="checkbox"
@@ -2933,10 +2933,10 @@
 													name="arrFilter_136_109153051"
 													id="arrFilter_136_109153051"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												50											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1192990190">
-												<input 
+												<input
 													attr-value = "60"
 													style="display:none"
 													type="checkbox"
@@ -2945,10 +2945,10 @@
 													name="arrFilter_136_1192990190"
 													id="arrFilter_136_1192990190"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												60											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_807183736">
-												<input 
+												<input
 													attr-value = "80"
 													style="display:none"
 													type="checkbox"
@@ -2957,10 +2957,10 @@
 													name="arrFilter_136_807183736"
 													id="arrFilter_136_807183736"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												80											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2266225985">
-												<input 
+												<input
 													attr-value = "90"
 													style="display:none"
 													type="checkbox"
@@ -2969,10 +2969,10 @@
 													name="arrFilter_136_2266225985"
 													id="arrFilter_136_2266225985"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												90											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2991094746">
-												<input 
+												<input
 													attr-value = "95"
 													style="display:none"
 													type="checkbox"
@@ -2981,10 +2981,10 @@
 													name="arrFilter_136_2991094746"
 													id="arrFilter_136_2991094746"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												95											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3725771860">
-												<input 
+												<input
 													attr-value = "100"
 													style="display:none"
 													type="checkbox"
@@ -2993,10 +2993,10 @@
 													name="arrFilter_136_3725771860"
 													id="arrFilter_136_3725771860"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												100											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1707267728">
-												<input 
+												<input
 													attr-value = "107"
 													style="display:none"
 													type="checkbox"
@@ -3005,7 +3005,7 @@
 													name="arrFilter_136_1707267728"
 													id="arrFilter_136_1707267728"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												107											</label>
 																			</div>
 								</div>
@@ -3018,13 +3018,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DLINA')" attr-name='Длина, мм'>Длина, мм</div>
 									<div class="select-options" id="DLINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DLINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3032,11 +3032,11 @@
 												name="Очистить"
 												id="DLINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3286295906">
-												<input 
+												<input
 													attr-value = "1000"
 													style="display:none"
 													type="checkbox"
@@ -3045,10 +3045,10 @@
 													name="arrFilter_137_3286295906"
 													id="arrFilter_137_3286295906"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3035092468">
-												<input 
+												<input
 													attr-value = "1500"
 													style="display:none"
 													type="checkbox"
@@ -3057,10 +3057,10 @@
 													name="arrFilter_137_3035092468"
 													id="arrFilter_137_3035092468"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1500											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1529601775">
-												<input 
+												<input
 													attr-value = "160"
 													style="display:none"
 													type="checkbox"
@@ -3069,10 +3069,10 @@
 													name="arrFilter_137_1529601775"
 													id="arrFilter_137_1529601775"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												160											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1237327324">
-												<input 
+												<input
 													attr-value = "2000"
 													style="display:none"
 													type="checkbox"
@@ -3081,10 +3081,10 @@
 													name="arrFilter_137_1237327324"
 													id="arrFilter_137_1237327324"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												2000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1796824738">
-												<input 
+												<input
 													attr-value = "2500"
 													style="display:none"
 													type="checkbox"
@@ -3093,10 +3093,10 @@
 													name="arrFilter_137_1796824738"
 													id="arrFilter_137_1796824738"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												2500											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1053240650">
-												<input 
+												<input
 													attr-value = "3000"
 													style="display:none"
 													type="checkbox"
@@ -3105,10 +3105,10 @@
 													name="arrFilter_137_1053240650"
 													id="arrFilter_137_1053240650"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												3000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1577100463">
-												<input 
+												<input
 													attr-value = "4000"
 													style="display:none"
 													type="checkbox"
@@ -3117,10 +3117,10 @@
 													name="arrFilter_137_1577100463"
 													id="arrFilter_137_1577100463"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												4000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3297583483">
-												<input 
+												<input
 													attr-value = "4500"
 													style="display:none"
 													type="checkbox"
@@ -3129,10 +3129,10 @@
 													name="arrFilter_137_3297583483"
 													id="arrFilter_137_3297583483"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												4500											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3012170221">
-												<input 
+												<input
 													attr-value = "500"
 													style="display:none"
 													type="checkbox"
@@ -3141,10 +3141,10 @@
 													name="arrFilter_137_3012170221"
 													id="arrFilter_137_3012170221"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												500											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_1525265624">
-												<input 
+												<input
 													attr-value = "5000"
 													style="display:none"
 													type="checkbox"
@@ -3153,10 +3153,10 @@
 													name="arrFilter_137_1525265624"
 													id="arrFilter_137_1525265624"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												5000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3648979021">
-												<input 
+												<input
 													attr-value = "6000"
 													style="display:none"
 													type="checkbox"
@@ -3165,10 +3165,10 @@
 													name="arrFilter_137_3648979021"
 													id="arrFilter_137_3648979021"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												6000											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_314959366">
-												<input 
+												<input
 													attr-value = "65"
 													style="display:none"
 													type="checkbox"
@@ -3177,7 +3177,7 @@
 													name="arrFilter_137_314959366"
 													id="arrFilter_137_314959366"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												65											</label>
 																			</div>
 								</div>
@@ -3190,13 +3190,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('OSOBENNOST')" attr-name='Особенность'>Особенность</div>
 									<div class="select-options" id="OSOBENNOST" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="OSOBENNOST_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3204,11 +3204,11 @@
 												name="Очистить"
 												id="OSOBENNOST_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_160_2157551989">
-												<input 
+												<input
 													attr-value = "Под гипсокартон"
 													style="display:none"
 													type="checkbox"
@@ -3217,10 +3217,10 @@
 													name="arrFilter_160_2157551989"
 													id="arrFilter_160_2157551989"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Под гипсокартон											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_160_3878939785">
-												<input 
+												<input
 													attr-value = "Радиусный"
 													style="display:none"
 													type="checkbox"
@@ -3229,10 +3229,10 @@
 													name="arrFilter_160_3878939785"
 													id="arrFilter_160_3878939785"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Радиусный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_160_2419383327">
-												<input 
+												<input
 													attr-value = "С заходом на стену"
 													style="display:none"
 													type="checkbox"
@@ -3241,10 +3241,10 @@
 													name="arrFilter_160_2419383327"
 													id="arrFilter_160_2419383327"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												С заходом на стену											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_160_4042479098">
-												<input 
+												<input
 													attr-value = "С рассеивателем"
 													style="display:none"
 													type="checkbox"
@@ -3253,10 +3253,10 @@
 													name="arrFilter_160_4042479098"
 													id="arrFilter_160_4042479098"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												С рассеивателем											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_160_519910614">
-												<input 
+												<input
 													attr-value = "Щелевой"
 													style="display:none"
 													type="checkbox"
@@ -3265,7 +3265,7 @@
 													name="arrFilter_160_519910614"
 													id="arrFilter_160_519910614"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Щелевой											</label>
 																			</div>
 								</div>
@@ -3278,13 +3278,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('PODSVETKA')" attr-name='Подсветка'>Подсветка</div>
 									<div class="select-options" id="PODSVETKA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="PODSVETKA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3292,11 +3292,11 @@
 												name="Очистить"
 												id="PODSVETKA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_161_1777992768">
-												<input 
+												<input
 													attr-value = "да"
 													style="display:none"
 													type="checkbox"
@@ -3305,10 +3305,10 @@
 													name="arrFilter_161_1777992768"
 													id="arrFilter_161_1777992768"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												да											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_161_4154364387">
-												<input 
+												<input
 													attr-value = "нет"
 													style="display:none"
 													type="checkbox"
@@ -3317,7 +3317,7 @@
 													name="arrFilter_161_4154364387"
 													id="arrFilter_161_4154364387"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												нет											</label>
 																			</div>
 								</div>
@@ -3330,13 +3330,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('NAZNACHENIE')" attr-name='Назначение'>Назначение</div>
 									<div class="select-options" id="NAZNACHENIE" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="NAZNACHENIE_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3344,11 +3344,11 @@
 												name="Очистить"
 												id="NAZNACHENIE_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_1352232971">
-												<input 
+												<input
 													attr-value = "HPL-пластик"
 													style="display:none"
 													type="checkbox"
@@ -3357,10 +3357,10 @@
 													name="arrFilter_119_1352232971"
 													id="arrFilter_119_1352232971"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												HPL-пластик											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_664682653">
-												<input 
+												<input
 													attr-value = "ДПС / ЛДПС"
 													style="display:none"
 													type="checkbox"
@@ -3369,10 +3369,10 @@
 													name="arrFilter_119_664682653"
 													id="arrFilter_119_664682653"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												ДПС / ЛДПС											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_2147529457">
-												<input 
+												<input
 													attr-value = "душевые кабинки"
 													style="display:none"
 													type="checkbox"
@@ -3381,10 +3381,10 @@
 													name="arrFilter_119_2147529457"
 													id="arrFilter_119_2147529457"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												душевые кабинки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_1846465501">
-												<input 
+												<input
 													attr-value = "лофт перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3393,10 +3393,10 @@
 													name="arrFilter_119_1846465501"
 													id="arrFilter_119_1846465501"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												лофт перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_4033496702">
-												<input 
+												<input
 													attr-value = "межкомнатные перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3405,10 +3405,10 @@
 													name="arrFilter_119_4033496702"
 													id="arrFilter_119_4033496702"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												межкомнатные перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_1889509032">
-												<input 
+												<input
 													attr-value = "ограждения спортивных трибун"
 													style="display:none"
 													type="checkbox"
@@ -3417,10 +3417,10 @@
 													name="arrFilter_119_1889509032"
 													id="arrFilter_119_1889509032"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												ограждения спортивных трибун											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_2396732099">
-												<input 
+												<input
 													attr-value = "ограждения стеклянных парапетов"
 													style="display:none"
 													type="checkbox"
@@ -3429,10 +3429,10 @@
 													name="arrFilter_119_2396732099"
 													id="arrFilter_119_2396732099"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												ограждения стеклянных парапетов											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_2272098024">
-												<input 
+												<input
 													attr-value = "офисные перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3441,10 +3441,10 @@
 													name="arrFilter_119_2272098024"
 													id="arrFilter_119_2272098024"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												офисные перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_509880146">
-												<input 
+												<input
 													attr-value = "стационарные перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3453,10 +3453,10 @@
 													name="arrFilter_119_509880146"
 													id="arrFilter_119_509880146"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												стационарные перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_428929231">
-												<input 
+												<input
 													attr-value = "стеклянные козырьки"
 													style="display:none"
 													type="checkbox"
@@ -3465,10 +3465,10 @@
 													name="arrFilter_119_428929231"
 													id="arrFilter_119_428929231"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												стеклянные козырьки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_4191947349">
-												<input 
+												<input
 													attr-value = "стеклянные ограждения балконов"
 													style="display:none"
 													type="checkbox"
@@ -3477,10 +3477,10 @@
 													name="arrFilter_119_4191947349"
 													id="arrFilter_119_4191947349"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												стеклянные ограждения балконов											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_420078411">
-												<input 
+												<input
 													attr-value = "стеклянные перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3489,10 +3489,10 @@
 													name="arrFilter_119_420078411"
 													id="arrFilter_119_420078411"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												стеклянные перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_4144464487">
-												<input 
+												<input
 													attr-value = "туалетные перегородки"
 													style="display:none"
 													type="checkbox"
@@ -3501,10 +3501,10 @@
 													name="arrFilter_119_4144464487"
 													id="arrFilter_119_4144464487"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												туалетные перегородки											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_119_1768101828">
-												<input 
+												<input
 													attr-value = "цельностеклянные ограждения"
 													style="display:none"
 													type="checkbox"
@@ -3513,7 +3513,7 @@
 													name="arrFilter_119_1768101828"
 													id="arrFilter_119_1768101828"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												цельностеклянные ограждения											</label>
 																			</div>
 								</div>
@@ -3526,13 +3526,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TEN_ZAZOR')" attr-name='Теневой зазор, мм'>Теневой зазор, мм</div>
 									<div class="select-options" id="TEN_ZAZOR" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TEN_ZAZOR_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3540,11 +3540,11 @@
 												name="Очистить"
 												id="TEN_ZAZOR_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_121_4253474053">
-												<input 
+												<input
 													attr-value = "12.7"
 													style="display:none"
 													type="checkbox"
@@ -3553,10 +3553,10 @@
 													name="arrFilter_121_4253474053"
 													id="arrFilter_121_4253474053"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12.7											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_121_4194326291">
-												<input 
+												<input
 													attr-value = "8"
 													style="display:none"
 													type="checkbox"
@@ -3565,7 +3565,7 @@
 													name="arrFilter_121_4194326291"
 													id="arrFilter_121_4194326291"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												8											</label>
 																			</div>
 								</div>
@@ -3578,13 +3578,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DIAMETR')" attr-name='Диаметр, мм'>Диаметр, мм</div>
 									<div class="select-options" id="DIAMETR" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DIAMETR_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3592,11 +3592,11 @@
 												name="Очистить"
 												id="DIAMETR_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_688362553">
-												<input 
+												<input
 													attr-value = "6"
 													style="display:none"
 													type="checkbox"
@@ -3605,10 +3605,10 @@
 													name="arrFilter_138_688362553"
 													id="arrFilter_138_688362553"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												6											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_2953758083">
-												<input 
+												<input
 													attr-value = "8"
 													style="display:none"
 													type="checkbox"
@@ -3617,10 +3617,10 @@
 													name="arrFilter_138_2953758083"
 													id="arrFilter_138_2953758083"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												8											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_3339318549">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -3629,10 +3629,10 @@
 													name="arrFilter_138_3339318549"
 													id="arrFilter_138_3339318549"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1500340406">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -3641,10 +3641,10 @@
 													name="arrFilter_138_1500340406"
 													id="arrFilter_138_1500340406"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_3076719002">
-												<input 
+												<input
 													attr-value = "16"
 													style="display:none"
 													type="checkbox"
@@ -3653,10 +3653,10 @@
 													name="arrFilter_138_3076719002"
 													id="arrFilter_138_3076719002"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												16											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_3227791628">
-												<input 
+												<input
 													attr-value = "18"
 													style="display:none"
 													type="checkbox"
@@ -3665,10 +3665,10 @@
 													name="arrFilter_138_3227791628"
 													id="arrFilter_138_3227791628"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												18											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1356541085">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -3677,10 +3677,10 @@
 													name="arrFilter_138_1356541085"
 													id="arrFilter_138_1356541085"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_668736523">
-												<input 
+												<input
 													attr-value = "22"
 													style="display:none"
 													type="checkbox"
@@ -3689,10 +3689,10 @@
 													name="arrFilter_138_668736523"
 													id="arrFilter_138_668736523"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												22											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1965946732">
-												<input 
+												<input
 													attr-value = "25"
 													style="display:none"
 													type="checkbox"
@@ -3701,10 +3701,10 @@
 													name="arrFilter_138_1965946732"
 													id="arrFilter_138_1965946732"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_2602800704">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -3713,10 +3713,10 @@
 													name="arrFilter_138_2602800704"
 													id="arrFilter_138_2602800704"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_138_1015124755">
-												<input 
+												<input
 													attr-value = "43"
 													style="display:none"
 													type="checkbox"
@@ -3725,7 +3725,7 @@
 													name="arrFilter_138_1015124755"
 													id="arrFilter_138_1015124755"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												43											</label>
 																			</div>
 								</div>
@@ -3738,13 +3738,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('PAZ')" attr-name='Паз, мм'>Паз, мм</div>
 									<div class="select-options" id="PAZ" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="PAZ_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3752,11 +3752,11 @@
 												name="Очистить"
 												id="PAZ_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_741142137">
-												<input 
+												<input
 													attr-value = "10"
 													style="display:none"
 													type="checkbox"
@@ -3765,10 +3765,10 @@
 													name="arrFilter_148_741142137"
 													id="arrFilter_148_741142137"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												10											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_3039150019">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -3777,10 +3777,10 @@
 													name="arrFilter_148_3039150019"
 													id="arrFilter_148_3039150019"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_3257044821">
-												<input 
+												<input
 													attr-value = "16"
 													style="display:none"
 													type="checkbox"
@@ -3789,10 +3789,10 @@
 													name="arrFilter_148_3257044821"
 													id="arrFilter_148_3257044821"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												16											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_1386058436">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -3801,10 +3801,10 @@
 													name="arrFilter_148_1386058436"
 													id="arrFilter_148_1386058436"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_1763556461">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -3813,10 +3813,10 @@
 													name="arrFilter_148_1763556461"
 													id="arrFilter_148_1763556461"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_2155747672">
-												<input 
+												<input
 													attr-value = "45"
 													style="display:none"
 													type="checkbox"
@@ -3825,10 +3825,10 @@
 													name="arrFilter_148_2155747672"
 													id="arrFilter_148_2155747672"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												45											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_4151912910">
-												<input 
+												<input
 													attr-value = "48"
 													style="display:none"
 													type="checkbox"
@@ -3837,10 +3837,10 @@
 													name="arrFilter_148_4151912910"
 													id="arrFilter_148_4151912910"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												48											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_148_630891090">
-												<input 
+												<input
 													attr-value = "8"
 													style="display:none"
 													type="checkbox"
@@ -3849,7 +3849,7 @@
 													name="arrFilter_148_630891090"
 													id="arrFilter_148_630891090"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												8											</label>
 																			</div>
 								</div>
@@ -3862,13 +3862,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('MARKA_SPLAVA')" attr-name='Марка сплава'>Марка сплава</div>
 									<div class="select-options" id="MARKA_SPLAVA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="MARKA_SPLAVA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -3876,11 +3876,11 @@
 												name="Очистить"
 												id="MARKA_SPLAVA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_134_884468121">
-												<input 
+												<input
 													attr-value = "АД31Т1"
 													style="display:none"
 													type="checkbox"
@@ -3889,7 +3889,7 @@
 													name="arrFilter_134_884468121"
 													id="arrFilter_134_884468121"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												АД31Т1											</label>
 																			</div>
 								</div>
@@ -3921,8 +3921,8 @@
 </script>
                                         </div>
                                     </div>
-                                    
-        
+
+
 <div class="cloud-items__wrapper cloud-items__wrapper-top">
 
     <div class="cloud-items">
@@ -3951,7 +3951,7 @@
 		<div class="catalog-section__top-line catalog-section__top-line_filter">
 		<div class='catalog-section__sort'>
 						<button class="catalog-section__filter-button" type="button">Фильтр</button>
-			
+
 			<div class='catalog-section__sort-text'>
 				Сортировка			</div>
 			<select name="sort-select">
@@ -3995,8 +3995,8 @@
 	</div>
 	<div class="catalog-section__row catalog-section-tile">
 		<div class="row row-10">
-			
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_642">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4019,7 +4019,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4049,7 +4049,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4063,8 +4063,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2471">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4086,7 +4086,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/karniz-dlya-skrytogo-osveshcheniya-pod-gipsokarton-60-mm.prod" class="catalog-section-tile__title-link">
-								Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра							</a>
+Карниз 60 мм под гипсокартон потолочный для подсветки белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4159,7 +4159,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля серебро матовое h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4196,7 +4196,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4210,8 +4210,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_283">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4233,7 +4233,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4270,7 +4270,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4284,8 +4284,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_129">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4308,7 +4308,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4338,7 +4338,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4352,8 +4352,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2647">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4375,7 +4375,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра							</a>
+Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4412,7 +4412,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4426,15 +4426,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1450">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" title="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" title="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4448,7 +4448,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 30 * 30 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4456,11 +4456,7 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -4472,18 +4468,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1277.88</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" data-price="1277.88">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" data-price="1277.88">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4497,15 +4492,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2365">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo-16-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/70b/250_250_1/0wskmq4mcout5i1s473y0nl5yaj58a9t.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм" title="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/70b/250_250_1/0wskmq4mcout5i1s473y0nl5yaj58a9t.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм серебро матовое длина 3 метра" title="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4519,7 +4514,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo-16-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм							</a>
+Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4537,30 +4532,29 @@
 									<span class="value-product-attribute" data-text="
 									16									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">663</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5680</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм" data-price="663">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 16 мм серебро матовое длина 3 метра" data-price="5680">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2365" >
@@ -4568,15 +4562,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2362">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/293/250_250_1/3yh9zxrjbpvzrquktlm4yj3lr3avu5mk.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм" title="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/293/250_250_1/3yh9zxrjbpvzrquktlm4yj3lr3avu5mk.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм серебро матовое длина 3 метра" title="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4590,7 +4584,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм							</a>
+Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4608,30 +4602,29 @@
 									<span class="value-product-attribute" data-text="
 									10									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">663</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5680</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм" data-price="663">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 10 мм серебро матовое длина 3 метра" data-price="5680">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2362" >
@@ -4639,8 +4632,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1028">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4662,7 +4655,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-40-mm-dlya-stekol-10-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 40 мм для стекол 10 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4698,7 +4691,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4712,15 +4705,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1460">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-1-5-x-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" title="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" title="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4734,7 +4727,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-1-5-x-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 40 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 20 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4742,11 +4735,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -4758,18 +4747,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1222.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" data-price="1222.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" data-price="1222.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4783,8 +4771,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1094">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4807,7 +4795,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4837,7 +4825,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4851,8 +4839,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1310">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -4874,7 +4862,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/p-profil-serebristyy.prod" class="catalog-section-tile__title-link">
-								П-образный профиль для стекла серебро матовое 3 метра							</a>
+П-образный профиль для стекла серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4906,7 +4894,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4920,15 +4908,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1451">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая профильная труба 30 * 30 * 2 * 6000" title="Алюминиевая профильная труба 30 * 30 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая профильная труба 30 * 30 * 2 * 3000" title="Алюминиевая профильная труба 30 * 30 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -4942,7 +4930,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 30 * 30 * 2 * 6000							</a>
+Алюминиевая профильная труба 30 * 30 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -4950,11 +4938,7 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -4966,18 +4950,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1675.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 2 * 6000" data-price="1675.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 2 * 3000" data-price="1675.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -4991,15 +4974,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2648">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/zazhimnoy-profil-kozyrka-dlya-stekla.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/cef/250_250_1/ha5ggyjdy3iylwwoddcmiad7ik56cxyo.jpg" alt="Зажимной профиль козырька для стекла 16, 20 мм" title="Зажимной профиль козырька для стекла 16, 20 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/canopy-clamp-profile.png" alt="Зажимной профиль козырька для стекла 16,20 мм серебро матовое 1,5 метра" title="Зажимной профиль козырька для стекла 16,20 мм серебро матовое 1,5 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5013,33 +4996,32 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/zazhimnoy-profil-kozyrka-dlya-stekla.prod" class="catalog-section-tile__title-link">
-								Зажимной профиль козырька для стекла 16, 20 мм							</a>
+Зажимной профиль козырька для стекла 16,20 мм серебро матовое 1,5 метра</a>
 						</div>
 						<div class="main-property-products">
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="1500"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">6200</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">16990</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Зажимной профиль козырька для стекла 16, 20 мм" data-price="6200">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Зажимной профиль козырька для стекла 16,20 мм серебро матовое 1,5 метра" data-price="16990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2648" >
@@ -5047,15 +5029,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1852">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-kvadratnaya-truba-30-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая квадратная труба 30 * 30 * 1,5 * 6000" title="Алюминиевая квадратная труба 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая квадратная труба 30 * 30 * 1,5 * 3000" title="Алюминиевая квадратная труба 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5069,7 +5051,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-kvadratnaya-truba-30-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая квадратная труба 30 * 30 * 1,5 * 6000							</a>
+Алюминиевая квадратная труба 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5077,11 +5059,7 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -5093,18 +5071,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1277.88</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 30 * 30 * 1,5 * 6000" data-price="1277.88">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 30 * 30 * 1,5 * 3000" data-price="1277.88">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5118,8 +5095,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1089">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -5142,7 +5119,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5172,7 +5149,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5186,8 +5163,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_288">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -5209,7 +5186,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5245,7 +5222,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5259,8 +5236,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_284">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -5282,7 +5259,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5314,7 +5291,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5328,15 +5305,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2364">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo-12-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/982/250_250_1/dij3sfthr2j3567z07jvf6j0txva14jt.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм" title="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/982/250_250_1/dij3sfthr2j3567z07jvf6j0txva14jt.jpg" alt="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм серебро матовое длина 3 метра" title="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм серебро матовое длина 3 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5350,7 +5327,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-poruchni-40-40-mm-s-pazom-pod-steklo-12-mm.prod" class="catalog-section-tile__title-link">
-								Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм							</a>
+Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм серебро матовое длина 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5368,30 +5345,29 @@
 									<span class="value-product-attribute" data-text="
 									12									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">663</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./пог.м											</span>
+											<span class="pricespace">5680</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм" data-price="663">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевые поручни 40*40 мм с пазом под стекло 12 мм серебро матовое длина 3 метра" data-price="5680">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
 						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
 							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='3' data-step='3'/>
+							<input type='input' name='quantity' value='1' data-step='1'/>
 							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
 						</div>
 						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2364" >
@@ -5399,15 +5375,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1599">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-polosa-5x100x6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/901/250_250_1/lkh4q3tav93te4e8z1dnexen76ucatzh.jpg" alt="Алюминиевая полоса 5 * 100 * 6000" title="Алюминиевая полоса 5 * 100 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/901/250_250_1/lkh4q3tav93te4e8z1dnexen76ucatzh.jpg" alt="Алюминиевая полоса 5 * 100 * 3000" title="Алюминиевая полоса 5 * 100 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5421,14 +5397,10 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-polosa-5x100x6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевая полоса 5 * 100 * 6000							</a>
+Алюминиевая полоса 5 * 100 * 3000</a>
 						</div>
 						<div class="main-property-products">
-																															<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																															<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -5440,18 +5412,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3739.8</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая полоса 5 * 100 * 6000" data-price="3739.8">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая полоса 5 * 100 * 3000" data-price="3739.8">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5465,15 +5436,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1448">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-80-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевая профильная труба 20 * 80 * 2 * 6000" title="Алюминиевая профильная труба 20 * 80 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевая профильная труба 20 * 80 * 2 * 3000" title="Алюминиевая профильная труба 20 * 80 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5487,7 +5458,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-80-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 80 * 2 * 6000							</a>
+Алюминиевая профильная труба 20 * 80 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5495,11 +5466,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -5511,18 +5478,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2748.24</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 80 * 2 * 6000" data-price="2748.24">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 80 * 2 * 3000" data-price="2748.24">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5536,15 +5502,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1851">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-kvadratnaya-truba-30-x-30-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая квадратная труба 30 * 30 * 2 * 6000" title="Алюминиевая квадратная труба 30 * 30 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая квадратная труба 30 * 30 * 2 * 3000" title="Алюминиевая квадратная труба 30 * 30 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -5558,7 +5524,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-kvadratnaya-truba-30-x-30-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая квадратная труба 30 * 30 * 2 * 6000							</a>
+Алюминиевая квадратная труба 30 * 30 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5566,29 +5532,24 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 													</div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1675.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 30 * 30 * 2 * 6000" data-price="1675.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 30 * 30 * 2 * 3000" data-price="1675.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5602,8 +5563,8 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1098">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -5626,7 +5587,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*100 мм белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -5656,7 +5617,7 @@
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -5679,19 +5640,19 @@
 
 				<li class="bx-pag-prev"><span>Назад</span></li>
 			<li class="bx-active"><span>1</span></li>
-	
+
 						<li class=""><a href="/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=2"><span>2</span></a></li>
 										<li class=""><a href="/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=3"><span>3</span></a></li>
 										<li class=""><a href="/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=4"><span>4</span></a></li>
-					
+
 						<li class=""><a href="/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=22"><span>22</span></a></li>
 					<li class="bx-pag-next"><a href="/catalog/skrytye-plintusy-s-podsvetkoy.tag?PAGEN_1=2"><span>Вперед</span></a></li>
-	
+
 		</ul>
 		<div style="clear:both"></div>
 	</div>
 </div>
-		
+
 	<!--noindex-->
 <!--googleoff: all-->
 <div class="form-popup-request form-hide" id="form-popup-catalog">
@@ -5838,7 +5799,7 @@
                                         <div class="mb-10">
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
-										
+
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
@@ -5855,17 +5816,17 @@
 										<ul>
 
 			<li><a href="/kompaniya/">О компании</a></li>
-		
 
-		
+
+
 			<li><a href="/aktsii/">Акции</a></li>
-		
-			<li><a href="/blog/">Блог</a></li>
-		
-			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
-		
 
-		
+			<li><a href="/blog/">Блог</a></li>
+
+			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
+
+
+
 
 </ul>
 								</nav>
@@ -5879,19 +5840,19 @@
 									<ul>
 
 			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-		
+
 			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
-		
+
 			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
-		
+
 			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
-		
+
 			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
-		
+
 
 </ul>
 								</nav>
@@ -5903,13 +5864,13 @@
 									Услуги								</div>
 								<nav class="footer__menu-nav">
 									<ul>
-		
+
 			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
-		
 
-		
 
-		
+
+
+
 
 </ul>
 								</nav>
@@ -6157,10 +6118,10 @@
                 <a href="javascript:void(0);" class="cookies_agree_btn" id="cookies_agree_btn">Согласен</a>
             </div>
         </div>
-    
+
 	<div class="feedback-block" style="display:none">
 		<div>Свяжитесь с нами</div>
-		
+
 		<div class="phone-callback-block">
 			<a href="tel:+74956643004" class="header-phone__link">Позвонить нам</a>
 			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>

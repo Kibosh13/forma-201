@@ -2000,7 +2000,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-serebristyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2068,7 +2068,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-belye.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2136,7 +2136,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2204,7 +2204,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-zoloto.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2272,7 +2272,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2340,7 +2340,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-40-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра							</a>
+Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

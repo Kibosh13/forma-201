@@ -1855,7 +1855,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-x-40-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевый бокс 20 * 40 * 1,5 * 6000" title="Алюминиевый бокс 20 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевый бокс 20 * 40 * 1,5 * 3000" title="Алюминиевый бокс 20 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1869,7 +1869,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-x-40-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 40 * 1,5 * 6000							</a>
+Алюминиевый бокс 20 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1887,20 +1887,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1389</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 1,5 * 6000" data-price="1389">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 1,5 * 3000" data-price="1389">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1926,7 +1925,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-x-20-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/572/250_250_1/giuo2b9okdcxucf1c5r3ykfifq009u4s.jpg" alt="Алюминиевый бокс 20 * 20 * 1,5 * 6000" title="Алюминиевый бокс 20 * 20 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/572/250_250_1/giuo2b9okdcxucf1c5r3ykfifq009u4s.jpg" alt="Алюминиевый бокс 20 * 20 * 1,5 * 3000" title="Алюминиевый бокс 20 * 20 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1940,7 +1939,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-x-20-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 20 * 1,5 * 6000							</a>
+Алюминиевый бокс 20 * 20 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1958,20 +1957,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">903</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 20 * 1,5 * 6000" data-price="903">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 20 * 1,5 * 3000" data-price="903">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1997,7 +1995,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-25-x-25-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/uotkpc6v8d85tf2c7j6snif53unigq13.jpg" alt="Алюминиевый бокс 25 * 25 * 1,5 * 6000" title="Алюминиевый бокс 25 * 25 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/uotkpc6v8d85tf2c7j6snif53unigq13.jpg" alt="Алюминиевый бокс 25 * 25 * 1,5 * 3000" title="Алюминиевый бокс 25 * 25 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2011,7 +2009,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-25-x-25-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 25 * 25 * 1,5 * 6000							</a>
+Алюминиевый бокс 25 * 25 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2029,20 +2027,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1146</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 25 * 25 * 1,5 * 6000" data-price="1146">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 25 * 25 * 1,5 * 3000" data-price="1146">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2068,7 +2065,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-40-x-60-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/83f/250_250_1/rn8j6ecdouiiy19yw70cgs954q5pqhel.jpg" alt="Алюминиевый бокс 40 * 60 * 2 * 6000" title="Алюминиевый бокс 40 * 60 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/83f/250_250_1/rn8j6ecdouiiy19yw70cgs954q5pqhel.jpg" alt="Алюминиевый бокс 40 * 60 * 2 * 3000" title="Алюминиевый бокс 40 * 60 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2082,7 +2079,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-40-x-60-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 40 * 60 * 2 * 6000							</a>
+Алюминиевый бокс 40 * 60 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2100,20 +2097,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3111</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 60 * 2 * 6000" data-price="3111">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 60 * 2 * 3000" data-price="3111">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2139,7 +2135,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-50-x-50-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/4a8/250_250_1/luxsbbtw100t0uudv50fmcnso6fsspor.jpg" alt="Алюминиевый бокс 50 * 50 * 2 * 6000" title="Алюминиевый бокс 50 * 50 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/4a8/250_250_1/luxsbbtw100t0uudv50fmcnso6fsspor.jpg" alt="Алюминиевый бокс 50 * 50 * 2 * 3000" title="Алюминиевый бокс 50 * 50 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2153,7 +2149,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-50-x-50-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 50 * 50 * 2 * 6000							</a>
+Алюминиевый бокс 50 * 50 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2171,20 +2167,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3123</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 50 * 2 * 6000" data-price="3123">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 50 * 2 * 3000" data-price="3123">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2210,7 +2205,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-40-x-40-x-3.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/44f/250_250_1/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg" alt="Алюминиевый бокс 40 * 40 * 3 * 6000" title="Алюминиевый бокс 40 * 40 * 3 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/44f/250_250_1/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg" alt="Алюминиевый бокс 40 * 40 * 3 * 3000" title="Алюминиевый бокс 40 * 40 * 3 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2224,7 +2219,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-40-x-40-x-3.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 40 * 40 * 3 * 6000							</a>
+Алюминиевый бокс 40 * 40 * 3 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2242,20 +2237,19 @@
 									<span class="value-product-attribute" data-text="
 									3									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3609</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 3 * 6000" data-price="3609">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 3 * 3000" data-price="3609">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2281,7 +2275,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/5e1/250_250_1/kpdb0w157hklksefglo6dvzytw8shstf.jpg" alt="Алюминиевый бокс 20 * 20 * 2 * 6000" title="Алюминиевый бокс 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/5e1/250_250_1/kpdb0w157hklksefglo6dvzytw8shstf.jpg" alt="Алюминиевый бокс 20 * 20 * 2 * 3000" title="Алюминиевый бокс 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2295,7 +2289,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 20 * 2 * 6000							</a>
+Алюминиевый бокс 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2313,20 +2307,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1170</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 20 * 2 * 6000" data-price="1170">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 20 * 2 * 3000" data-price="1170">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2352,7 +2345,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-x-80-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевый бокс 20 * 80 * 2 * 6000" title="Алюминиевый бокс 20 * 80 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевый бокс 20 * 80 * 2 * 3000" title="Алюминиевый бокс 20 * 80 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2366,7 +2359,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-x-80-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 80 * 2 * 6000							</a>
+Алюминиевый бокс 20 * 80 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2384,20 +2377,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3123</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 80 * 2 * 6000" data-price="3123">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 80 * 2 * 3000" data-price="3123">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2423,7 +2415,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-12-x-12-x-1.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e72/250_250_1/iwpwnw6indfebptx0awda20hwas0vyc7.jpg" alt="Алюминиевый бокс 12 * 12 * 1 * 6000" title="Алюминиевый бокс 12 * 12 * 1 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e72/250_250_1/iwpwnw6indfebptx0awda20hwas0vyc7.jpg" alt="Алюминиевый бокс 12 * 12 * 1 * 3000" title="Алюминиевый бокс 12 * 12 * 1 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2437,7 +2429,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-12-x-12-x-1.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 12 * 12 * 1 * 6000							</a>
+Алюминиевый бокс 12 * 12 * 1 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2455,20 +2447,19 @@
 									<span class="value-product-attribute" data-text="
 									1									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">357</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 12 * 12 * 1 * 6000" data-price="357">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 12 * 12 * 1 * 3000" data-price="357">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2494,7 +2485,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-40-x-40-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/7ae/250_250_1/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg" alt="Алюминиевый бокс 40 * 40 * 1,5 * 6000" title="Алюминиевый бокс 40 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/7ae/250_250_1/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg" alt="Алюминиевый бокс 40 * 40 * 1,5 * 3000" title="Алюминиевый бокс 40 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2508,7 +2499,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-40-x-40-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 40 * 40 * 1,5 * 6000							</a>
+Алюминиевый бокс 40 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2526,20 +2517,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1878</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 1,5 * 6000" data-price="1878">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 1,5 * 3000" data-price="1878">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2565,7 +2555,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-40-x-80-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/b7b/250_250_1/bxqtiqqjpdy8ihjvyn5egrtip74kn7pu.jpg" alt="Алюминиевый бокс 40 * 80 * 2 * 6000" title="Алюминиевый бокс 40 * 80 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/b7b/250_250_1/bxqtiqqjpdy8ihjvyn5egrtip74kn7pu.jpg" alt="Алюминиевый бокс 40 * 80 * 2 * 3000" title="Алюминиевый бокс 40 * 80 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2579,7 +2569,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-40-x-80-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 40 * 80 * 2 * 6000							</a>
+Алюминиевый бокс 40 * 80 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2597,20 +2587,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3321.12</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 80 * 2 * 6000" data-price="3321.12">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 80 * 2 * 3000" data-price="3321.12">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2636,7 +2625,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-15-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/733/250_250_1/4plfe7uhzklf1o3li73h0aib9b2ghlvm.jpg" alt="Алюминиевый бокс 15 * 30 * 1,5 * 6000" title="Алюминиевый бокс 15 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/733/250_250_1/4plfe7uhzklf1o3li73h0aib9b2ghlvm.jpg" alt="Алюминиевый бокс 15 * 30 * 1,5 * 3000" title="Алюминиевый бокс 15 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2650,7 +2639,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-15-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 15 * 30 * 1,5 * 6000							</a>
+Алюминиевый бокс 15 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2668,20 +2657,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1023</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 30 * 1,5 * 6000" data-price="1023">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 30 * 1,5 * 3000" data-price="1023">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2707,7 +2695,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-30-x-30-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевый бокс 30 * 30 * 2 * 6000" title="Алюминиевый бокс 30 * 30 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевый бокс 30 * 30 * 2 * 3000" title="Алюминиевый бокс 30 * 30 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2721,7 +2709,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-30-x-30-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 30 * 30 * 2 * 6000							</a>
+Алюминиевый бокс 30 * 30 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2739,20 +2727,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1821</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 30 * 30 * 2 * 6000" data-price="1821">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 30 * 30 * 2 * 3000" data-price="1821">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2778,7 +2765,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-40-x-40-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/508/250_250_1/234tsn2lv939w4il9hckvyjezhsltz6n.jpg" alt="Алюминиевый бокс 40 * 40 * 2 * 6000" title="Алюминиевый бокс 40 * 40 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/508/250_250_1/234tsn2lv939w4il9hckvyjezhsltz6n.jpg" alt="Алюминиевый бокс 40 * 40 * 2 * 3000" title="Алюминиевый бокс 40 * 40 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2792,7 +2779,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-40-x-40-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 40 * 40 * 2 * 6000							</a>
+Алюминиевый бокс 40 * 40 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2810,20 +2797,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2463</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 2 * 6000" data-price="2463">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 40 * 40 * 2 * 3000" data-price="2463">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2849,7 +2835,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-30-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевый бокс 30 * 30 * 1,5 * 6000" title="Алюминиевый бокс 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевый бокс 30 * 30 * 1,5 * 3000" title="Алюминиевый бокс 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2863,7 +2849,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-30-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 30 * 30 * 1,5 * 6000							</a>
+Алюминиевый бокс 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2881,20 +2867,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1389</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 30 * 30 * 1,5 * 6000" data-price="1389">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 30 * 30 * 1,5 * 3000" data-price="1389">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2920,7 +2905,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-x-40-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e30/250_250_1/5reyay0njf869p42738sp6z2kd6lb39c.jpg" alt="Алюминиевый бокс 20 * 40 * 2 * 6000" title="Алюминиевый бокс 20 * 40 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e30/250_250_1/5reyay0njf869p42738sp6z2kd6lb39c.jpg" alt="Алюминиевый бокс 20 * 40 * 2 * 3000" title="Алюминиевый бокс 20 * 40 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2934,7 +2919,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-x-40-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 40 * 2 * 6000							</a>
+Алюминиевый бокс 20 * 40 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2952,20 +2937,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1815</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 2 * 6000" data-price="1815">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 2 * 3000" data-price="1815">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2991,7 +2975,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-50-50-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/816/250_250_1/ihaug6igpcyvz40m9yig2pv85ha5rudf.jpg" alt="Алюминиевый бокс 25 * 25 * 2 * 6000" title="Алюминиевый бокс 25 * 25 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/816/250_250_1/ihaug6igpcyvz40m9yig2pv85ha5rudf.jpg" alt="Алюминиевый бокс 25 * 25 * 2 * 3000" title="Алюминиевый бокс 25 * 25 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3005,7 +2989,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-50-50-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 25 * 25 * 2 * 6000							</a>
+Алюминиевый бокс 25 * 25 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3023,20 +3007,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1377.24</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 25 * 25 * 2 * 6000" data-price="1377.24">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 25 * 25 * 2 * 3000" data-price="1377.24">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3062,7 +3045,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-15-x-15-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/759/250_250_1/xvv6xxa28mtw5ovvv3prq6jvya6jckuv.jpg" alt="Алюминиевый бокс 15 * 15 * 1,5 * 6000" title="Алюминиевый бокс 15 * 15 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/759/250_250_1/xvv6xxa28mtw5ovvv3prq6jvya6jckuv.jpg" alt="Алюминиевый бокс 15 * 15 * 1,5 * 3000" title="Алюминиевый бокс 15 * 15 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3076,7 +3059,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-15-x-15-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 15 * 15 * 1,5 * 6000							</a>
+Алюминиевый бокс 15 * 15 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3094,20 +3077,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">660</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 15 * 1,5 * 6000" data-price="660">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 15 * 1,5 * 3000" data-price="660">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3133,7 +3115,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-boks-15-x-15-x-1-x-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e00/250_250_1/uuu1h0z7sn40ljd47lk5ezh5uiv0ryzv.jpg" alt="Алюминиевый бокс 15 * 15 * 1 * 6000" title="Алюминиевый бокс 15 * 15 * 1 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e00/250_250_1/uuu1h0z7sn40ljd47lk5ezh5uiv0ryzv.jpg" alt="Алюминиевый бокс 15 * 15 * 1 * 3000" title="Алюминиевый бокс 15 * 15 * 1 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3147,7 +3129,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-boks-15-x-15-x-1-x-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 15 * 15 * 1 * 6000							</a>
+Алюминиевый бокс 15 * 15 * 1 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3165,20 +3147,19 @@
 									<span class="value-product-attribute" data-text="
 									1									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">456</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 15 * 1 * 6000" data-price="456">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 15 * 15 * 1 * 3000" data-price="456">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3204,7 +3185,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-40-x-1-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/76c/250_250_1/goud8cqp7d32jdemmsei63vyd72uo2hw.jpg" alt="Алюминиевый бокс 20 * 40 * 1,2 * 6000" title="Алюминиевый бокс 20 * 40 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/76c/250_250_1/goud8cqp7d32jdemmsei63vyd72uo2hw.jpg" alt="Алюминиевый бокс 20 * 40 * 1,2 * 3000" title="Алюминиевый бокс 20 * 40 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3218,7 +3199,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-40-x-1-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 40 * 1,2 * 6000							</a>
+Алюминиевый бокс 20 * 40 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3236,20 +3217,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1125</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 1,2 * 6000" data-price="1125">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 1,2 * 3000" data-price="1125">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3275,7 +3255,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-50-x-50-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/92e/250_250_1/0500nok071q7d7dpyaevht3bvh520vfh.jpg" alt="Алюминиевый бокс 50 * 50 * 1,5 * 6000" title="Алюминиевый бокс 50 * 50 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/92e/250_250_1/0500nok071q7d7dpyaevht3bvh520vfh.jpg" alt="Алюминиевый бокс 50 * 50 * 1,5 * 3000" title="Алюминиевый бокс 50 * 50 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3289,7 +3269,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-50-x-50-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 50 * 50 * 1,5 * 6000							</a>
+Алюминиевый бокс 50 * 50 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3307,20 +3287,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2367</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 50 * 1,5 * 6000" data-price="2367">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 50 * 1,5 * 3000" data-price="2367">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3346,7 +3325,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-100-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/8bf/250_250_1/64vtc9ypgynpie83p2q02aw660dkmabx.jpg" alt="Алюминиевый бокс 20 * 100 * 2 * 6000" title="Алюминиевый бокс 20 * 100 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/8bf/250_250_1/64vtc9ypgynpie83p2q02aw660dkmabx.jpg" alt="Алюминиевый бокс 20 * 100 * 2 * 3000" title="Алюминиевый бокс 20 * 100 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3360,7 +3339,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-100-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 100 * 2 * 6000							</a>
+Алюминиевый бокс 20 * 100 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3378,20 +3357,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3771</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 100 * 2 * 6000" data-price="3771">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 100 * 2 * 3000" data-price="3771">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3417,7 +3395,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyj-boks-20-40-x-3.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/ef3/250_250_1/o4unj57m5531mid6dold8ktxo3dbxnuv.jpg" alt="Алюминиевый бокс 20 * 40 * 3 * 6000" title="Алюминиевый бокс 20 * 40 * 3 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/ef3/250_250_1/o4unj57m5531mid6dold8ktxo3dbxnuv.jpg" alt="Алюминиевый бокс 20 * 40 * 3 * 3000" title="Алюминиевый бокс 20 * 40 * 3 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3431,7 +3409,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyj-boks-20-40-x-3.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 20 * 40 * 3 * 6000							</a>
+Алюминиевый бокс 20 * 40 * 3 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3449,20 +3427,19 @@
 									<span class="value-product-attribute" data-text="
 									3									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2634</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 3 * 6000" data-price="2634">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 20 * 40 * 3 * 3000" data-price="2634">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3488,7 +3465,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-boks-50-100-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9f5/250_250_1/0c92e8lhvi8uz6skan7rry25jnor9t0p.jpg" alt="Алюминиевый бокс 50 * 100 * 2 * 6000" title="Алюминиевый бокс 50 * 100 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/9f5/250_250_1/0c92e8lhvi8uz6skan7rry25jnor9t0p.jpg" alt="Алюминиевый бокс 50 * 100 * 2 * 3000" title="Алюминиевый бокс 50 * 100 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3502,7 +3479,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-boks-50-100-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый бокс 50 * 100 * 2 * 6000							</a>
+Алюминиевый бокс 50 * 100 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3520,20 +3497,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">4749</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 100 * 2 * 6000" data-price="4749">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый бокс 50 * 100 * 2 * 3000" data-price="4749">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

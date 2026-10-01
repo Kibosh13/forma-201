@@ -2006,7 +2006,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2074,7 +2074,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2125,7 +2125,8 @@
     <a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-chernye.prod"><div class="catalog-section-tile__img-box"><img src="/upload/iblock/custom-hidden/hidden-no-light-black.jpg" alt="Скрытые плинтусы для пола без подсветки чёрный матовый 3 метра" title="Скрытые плинтусы для пола без подсветки чёрный матовый 3 метра" class="catalog-section-tile__img-img"></div></a>
     <div class="catalog-section-tile__text-box">
       <div class="catalog-section-tile__status-box"><div class="catalog-section-tile__status"><div class="catalog-section-tile__status-nal">В наличии</div></div><div class="catalog-section-tile__article">Арт. 0066</div><div class="catalog-section-price__article"></div></div>
-      <div class="catalog-section-tile__title"><a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-chernye.prod" class="catalog-section-tile__title-link">Скрытые плинтусы для пола без подсветки чёрный матовый 3 метра</a></div>
+      <div class="catalog-section-tile__title"><a href="/catalog/skrytye-plintusy-dlya-pola-bez-podsvetki-chernye.prod" class="catalog-section-tile__title-link">
+Скрытые плинтусы для пола без подсветки чёрный матовый 3 метра</a></div>
       <div class="main-property-products"><div class="main-property-product"><span class="name-product-attribute" data-text="Подсветка: "></span><span class="value-product-attribute" data-text="нет"></span></div></div>
       <div class="price-in-one-line"><div class="catalog-section-tile__price-box"><div class="catalog-section-tile__price-now"><span class="pricespace">1406</span><span class="catalog-section-tile__price-rub">р./шт.</span></div></div>
         <div class="order-block"><a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Скрытые плинтусы для пола без подсветки чёрный матовый 3 метра" data-price="1406">Заказать</a></div>
@@ -2141,7 +2142,8 @@
     <a href="/catalog/rasseivatel-dlya-svetodiodnoy-lenty-chernyy-2-metra.prod"><div class="catalog-section-tile__img-box"><img src="/upload/iblock/custom-hidden/led-diffuser-black.jpg" alt="Рассеиватель для светодиодной ленты чёрный 2 метра" title="Рассеиватель для светодиодной ленты чёрный 2 метра" class="catalog-section-tile__img-img"></div></a>
     <div class="catalog-section-tile__text-box">
       <div class="catalog-section-tile__status-box"><div class="catalog-section-tile__status"><div class="catalog-section-tile__status-nal">В наличии</div></div><div class="catalog-section-tile__article">Арт. 0069</div><div class="catalog-section-price__article"></div></div>
-      <div class="catalog-section-tile__title"><a href="/catalog/rasseivatel-dlya-svetodiodnoy-lenty-chernyy-2-metra.prod" class="catalog-section-tile__title-link">Рассеиватель для светодиодной ленты чёрный 2 метра</a></div>
+      <div class="catalog-section-tile__title"><a href="/catalog/rasseivatel-dlya-svetodiodnoy-lenty-chernyy-2-metra.prod" class="catalog-section-tile__title-link">
+Рассеиватель для светодиодной ленты чёрный 2 метра</a></div>
       <div class="main-property-products"><div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="2000"></span></div><div class="main-property-product"><span class="name-product-attribute" data-text="Ширина, мм: "></span><span class="value-product-attribute" data-text="14"></span></div></div>
       <div class="price-in-one-line"><div class="catalog-section-tile__price-box"><div class="catalog-section-tile__price-now"><span class="pricespace">164</span><span class="catalog-section-tile__price-rub">р./шт.</span></div></div>
         <div class="order-block"><a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Рассеиватель для светодиодной ленты чёрный 2 метра" data-price="164">Заказать</a></div>

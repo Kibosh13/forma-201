@@ -1937,7 +1937,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля серебро матовое h 102 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2011,7 +2011,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/universalnyy-zazhimnoy-profil-dlya-stekla-102-mm-serebro.prod" class="catalog-section-tile__title-link">
-								Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра							</a>
+Универсальный зажимной профиль 102 мм для стекла серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2085,7 +2085,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-matovyy-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 106 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2158,7 +2158,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-h-102-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля матовый без покрытия h 102 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2227,7 +2227,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/komplekt-opornogo-profilya-serebro-matovoe-h-106-mm-dlya-stekol-10-12-16-20-mm.prod" class="catalog-section-tile__title-link">
-								Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра							</a>
+Комплект зажимного профиля серебро матовое h 106 мм для стекол 10, 12, 16, 20 мм 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

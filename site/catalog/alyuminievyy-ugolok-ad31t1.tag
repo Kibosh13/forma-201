@@ -1909,7 +1909,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-15-15-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/b1a/250_250_1/1nl18n4heombqmuo9jten0d0jwal07eh.jpg" alt="Алюминиевый Уголок 15 * 15 * 1,2 * 6000" title="Алюминиевый Уголок 15 * 15 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/b1a/250_250_1/1nl18n4heombqmuo9jten0d0jwal07eh.jpg" alt="Алюминиевый Уголок 15 * 15 * 1,2 * 3000" title="Алюминиевый Уголок 15 * 15 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1923,7 +1923,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-15-15-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 15 * 15 * 1,2 * 6000							</a>
+Алюминиевый Уголок 15 * 15 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1941,20 +1941,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">282</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 15 * 15 * 1,2 * 6000" data-price="282">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 15 * 15 * 1,2 * 3000" data-price="282">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1980,7 +1979,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-80-80-3-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/5fd/250_250_1/d1dl1jbvkjuo7dfbpzy1fby2ymfo0thp.jpg" alt="Алюминиевый Уголок 80 * 80 * 3,0 * 6000" title="Алюминиевый Уголок 80 * 80 * 3,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/5fd/250_250_1/d1dl1jbvkjuo7dfbpzy1fby2ymfo0thp.jpg" alt="Алюминиевый Уголок 80 * 80 * 3,0 * 3000" title="Алюминиевый Уголок 80 * 80 * 3,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1994,7 +1993,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-80-80-3-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 80 * 80 * 3,0 * 6000							</a>
+Алюминиевый Уголок 80 * 80 * 3,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2012,20 +2011,19 @@
 									<span class="value-product-attribute" data-text="
 									3									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3828</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 80 * 80 * 3,0 * 6000" data-price="3828">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 80 * 80 * 3,0 * 3000" data-price="3828">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2051,7 +2049,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-10-10-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/63c/250_250_1/u6345jbog2ra672ms3o8wqdl7y4sc463.jpg" alt="Алюминиевый Уголок 10 * 10 * 1,2 * 6000" title="Алюминиевый Уголок 10 * 10 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/63c/250_250_1/u6345jbog2ra672ms3o8wqdl7y4sc463.jpg" alt="Алюминиевый Уголок 10 * 10 * 1,2 * 3000" title="Алюминиевый Уголок 10 * 10 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2065,7 +2063,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-10-10-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 10 * 10 * 1,2 * 6000							</a>
+Алюминиевый Уголок 10 * 10 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2083,20 +2081,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">183</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 10 * 10 * 1,2 * 6000" data-price="183">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 10 * 10 * 1,2 * 3000" data-price="183">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2122,7 +2119,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-15-15-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/524/250_250_1/8qbou7pfkq1vreujp0q5hyr1e6can24w.jpg" alt="Алюминиевый Уголок 15 * 15 * 1,5 * 6000" title="Алюминиевый Уголок 15 * 15 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/524/250_250_1/8qbou7pfkq1vreujp0q5hyr1e6can24w.jpg" alt="Алюминиевый Уголок 15 * 15 * 1,5 * 3000" title="Алюминиевый Уголок 15 * 15 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2136,7 +2133,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-15-15-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 15 * 15 * 1,5 * 6000							</a>
+Алюминиевый Уголок 15 * 15 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2154,20 +2151,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">348</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 15 * 15 * 1,5 * 6000" data-price="348">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 15 * 15 * 1,5 * 3000" data-price="348">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2193,7 +2189,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-50-50-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/97c/250_250_1/s7egwfkio84tdl3r7yo294gamwu9t45g.jpg" alt="Алюминиевый Уголок 50 * 50 * 2,0 * 6000" title="Алюминиевый Уголок 50 * 50 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/97c/250_250_1/s7egwfkio84tdl3r7yo294gamwu9t45g.jpg" alt="Алюминиевый Уголок 50 * 50 * 2,0 * 3000" title="Алюминиевый Уголок 50 * 50 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2207,7 +2203,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-50-50-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 50 * 50 * 2,0 * 6000							</a>
+Алюминиевый Уголок 50 * 50 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2225,20 +2221,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1593</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 50 * 50 * 2,0 * 6000" data-price="1593">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 50 * 50 * 2,0 * 3000" data-price="1593">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2264,7 +2259,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-30-30-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/d65/250_250_1/fz902am0z070rh3322kh9cqm264epvuf.jpg" alt="Алюминиевый Уголок 30 * 30 * 2,0 * 6000" title="Алюминиевый Уголок 30 * 30 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/d65/250_250_1/fz902am0z070rh3322kh9cqm264epvuf.jpg" alt="Алюминиевый Уголок 30 * 30 * 2,0 * 3000" title="Алюминиевый Уголок 30 * 30 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2278,7 +2273,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-30-30-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 30 * 30 * 2,0 * 6000							</a>
+Алюминиевый Уголок 30 * 30 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2296,20 +2291,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">939</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 2,0 * 6000" data-price="939">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 2,0 * 3000" data-price="939">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2335,7 +2329,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-80-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/2c6/250_250_1/2aqt3l02uzoglk6ywftlhsqojy5l24vo.jpg" alt="Алюминиевый Уголок 20 * 80 * 2,0 * 6000" title="Алюминиевый Уголок 20 * 80 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/2c6/250_250_1/2aqt3l02uzoglk6ywftlhsqojy5l24vo.jpg" alt="Алюминиевый Уголок 20 * 80 * 2,0 * 3000" title="Алюминиевый Уголок 20 * 80 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2349,7 +2343,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-80-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 80 * 2,0 * 6000							</a>
+Алюминиевый Уголок 20 * 80 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2367,20 +2361,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1596</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 80 * 2,0 * 6000" data-price="1596">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 80 * 2,0 * 3000" data-price="1596">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2406,7 +2399,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-20-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e9b/250_250_1/aphziqmkczyhy1tsac0letpdj2cifeh4.jpg" alt="Алюминиевый Уголок 20 * 20 * 1,5 * 6000" title="Алюминиевый Уголок 20 * 20 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e9b/250_250_1/aphziqmkczyhy1tsac0letpdj2cifeh4.jpg" alt="Алюминиевый Уголок 20 * 20 * 1,5 * 3000" title="Алюминиевый Уголок 20 * 20 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2420,7 +2413,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-20-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 20 * 1,5 * 6000							</a>
+Алюминиевый Уголок 20 * 20 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2438,20 +2431,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">471</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 1,5 * 6000" data-price="471">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 1,5 * 3000" data-price="471">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2477,7 +2469,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-50-50-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/f32/250_250_1/x4i5kc2gjtrpebbrd7507dxfk07o87s3.jpg" alt="Алюминиевый Уголок 50 * 50 * 1,5 * 6000" title="Алюминиевый Уголок 50 * 50 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/f32/250_250_1/x4i5kc2gjtrpebbrd7507dxfk07o87s3.jpg" alt="Алюминиевый Уголок 50 * 50 * 1,5 * 3000" title="Алюминиевый Уголок 50 * 50 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2491,7 +2483,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-50-50-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 50 * 50 * 1,5 * 6000							</a>
+Алюминиевый Уголок 50 * 50 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2509,20 +2501,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1203</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 50 * 50 * 1,5 * 6000" data-price="1203">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 50 * 50 * 1,5 * 3000" data-price="1203">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2548,7 +2539,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-20-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/46f/250_250_1/8w85m3tra3o5931zmd7gqgmyfat2v5f0.jpg" alt="Алюминиевый Уголок 20 * 20 * 2,0 * 6000" title="Алюминиевый Уголок 20 * 20 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/46f/250_250_1/8w85m3tra3o5931zmd7gqgmyfat2v5f0.jpg" alt="Алюминиевый Уголок 20 * 20 * 2,0 * 3000" title="Алюминиевый Уголок 20 * 20 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2562,7 +2553,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-20-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 20 * 2,0 * 6000							</a>
+Алюминиевый Уголок 20 * 20 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2580,20 +2571,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">618</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 2,0 * 6000" data-price="618">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 2,0 * 3000" data-price="618">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2619,7 +2609,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-40-40-3-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/582/250_250_1/1h4cm209n1gt5g9wou6jks0n07kjg09k.jpg" alt="Алюминиевый Уголок 40 * 40 * 3,0 * 6000" title="Алюминиевый Уголок 40 * 40 * 3,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/582/250_250_1/1h4cm209n1gt5g9wou6jks0n07kjg09k.jpg" alt="Алюминиевый Уголок 40 * 40 * 3,0 * 3000" title="Алюминиевый Уголок 40 * 40 * 3,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2633,7 +2623,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-40-40-3-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 40 * 40 * 3,0 * 6000							</a>
+Алюминиевый Уголок 40 * 40 * 3,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2651,20 +2641,19 @@
 									<span class="value-product-attribute" data-text="
 									3									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1878</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 40 * 3,0 * 6000" data-price="1878">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 40 * 3,0 * 3000" data-price="1878">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2690,7 +2679,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-30-30-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/73a/250_250_1/0mlnbmpadw1z9f920ggaq1j3awp3qsrs.jpg" alt="Алюминиевый Уголок 30 * 30 * 1,5 * 6000" title="Алюминиевый Уголок 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/73a/250_250_1/0mlnbmpadw1z9f920ggaq1j3awp3qsrs.jpg" alt="Алюминиевый Уголок 30 * 30 * 1,5 * 3000" title="Алюминиевый Уголок 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2704,7 +2693,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-30-30-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 30 * 30 * 1,5 * 6000							</a>
+Алюминиевый Уголок 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2722,20 +2711,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">714</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 1,5 * 6000" data-price="714">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 1,5 * 3000" data-price="714">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2761,7 +2749,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-25-25-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/78c/250_250_1/tfwed5jxixcrdt61bvfcvkigtxtzgmar.jpg" alt="Алюминиевый Уголок 25 * 25 * 1,5 * 6000" title="Алюминиевый Уголок 25 * 25 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/78c/250_250_1/tfwed5jxixcrdt61bvfcvkigtxtzgmar.jpg" alt="Алюминиевый Уголок 25 * 25 * 1,5 * 3000" title="Алюминиевый Уголок 25 * 25 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2775,7 +2763,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-25-25-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 25 * 25 * 1,5 * 6000							</a>
+Алюминиевый Уголок 25 * 25 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2793,20 +2781,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">588</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 25 * 25 * 1,5 * 6000" data-price="588">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 25 * 25 * 1,5 * 3000" data-price="588">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2832,7 +2819,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-40-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/666/250_250_1/qb7080pjorozw9775ee1r7hv05rvljkq.jpg" alt="Алюминиевый Уголок 20 * 40 * 2,0 * 6000" title="Алюминиевый Уголок 20 * 40 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/666/250_250_1/qb7080pjorozw9775ee1r7hv05rvljkq.jpg" alt="Алюминиевый Уголок 20 * 40 * 2,0 * 3000" title="Алюминиевый Уголок 20 * 40 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2846,7 +2833,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-40-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 40 * 2,0 * 6000							</a>
+Алюминиевый Уголок 20 * 40 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2864,20 +2851,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">936</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 40 * 2,0 * 6000" data-price="936">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 40 * 2,0 * 3000" data-price="936">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2903,7 +2889,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-100-100-3-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/bvylo5apue0mga8aekhnbcl64idhowm5.jpg" alt="Алюминиевый Уголок 100 * 100 * 3,0 * 6000" title="Алюминиевый Уголок 100 * 100 * 3,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/bvylo5apue0mga8aekhnbcl64idhowm5.jpg" alt="Алюминиевый Уголок 100 * 100 * 3,0 * 3000" title="Алюминиевый Уголок 100 * 100 * 3,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2917,7 +2903,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-100-100-3-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 100 * 100 * 3,0 * 6000							</a>
+Алюминиевый Уголок 100 * 100 * 3,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2935,20 +2921,19 @@
 									<span class="value-product-attribute" data-text="
 									3									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">4806</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 100 * 100 * 3,0 * 6000" data-price="4806">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 100 * 100 * 3,0 * 3000" data-price="4806">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2974,7 +2959,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-25-25-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/8e6/250_250_1/25ct1if4lixge91plfmy9o3gz6fjmszz.jpg" alt="Алюминиевый Уголок 25 * 25 * 1,2 * 6000" title="Алюминиевый Уголок 25 * 25 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/8e6/250_250_1/25ct1if4lixge91plfmy9o3gz6fjmszz.jpg" alt="Алюминиевый Уголок 25 * 25 * 1,2 * 3000" title="Алюминиевый Уголок 25 * 25 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2988,7 +2973,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-25-25-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 25 * 25 * 1,2 * 6000							</a>
+Алюминиевый Уголок 25 * 25 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3006,20 +2991,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">477</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 25 * 25 * 1,2 * 6000" data-price="477">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 25 * 25 * 1,2 * 3000" data-price="477">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3045,7 +3029,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-10-20-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/72d/250_250_1/8o69kk7dz0lvnzrpi5oj2xaa4oqw4bpw.jpg" alt="Алюминиевый Уголок 10 * 20 * 1,2 * 6000" title="Алюминиевый Уголок 10 * 20 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/72d/250_250_1/8o69kk7dz0lvnzrpi5oj2xaa4oqw4bpw.jpg" alt="Алюминиевый Уголок 10 * 20 * 1,2 * 3000" title="Алюминиевый Уголок 10 * 20 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3059,7 +3043,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-10-20-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 10 * 20 * 1,2 * 6000							</a>
+Алюминиевый Уголок 10 * 20 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3077,20 +3061,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">282</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 10 * 20 * 1,2 * 6000" data-price="282">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 10 * 20 * 1,2 * 3000" data-price="282">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3116,7 +3099,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-40-40-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/5b8/250_250_1/bmkjpcbdclowy4nibmllgsz7ofypuvt4.jpg" alt="Алюминиевый Уголок 40 * 40 * 2,0 * 6000" title="Алюминиевый Уголок 40 * 40 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/5b8/250_250_1/bmkjpcbdclowy4nibmllgsz7ofypuvt4.jpg" alt="Алюминиевый Уголок 40 * 40 * 2,0 * 3000" title="Алюминиевый Уголок 40 * 40 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3130,7 +3113,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-40-40-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 40 * 40 * 2,0 * 6000							</a>
+Алюминиевый Уголок 40 * 40 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3148,20 +3131,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1269</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 40 * 2,0 * 6000" data-price="1269">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 40 * 2,0 * 3000" data-price="1269">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3187,7 +3169,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-40-1-5-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/69b/250_250_1/hwht93qz4z836varr8zjkk6ro8mixrxi.jpg" alt="Алюминиевый Уголок 20 * 40 * 1,5 * 6000" title="Алюминиевый Уголок 20 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/69b/250_250_1/hwht93qz4z836varr8zjkk6ro8mixrxi.jpg" alt="Алюминиевый Уголок 20 * 40 * 1,5 * 3000" title="Алюминиевый Уголок 20 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3201,7 +3183,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-40-1-5-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 40 * 1,5 * 6000							</a>
+Алюминиевый Уголок 20 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3219,20 +3201,19 @@
 									<span class="value-product-attribute" data-text="
 									1,5									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">714</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 40 * 1,5 * 6000" data-price="714">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 40 * 1,5 * 3000" data-price="714">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3258,7 +3239,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-40-20-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/bvylo5apue0mga8aekhnbcl64idhowm5.jpg" alt="Алюминиевый Уголок 40 * 20 * 1,2 * 6000" title="Алюминиевый Уголок 40 * 20 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/bvylo5apue0mga8aekhnbcl64idhowm5.jpg" alt="Алюминиевый Уголок 40 * 20 * 1,2 * 3000" title="Алюминиевый Уголок 40 * 20 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3272,7 +3253,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-40-20-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 40 * 20 * 1,2 * 6000							</a>
+Алюминиевый Уголок 40 * 20 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3290,20 +3271,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">527.16</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 20 * 1,2 * 6000" data-price="527.16">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 40 * 20 * 1,2 * 3000" data-price="527.16">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3329,7 +3309,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-60-60-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/1c5/250_250_1/mvt8i18eqa3wqjuib4bo76j8b5kkywrk.jpg" alt="Алюминиевый Уголок 60 * 60 * 2,0 * 6000" title="Алюминиевый Уголок 60 * 60 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/1c5/250_250_1/mvt8i18eqa3wqjuib4bo76j8b5kkywrk.jpg" alt="Алюминиевый Уголок 60 * 60 * 2,0 * 3000" title="Алюминиевый Уголок 60 * 60 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3343,7 +3323,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-60-60-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 60 * 60 * 2,0 * 6000							</a>
+Алюминиевый Уголок 60 * 60 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3361,20 +3341,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1917</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 60 * 60 * 2,0 * 6000" data-price="1917">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 60 * 60 * 2,0 * 3000" data-price="1917">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3400,7 +3379,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-60-2-0-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/048/250_250_1/6pkk3628111w64hqv8s0q451dkhfysci.jpg" alt="Алюминиевый Уголок 20 * 60 * 2,0 * 6000" title="Алюминиевый Уголок 20 * 60 * 2,0 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/048/250_250_1/6pkk3628111w64hqv8s0q451dkhfysci.jpg" alt="Алюминиевый Уголок 20 * 60 * 2,0 * 3000" title="Алюминиевый Уголок 20 * 60 * 2,0 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3414,7 +3393,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-60-2-0-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 60 * 2,0 * 6000							</a>
+Алюминиевый Уголок 20 * 60 * 2,0 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3432,20 +3411,19 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1269</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 60 * 2,0 * 6000" data-price="1269">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 60 * 2,0 * 3000" data-price="1269">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3471,7 +3449,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-20-20-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/c20/250_250_1/ixsoyak135f9qvfntq2xost71sy5isw4.jpg" alt="Алюминиевый Уголок 20 * 20 * 1,2 * 6000" title="Алюминиевый Уголок 20 * 20 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/c20/250_250_1/ixsoyak135f9qvfntq2xost71sy5isw4.jpg" alt="Алюминиевый Уголок 20 * 20 * 1,2 * 3000" title="Алюминиевый Уголок 20 * 20 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3485,7 +3463,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-20-20-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 20 * 20 * 1,2 * 6000							</a>
+Алюминиевый Уголок 20 * 20 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3503,20 +3481,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">378</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 1,2 * 6000" data-price="378">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 20 * 20 * 1,2 * 3000" data-price="378">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -3542,7 +3519,7 @@
 																	</div>
 					<a href="/catalog/alyuminievyy-ugolok-30-30-1-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/74d/250_250_1/sjye4h16joza4dtpoxamj0mdc0oyyz5c.jpg" alt="Алюминиевый Уголок 30 * 30 * 1,2 * 6000" title="Алюминиевый Уголок 30 * 30 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/74d/250_250_1/sjye4h16joza4dtpoxamj0mdc0oyyz5c.jpg" alt="Алюминиевый Уголок 30 * 30 * 1,2 * 3000" title="Алюминиевый Уголок 30 * 30 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3556,7 +3533,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-ugolok-30-30-1-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевый Уголок 30 * 30 * 1,2 * 6000							</a>
+Алюминиевый Уголок 30 * 30 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3574,20 +3551,19 @@
 									<span class="value-product-attribute" data-text="
 									1,2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">576</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 1,2 * 6000" data-price="576">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевый Уголок 30 * 30 * 1,2 * 3000" data-price="576">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

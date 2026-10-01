@@ -2000,7 +2000,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusa-12-60mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*60 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2068,7 +2068,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-40-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2136,7 +2136,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-100-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*100 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2204,7 +2204,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievye-plintusy-12-80-mm-napolnye-shampan.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра							</a>
+Алюминиевые плинтусы напольные 12*80 мм шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2272,7 +2272,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2340,7 +2340,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-zakhodom-na-stenu-31-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2408,7 +2408,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-shampan-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2476,7 +2476,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-shampan.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 шампань матовая 3 метра							</a>
+Микроплинтус для пола 5,9*20 шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2544,7 +2544,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

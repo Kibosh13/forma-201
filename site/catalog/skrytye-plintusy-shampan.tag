@@ -2006,7 +2006,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-radiusnye-shampan-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой радиусные шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2074,7 +2074,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-pola-s-podsvetkoy-i-rasseivatelem-shampan.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

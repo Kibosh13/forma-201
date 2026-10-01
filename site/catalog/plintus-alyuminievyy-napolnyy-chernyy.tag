@@ -2000,7 +2000,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-s-podsvetkoy-23-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола с подсветкой 23,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2068,7 +2068,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-31-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола с заходом на стену 31,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2136,7 +2136,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-40mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*40 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2204,7 +2204,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-100mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*100 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2272,7 +2272,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-s-podsvetkoy-i-rasseivatelem-chernye.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2340,7 +2340,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/skrytye-plintusy-dlya-podsvetki-chyernyy-6m.prod" class="catalog-section-tile__title-link">
-								Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра							</a>
+Скрытые плинтусы для пола с подсветкой радиусные чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2408,7 +2408,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-20-chyernyy.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*20 чёрный матовый 3 метра							</a>
+Микроплинтус для пола 5,9*20 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2476,7 +2476,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-60mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*60 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2544,7 +2544,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-12-80mm-chyernyy.prod" class="catalog-section-tile__title-link">
-								Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра							</a>
+Алюминиевые плинтусы напольные 12*80 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2612,7 +2612,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-stykovochnyy-porozhek.prod" class="catalog-section-tile__title-link">
-								Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра							</a>
+Алюминиевый стыковочный порожек 38 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2675,7 +2675,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/mikroplintus-5-9-16-chyernyy-9121.prod" class="catalog-section-tile__title-link">
-								Микроплинтус для пола 5,9*16 чёрный матовый 3 метра							</a>
+Микроплинтус для пола 5,9*16 чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2743,7 +2743,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-dl-70.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра							</a>
+Алюминиевый плинтус ДЛ-70, 70 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2806,7 +2806,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-100mm-9146.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра							</a>
+Алюминиевый плинтус 100 x 15 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2869,7 +2869,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievyy-plintus-100-mm-9145.prod" class="catalog-section-tile__title-link">
-								Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра							</a>
+Алюминиевый плинтус 100 x 14 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2932,7 +2932,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-100-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра							</a>
+Накладной алюминиевый плинтус с кабель каналом 100 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2995,7 +2995,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-40-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра							</a>
+Накладной алюминиевый плинтус с кабель каналом 40 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3058,7 +3058,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-80-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра							</a>
+Накладной алюминиевый плинтус с кабель каналом 80 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3121,7 +3121,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/nakladnoy-alyuminievyy-plintus-s-kabel-kanalom-60-mm.prod" class="catalog-section-tile__title-link">
-								Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра							</a>
+Накладной алюминиевый плинтус с кабель каналом 60 мм чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

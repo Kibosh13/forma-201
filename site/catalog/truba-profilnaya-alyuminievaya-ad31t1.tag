@@ -3,7 +3,7 @@
 <head>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
-    
+
 	<title>Труба профильная алюминиевая АД31Т1 купить по цене от производителя оптом и в розницу</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Труба профильная алюминиевая АД31Т1 по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04" />
@@ -39,7 +39,7 @@
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?1786550428521541"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
-									
+
 	<!-- Open Graph -->
 	<meta property="og:title" content="Труба профильная алюминиевая АД31Т1 купить по цене от производителя оптом и в розницу">
 	<meta property="og:description" content="Труба профильная алюминиевая АД31Т1 по цене от производителя оптом и в розницу. Доставка по всей России. Оказываем услуги по анодированию, покраске, резке. Звоните 8 (495) 664-30-04">
@@ -81,10 +81,10 @@
 	<!-- /Yandex.Metrika counter -->
 </head>
 <body>
-	
+
 	<header id="header">
 								<div class="header-inner">
-								<div class="container">		
+								<div class="container">
 					<div class="header-top">
 						<div class="row align-items-center">
 							<div class="col-lg-auto text-xs-center col-5">
@@ -110,7 +110,7 @@
 								<form action="/poisk/">
 									<input type="text" name="q" placeholder="Поиск..." required="">
 									<button type="submit"></button>
-								</form>	
+								</form>
 							</div>
 							<!-- col -->
 							<div class="col mr-auto">
@@ -119,7 +119,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 									</div>
 
@@ -159,511 +159,511 @@
 <ul id="horizontal-multilevel-menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 
 
-    
-	
-	
-	
+
+
+
+
 		                            <li class="root-item">
                     <a href="/kompaniya/" itemprop="url">О компании</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/rekvizity/" itemprop="url">Реквизиты</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
 
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kompaniya/otzyvy/" itemprop="url">Отзывы о нас</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/blog/" itemprop="url">Блог</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 		                            <li class="root-item-selected">
                     <span itemprop="url">Каталог</span>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-plintus/" itemprop="url">Алюминиевые напольные плинтусы, микроплинтусы</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/" itemprop="url">Аксессуары и фурнитура для алюминиевого плинтуса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievye-potolochnye-plintusy/" itemprop="url">Алюминиевые потолочные плинтусы скрытого монтажа</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/" itemprop="url">Зажимной алюминиевый профиль для стекла</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
+
+
+
+
+
+
+
+
+
 		                            <li>
                         <a href="/catalog/alyuminievye-perila/" itemprop="url">Алюминиевые перила и поручни</a>
-                    </li>	
-	
+                    </li>
+
 		                            <li>
                         <a href="/catalog/furnitura-dlya-alyuminievykh-peril/" itemprop="url">Фурнитура для алюминиевых перил и поручней</a>
-                    </li>	
-	
-		
+                    </li>
+
+
 			                                    <li>
                         <a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/" itemprop="url">Профили для сантехнических кабинок и перегородок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/" class="parent" itemprop="url">Системы вентиляции</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/" itemprop="url">Профили</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/" itemprop="url">Решетки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li >
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/" class="parent" itemprop="url">Строительный алюминиевый профиль</a>
                     <ul>
-            		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/" itemprop="url">Квадратная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/" itemprop="url">Полоса</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/" itemprop="url">П-профиль</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/" itemprop="url">Уголок</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/" itemprop="url">Шина</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/" itemprop="url">Труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/" itemprop="url">Профильная труба</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/" itemprop="url">Бокс</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/" itemprop="url">Алюминиевый тавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/" itemprop="url">Алюминиевый двутавр</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/" itemprop="url">Швеллер</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
+
+
+
+
+
+
+
 			</ul></li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/" itemprop="url">Профили и фурнитура для козырьков</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/catalog/dvernye-korobki/" itemprop="url">Дверные коробки</a>
                     </li>
-                
-			
-		
-	
-	
 
-    
-	
-	
-	
-		
 
-                
-			
-		
-	
-	
 
-    
-	
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 			                                    <li>
                         <a href="/uslugi/" itemprop="url">Услуги</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/aktsii/" itemprop="url">Акции</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/kontakty/" itemprop="url">Контакты</a>
                     </li>
-                			
-		
-	
-	
 
-    
-	
-	
-	
-		
+
+
+
+
+
+
+
+
+
 			                                    <li>
                         <a href="/delivery/" itemprop="url">Доставка</a>
                     </li>
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
-                			
-		
-	
-	
-
-    
-	
-	
-	
-		
 
 
-                			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -690,12 +690,12 @@
 </script>
 						</div>
 					</div>
-					<!-- /top-menu -->	
+					<!-- /top-menu -->
 									</div>
 			</div>
 			<!-- /header-inner -->
-				
-						<!-- header-fix -->	
+
+						<!-- header-fix -->
 			<div class="header-fix">
 				<div class="head_slide">
 	<div class="hdslide_inn">
@@ -710,368 +710,368 @@
 <ul>
 
 
-	
-	
+
+
 					<li>
                 <div>
                     <a href="/kompaniya/">О компании</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/kompaniya/rekvizity/">Реквизиты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 							<li><a href="/kompaniya/otzyvy/">Отзывы о нас</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/blog/">Блог</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
 					<li>
                 <div>
                     <a href="/catalog/">Каталог</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/furnitura-dlya-alyuminievogo-plintusa/">Аксессуары и фурнитура для алюминиевого плинтуса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-			
-		
-	
-	
 
-	
-	
-					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>	
-	
-					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>	
-	
-		
+
+
+
+
+
+
+					<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
+
+					<li><a href="/catalog/furnitura-dlya-alyuminievykh-peril/">Фурнитура для алюминиевых перил и поручней</a></li>
+
+
 							<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">Алюминиевые профили для сантехнических кабинок и перегородок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Алюминиевый профиль для систем вентиляции</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievyy-profil-dlya-ventilyatsii/">Алюминиевые профили для вентиляции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/alyuminievye-reshetki/">Алюминиевые решетки для вентиляции</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li>
                 <div>
                     <a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный алюминиевый профиль</a>
                     <i class="fa fa-angle-right"></i>
                 </div>
 				<ul>
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-kvadratnaya-truba/">Алюминиевая квадратная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-polosa/">Алюминиевая полоса</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-p-profil/">Алюминиевый П-профиль</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-ugol/">Алюминиевый уголок</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-shina/">Алюминиевая шина</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievye-truby/">Алюминиевые трубы</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievaya-profilnaya-truba/">Алюминиевая профильная труба</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-boks/">Алюминиевый бокс</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-tavr/">Алюминиевый тавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-dvutavr/">Алюминиевый двутавр</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/alyuminievyy-shveller/">Алюминиевый швеллер</a></li>
-			
-		
-	
-	
+
+
+
+
 
 			</ul></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/zazhimnye-profili-i-furnitura-dlya-steklyannykh-kozyrkov/">Зажимные профили и фурнитура для стеклянных козырьков</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/catalog/dvernye-korobki/">Дверные коробки</a></li>
-			
-		
-	
-	
 
-	
-	
-		
 
-			
-		
-	
-	
 
-			</ul></li>	
-	
-		
+
+
+
+
+
+
+
+
+
+
+
+			</ul></li>
+
+
 							<li><a href="/uslugi/">Услуги</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/aktsii/">Акции</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/kontakty/">Контакты</a></li>
-			
-		
-	
-	
 
-	
-	
-		
+
+
+
+
+
+
+
 							<li><a href="/delivery/">Доставка</a></li>
-			
-		
-	
-	
-
-	
-	
-		
-			
-		
-	
-	
-
-	
-	
-		
 
 
-			
-		
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -1081,7 +1081,7 @@
 			<form action="/poisk/">
 				<input type="text" name="q" placeholder="Поиск..." required>
 				<button type="submit"></button>
-			</form>	
+			</form>
 		</div>
 		<div class="hdslide_contact_zayvka zvonok_view">
 			<a data-fancybox data-src="#form-popup-request" href="javascript:;" class="btn-link">
@@ -1093,7 +1093,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
-			
+
 		</div>
 				</div>
 			</div>
@@ -1116,12 +1116,12 @@
 
 															</div>
 						</div>
-							
-						<div class="content-box">	
+
+						<div class="content-box">
 																	<div class="breadcrumb">
 											<ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/catalog/" title="Каталог" itemprop="item"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></li></ul>										</div>
 										<h1>Труба профильная алюминиевая АД31Т1</h1>
-							
+
     <div class="borderbx">
                                                                                 <div class="search-catalog catalog-filter-popup">
                                         <div class="catalog-filter-popup__panel">
@@ -1149,13 +1149,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TIP_DETALI')" attr-name='Тип профиля'>Тип профиля</div>
 									<div class="select-options" id="TIP_DETALI" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TIP_DETALI_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1163,11 +1163,11 @@
 												name="Очистить"
 												id="TIP_DETALI_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1023518130">
-												<input 
+												<input
 													attr-value = "Бокс"
 													style="display:none"
 													type="checkbox"
@@ -1176,10 +1176,10 @@
 													name="arrFilter_118_1023518130"
 													id="arrFilter_118_1023518130"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1110503342">
-												<input 
+												<input
 													attr-value = "Бокс квадратный"
 													style="display:none"
 													type="checkbox"
@@ -1188,10 +1188,10 @@
 													name="arrFilter_118_1110503342"
 													id="arrFilter_118_1110503342"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс квадратный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_892854072">
-												<input 
+												<input
 													attr-value = "Бокс профильный"
 													style="display:none"
 													type="checkbox"
@@ -1200,10 +1200,10 @@
 													name="arrFilter_118_892854072"
 													id="arrFilter_118_892854072"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Бокс профильный											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2741317649">
-												<input 
+												<input
 													attr-value = "Труба"
 													style="display:none"
 													type="checkbox"
@@ -1212,10 +1212,10 @@
 													name="arrFilter_118_2741317649"
 													id="arrFilter_118_2741317649"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_3592732382">
-												<input 
+												<input
 													attr-value = "Труба квадратная"
 													style="display:none"
 													type="checkbox"
@@ -1224,10 +1224,10 @@
 													name="arrFilter_118_3592732382"
 													id="arrFilter_118_3592732382"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба квадратная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_1061624811">
-												<input 
+												<input
 													attr-value = "Труба профильная"
 													style="display:none"
 													type="checkbox"
@@ -1236,10 +1236,10 @@
 													name="arrFilter_118_1061624811"
 													id="arrFilter_118_1061624811"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба профильная											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_118_2703461960">
-												<input 
+												<input
 													attr-value = "Труба прямоугольная"
 													style="display:none"
 													type="checkbox"
@@ -1248,7 +1248,7 @@
 													name="arrFilter_118_2703461960"
 													id="arrFilter_118_2703461960"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Труба прямоугольная											</label>
 																			</div>
 								</div>
@@ -1261,13 +1261,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('SCHIRINA')" attr-name='Ширина, мм'>Ширина, мм</div>
 									<div class="select-options" id="SCHIRINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="SCHIRINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1275,11 +1275,11 @@
 												name="Очистить"
 												id="SCHIRINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1923582808">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -1288,10 +1288,10 @@
 													name="arrFilter_122_1923582808"
 													id="arrFilter_122_1923582808"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_94419918">
-												<input 
+												<input
 													attr-value = "15"
 													style="display:none"
 													type="checkbox"
@@ -1300,10 +1300,10 @@
 													name="arrFilter_122_94419918"
 													id="arrFilter_122_94419918"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3972210427">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -1312,10 +1312,10 @@
 													name="arrFilter_122_3972210427"
 													id="arrFilter_122_3972210427"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1976192833">
-												<input 
+												<input
 													attr-value = "25"
 													style="display:none"
 													type="checkbox"
@@ -1324,10 +1324,10 @@
 													name="arrFilter_122_1976192833"
 													id="arrFilter_122_1976192833"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_2613325421">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -1336,10 +1336,10 @@
 													name="arrFilter_122_2613325421"
 													id="arrFilter_122_2613325421"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_1416650876">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1348,10 +1348,10 @@
 													name="arrFilter_122_1416650876"
 													id="arrFilter_122_1416650876"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_47022039">
-												<input 
+												<input
 													attr-value = "50"
 													style="display:none"
 													type="checkbox"
@@ -1360,10 +1360,10 @@
 													name="arrFilter_122_47022039"
 													id="arrFilter_122_47022039"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												50											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3447271878">
-												<input 
+												<input
 													attr-value = "60"
 													style="display:none"
 													type="checkbox"
@@ -1372,10 +1372,10 @@
 													name="arrFilter_122_3447271878"
 													id="arrFilter_122_3447271878"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												60											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_3128820048">
-												<input 
+												<input
 													attr-value = "80"
 													style="display:none"
 													type="checkbox"
@@ -1384,10 +1384,10 @@
 													name="arrFilter_122_3128820048"
 													id="arrFilter_122_3128820048"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												80											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_122_605721843">
-												<input 
+												<input
 													attr-value = "100"
 													style="display:none"
 													type="checkbox"
@@ -1396,7 +1396,7 @@
 													name="arrFilter_122_605721843"
 													id="arrFilter_122_605721843"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												100											</label>
 																			</div>
 								</div>
@@ -1409,13 +1409,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('TOLSHINA')" attr-name='Толщина, мм'>Толщина, мм</div>
 									<div class="select-options" id="TOLSHINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="TOLSHINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1423,11 +1423,11 @@
 												name="Очистить"
 												id="TOLSHINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_289485416">
-												<input 
+												<input
 													attr-value = "1"
 													style="display:none"
 													type="checkbox"
@@ -1436,10 +1436,10 @@
 													name="arrFilter_135_289485416"
 													id="arrFilter_135_289485416"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1715864318">
-												<input 
+												<input
 													attr-value = "1,2"
 													style="display:none"
 													type="checkbox"
@@ -1448,10 +1448,10 @@
 													name="arrFilter_135_1715864318"
 													id="arrFilter_135_1715864318"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1,2											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_2286445522">
-												<input 
+												<input
 													attr-value = "1,5"
 													style="display:none"
 													type="checkbox"
@@ -1460,10 +1460,10 @@
 													name="arrFilter_135_2286445522"
 													id="arrFilter_135_2286445522"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												1,5											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_1630258919">
-												<input 
+												<input
 													attr-value = "2"
 													style="display:none"
 													type="checkbox"
@@ -1472,10 +1472,10 @@
 													name="arrFilter_135_1630258919"
 													id="arrFilter_135_1630258919"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												2											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_135_2401609675">
-												<input 
+												<input
 													attr-value = "3"
 													style="display:none"
 													type="checkbox"
@@ -1484,7 +1484,7 @@
 													name="arrFilter_135_2401609675"
 													id="arrFilter_135_2401609675"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												3											</label>
 																			</div>
 								</div>
@@ -1558,13 +1558,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('ZWET')" attr-name='Цвет'>Цвет</div>
 									<div class="select-options" id="ZWET" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="ZWET_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1572,11 +1572,11 @@
 												name="Очистить"
 												id="ZWET_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_120_2012371633">
-												<input 
+												<input
 													attr-value = "Серебро"
 													style="display:none"
 													type="checkbox"
@@ -1585,7 +1585,7 @@
 													name="arrFilter_120_2012371633"
 													id="arrFilter_120_2012371633"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												Серебро											</label>
 																			</div>
 								</div>
@@ -1598,13 +1598,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('VYSOTA')" attr-name='Высота, мм'>Высота, мм</div>
 									<div class="select-options" id="VYSOTA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="VYSOTA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1612,11 +1612,11 @@
 												name="Очистить"
 												id="VYSOTA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2016475046">
-												<input 
+												<input
 													attr-value = "12"
 													style="display:none"
 													type="checkbox"
@@ -1625,10 +1625,10 @@
 													name="arrFilter_136_2016475046"
 													id="arrFilter_136_2016475046"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												12											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2136814527">
-												<input 
+												<input
 													attr-value = "15"
 													style="display:none"
 													type="checkbox"
@@ -1637,10 +1637,10 @@
 													name="arrFilter_136_2136814527"
 													id="arrFilter_136_2136814527"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												15											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2438156947">
-												<input 
+												<input
 													attr-value = "20"
 													style="display:none"
 													type="checkbox"
@@ -1649,10 +1649,10 @@
 													name="arrFilter_136_2438156947"
 													id="arrFilter_136_2438156947"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												20											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_1904655245">
-												<input 
+												<input
 													attr-value = "25"
 													style="display:none"
 													type="checkbox"
@@ -1661,10 +1661,10 @@
 													name="arrFilter_136_1904655245"
 													id="arrFilter_136_1904655245"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												25											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_3778651676">
-												<input 
+												<input
 													attr-value = "30"
 													style="display:none"
 													type="checkbox"
@@ -1673,10 +1673,10 @@
 													name="arrFilter_136_3778651676"
 													id="arrFilter_136_3778651676"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												30											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_2520684170">
-												<input 
+												<input
 													attr-value = "40"
 													style="display:none"
 													type="checkbox"
@@ -1685,10 +1685,10 @@
 													name="arrFilter_136_2520684170"
 													id="arrFilter_136_2520684170"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												40											</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_136_109153051">
-												<input 
+												<input
 													attr-value = "50"
 													style="display:none"
 													type="checkbox"
@@ -1697,7 +1697,7 @@
 													name="arrFilter_136_109153051"
 													id="arrFilter_136_109153051"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												50											</label>
 																			</div>
 								</div>
@@ -1710,13 +1710,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('DLINA')" attr-name='Длина, мм'>Длина, мм</div>
 									<div class="select-options" id="DLINA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="DLINA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1724,11 +1724,11 @@
 												name="Очистить"
 												id="DLINA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_137_3648979021">
-												<input 
+												<input
 													attr-value = "6000"
 													style="display:none"
 													type="checkbox"
@@ -1737,7 +1737,7 @@
 													name="arrFilter_137_3648979021"
 													id="arrFilter_137_3648979021"
 																										onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												6000											</label>
 																			</div>
 								</div>
@@ -1750,13 +1750,13 @@
 					<span class="bx_filter_container_modef"></span>
 					<div>
 						<div class="bx_filter_parameters_box_container">
-						
+
 								<div class="multiselect">
 									<span class="cur"></span>
 									<div class="select-header" onclick="toggleDropdown('MARKA_SPLAVA')" attr-name='Марка сплава'>Марка сплава</div>
 									<div class="select-options" id="MARKA_SPLAVA" style="display: none;">
 										<label class="checkbox-label catalog-filter__checkbox-label" for="MARKA_SPLAVA_clear">
-											<input 
+											<input
 												attr-value = "Очистить"
 												type="checkbox"
 												style="display:none"
@@ -1764,11 +1764,11 @@
 												name="Очистить"
 												id="MARKA_SPLAVA_clear"
 												onclick="check(this, true); smartFilter.click(this);"
-											/> 
+											/>
 											Сбросить
 										</label>
 																					<label class="checkbox-label  catalog-filter__checkbox-label" for="arrFilter_134_884468121">
-												<input 
+												<input
 													attr-value = "АД31Т1"
 													style="display:none"
 													type="checkbox"
@@ -1777,7 +1777,7 @@
 													name="arrFilter_134_884468121"
 													id="arrFilter_134_884468121"
 													checked="checked"													onclick="smartFilter.click(this); check(this)"
-												/> 
+												/>
 												АД31Т1											</label>
 																			</div>
 								</div>
@@ -1809,8 +1809,8 @@
 </script>
                                         </div>
                                     </div>
-                                    
-        
+
+
 <div class="cloud-items__wrapper cloud-items__wrapper-top">
 
     <div class="cloud-items">
@@ -1839,7 +1839,7 @@
 		<div class="catalog-section__top-line catalog-section__top-line_filter">
 		<div class='catalog-section__sort'>
 						<button class="catalog-section__filter-button" type="button">Фильтр</button>
-			
+
 			<div class='catalog-section__sort-text'>
 				Сортировка			</div>
 			<select name="sort-select">
@@ -1883,15 +1883,15 @@
 	</div>
 	<div class="catalog-section__row catalog-section-tile">
 		<div class="row row-10">
-			
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1450">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" title="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/695/250_250_1/6xmdbv3jj1jukb27hhzq4bn6pooivjrj.jpg" alt="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" title="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1905,7 +1905,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 30 * 30 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 30 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1913,11 +1913,7 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -1929,18 +1925,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1277.88</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 1,5 * 6000" data-price="1277.88">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 1,5 * 3000" data-price="1277.88">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -1954,15 +1949,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1460">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-1-5-x-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" title="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/ec4/250_250_1/z26qpk6ga85vqpz3e8cqcw30uv7kkbr3.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" title="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1976,7 +1971,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-1-5-x-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 40 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 20 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1984,11 +1979,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2000,18 +1991,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1222.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,5 * 6000" data-price="1222.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,5 * 3000" data-price="1222.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2025,15 +2015,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1451">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая профильная труба 30 * 30 * 2 * 6000" title="Алюминиевая профильная труба 30 * 30 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/0a1/250_250_1/wdqfko9wxuiwlyje6nsidlll6znsb6g3.jpg" alt="Алюминиевая профильная труба 30 * 30 * 2 * 3000" title="Алюминиевая профильная труба 30 * 30 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2047,7 +2037,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-30-x-30-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 30 * 30 * 2 * 6000							</a>
+Алюминиевая профильная труба 30 * 30 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2055,11 +2045,7 @@
 									<span class="value-product-attribute" data-text="
 									30									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2071,18 +2057,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1675.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 2 * 6000" data-price="1675.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 30 * 30 * 2 * 3000" data-price="1675.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2096,15 +2081,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1448">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-80-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевая профильная труба 20 * 80 * 2 * 6000" title="Алюминиевая профильная труба 20 * 80 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/7a1/250_250_1/n0bv2he9mohg7lj6umuhv90xjeuqpj4k.jpg" alt="Алюминиевая профильная труба 20 * 80 * 2 * 3000" title="Алюминиевая профильная труба 20 * 80 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2118,7 +2103,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-80-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 80 * 2 * 6000							</a>
+Алюминиевая профильная труба 20 * 80 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2126,11 +2111,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2142,18 +2123,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2748.24</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 80 * 2 * 6000" data-price="2748.24">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 80 * 2 * 3000" data-price="2748.24">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2167,15 +2147,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1449">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-25-x-25-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/uotkpc6v8d85tf2c7j6snif53unigq13.jpg" alt="Алюминиевая профильная труба 25 * 25 * 1,5 * 6000" title="Алюминиевая профильная труба 25 * 25 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/be1/250_250_1/uotkpc6v8d85tf2c7j6snif53unigq13.jpg" alt="Алюминиевая профильная труба 25 * 25 * 1,5 * 3000" title="Алюминиевая профильная труба 25 * 25 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2189,7 +2169,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-25-x-25-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 25 * 25 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 25 * 25 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2197,11 +2177,7 @@
 									<span class="value-product-attribute" data-text="
 									25									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2213,18 +2189,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1054.32</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 25 * 25 * 1,5 * 6000" data-price="1054.32">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 25 * 25 * 1,5 * 3000" data-price="1054.32">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2238,15 +2213,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1446">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-20-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/5e1/250_250_1/kpdb0w157hklksefglo6dvzytw8shstf.jpg" alt="Алюминиевая профильная труба 20 * 20 * 2 * 6000" title="Алюминиевая профильная труба 20 * 20 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/5e1/250_250_1/kpdb0w157hklksefglo6dvzytw8shstf.jpg" alt="Алюминиевая профильная труба 20 * 20 * 2 * 3000" title="Алюминиевая профильная труба 20 * 20 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2260,7 +2235,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-20-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 20 * 2 * 6000							</a>
+Алюминиевая профильная труба 20 * 20 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2268,11 +2243,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2284,18 +2255,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1076.4</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 20 * 2 * 6000" data-price="1076.4">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 20 * 2 * 3000" data-price="1076.4">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2309,15 +2279,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1447">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e30/250_250_1/5reyay0njf869p42738sp6z2kd6lb39c.jpg" alt="Алюминиевая профильная труба 20 * 40 * 2 * 6000" title="Алюминиевая профильная труба 20 * 40 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e30/250_250_1/5reyay0njf869p42738sp6z2kd6lb39c.jpg" alt="Алюминиевая профильная труба 20 * 40 * 2 * 3000" title="Алюминиевая профильная труба 20 * 40 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2331,7 +2301,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-40-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 40 * 2 * 6000							</a>
+Алюминиевая профильная труба 20 * 40 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2339,11 +2309,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2355,18 +2321,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1597.20</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 2 * 6000" data-price="1597.20">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 2 * 3000" data-price="1597.20">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2380,15 +2345,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1878">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-kvadratnaya-truba-15-x-15-x-1-x-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e00/250_250_1/uuu1h0z7sn40ljd47lk5ezh5uiv0ryzv.jpg" alt="Алюминиевая квадратная труба 15 * 15 * 1 * 6000" title="Алюминиевая квадратная труба 15 * 15 * 1 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e00/250_250_1/uuu1h0z7sn40ljd47lk5ezh5uiv0ryzv.jpg" alt="Алюминиевая квадратная труба 15 * 15 * 1 * 3000" title="Алюминиевая квадратная труба 15 * 15 * 1 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2402,7 +2367,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-kvadratnaya-truba-15-x-15-x-1-x-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевая квадратная труба 15 * 15 * 1 * 6000							</a>
+Алюминиевая квадратная труба 15 * 15 * 1 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2410,11 +2375,7 @@
 									<span class="value-product-attribute" data-text="
 									15									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2426,18 +2387,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">419.52</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 15 * 15 * 1 * 6000" data-price="419.52">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая квадратная труба 15 * 15 * 1 * 3000" data-price="419.52">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2451,15 +2411,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1444">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-15-x-30-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/733/250_250_1/4plfe7uhzklf1o3li73h0aib9b2ghlvm.jpg" alt="Алюминиевая профильная труба 15 * 30 * 1,5 * 6000" title="Алюминиевая профильная труба 15 * 30 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/733/250_250_1/4plfe7uhzklf1o3li73h0aib9b2ghlvm.jpg" alt="Алюминиевая профильная труба 15 * 30 * 1,5 * 3000" title="Алюминиевая профильная труба 15 * 30 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2473,7 +2433,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-15-x-30-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 15 * 30 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 15 * 30 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2481,11 +2441,7 @@
 									<span class="value-product-attribute" data-text="
 									15									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2497,18 +2453,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">941.16</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 15 * 30 * 1,5 * 6000" data-price="941.16">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 15 * 30 * 1,5 * 3000" data-price="941.16">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2522,15 +2477,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1466">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-15-x-15-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/759/250_250_1/xvv6xxa28mtw5ovvv3prq6jvya6jckuv.jpg" alt="Алюминиевая профильная труба 15 * 15 * 1,5 * 6000" title="Алюминиевая профильная труба 15 * 15 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/759/250_250_1/xvv6xxa28mtw5ovvv3prq6jvya6jckuv.jpg" alt="Алюминиевая профильная труба 15 * 15 * 1,5 * 3000" title="Алюминиевая профильная труба 15 * 15 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2544,7 +2499,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-15-x-15-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 15 * 15 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 15 * 15 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2552,11 +2507,7 @@
 									<span class="value-product-attribute" data-text="
 									15									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2568,18 +2519,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">607.2</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 15 * 15 * 1,5 * 6000" data-price="607.2">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 15 * 15 * 1,5 * 3000" data-price="607.2">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2593,15 +2543,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1455">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-60-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/83f/250_250_1/rn8j6ecdouiiy19yw70cgs954q5pqhel.jpg" alt="Алюминиевая профильная труба 40 * 60 * 2 * 6000" title="Алюминиевая профильная труба 40 * 60 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/83f/250_250_1/rn8j6ecdouiiy19yw70cgs954q5pqhel.jpg" alt="Алюминиевая профильная труба 40 * 60 * 2 * 3000" title="Алюминиевая профильная труба 40 * 60 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2615,7 +2565,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-60-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 40 * 60 * 2 * 6000							</a>
+Алюминиевая профильная труба 40 * 60 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2623,11 +2573,7 @@
 									<span class="value-product-attribute" data-text="
 									40									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2639,18 +2585,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2862.12</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 60 * 2 * 6000" data-price="2862.12">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 60 * 2 * 3000" data-price="2862.12">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2664,15 +2609,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1453">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/508/250_250_1/234tsn2lv939w4il9hckvyjezhsltz6n.jpg" alt="Алюминиевая профильная труба 40 * 40 * 2 * 6000" title="Алюминиевая профильная труба 40 * 40 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/508/250_250_1/234tsn2lv939w4il9hckvyjezhsltz6n.jpg" alt="Алюминиевая профильная труба 40 * 40 * 2 * 3000" title="Алюминиевая профильная труба 40 * 40 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2686,7 +2631,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 40 * 40 * 2 * 6000							</a>
+Алюминиевая профильная труба 40 * 40 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2694,11 +2639,7 @@
 									<span class="value-product-attribute" data-text="
 									40									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2710,18 +2651,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2265.96</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 2 * 6000" data-price="2265.96">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 2 * 3000" data-price="2265.96">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2735,15 +2675,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1454">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-3.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/44f/250_250_1/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg" alt="Алюминиевая профильная труба 40 * 40 * 3 * 6000" title="Алюминиевая профильная труба 40 * 40 * 3 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/44f/250_250_1/kohyl03f1yqmoec0ge7wo2j4uxr4rhuy.jpg" alt="Алюминиевая профильная труба 40 * 40 * 3 * 3000" title="Алюминиевая профильная труба 40 * 40 * 3 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2757,7 +2697,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-3.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 40 * 40 * 3 * 6000							</a>
+Алюминиевая профильная труба 40 * 40 * 3 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2765,11 +2705,7 @@
 									<span class="value-product-attribute" data-text="
 									40									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2781,18 +2717,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3320.28</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 3 * 6000" data-price="3320.28">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 3 * 3000" data-price="3320.28">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2806,15 +2741,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1452">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/7ae/250_250_1/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg" alt="Алюминиевая профильная труба 40 * 40 * 1,5 * 6000" title="Алюминиевая профильная труба 40 * 40 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/7ae/250_250_1/y8xe6p3sqwootpc6f51itypj5bz9qxy9.jpg" alt="Алюминиевая профильная труба 40 * 40 * 1,5 * 3000" title="Алюминиевая профильная труба 40 * 40 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2828,7 +2763,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-40-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 40 * 40 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 40 * 40 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2836,11 +2771,7 @@
 									<span class="value-product-attribute" data-text="
 									40									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2852,18 +2783,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1727.76</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 1,5 * 6000" data-price="1727.76">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 40 * 1,5 * 3000" data-price="1727.76">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2877,15 +2807,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1445">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-20-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/572/250_250_1/giuo2b9okdcxucf1c5r3ykfifq009u4s.jpg" alt="Алюминиевая профильная труба 20 * 20 * 1,5 * 6000" title="Алюминиевая профильная труба 20 * 20 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/572/250_250_1/giuo2b9okdcxucf1c5r3ykfifq009u4s.jpg" alt="Алюминиевая профильная труба 20 * 20 * 1,5 * 3000" title="Алюминиевая профильная труба 20 * 20 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2899,7 +2829,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-x-20-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 20 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 20 * 20 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2907,11 +2837,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2923,18 +2849,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">830.76</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 20 * 1,5 * 6000" data-price="830.76">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 20 * 1,5 * 3000" data-price="830.76">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -2948,15 +2873,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1457">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-50-x-50-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/4a8/250_250_1/luxsbbtw100t0uudv50fmcnso6fsspor.jpg" alt="Алюминиевая профильная труба 50 * 50 * 2 * 6000" title="Алюминиевая профильная труба 50 * 50 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/4a8/250_250_1/luxsbbtw100t0uudv50fmcnso6fsspor.jpg" alt="Алюминиевая профильная труба 50 * 50 * 2 * 3000" title="Алюминиевая профильная труба 50 * 50 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2970,7 +2895,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-50-x-50-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 50 * 50 * 2 * 6000							</a>
+Алюминиевая профильная труба 50 * 50 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2978,11 +2903,7 @@
 									<span class="value-product-attribute" data-text="
 									50									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -2994,18 +2915,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2873.16</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 50 * 2 * 6000" data-price="2873.16">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 50 * 2 * 3000" data-price="2873.16">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3019,15 +2939,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2420">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-40-x-1-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/76c/250_250_1/goud8cqp7d32jdemmsei63vyd72uo2hw.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,2 * 6000" title="Алюминиевая профильная труба 20 * 40 * 1,2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/76c/250_250_1/goud8cqp7d32jdemmsei63vyd72uo2hw.jpg" alt="Алюминиевая профильная труба 20 * 40 * 1,2 * 3000" title="Алюминиевая профильная труба 20 * 40 * 1,2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3041,7 +2961,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-40-x-1-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 40 * 1,2 * 6000							</a>
+Алюминиевая профильная труба 20 * 40 * 1,2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3049,11 +2969,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3065,18 +2981,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">990</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,2 * 6000" data-price="990">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 1,2 * 3000" data-price="990">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3090,15 +3005,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2424">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-100-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/8bf/250_250_1/64vtc9ypgynpie83p2q02aw660dkmabx.jpg" alt="Алюминиевая профильная труба 20 * 100 * 2 * 6000" title="Алюминиевая профильная труба 20 * 100 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/8bf/250_250_1/64vtc9ypgynpie83p2q02aw660dkmabx.jpg" alt="Алюминиевая профильная труба 20 * 100 * 2 * 3000" title="Алюминиевая профильная труба 20 * 100 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3112,7 +3027,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-100-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 100 * 2 * 6000							</a>
+Алюминиевая профильная труба 20 * 100 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3120,11 +3035,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3136,18 +3047,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3318.48</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 100 * 2 * 6000" data-price="3318.48">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 100 * 2 * 3000" data-price="3318.48">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3161,15 +3071,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1456">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-80-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/b7b/250_250_1/bxqtiqqjpdy8ihjvyn5egrtip74kn7pu.jpg" alt="Алюминиевая профильная труба 40 * 80 * 2 * 6000" title="Алюминиевая профильная труба 40 * 80 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/b7b/250_250_1/bxqtiqqjpdy8ihjvyn5egrtip74kn7pu.jpg" alt="Алюминиевая профильная труба 40 * 80 * 2 * 3000" title="Алюминиевая профильная труба 40 * 80 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3183,7 +3093,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-40-x-80-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 40 * 80 * 2 * 6000							</a>
+Алюминиевая профильная труба 40 * 80 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3191,11 +3101,7 @@
 									<span class="value-product-attribute" data-text="
 									40									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3207,18 +3113,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">3321.12</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 80 * 2 * 6000" data-price="3321.12">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 40 * 80 * 2 * 3000" data-price="3321.12">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3232,15 +3137,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2426">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-50-50-x-2.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/816/250_250_1/ihaug6igpcyvz40m9yig2pv85ha5rudf.jpg" alt="Алюминиевая профильная труба 25 * 25 * 2 * 6000" title="Алюминиевая профильная труба 25 * 25 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/816/250_250_1/ihaug6igpcyvz40m9yig2pv85ha5rudf.jpg" alt="Алюминиевая профильная труба 25 * 25 * 2 * 3000" title="Алюминиевая профильная труба 25 * 25 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3254,7 +3159,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-50-50-x-2.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 25 * 25 * 2 * 6000							</a>
+Алюминиевая профильная труба 25 * 25 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3262,11 +3167,7 @@
 									<span class="value-product-attribute" data-text="
 									25									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3278,18 +3179,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">1377.24</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 25 * 25 * 2 * 6000" data-price="1377.24">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 25 * 25 * 2 * 3000" data-price="1377.24">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3303,15 +3203,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2427">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-50-x-50-x-1-5.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/92e/250_250_1/0500nok071q7d7dpyaevht3bvh520vfh.jpg" alt="Алюминиевая профильная труба 50 * 50 * 1,5 * 6000" title="Алюминиевая профильная труба 50 * 50 * 1,5 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/92e/250_250_1/0500nok071q7d7dpyaevht3bvh520vfh.jpg" alt="Алюминиевая профильная труба 50 * 50 * 1,5 * 3000" title="Алюминиевая профильная труба 50 * 50 * 1,5 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3325,7 +3225,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-50-x-50-x-1-5.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 50 * 50 * 1,5 * 6000							</a>
+Алюминиевая профильная труба 50 * 50 * 1,5 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3333,11 +3233,7 @@
 									<span class="value-product-attribute" data-text="
 									50									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3349,18 +3245,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2177.64</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 50 * 1,5 * 6000" data-price="2177.64">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 50 * 1,5 * 3000" data-price="2177.64">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3374,15 +3269,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2421">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-20-40-x-3.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/ef3/250_250_1/o4unj57m5531mid6dold8ktxo3dbxnuv.jpg" alt="Алюминиевая профильная труба 20 * 40 * 3 * 6000" title="Алюминиевая профильная труба 20 * 40 * 3 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/ef3/250_250_1/o4unj57m5531mid6dold8ktxo3dbxnuv.jpg" alt="Алюминиевая профильная труба 20 * 40 * 3 * 3000" title="Алюминиевая профильная труба 20 * 40 * 3 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3396,7 +3291,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-20-40-x-3.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 20 * 40 * 3 * 6000							</a>
+Алюминиевая профильная труба 20 * 40 * 3 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3404,11 +3299,7 @@
 									<span class="value-product-attribute" data-text="
 									20									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3420,18 +3311,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">2317.92</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 3 * 6000" data-price="2317.92">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 20 * 40 * 3 * 3000" data-price="2317.92">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3445,15 +3335,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_1459">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-12-x-12-x-1.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/e72/250_250_1/iwpwnw6indfebptx0awda20hwas0vyc7.jpg" alt="Алюминиевая профильная труба 12 * 12 * 1 * 6000" title="Алюминиевая профильная труба 12 * 12 * 1 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/medialibrary/e72/250_250_1/iwpwnw6indfebptx0awda20hwas0vyc7.jpg" alt="Алюминиевая профильная труба 12 * 12 * 1 * 3000" title="Алюминиевая профильная труба 12 * 12 * 1 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3467,7 +3357,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-12-x-12-x-1.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 12 * 12 * 1 * 6000							</a>
+Алюминиевая профильная труба 12 * 12 * 1 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3475,11 +3365,7 @@
 									<span class="value-product-attribute" data-text="
 									12									"></span>
 								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									6000									"></span>
-								</div>
+																							<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div>
 																							<div class="main-property-product">
 									<span class="name-product-attribute" data-text="Толщина, мм: "></span>
 									<span class="value-product-attribute" data-text="
@@ -3491,18 +3377,17 @@
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">328.44</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 12 * 12 * 1 * 6000" data-price="328.44">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 12 * 12 * 1 * 3000" data-price="328.44">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3516,15 +3401,15 @@
 					</div>
 									</div>
 			</div>
-												
-            
+
+
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2924">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
 					<a href="/catalog/alyuminievaya-profilnaya-truba-50-100-2-6000.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9f5/250_250_1/0c92e8lhvi8uz6skan7rry25jnor9t0p.jpg" alt="Алюминиевая профильная труба 50 * 100 * 2 * 6000" title="Алюминиевая профильная труба 50 * 100 * 2 * 6000" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/9f5/250_250_1/0c92e8lhvi8uz6skan7rry25jnor9t0p.jpg" alt="Алюминиевая профильная труба 50 * 100 * 2 * 3000" title="Алюминиевая профильная труба 50 * 100 * 2 * 3000" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -3538,7 +3423,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/alyuminievaya-profilnaya-truba-50-100-2-6000.prod" class="catalog-section-tile__title-link">
-								Алюминиевая профильная труба 50 * 100 * 2 * 6000							</a>
+Алюминиевая профильная труба 50 * 100 * 2 * 3000</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -3556,24 +3441,23 @@
 									<span class="value-product-attribute" data-text="
 									2									"></span>
 								</div>
-													</div>
+													<div class="main-property-product"><span class="name-product-attribute" data-text="Длина, мм: "></span><span class="value-product-attribute" data-text="3000"></span></div></div>
                         							<div class="price-in-one-line">
 								<div class="catalog-section-tile__price-box">
 
 																												<div class="catalog-section-tile__price-now">
 											<span class="pricespace">4369.08</span>
-																						<span class="catalog-section-tile__price-rub">
-												р.											</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
 																					</div>
 																										</div>
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 100 * 2 * 6000" data-price="4369.08">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Алюминиевая профильная труба 50 * 100 * 2 * 3000" data-price="4369.08">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
-								<!--/noindex-->	
+								<!--/noindex-->
 							</div>
                         					</div>
 										<div class="catalog-cart-input catalog-cart-input-list">
@@ -3589,7 +3473,7 @@
 			</div>
 														</div>
 	</div>
-		<br />		
+		<br />
 	<!--noindex-->
 <!--googleoff: all-->
 <div class="form-popup-request form-hide" id="form-popup-catalog">
@@ -3678,7 +3562,7 @@
                                         <div class="mb-10">
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
-										
+
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
@@ -3695,17 +3579,17 @@
 										<ul>
 
 			<li><a href="/kompaniya/">О компании</a></li>
-		
 
-		
+
+
 			<li><a href="/aktsii/">Акции</a></li>
-		
-			<li><a href="/blog/">Блог</a></li>
-		
-			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
-		
 
-		
+			<li><a href="/blog/">Блог</a></li>
+
+			<li><a href="/kompaniya/otzyvy/">Отзывы</a></li>
+
+
+
 
 </ul>
 								</nav>
@@ -3719,19 +3603,19 @@
 									<ul>
 
 			<li><a href="/catalog/alyuminievyy-plintus/">Алюминиевые напольные плинтусы, микроплинтусы</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-potolochnye-plintusy/">Алюминиевые потолочные плинтусы скрытого монтажа</a></li>
-		
+
 			<li><a href="/catalog/zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy/">Зажимной алюминиевый профиль для стекла</a></li>
-		
+
 			<li><a href="/catalog/alyuminievye-perila/">Алюминиевые перила и поручни</a></li>
-		
+
 			<li><a href="/catalog/profil-dlya-santekhnicheskikh-kabinok-santekhnicheskie-peregorodki/">⁠Профиль для сантехнических кабинок</a></li>
-		
+
 			<li><a href="/catalog/alyuminievyy-profil-dlya-sistem-ventilyatsii/">Профиль для вентиляции</a></li>
-		
+
 			<li><a href="/catalog/stroitelnyy-alyuminievyy-profil/">Строительный профиль</a></li>
-		
+
 
 </ul>
 								</nav>
@@ -3743,13 +3627,13 @@
 									Услуги								</div>
 								<nav class="footer__menu-nav">
 									<ul>
-		
+
 			<li><a href="/uslugi/rezka-alyuminievykh-profiley-v-razmer/">Резка в размер</a></li>
-		
 
-		
 
-		
+
+
+
 
 </ul>
 								</nav>
@@ -3997,10 +3881,10 @@
                 <a href="javascript:void(0);" class="cookies_agree_btn" id="cookies_agree_btn">Согласен</a>
             </div>
         </div>
-    
+
 	<div class="feedback-block" style="display:none">
 		<div>Свяжитесь с нами</div>
-		
+
 		<div class="phone-callback-block">
 			<a href="tel:+74956643004" class="header-phone__link">Позвонить нам</a>
 			<a data-fancybox="" data-src="#form-popup-callback" href="javascript:;">Обратный звонок</a>

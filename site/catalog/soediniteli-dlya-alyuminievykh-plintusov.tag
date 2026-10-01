@@ -1747,7 +1747,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-40-serebristyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 40 мм серебро							</a>
+Соединитель алюминиевого плинтуса 40 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1808,7 +1808,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-100-serebristyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 100 мм серебро							</a>
+Соединитель алюминиевого плинтуса 100 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1869,7 +1869,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-40-chyernyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 40 мм чёрный							</a>
+Соединитель алюминиевого плинтуса 40 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1930,7 +1930,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-100-chyernyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 100 мм чёрный							</a>
+Соединитель алюминиевого плинтуса 100 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -1991,7 +1991,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-80-serebristyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 80 мм серебро							</a>
+Соединитель алюминиевого плинтуса 80 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2052,7 +2052,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-60-chyernyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 60 мм чёрный							</a>
+Соединитель алюминиевого плинтуса 60 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2113,7 +2113,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-80-belyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 80 мм белый							</a>
+Соединитель алюминиевого плинтуса 80 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2174,7 +2174,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-60-belyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 60 мм белый							</a>
+Соединитель алюминиевого плинтуса 60 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2235,7 +2235,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-40-zoloto.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 40 мм золото							</a>
+Соединитель алюминиевого плинтуса 40 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																													</div>
@@ -2291,7 +2291,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-60-serebristyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 60 мм серебро							</a>
+Соединитель алюминиевого плинтуса 60 мм серебро</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2352,7 +2352,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-80-shampan.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 80 мм шампань							</a>
+Соединитель алюминиевого плинтуса 80 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2413,7 +2413,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-80-chyernyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 80 мм чёрный							</a>
+Соединитель алюминиевого плинтуса 80 мм чёрный</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2474,7 +2474,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-60-shampan.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 60 мм шампань							</a>
+Соединитель алюминиевого плинтуса 60 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2535,7 +2535,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-40-belyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 40 мм белый							</a>
+Соединитель алюминиевого плинтуса 40 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2596,7 +2596,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-100-belyy.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 100 мм белый							</a>
+Соединитель алюминиевого плинтуса 100 мм белый</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2657,7 +2657,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-80-zoloto.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 80 мм золото							</a>
+Соединитель алюминиевого плинтуса 80 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2718,7 +2718,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-100-zoloto.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 100 мм золото							</a>
+Соединитель алюминиевого плинтуса 100 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2779,7 +2779,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-100-shampan.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 100 мм шампань							</a>
+Соединитель алюминиевого плинтуса 100 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2840,7 +2840,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-60-zoloto.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 60 мм золото							</a>
+Соединитель алюминиевого плинтуса 60 мм золото</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2901,7 +2901,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-40-shampan.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса 40 мм шампань							</a>
+Соединитель алюминиевого плинтуса 40 мм шампань</a>
 						</div>
 						<div class="main-property-products">
 																															<div class="main-property-product">
@@ -2962,7 +2962,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/soedinitel-alyuminievogo-plintusa-dl-70.prod" class="catalog-section-tile__title-link">
-								Соединитель алюминиевого плинтуса ДЛ-70 чёрный							</a>
+Соединитель алюминиевого плинтуса ДЛ-70 чёрный</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">

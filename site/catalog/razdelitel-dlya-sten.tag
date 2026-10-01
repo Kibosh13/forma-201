@@ -1859,7 +1859,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdelitel-dlya-sten.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен чёрный матовый 3 метра							</a>
+Разделительный профиль для стен чёрный матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1922,7 +1922,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-zoloto.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен золото матовое 3 метра							</a>
+Разделительный профиль для стен золото матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1985,7 +1985,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-belye.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен белый матовый 3 метра							</a>
+Разделительный профиль для стен белый матовый 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2048,7 +2048,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-serebro.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен серебро матовое 3 метра							</a>
+Разделительный профиль для стен серебро матовое 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2111,7 +2111,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/razdeliteli-dlya-sten-shampan.prod" class="catalog-section-tile__title-link">
-								Разделительный профиль для стен шампань матовая 3 метра							</a>
+Разделительный профиль для стен шампань матовая 3 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
