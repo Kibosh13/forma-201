@@ -95,9 +95,9 @@ textarea:focus-visible, select:focus-visible {
     background: #232629;
 }
 #footer .footer__logo img {
-    filter: brightness(0) invert(1);
+    filter: none;
 }
-#footer a, #footer .clickon-logo span,
+#footer a,
 #footer .footer__mail a, #footer .footer__menu a,
 #footer .footer__copyright, #footer .footer__copyright a,
 #footer .footer__social a {
