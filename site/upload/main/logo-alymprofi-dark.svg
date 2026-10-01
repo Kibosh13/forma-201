@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="130" viewBox="0 0 650 130" role="img" aria-labelledby="title desc">
+  <title id="title">АлюмПрофи</title>
+  <desc id="desc">Производство алюминиевого профиля</desc>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M16 105 52 27 89 105" stroke="#1D3447" stroke-width="14"/>
+    <path d="M34 72h37" stroke="#168EAF" stroke-width="14"/>
+    <path d="M68 27h39v78" stroke="#1D3447" stroke-width="14"/>
+  </g>
+  <text x="137" y="85" fill="#1D3447" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.7">Алюм<tspan fill="#168EAF">Профи</tspan></text>
+  <text x="141" y="113" fill="#667886" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4.2">АЛЮМИНИЕВЫЙ ПРОФИЛЬ</text>
+</svg>

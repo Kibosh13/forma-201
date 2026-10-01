@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">АлюмПрофи</title>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M12 103 49 22 87 103" stroke="#1D3447" stroke-width="13"/>
+    <path d="M31 69h38" stroke="#168EAF" stroke-width="13"/>
+    <path d="M65 22h41v81" stroke="#1D3447" stroke-width="13"/>
+  </g>
+</svg>

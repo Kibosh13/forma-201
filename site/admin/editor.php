@@ -553,7 +553,7 @@ function load_settings(): array {
         'email' => '',
         'lead_email' => 'info@alymprofi.ru',
         'address' => "140015, Московская область<br>\nЛюберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13",
-        'logo' => '/upload/main/logo-alymprofi.png',
+        'logo' => '/upload/main/logo-alymprofi-light.svg',
     );
     $path = ALYM_STORAGE_DIR . '/settings.json';
     if (is_file($path)) {
