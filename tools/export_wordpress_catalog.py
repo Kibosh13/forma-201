@@ -19,6 +19,22 @@ except ImportError as exc:  # pragma: no cover - deployment helper
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 SOURCE_ORIGIN = "https://kibosh13.github.io/forma-201"
+PAGE_TITLES = {
+    "home": "Главная",
+    "aktsii": "Акции",
+    "blog": "Блог",
+    "cookies": "Политика использования файлов cookie",
+    "delivery": "Оплата и доставка",
+    "kompaniya": "О компании",
+    "kontakty": "Контакты",
+    "kp": "Коммерческое предложение",
+    "news": "Новости",
+    "portfolio": "Портфолио",
+    "prices": "Цены",
+    "proekty": "Проекты",
+    "sitemap": "Карта сайта",
+    "uslugi": "Услуги",
+}
 
 
 def clean_text(value: str) -> str:
@@ -129,8 +145,9 @@ def page_record(path: Path) -> dict | None:
         node.decompose()
     route = "/" + str(path.relative_to(SITE)).replace("index.html", "")
     slug = path.parent.name if path.parent != SITE else "home"
+    page_name = clean_text(h1.get_text(" ", strip=True)) or PAGE_TITLES.get(slug, slug.replace("-", " ").title())
     return {
-        "name": clean_text(h1.get_text(" ", strip=True)),
+        "name": page_name,
         "slug": slug,
         "route": route,
         "content": str(content),
