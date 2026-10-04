@@ -13,7 +13,7 @@ function product_read(array $entry): array {
     [$dom, $xpath] = load_dom_file($entry['path']);
     $title = text_of(first_node($xpath, '//title'));
     $h1 = text_of(first_node($xpath, '//h1'));
-    $status = text_of(first_node($xpath, '//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-order ")]'));
+    $status = text_of(first_node($xpath, '//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-zakaz ")]'));
     $price = text_of(first_node($xpath, class_query('pricespace')));
     $unit = text_of(first_node($xpath, class_query('catalog-detail__price-rub')));
     $summary = first_node($xpath, class_query('catalog-detail__preview'));
@@ -63,10 +63,10 @@ function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values):
     $h1 = first_node($xpath, '//h1');
     if ($h1) $h1->textContent = $name;
 
-    $status = first_node($xpath, '//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-order ")]');
+    $status = first_node($xpath, '//*[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-detail__status-zakaz ")]');
     if ($status) {
         $status->textContent = trim($values['status']);
-        $status->setAttribute('class', trim($values['status']) === 'Под заказ' ? 'catalog-detail__status-order' : 'catalog-detail__status-nal');
+        $status->setAttribute('class', trim($values['status']) === 'Под заказ' ? 'catalog-detail__status-zakaz' : 'catalog-detail__status-nal');
     }
     $price = first_node($xpath, class_query('pricespace'));
     if ($price) $price->textContent = trim($values['price']);
@@ -158,10 +158,10 @@ function update_product_card(DOMElement $card, DOMXPath $xpath, array $entry): v
     if ($price) $price->textContent = $entry['price'];
     $unit = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__price-rub ")]', $card)?->item(0);
     if ($unit) $unit->textContent = $entry['unit'] ?? 'р./шт.';
-    $status = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-order ")]', $card)?->item(0);
+    $status = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-nal ") or contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__status-zakaz ")]', $card)?->item(0);
     if ($status instanceof DOMElement) {
         $status->textContent = $entry['status'];
-        $status->setAttribute('class', $entry['status'] === 'Под заказ' ? 'catalog-section-tile__status-order' : 'catalog-section-tile__status-nal');
+        $status->setAttribute('class', $entry['status'] === 'Под заказ' ? 'catalog-section-tile__status-zakaz' : 'catalog-section-tile__status-nal');
     }
     foreach ($xpath->query('.//*[@data-name]', $card) ?: array() as $button) if ($button instanceof DOMElement) $button->setAttribute('data-name', $entry['name']);
     foreach ($xpath->query('.//*[@data-price]', $card) ?: array() as $button) if ($button instanceof DOMElement) $button->setAttribute('data-price', $entry['price']);

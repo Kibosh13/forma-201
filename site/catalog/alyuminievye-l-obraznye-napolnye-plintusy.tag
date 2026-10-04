@@ -2058,7 +2058,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0018                            </div>
@@ -2126,7 +2126,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0008                            </div>
@@ -2194,7 +2194,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0002                            </div>
@@ -2262,7 +2262,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0012                            </div>
@@ -2330,7 +2330,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0020                            </div>
@@ -2398,7 +2398,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0006                            </div>
@@ -2465,7 +2465,7 @@
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
+                                                                <div class="catalog-section-tile__status-zakaz">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
@@ -2534,7 +2534,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0014                            </div>
@@ -2602,7 +2602,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
                                 Арт. 0024                            </div>
@@ -2669,7 +2669,7 @@
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
+                                                                <div class="catalog-section-tile__status-zakaz">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
@@ -2737,7 +2737,7 @@
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
+                                                                <div class="catalog-section-tile__status-zakaz">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">
@@ -2805,7 +2805,7 @@
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
+                                                                <div class="catalog-section-tile__status-zakaz">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-tile__article">

@@ -1800,7 +1800,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -1861,7 +1861,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
@@ -1921,7 +1921,7 @@
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
+                                                                <div class="catalog-section-tile__status-zakaz">
                                     Под заказ                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
@@ -2227,7 +2227,7 @@
 						<div class="catalog-section-tile__status-box">
                                                         <div class="catalog-section-tile__status">
                                                                 <div class="catalog-section-tile__status-nal">
-                                    Под заказ                                </div>
+                                    В наличии                                </div>
                                                                                                                                                             </div>
                                                                                     <div class="catalog-section-price__article">
 								                            </div>
