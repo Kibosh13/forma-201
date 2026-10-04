@@ -11,7 +11,7 @@
 <link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17113696952320" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171136964126598" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_084d389a62fceb2f2557de6af2334c4c/page_084d389a62fceb2f2557de6af2334c4c_v1.css?178853256440663" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?v=20260923-pager" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?v=20261004-palette" type="text/css"  data-template-style="true" rel="stylesheet" />
 <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
 <script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
 
@@ -90,7 +90,7 @@
 							<div class="col-lg-auto text-xs-center col-5">
 								<div class="header-logo">
                                     									<a href="/" class="header-logo__link">
-										<img src="/upload/main/logo-alymprofi-dark.svg?v=2" alt="Главная">
+										<img src="/upload/main/logo-alymprofi-dark.svg?v=3" alt="Главная">
 									</a>
                                     								</div>
 							</div>
@@ -701,7 +701,7 @@
 	<div class="hdslide_inn">
 		<div class="hdslide_home"style="background: none">
             			<a href="/" class="hdslide_home-logo">
-				<img src="/upload/main/logo-alymprofi-mark.svg?v=2" alt="Главная">
+				<img src="/upload/main/logo-alymprofi-mark.svg?v=3" alt="Главная">
 			</a>
             		</div>
 		<div class="hdtopmenu">
@@ -3347,7 +3347,7 @@
 							<div class="col-lg">
 								<div class="footer__logo">
                                         										<a href="/" class="header-logo__link">
-											<img src="/upload/main/logo-alymprofi-light.svg?v=2" alt="Главная">
+											<img src="/upload/main/logo-alymprofi-light.svg?v=3" alt="Главная">
 										</a>
                                         									</div>
 									<div class="footer__text">

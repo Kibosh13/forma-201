@@ -224,11 +224,11 @@
 	
 	/* block style */
 	#flvmenu > ul {
-		background-color: #2c4668;
+		background-color: #303438;
 		width: 100%;
 	}
 	#flvmenu > ul li ul{
-		background-color: #2c4668;
+		background-color: #303438;
 	}
 	#flvmenu > ul li a{
 		color: #fff !important;

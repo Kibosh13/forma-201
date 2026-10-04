@@ -162,3 +162,12 @@ textarea:focus-visible, select:focus-visible {
         max-height: 320px;
     }
 }
+
+/* Keep legacy filter controls in the site's silver and graphite palette. */
+.bx_filter .bx_ui_slider_pricebar_V,
+.bx_filter_vertical.bx_blue .bx_ui_slider_range {
+    background: var(--color-metal) !important;
+}
+.bx_filter_vertical.bx_blue span.icon_lupe {
+    filter: grayscale(1);
+}

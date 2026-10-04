@@ -161,7 +161,7 @@ ob_start();
             <?php foreach ($productResults as $product):
                 $route = (string)($product['route'] ?? '#');
                 $image = (string)($product['image'] ?? '');
-                if ($image === '') $image = '/upload/main/logo-alymprofi-mark.svg?v=2';
+                if ($image === '') $image = '/upload/main/logo-alymprofi-mark.svg?v=3';
                 $status = (string)($product['status'] ?? '');
                 $status = $status === 'Под заказ' ? 'Под заказ' : 'В наличии';
             ?>
