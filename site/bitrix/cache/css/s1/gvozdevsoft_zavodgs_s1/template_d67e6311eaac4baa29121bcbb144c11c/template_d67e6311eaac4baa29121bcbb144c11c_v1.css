@@ -10481,3 +10481,14 @@ textarea:focus-visible, select:focus-visible {
 /* /local/templates/gvozdevsoft_zavodgs_s1/components/bitrix/menu/top_have_span/style.css?1724080382729 */
 /* /local/templates/gvozdevsoft_zavodgs_s1/styles.css?1721137485718 */
 /* /local/templates/gvozdevsoft_zavodgs_s1/template_styles.css?1720524726453 */
+
+/* AlyumProfi logo color override */
+#footer .footer__logo img {
+    width: 190px;
+    filter: none !important;
+}
+#header .header-logo img,
+.minmenu .logo img,
+.head_slide .hdslide_home img {
+    filter: none !important;
+}

@@ -10,7 +10,7 @@
 <link href="/_external/cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick.css" type="text/css"  rel="stylesheet" />
 <link href="/_external/cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick-theme.css" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_e65af487b5e842e370537dc29cbfe042/page_e65af487b5e842e370537dc29cbfe042_v1.css?178854258923794" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?2026100106" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?2026100401" type="text/css"  data-template-style="true" rel="stylesheet" />
 <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
 <script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
 
@@ -31,7 +31,7 @@
 
 
 
-<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?2026100106"></script>
+<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?2026100401"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_6ea3d8bca33f1e73f62cb864a2c644c6/page_6ea3d8bca33f1e73f62cb864a2c644c6_v1.js?1787683042197803"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
 

@@ -36,7 +36,7 @@
 
 
 
-<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?2026100106"></script>
+<script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/template_def4ed0f7c9a4054022845f630e73650/template_def4ed0f7c9a4054022845f630e73650_v1.js?2026100401"></script>
 <script  src="/bitrix/cache/js/s1/gvozdevsoft_zavodgs_s1/page_7b1751fa3f850cc6f74b7d91e67b1faa/page_7b1751fa3f850cc6f74b7d91e67b1faa_v1.js?178704644530510"></script>
 <script>window.inputMaskPattern="+7 (999) 999-99-99";</script>
 									
