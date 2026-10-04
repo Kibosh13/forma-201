@@ -1278,12 +1278,7 @@
                 <div class="to_delete">
                     <h2>С этим товаром покупают</h2>
                                             <a href="/catalog/stalnoy-stekloderzhatel.prod">Стальной стеклодержатель для стекла 10 мм</a>
-                                                <a href="/catalog/flanets-s-pazom-dlya-kruglogo-poruchnya-43-mm.prod">Фланец с пазом для круглого поручня 43 мм</a>
-                                                <a href="/catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm.prod">Фланец с пазом для поручня 40*40 мм</a>
-                                                <a href="/catalog/zaglushka-s-pazom-dlya-kruglogo-poruchnya-43-mm.prod">Заглушка с пазом для круглого поручня 43 мм</a>
-                                                <a href="/catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm.prod">Заглушка с пазом для поручня 40*40 мм</a>
-                                                <a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod">Соединитель прямой для круглого поручня 43 мм с пазом</a>
-                                        </div>
+                                                </div>
                 					<script>
 						function initSwiperProductsSlider() {
 							const swiperProductsSlider = new Swiper('.products-custom__slider-js', {

@@ -1821,7 +1821,7 @@
                 "priceCurrency": "RUR",
                 "lowPrice": "150",
                 "highPrice": "357",
-                "offerCount": "8"
+                "offerCount": "4"
               }
            }
         </script>
@@ -1875,131 +1875,10 @@
 		<div class="row row-10">
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2465">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/ad0/250_250_1/rnulcp8ow5n1knxmbqowog6xk6ptlr6l.jpg" alt="Заглушка с пазом для поручня 40*40 мм" title="Заглушка с пазом для поручня 40*40 мм" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
-
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm.prod" class="catalog-section-tile__title-link">
-Заглушка с пазом для поручня 40*40 мм</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Высота, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">357</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка с пазом для поручня 40*40 мм" data-price="357">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2465" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2464">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/zaglushka-s-pazom-dlya-kruglogo-poruchnya-43-mm.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/f56/250_250_1/usqe9pygzkvuz6j2xwpwzt5cd2lskauk.jpg" alt="Заглушка с пазом для круглого поручня 43 мм" title="Заглушка с пазом для круглого поручня 43 мм" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/zaglushka-s-pazom-dlya-kruglogo-poruchnya-43-mm.prod" class="catalog-section-tile__title-link">
-Заглушка с пазом для круглого поручня 43 мм</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
 
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">357</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка с пазом для круглого поручня 43 мм" data-price="357">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2464" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3066">
@@ -2062,65 +1941,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3065">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/zaglushka-s-pazom-dlya-kruglogo-poruchnya-43-mm-alyuminievaya.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/fe7/250_250_1/0s90us4vgha1pu7f3jkk78h0tf9et1h4.jpg" alt="Заглушка с пазом для круглого поручня 43 мм алюминиевая" title="Заглушка с пазом для круглого поручня 43 мм алюминиевая" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/zaglushka-s-pazom-dlya-kruglogo-poruchnya-43-mm-alyuminievaya.prod" class="catalog-section-tile__title-link">
-Заглушка с пазом для круглого поручня 43 мм алюминиевая</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">150</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка с пазом для круглого поручня 43 мм алюминиевая" data-price="150">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3065" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3067">
@@ -2313,70 +2134,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3062">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm-alyuminievaya.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/13e/250_250_1/j3efa63m8l62bn3keh3ervp9wjgxtsh5.jpg" alt="Заглушка с пазом для поручня 40*40 мм алюминиевая" title="Заглушка с пазом для поручня 40*40 мм алюминиевая" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/zaglushka-s-pazom-dlya-poruchnya-40-40-mm-alyuminievaya.prod" class="catalog-section-tile__title-link">
-Заглушка с пазом для поручня 40*40 мм алюминиевая</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Высота, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">150</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Заглушка с пазом для поручня 40*40 мм алюминиевая" data-price="150">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3062" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 														</div>
 	</div>
 		<br />

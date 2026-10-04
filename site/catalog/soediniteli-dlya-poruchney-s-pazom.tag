@@ -1821,7 +1821,7 @@
                 "priceCurrency": "RUR",
                 "lowPrice": "150",
                 "highPrice": "1122",
-                "offerCount": "20"
+                "offerCount": "12"
               }
            }
         </script>
@@ -1875,263 +1875,16 @@
 		<div class="row row-10">
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2470">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/583/250_250_1/1q7o0qucq4248tvt4ek6k0068t4mzumj.jpg" alt="Соединитель угловой для поручня 40*40 мм с пазом" title="Соединитель угловой для поручня 40*40 мм с пазом" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
-
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-Соединитель угловой для поручня 40*40 мм с пазом</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Высота, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Паз, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">1122</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом" data-price="1122">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2470" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2468">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/774/250_250_1/h4jwcfl2v22kj55q5o0hw6l4zbis42h5.jpg" alt="Соединитель угловой для круглого поручня 43 мм с пазом" title="Соединитель угловой для круглого поручня 43 мм с пазом" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
-
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-Соединитель угловой для круглого поручня 43 мм с пазом</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">796</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом" data-price="796">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2468" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2467">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/863/250_250_1/uwyhvq6ccldye832tae9n619iqxeghel.jpg" alt="Соединитель прямой для поручня 40*40 мм с пазом" title="Соединитель прямой для поручня 40*40 мм с пазом" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
-
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-Соединитель прямой для поручня 40*40 мм с пазом</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									65									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Паз, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">459</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом" data-price="459">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2467" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_2466">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/medialibrary/cf6/250_250_1/0idt1aaaka0sdttbfho3naacst25vxqj.jpg" alt="Соединитель прямой для круглого поручня 43 мм с пазом" title="Соединитель прямой для круглого поручня 43 мм с пазом" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom.prod" class="catalog-section-tile__title-link">
-Соединитель прямой для круглого поручня 43 мм с пазом</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
 
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">459</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом" data-price="459">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="2466" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
+
+
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3051">
@@ -2204,75 +1957,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3049">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/576/250_250_1/ngewjm8fd4c28pnqxj4ayo7xhgwfqy3p.jpg" alt="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый" title="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-uglovoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-Соединитель угловой для поручня 40*40 мм с пазом алюминиевый</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Высота, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Паз, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">300</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для поручня 40*40 мм с пазом алюминиевый" data-price="300">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3049" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3038">
@@ -2335,70 +2020,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3041">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/414/250_250_1/y6da4at5qx64huic37a6h2guw8mykess.jpg" alt="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый" title="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-pryamoy-dlya-poruchnya-40-40-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-Соединитель прямой для поручня 40*40 мм с пазом алюминиевый</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Длина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									65									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Паз, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									40									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">150</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для поручня 40*40 мм с пазом алюминиевый" data-price="150">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3041" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3052">
@@ -2661,65 +2283,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3037">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/9b6/250_250_1/xmo0ydgjd2jxjsrm627f01fvf3cg6e30.jpg" alt="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый" title="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-pryamoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">150</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель прямой для круглого поручня 43 мм с пазом алюминиевый" data-price="150">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3037" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3044">
@@ -3037,65 +2601,7 @@
 			</div>
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3045">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/e19/250_250_1/3kh516ra9ob6824gsib8brdrch1psxd3.jpg" alt="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый" title="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
 
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/soedinitel-uglovoy-dlya-kruglogo-poruchnya-43-mm-s-pazom-alyuminievyy.prod" class="catalog-section-tile__title-link">
-Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Диаметр, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									43									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">300</span>
-																						<span class="catalog-section-tile__price-rub">
-												р./шт											</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Соединитель угловой для круглого поручня 43 мм с пазом алюминиевый" data-price="300">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3045" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
 
 
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3048">
