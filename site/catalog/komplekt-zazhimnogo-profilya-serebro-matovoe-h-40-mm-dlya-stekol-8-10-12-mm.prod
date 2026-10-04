@@ -10,7 +10,7 @@
 <link href="/_external/cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick.css" type="text/css"  rel="stylesheet" />
 <link href="/_external/cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick-theme.css" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/page_39f66eafd63f395471f8fbba3156d0cb/page_39f66eafd63f395471f8fbba3156d0cb_v1.css?178853133322591" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?2026100401" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gvozdevsoft_zavodgs_s1/template_6b748f313e539d814c7fd394fdfe1821/template_6b748f313e539d814c7fd394fdfe1821_v1.css?2026100402" type="text/css"  data-template-style="true" rel="stylesheet" />
 <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
 <script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
 
@@ -40,7 +40,7 @@
 	<meta property="og:description" content="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8,10,12 мм длина 3 метра предназначен для нижней фиксации стекла толщиной 8, 10 и 12 мм. Невысокая линия основания оставляет основное внимание на прозрачном полотне и подходит для сдержанного оформления…">
 	<meta property="og:type" content="website">
     <meta property="og:url" content="https:///catalog/komplekt-zazhimnogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-8-10-12-mm.prod">
-	<meta property="og:image" content="https:///upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg">
+	<meta property="og:image" content="https://alymprofi.ru/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg">
 		<!-- /Open Graph -->
                 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -1125,14 +1125,14 @@
                         <div class="row">
             <input type="hidden" id="product-id" value="2313">
             <div class="col-lg-7">
-                <div class="catalog-detail__img-box">
-                                            <a href="/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg" class="gallery"
-                        data-fancybox="gallery_product">
-                            <img src="/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg" alt="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8,10,12 мм длина 3 метра" title="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8,10,12 мм длина 3 метра" class="catalog-detail__img-img">                        </a>
-                                    <div class="mygallery-catalog justified-gallery catalog-detail__img-view">
-<a href="/upload/iblock/custom-glass/glass-clamp-8-10-12-drawing-silver.jpg" data-fancybox="gallery_product"><img src="/upload/iblock/custom-glass/glass-clamp-8-10-12-drawing-silver.jpg" alt="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8,10,12 мм длина 3 метра — чертёж" title="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8,10,12 мм длина 3 метра — чертёж"></a>
-</div>
-</div>
+                <div class="catalog-detail__img-box clamp-profile-gallery">
+                    <a href="/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg" class="gallery clamp-profile-gallery__item" data-fancybox="gallery_product">
+                        <img src="/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg" alt="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8, 10, 12 мм" title="Комплект зажимного профиля серебро матовое h 40 мм для стекол 8, 10, 12 мм" class="catalog-detail__img-img">
+                    </a>
+                    <a href="/upload/iblock/custom-glass/glass-clamp-8-10-12-drawing-silver.jpg" class="gallery clamp-profile-gallery__item" data-fancybox="gallery_product">
+                        <img src="/upload/iblock/custom-glass/glass-clamp-8-10-12-drawing-silver.jpg" alt="Чертёж зажимного профиля h 40 мм для стекол 8, 10, 12 мм" title="Чертёж зажимного профиля h 40 мм для стекол 8, 10, 12 мм" class="catalog-detail__img-img">
+                    </a>
+                </div>
 
                             </div>
             <div class="col-lg-5">
@@ -1201,7 +1201,6 @@
 <p>Типовой набор может включать профиль, резиновые или EPDM-уплотнители, винты и дюбели, а также торцевые заглушки. Уплотнители служат для герметизации и амортизации, заглушки закрывают окончания профиля. Состав конкретной поставки уточняют при заказе.</p>
 </div>
                         </div>
-                                        <div class="tabs_block1"><div class="catalog-detail__text"><p>Профиль подходит для стекла толщиной 8, 10 и 12 мм.</p></div></div>
 <div class="catalog-detail__parameter tabs_block2">
                         <div class="row">
                             <div class="col-xl-9 col-12">
@@ -1237,9 +1236,14 @@
                                             <div class="catalog-detail__parameter-size ">40</div>
                                         </div>
                                                                             <div class="catalog-detail__parameter-item">
-                                            <div class="catalog-detail__parameter-name">Размеры</div>
+                                            <div class="catalog-detail__parameter-name">Длина, мм</div>
                                             <div class="catalog-detail__parameter-line"></div>
-                                            <div class="catalog-detail__parameter-size ">40 x 3000</div>
+                                            <div class="catalog-detail__parameter-size ">3000</div>
+                                        </div>
+                                                                            <div class="catalog-detail__parameter-item">
+                                            <div class="catalog-detail__parameter-name">Толщина стекла, мм</div>
+                                            <div class="catalog-detail__parameter-line"></div>
+                                            <div class="catalog-detail__parameter-size ">8, 10, 12</div>
                                         </div>
                                                                             <div class="catalog-detail__parameter-item">
                                             <div class="catalog-detail__parameter-name">
@@ -1248,16 +1252,6 @@
                                             <div class="catalog-detail__parameter-size prop-array">
                                                                                                     <span>офисные перегородки</span><span>лофт перегородки</span><span>стеклянные перегородки</span><span>межкомнатные перегородки</span><span>туалетные перегородки</span><span>душевые кабинки</span><span>стационарные перегородки</span>                                                                                            </div>
                                         </div>
-                                    <div class="catalog-detail__parameter-item">
-<div class="catalog-detail__parameter-name">Длина, мм</div>
-<div class="catalog-detail__parameter-line"></div>
-<div class="catalog-detail__parameter-size ">3000</div>
-</div>
-<div class="catalog-detail__parameter-item">
-<div class="catalog-detail__parameter-name">Толщина стекла, мм</div>
-<div class="catalog-detail__parameter-line"></div>
-<div class="catalog-detail__parameter-size ">8, 10, 12</div>
-</div>
 <!--                                --><!---->
 <!---->
 <!--                                    --><!---->

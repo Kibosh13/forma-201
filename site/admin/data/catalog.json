@@ -4208,8 +4208,8 @@
       "route": "/catalog/komplekt-zazhimnogo-profilya-chernyy-matovyy-h-40-mm-dlya-stekol-8-10-12-mm.prod",
       "category": "zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy",
       "price": "5368",
-      "status": "Арт. 0112",
-      "image": "/upload/iblock/custom-glass/glass-clamp-8-10-12-drawing.jpg"
+      "status": "В наличии",
+      "image": "/upload/iblock/custom-glass/glass-clamp-8-10-12-black.png"
     },
     "komplekt-zazhimnogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-8-10-12-mm": {
       "slug": "komplekt-zazhimnogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-8-10-12-mm",
@@ -4218,7 +4218,7 @@
       "route": "/catalog/komplekt-zazhimnogo-profilya-serebro-matovoe-h-40-mm-dlya-stekol-8-10-12-mm.prod",
       "category": "zazhimnoy-profil-dlya-tselnosteklyannykh-ograzhdeniy",
       "price": "5168",
-      "status": "Арт. 0113",
+      "status": "В наличии",
       "image": "/upload/iblock/custom-glass/glass-clamp-8-10-12-silver.jpg"
     },
     "korpus-verkh-niz-klapana": {
