@@ -1354,7 +1354,7 @@
                         });
                     }
                     BX.ready(function () {
-                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/profil-ustanovochnyy-pod-dsp-16.prod">Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a><a href="/catalog/uglovoy-90-pod-dsp-16-mm.prod">Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a><a href="/catalog/ruchka-dvernaya-plastik-belaya.prod">Ручка дверная пластик белая</a></div>');
+                        $('.popular-section').html('<div class="to_delete"><h2>Популярные товары</h2><a href="/catalog/profil-ustanovochnyy-pod-dsp-16.prod">Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра</a><a href="/catalog/uglovoy-90-pod-dsp-16-mm.prod">Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра</a><a href="/catalog/ruchka-dvernaya-plastik-belaya.prod">Ручка дверная пластик белая</a></div>');
                         var buyProductsObserver = new IntersectionObserver((a, b) => {
                             if(a[0].isIntersecting) {
                                 buyProductsObserver.unobserve(a[0].target)

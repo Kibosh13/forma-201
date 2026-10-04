@@ -1766,7 +1766,7 @@
 																	</div>
 					<a href="/catalog/ustanovochnyy-pod-hpl-panel-12-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/af3/250_250_1/lltwpf1ao7gdw2yrdgws1zcdx8f5etb9.jpg" alt="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/af3/250_250_1/lltwpf1ao7gdw2yrdgws1zcdx8f5etb9.jpg" alt="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра" title="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1782,7 +1782,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/ustanovochnyy-pod-hpl-panel-12-mm.prod" class="catalog-section-tile__title-link">
-Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1807,7 +1807,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="856">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под HPL Панель 12 мм 30*18 мм серебро матовое АД31Т1 длина 2 метра" data-price="856">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1833,7 +1833,7 @@
 																	</div>
 					<a href="/catalog/ustanovochnyy-pod-hpl-panel-12-mm-1-4mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/6d8/250_250_1/dre6d3h03s8fvcn7winr4cro947kqjmn.jpg" alt="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/6d8/250_250_1/dre6d3h03s8fvcn7winr4cro947kqjmn.jpg" alt="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра" title="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1849,7 +1849,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/ustanovochnyy-pod-hpl-panel-12-mm-1-4mm.prod" class="catalog-section-tile__title-link">
-Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1874,7 +1874,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="704">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под HPL Панель 12 мм 29,7*17,8 мм серебро матовое АД31Т1 длина 2 метра" data-price="704">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->

@@ -1766,7 +1766,7 @@
 																	</div>
 					<a href="/catalog/profil-ustanovochnyy-pod-dsp-16.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/310/250_250_1/amrxtvsy2qhk93u2ut1fm6pe5vufvkd9.jpg" alt="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/310/250_250_1/amrxtvsy2qhk93u2ut1fm6pe5vufvkd9.jpg" alt="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" title="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1782,7 +1782,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/profil-ustanovochnyy-pod-dsp-16.prod" class="catalog-section-tile__title-link">
-Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1807,7 +1807,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="468">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" data-price="468">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1833,7 +1833,7 @@
 																	</div>
 					<a href="/catalog/uglovoy-90-pod-dsp-16-mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/product-updates/angular-dsp-profile-clean-v2.png" alt="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/angular-dsp-profile-clean-v2.png" alt="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" title="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1849,7 +1849,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/uglovoy-90-pod-dsp-16-mm.prod" class="catalog-section-tile__title-link">
-Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1874,7 +1874,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="716">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Угловой профиль 90° под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" data-price="716">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1900,7 +1900,7 @@
 																	</div>
 					<a href="/catalog/stoyka-vertikalnaya-s-nashchelnikom-pod-dsp-16mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/bf7/250_250_1/v28vei7wynbdl8xtkdt1757pdad5btes.jpg" alt="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/bf7/250_250_1/v28vei7wynbdl8xtkdt1757pdad5btes.jpg" alt="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" title="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1916,7 +1916,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/stoyka-vertikalnaya-s-nashchelnikom-pod-dsp-16mm.prod" class="catalog-section-tile__title-link">
-Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -1941,7 +1941,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="548">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,1 мм серебро матовое АД31Т1 длина 2 метра" data-price="548">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -1967,7 +1967,7 @@
 																	</div>
 					<a href="/catalog/profil-ustanovochnyy-pod-dsp-16-1-4mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/310/250_250_1/amrxtvsy2qhk93u2ut1fm6pe5vufvkd9.jpg" alt="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/310/250_250_1/amrxtvsy2qhk93u2ut1fm6pe5vufvkd9.jpg" alt="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" title="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -1983,7 +1983,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/profil-ustanovochnyy-pod-dsp-16-1-4mm.prod" class="catalog-section-tile__title-link">
-Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2008,7 +2008,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="592">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Установочный профиль под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" data-price="592">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2034,7 +2034,7 @@
 																	</div>
 					<a href="/catalog/okantovka-pod-dsp-16mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/392/250_250_1/5xfau27j0vcp6u12xsozc9e3wy3yfu7s.jpg" alt="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/392/250_250_1/5xfau27j0vcp6u12xsozc9e3wy3yfu7s.jpg" alt="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра" title="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2050,7 +2050,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/okantovka-pod-dsp-16mm.prod" class="catalog-section-tile__title-link">
-Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2075,7 +2075,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="260">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Окантовка под ДСП 16 мм серебро матовое АД31Т1 длина 2 метра" data-price="260">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2101,7 +2101,7 @@
 																	</div>
 					<a href="/catalog/uglovoy-90-pod-dsp-16-mm-1-4mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/product-updates/angular-dsp-profile-clean-v2.png" alt="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/product-updates/angular-dsp-profile-clean-v2.png" alt="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" title="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2117,7 +2117,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/uglovoy-90-pod-dsp-16-mm-1-4mm.prod" class="catalog-section-tile__title-link">
-Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2142,7 +2142,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="900">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Угловой профиль 90° под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" data-price="900">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
@@ -2235,7 +2235,7 @@
 																	</div>
 					<a href="/catalog/stoyka-vertikalnaya-s-nashchelnikom-pod-dsp-16mm-1-4mm.prod">
 						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/bf7/250_250_1/v28vei7wynbdl8xtkdt1757pdad5btes.jpg" alt="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" title="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" class="catalog-section-tile__img-img">																				</div>
+														<img src="/upload/resize_cache/iblock/bf7/250_250_1/v28vei7wynbdl8xtkdt1757pdad5btes.jpg" alt="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" title="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" class="catalog-section-tile__img-img">																				</div>
 					</a>
 					<div class="catalog-section-tile__text-box">
 						<div class="catalog-section-tile__status-box">
@@ -2251,7 +2251,7 @@
 						</div>
 						<div class="catalog-section-tile__title">
 							<a href="/catalog/stoyka-vertikalnaya-s-nashchelnikom-pod-dsp-16mm-1-4mm.prod" class="catalog-section-tile__title-link">
-Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра</a>
+Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра</a>
 						</div>
 						<div class="main-property-products">
 																							<div class="main-property-product">
@@ -2276,7 +2276,7 @@
 								<!--noindex-->
 								<!--googleoff: all-->
 								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра длина 2 метра" data-price="680">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Стойка вертикальная с нащельником под ДСП 16 мм, стенки 1,4 мм серебро матовое АД31Т1 длина 2 метра" data-price="680">
 										Заказать									</a>
 								</div>
 								<!--googleon: all-->
