@@ -1881,71 +1881,6 @@
 
 
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3055">
-				<div class="catalog-section-tile__item">
-					<div class="catalog-section-tile__promo-box">
-																	</div>
-					<a href="/catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm-alyuminievyy-serebro-matovoe.prod">
-						<div class="catalog-section-tile__img-box">
-														<img src="/upload/resize_cache/iblock/a53/250_250_1/413rbbwofxssv29e75x1pfmwy3ad0ihv.jpg" alt="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" title="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" class="catalog-section-tile__img-img">																				</div>
-					</a>
-					<div class="catalog-section-tile__text-box">
-						<div class="catalog-section-tile__status-box">
-                                                        <div class="catalog-section-tile__status">
-                                                                <div class="catalog-section-tile__status-nal">
-                                    В наличии                                </div>
-                                                                                                                                                            </div>
-                                                                                    <div class="catalog-section-price__article">
-								                            </div>
-
-						</div>
-						<div class="catalog-section-tile__title">
-							<a href="/catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
-Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое</a>
-						</div>
-						<div class="main-property-products">
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Высота, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-																							<div class="main-property-product">
-									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
-									<span class="value-product-attribute" data-text="
-									90									"></span>
-								</div>
-													</div>
-                        							<div class="price-in-one-line">
-								<div class="catalog-section-tile__price-box">
-
-																												<div class="catalog-section-tile__price-now">
-											<span class="pricespace">875</span>
-																						<span class="catalog-section-tile__price-rub">р./шт.</span>
-																					</div>
-																										</div>
-								<!--noindex-->
-								<!--googleoff: all-->
-								<div class="order-block">
-									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" data-price="875">
-										Заказать									</a>
-								</div>
-								<!--googleon: all-->
-								<!--/noindex-->
-							</div>
-                        					</div>
-										<div class="catalog-cart-input catalog-cart-input-list">
-						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
-							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
-							<input type='input' name='quantity' value='1' data-step='1'/>
-							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
-						</div>
-						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3055" >
-							В корзину						</div>
-					</div>
-									</div>
-			</div>
-
-
 									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3056">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
@@ -2009,9 +1944,70 @@
 					</div>
 									</div>
 			</div>
+<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3055">
+				<div class="catalog-section-tile__item">
+					<div class="catalog-section-tile__promo-box">
+																	</div>
+					<a href="/catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm-alyuminievyy-serebro-matovoe.prod">
+						<div class="catalog-section-tile__img-box">
+														<img src="/upload/resize_cache/iblock/a53/250_250_1/413rbbwofxssv29e75x1pfmwy3ad0ihv.jpg" alt="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" title="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" class="catalog-section-tile__img-img">																				</div>
+					</a>
+					<div class="catalog-section-tile__text-box">
+						<div class="catalog-section-tile__status-box">
+                                                        <div class="catalog-section-tile__status">
+                                                                <div class="catalog-section-tile__status-nal">
+                                    В наличии                                </div>
+                                                                                                                                                            </div>
+                                                                                    <div class="catalog-section-price__article">
+								                            </div>
 
+						</div>
+						<div class="catalog-section-tile__title">
+							<a href="/catalog/flanets-s-pazom-dlya-poruchnya-40-40-mm-alyuminievyy-serebro-matovoe.prod" class="catalog-section-tile__title-link">
+Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое</a>
+						</div>
+						<div class="main-property-products">
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Высота, мм: "></span>
+									<span class="value-product-attribute" data-text="
+									90									"></span>
+								</div>
+																							<div class="main-property-product">
+									<span class="name-product-attribute" data-text="Ширина, мм: "></span>
+									<span class="value-product-attribute" data-text="
+									90									"></span>
+								</div>
+													</div>
+                        							<div class="price-in-one-line">
+								<div class="catalog-section-tile__price-box">
 
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3057">
+																												<div class="catalog-section-tile__price-now">
+											<span class="pricespace">875</span>
+																						<span class="catalog-section-tile__price-rub">р./шт.</span>
+																					</div>
+																										</div>
+								<!--noindex-->
+								<!--googleoff: all-->
+								<div class="order-block">
+									<a data-fancybox data-src="#form-popup-catalog" href="javascript:;" class="btn-order btn-link" data-name="Фланец с пазом для поручня 40*40 мм алюминиевый серебро матовое" data-price="875">
+										Заказать									</a>
+								</div>
+								<!--googleon: all-->
+								<!--/noindex-->
+							</div>
+                        					</div>
+										<div class="catalog-cart-input catalog-cart-input-list">
+						<div class='catalog-cart-input-wrap catalog-cart-input-list-wrap'>
+							<div class='catalog-cart-input-minus catalog-cart-input-list-minus'><i class="fa fa-minus" aria-hidden="true"></i></div>
+							<input type='input' name='quantity' value='1' data-step='1'/>
+							<div class='catalog-cart-input-plus catalog-cart-input-list-plus'><i class="fa fa-plus" aria-hidden="true"></i></div>
+						</div>
+						<div class="btn-link catalog-cart-add catalog-cart-input-btn catalog-cart-input-list-btn" data-product="3055" >
+							В корзину						</div>
+					</div>
+									</div>
+			</div>
+<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3057">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
@@ -2074,9 +2070,7 @@
 					</div>
 									</div>
 			</div>
-
-
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3060">
+<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3060">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
@@ -2134,12 +2128,7 @@
 					</div>
 									</div>
 			</div>
-
-
-
-
-
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3059">
+<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3059">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
@@ -2197,12 +2186,7 @@
 					</div>
 									</div>
 			</div>
-
-
-
-
-
-									<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3061">
+<div class="col-xl-4 col-sm-6 mb-20 pr-10 pl-10" id="bx_1373509569_3061">
 				<div class="catalog-section-tile__item">
 					<div class="catalog-section-tile__promo-box">
 																	</div>
