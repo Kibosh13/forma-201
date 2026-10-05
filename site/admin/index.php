@@ -25,7 +25,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'login
 
 if (!is_logged_in()) {
     $flash = take_flash();
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor"></head><body>
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg?v=20261005-logo-mark">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico?v=20261005-logo-mark">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20261005-logo-mark">
+</head><body>
     <form class="login" method="post">
         <h1>Управление сайтом</h1>
         <p class="muted">Самописная административная панель alymprofi.ru</p>
@@ -139,7 +143,11 @@ $nav = array(
 );
 
 function admin_header(string $title, string $section, array $nav, ?array $flash): void {
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor"></head><body><div class="layout"><aside class="sidebar"><div class="brand">alymprofi.ru</div><nav><?php foreach ($nav as $key => $label): ?><a class="<?= $section === $key ? 'active' : '' ?>" href="/admin/?section=<?= h($key) ?>"><?= h($label) ?></a><?php endforeach; ?></nav><a class="logout" href="/admin/?logout=1">Выйти</a></aside><main class="main"><?php if ($flash): ?><div class="notice <?= h($flash['type']) ?>"><?= h($flash['message']) ?></div><?php endif;
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg?v=20261005-logo-mark">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico?v=20261005-logo-mark">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20261005-logo-mark">
+</head><body><div class="layout"><aside class="sidebar"><div class="brand">alymprofi.ru</div><nav><?php foreach ($nav as $key => $label): ?><a class="<?= $section === $key ? 'active' : '' ?>" href="/admin/?section=<?= h($key) ?>"><?= h($label) ?></a><?php endforeach; ?></nav><a class="logout" href="/admin/?logout=1">Выйти</a></aside><main class="main"><?php if ($flash): ?><div class="notice <?= h($flash['type']) ?>"><?= h($flash['message']) ?></div><?php endif;
 }
 
 function admin_footer(): void {

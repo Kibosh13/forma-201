@@ -42,13 +42,13 @@
     <meta property="og:url" content="https:///catalog/soedinitel-40-belyy.prod">
 	<meta property="og:image" content="https:///upload/iblock/91d/ggtaca7515xfqmqpnby21mgstomv4amh.jpg">
 		<!-- /Open Graph -->
-                <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
+                <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico?v=20261005-logo-mark">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20261005-logo-mark">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=20261005-logo-mark">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=20261005-logo-mark">
+    <link rel="manifest" href="/site.webmanifest?v=20261005-logo-mark">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=20261005-logo-mark" color="#303438">
+    <meta name="msapplication-TileColor" content="#303438">
     <meta name="theme-color" content="#ffffff">
             <!-- Google Tag Manager -->
     <script data-skip-moving="true">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -74,6 +74,8 @@
 		</div>
 	</noscript>
 	<!-- /Yandex.Metrika counter -->
+
+    <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg?v=20261005-logo-mark">
 </head>
 <body>
 	
