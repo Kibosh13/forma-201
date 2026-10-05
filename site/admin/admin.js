@@ -59,6 +59,15 @@ document.querySelectorAll('[data-reviews-editor]').forEach((editor) => {
     const addButton = editor.querySelector('[data-add-review]');
     let counter = 0;
 
+    rows.addEventListener('change', (event) => {
+        if (!event.target.matches('input[name^="review_delete["]')) return;
+        const row = event.target.closest('[data-review-row]');
+        row.classList.toggle('review-editor-row--deleted', event.target.checked);
+        row.querySelector('.review-editor-row__head strong').textContent = event.target.checked
+            ? 'Отзыв будет удалён после сохранения'
+            : 'Отзыв';
+    });
+
     addButton?.addEventListener('click', () => {
         counter += 1;
         const key = `new${Date.now()}_${counter}`;
@@ -74,6 +83,6 @@ document.querySelectorAll('[data-reviews-editor]').forEach((editor) => {
                 <div class="field full"><label>Фотографии отзыва</label><input type="file" name="review_upload_${key}[]" accept="image/*" multiple><span class="help">Можно добавить несколько фотографий.</span></div>
             </div>`;
         rows.appendChild(row);
-        row.querySelector('input')?.focus();
+        row.querySelector('input[name^="review_author["]')?.focus();
     });
 });

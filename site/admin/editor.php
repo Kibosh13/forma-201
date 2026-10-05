@@ -82,7 +82,19 @@ function product_read(array $entry): array {
 }
 
 function is_product_video_url(string $url): bool {
-    return (bool)preg_match('~(?:rutube\.ru|youtube(?:-nocookie)?\.com|youtu\.be|vimeo\.com|vkvideo\.ru|vk\.com/video)~i', $url);
+    if (is_direct_product_video($url)) return true;
+    $host = strtolower((string)parse_url($url, PHP_URL_HOST));
+    foreach (array('rutube.ru', 'youtube.com', 'youtube-nocookie.com', 'youtu.be', 'vimeo.com', 'vkvideo.ru', 'vk.com') as $allowed) {
+        if ($host === $allowed || str_ends_with($host, '.' . $allowed)) return true;
+    }
+    return false;
+}
+
+function is_direct_product_video(string $url): bool {
+    $path = (string)parse_url($url, PHP_URL_PATH);
+    if (!preg_match('~\.(?:mp4|webm|ogv)$~i', $path)) return false;
+    return (str_starts_with($url, '/upload/') && !str_contains($url, '..'))
+        || in_array(strtolower((string)parse_url($url, PHP_URL_SCHEME)), array('https', 'http'), true);
 }
 
 function strip_product_video_html(string $html): string {
@@ -97,9 +109,9 @@ function strip_product_video_html(string $html): string {
 
     $fragmentXpath = new DOMXPath($fragment);
     $remove = array();
-    foreach ($fragmentXpath->query('.//iframe[@src] | .//video | .//a[@href]', $container) ?: array() as $node) {
+    foreach ($fragmentXpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," product-video-embed ")] | .//iframe[@src] | .//video | .//a[@href]', $container) ?: array() as $node) {
         if (!$node instanceof DOMElement) continue;
-        if ($node->tagName === 'video') {
+        if ($node->tagName === 'video' || str_contains(' ' . $node->getAttribute('class') . ' ', ' product-video-embed ')) {
             $remove[] = $node;
             continue;
         }
@@ -114,6 +126,7 @@ function strip_product_video_html(string $html): string {
 function normalize_product_video_url(string $url): string {
     $url = trim($url);
     if ($url === '') return '';
+    if (is_direct_product_video($url)) return $url;
     if (!filter_var($url, FILTER_VALIDATE_URL) || !is_product_video_url($url)) {
         throw new RuntimeException('Укажите корректную ссылку на видео RuTube, YouTube, Vimeo или VK Видео.');
     }
@@ -143,17 +156,16 @@ function append_product_video_html(string $html, string $videoUrl): string {
     $html = trim(strip_product_video_html($html));
     if ($videoUrl === '') return $html;
     $src = htmlspecialchars($videoUrl, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+    if (is_direct_product_video($videoUrl)) {
+        return $html . '<div class="product-video-embed"><video src="' . $src . '" controls preload="metadata" title="Видео о товаре"></video></div>';
+    }
     return $html . '<div class="product-video-embed"><iframe src="' . $src . '" title="Видео о товаре" loading="lazy" allow="clipboard-write; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>';
 }
 
 function product_reviews_read(DOMXPath $xpath): array {
-    $list = first_node($xpath, class_query('portfolio-list'));
-    if (!$list) return array();
-
-    $managed = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," product-managed-review ")]', $list);
-    $items = $managed && $managed->length
-        ? $managed
-        : $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," portfolio-detail ")]', $list);
+    // Imported pages may contain more than one old review block. Read and
+    // replace all of them rather than leaving a second copy on the page.
+    $items = $xpath->query(class_query('product-managed-review') . ' | ' . class_query('portfolio-detail'));
     $reviews = array();
     foreach ($items ?: array() as $item) {
         if (!$item instanceof DOMElement) continue;
@@ -165,14 +177,16 @@ function product_reviews_read(DOMXPath $xpath): array {
         $ratingNode = $xpath->query($isManaged
             ? './/*[contains(concat(" ",normalize-space(@class)," ")," product-managed-review__rating ")]'
             : './/*[contains(concat(" ",normalize-space(@class)," ")," rating ")]', $item)?->item(0);
-        $rating = max(1, min(5, (int)($ratingNode instanceof DOMElement ? ($ratingNode->getAttribute('data-rating') ?: $ratingNode->getAttribute('value')) : 5)));
+        $rating = max(1, min(5, (int)($ratingNode instanceof DOMElement ? ($ratingNode->getAttribute('data-rating') ?: $ratingNode->getAttribute('value') ?: 5) : 5)));
         $textNode = $xpath->query($isManaged
             ? './/*[contains(concat(" ",normalize-space(@class)," ")," product-managed-review__text ")]'
             : './/*[contains(concat(" ",normalize-space(@class)," ")," review-tex-padding ")]', $item)?->item(0);
         $paragraphs = array();
         if ($textNode instanceof DOMElement) {
-            foreach ($xpath->query('.//p', $textNode) ?: array() as $paragraph) {
-                $paragraphText = text_of($paragraph instanceof DOMElement ? $paragraph : null);
+            $copy = $textNode->cloneNode(true);
+            foreach (iterator_to_array($copy->getElementsByTagName('br')) as $break) $break->parentNode?->replaceChild($copy->ownerDocument->createTextNode("\n"), $break);
+            foreach ($copy->getElementsByTagName('p') as $paragraph) {
+                $paragraphText = trim($paragraph->textContent);
                 if ($paragraphText !== '') $paragraphs[] = $paragraphText;
             }
         }
@@ -206,13 +220,19 @@ function apply_product_reviews(DOMDocument $dom, DOMXPath $xpath, array $reviews
     $existing = first_node($xpath, class_query('portfolio-list'));
     $existingParent = $existing?->parentNode;
     $nextSibling = $existing?->nextSibling;
-    if ($existing) $existing->parentNode?->removeChild($existing);
+    foreach (iterator_to_array($xpath->query(class_query('portfolio-list') . ' | ' . class_query('product-managed-review') . ' | ' . class_query('portfolio-detail')) ?: array()) as $oldReview) {
+        $oldReview->parentNode?->removeChild($oldReview);
+    }
+    sync_product_review_schema($xpath, $reviews);
     if (!$reviews) return;
 
     $reviewForm = $xpath->query('//form[@id="review-add"]')?->item(0);
     $reviewBox = $reviewForm instanceof DOMElement ? find_card_ancestor($reviewForm, 'review') : null;
     $parent = $reviewBox?->parentNode ?: $existingParent;
-    if (!$parent) return;
+    if (!$parent) {
+        $parent = first_node($xpath, class_query('content-box'));
+    }
+    if (!$parent) throw new RuntimeException('Не найден блок карточки для сохранения отзывов.');
 
     $list = $dom->createElement('section');
     $list->setAttribute('class', 'portfolio-list product-managed-reviews');
@@ -228,7 +248,8 @@ function apply_product_reviews(DOMDocument $dom, DOMXPath $xpath, array $reviews
         $card->setAttribute('class', 'product-managed-review');
         $header = $dom->createElement('div');
         $header->setAttribute('class', 'product-managed-review__header');
-        $author = $dom->createElement('strong', trim((string)($review['author'] ?? '')));
+        $author = $dom->createElement('strong');
+        $author->appendChild($dom->createTextNode(trim((string)($review['author'] ?? ''))));
         $author->setAttribute('class', 'product-managed-review__author');
         $ratingValue = max(1, min(5, (int)($review['rating'] ?? 5)));
         $rating = $dom->createElement('span', str_repeat('★', $ratingValue) . str_repeat('☆', 5 - $ratingValue));
@@ -266,11 +287,39 @@ function apply_product_reviews(DOMDocument $dom, DOMXPath $xpath, array $reviews
 
     if ($reviewBox && $reviewBox->parentNode === $parent) {
         $parent->insertBefore($list, $reviewBox);
-    } elseif ($existingParent === $parent && $nextSibling) {
+    } elseif ($existingParent === $parent && $nextSibling?->parentNode === $parent) {
         $parent->insertBefore($list, $nextSibling);
     } else {
         $parent->appendChild($list);
     }
+}
+
+function sync_product_review_schema(DOMXPath $xpath, array $reviews): void {
+    foreach ($xpath->query('//script[@type="application/ld+json"]') ?: array() as $script) {
+        $json = json_decode($script->textContent, true);
+        if (!is_array($json) || ($json['@type'] ?? '') !== 'Product') continue;
+        unset($json['review'], $json['aggregateRating']);
+        if ($reviews) {
+            $total = 0;
+            $json['review'] = array();
+            foreach ($reviews as $review) {
+                $rating = max(1, min(5, (int)($review['rating'] ?? 5)));
+                $total += $rating;
+                $json['review'][] = array(
+                    '@type' => 'Review',
+                    'author' => array('@type' => 'Person', 'name' => (string)$review['author']),
+                    'reviewBody' => (string)$review['text'],
+                    'reviewRating' => array('@type' => 'Rating', 'ratingValue' => $rating, 'bestRating' => 5, 'worstRating' => 1),
+                );
+            }
+            $json['aggregateRating'] = array('@type' => 'AggregateRating', 'ratingValue' => round($total / count($reviews), 2), 'reviewCount' => count($reviews));
+        }
+        $script->textContent = json_encode($json, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_HEX_TAG);
+    }
+}
+
+function product_revision(array $entry): string {
+    return hash('sha256', (string)json_encode(product_read($entry), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 }
 
 function apply_product_gallery(DOMDocument $dom, DOMXPath $xpath, array $images, string $name): void {
@@ -302,6 +351,12 @@ function apply_product_gallery(DOMDocument $dom, DOMXPath $xpath, array $images,
         $anchor->appendChild($image);
         $box->appendChild($anchor);
     }
+    foreach ($xpath->query('//script[@type="application/ld+json"]') ?: array() as $script) {
+        $json = json_decode($script->textContent, true);
+        if (!is_array($json) || ($json['@type'] ?? '') !== 'Product') continue;
+        $json['image'] = array_values($images);
+        $script->textContent = json_encode($json, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_HEX_TAG);
+    }
 }
 
 function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values): void {
@@ -324,17 +379,38 @@ function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values):
     $unit = first_node($xpath, class_query('catalog-detail__price-rub'));
     if ($unit) $unit->textContent = trim($values['unit']);
     $article = first_node($xpath, class_query('catalog-detail__article'));
+    if (!$article && trim($values['article']) !== '') {
+        $statusBox = first_node($xpath, class_query('catalog-detail__status-box'));
+        if ($statusBox?->parentNode) {
+            $article = $dom->createElement('div');
+            $article->setAttribute('class', 'catalog-detail__article');
+            $statusBox->parentNode->insertBefore($article, $statusBox);
+        }
+    }
     if ($article) $article->textContent = trim($values['article']) === '' ? '' : 'Арт. ' . trim($values['article']);
     $summary = first_node($xpath, class_query('catalog-detail__preview'));
     if ($summary) set_inner_html($summary, $values['summary']);
     $description = first_node($xpath, class_query('catalog-detail__text'));
+    if (!$description && trim($values['description']) !== '') {
+        $tabs = first_node($xpath, class_query('catalog-detail__tabs') . '//*[contains(concat(" ",normalize-space(@class)," ")," tabs_block ")]');
+        $tabList = first_node($xpath, class_query('catalog-detail__tabs-ul'));
+        if ($tabs && $tabList) {
+            $tabList->insertBefore($dom->createElement('li', 'Описание'), $tabList->firstChild);
+            $block = $dom->createElement('div');
+            $block->setAttribute('class', 'tabs_block1');
+            $description = $dom->createElement('div');
+            $description->setAttribute('class', 'catalog-detail__text');
+            $block->appendChild($description);
+            $tabs->insertBefore($block, $tabs->firstChild);
+        }
+    }
     if ($description) set_inner_html($description, $values['description']);
 
     foreach ($xpath->query('//*[@data-name]') ?: array() as $button) {
-        if ($button instanceof DOMElement) $button->setAttribute('data-name', $name);
+        if ($button instanceof DOMElement && !find_card_ancestor($button, 'catalog-section-tile__item')) $button->setAttribute('data-name', $name);
     }
     foreach ($xpath->query('//*[@data-price]') ?: array() as $button) {
-        if ($button instanceof DOMElement) $button->setAttribute('data-price', trim($values['price']));
+        if ($button instanceof DOMElement && !find_card_ancestor($button, 'catalog-section-tile__item')) $button->setAttribute('data-price', trim($values['price']));
     }
 
     $image = first_node($xpath, '//img[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__img-img ")]');
@@ -377,8 +453,12 @@ function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values):
         $json['name'] = $name;
         $json['description'] = $seoDescription;
         if (!empty($values['image'])) $json['image'] = $values['image'];
-        if (isset($json['offers']) && is_array($json['offers'])) $json['offers']['price'] = trim($values['price']);
-        $script->textContent = json_encode($json, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+        $json['sku'] = trim($values['article']);
+        if (isset($json['offers']) && is_array($json['offers'])) {
+            $json['offers']['price'] = str_replace(array(' ', "\u{00a0}", ','), array('', '', '.'), trim($values['price']));
+            $json['offers']['availability'] = trim($values['status']) === 'Под заказ' ? 'https://schema.org/PreOrder' : 'https://schema.org/InStock';
+        }
+        $script->textContent = json_encode($json, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_HEX_TAG);
     }
 }
 
@@ -457,8 +537,9 @@ function sync_popular_script(string $relative, array $entry, array $routes, bool
             $markup = $match[2];
             foreach ($routes as $route) {
                 $pattern = '/<a href="' . preg_quote($route, '/') . '">[^<]*<\/a>/u';
-                $replacement = $delete ? '' : '<a href="' . $entry['route'] . '">' . $entry['name'] . '</a>';
-                $markup = preg_replace($pattern, $replacement, $markup) ?? $markup;
+                $replacement = $delete ? '' : '<a href="' . h($entry['route']) . '">' . h($entry['name']) . '</a>';
+                $replacement = str_replace(array('\\', "\r", "\n"), array('\\\\', '\\r', '\\n'), $replacement);
+                $markup = preg_replace_callback($pattern, static fn(array $anchor): string => $replacement, $markup) ?? $markup;
             }
             return $match[1] . $markup . $match[3];
         },
@@ -477,6 +558,8 @@ function sync_product_references(array $entry, string $oldRoute = '', bool $dele
     foreach (glob(ALYM_SITE_ROOT . '/catalog/*.prod') ?: array() as $path) {
         $files[] = 'catalog/' . basename($path);
     }
+    foreach (glob(ALYM_SITE_ROOT . '/catalog/*.tag') ?: array() as $path) $files[] = 'catalog/' . basename($path);
+    foreach (glob(ALYM_SITE_ROOT . '/_mirror/query/*.html') ?: array() as $path) $files[] = '_mirror/query/' . basename($path);
     foreach ($files as $relative) {
         $source = (string)file_get_contents(site_path($relative));
         $hasReference = false;
@@ -522,8 +605,25 @@ function sync_product_references(array $entry, string $oldRoute = '', bool $dele
 
 function sync_product_cards(array $catalog, array $entry, string $oldRoute = '', bool $delete = false): void {
     $routes = array_values(array_unique(array_filter(array($oldRoute, $entry['route']))));
+    $files = array();
+    $pagination = is_file(ALYM_SITE_ROOT . '/pagination-routes.php') ? require ALYM_SITE_ROOT . '/pagination-routes.php' : array();
     foreach ($catalog['categories'] as $slug => $category) {
-        $relative = $category['path'];
+        $files[$category['path']] = $slug;
+        foreach ($pagination as $route => $relative) {
+            if (parse_url($route, PHP_URL_PATH) === parse_url($category['route'], PHP_URL_PATH)) $files[$relative] = $slug;
+        }
+    }
+    $alreadyListed = false;
+    foreach ($files as $relative => $slug) {
+        if ($slug !== ($entry['category'] ?? '') || !is_file(site_path($relative))) continue;
+        [$listingDom, $listingXpath] = load_dom_file($relative);
+        foreach ($routes as $route) {
+            foreach ($listingXpath->query('//a[@href="' . $route . '"]') ?: array() as $anchor) {
+                if (find_card_ancestor($anchor, 'catalog-section-tile__item')) $alreadyListed = true;
+            }
+        }
+    }
+    foreach ($files as $relative => $slug) {
         if (!is_file(site_path($relative))) continue;
         [$dom, $xpath] = load_dom_file($relative);
         $cards = array();
@@ -543,7 +643,7 @@ function sync_product_cards(array $catalog, array $entry, string $oldRoute = '',
         } elseif ($cards) {
             foreach ($cards as $card) update_product_card($card, $xpath, $entry);
             $changed = true;
-        } else {
+        } elseif (!$alreadyListed && $relative === $catalog['categories'][$slug]['path']) {
             $sample = first_node($xpath, '//div[contains(concat(" ",normalize-space(@class)," ")," col-xl-4 ")][.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-tile__item ")]]');
             $row = $sample?->parentNode;
             if ($sample && $row) {
@@ -553,6 +653,7 @@ function sync_product_cards(array $catalog, array $entry, string $oldRoute = '',
                     update_product_card($clone, $xpath, $entry);
                     $row->appendChild($clone);
                     $changed = true;
+                    $alreadyListed = true;
                 }
             }
         }
@@ -608,19 +709,24 @@ function product_save(array &$catalog, ?string $oldSlug): string {
     if ($name === '') throw new RuntimeException('Укажите название товара.');
     if ($creating) {
         $slug = unique_slug((string)($_POST['slug'] ?? $name), $catalog['products']);
-        $template = site_path('catalog/alyuminievaya-dvernaya-korobka-l.prod');
         $relative = 'catalog/' . $slug . '.prod';
-        copy($template, site_path($relative));
-        chmod(site_path($relative), 0640);
         $entry = array('slug' => $slug, 'path' => $relative, 'route' => '/catalog/' . $slug . '.prod');
         $oldRoute = '';
     } else {
         if (!isset($catalog['products'][$oldSlug])) throw new RuntimeException('Товар не найден.');
         $entry = $catalog['products'][$oldSlug];
+        $revision = (string)($_POST['product_revision'] ?? '');
+        if ($revision === '' || !hash_equals(product_revision($entry), $revision)) {
+            throw new RuntimeException('Карточка изменилась после открытия формы. Откройте её заново, чтобы не перезаписать новые правки и не вернуть удалённые фото, видео или отзывы.');
+        }
         $slug = $oldSlug;
         $oldRoute = $entry['route'];
     }
-    $current = product_read($entry);
+    if (!array_key_exists('reviews_present', $_POST) || !array_key_exists('video_url', $_POST)) {
+        throw new RuntimeException('Форма получена не полностью. Откройте карточку заново и повторите сохранение.');
+    }
+    $sourceEntry = $creating ? array('path' => 'catalog/alyuminievaya-dvernaya-korobka-l.prod') : $entry;
+    $current = product_read($sourceEntry);
     if ($creating) {
         $current['image'] = '';
         $current['images'] = array();
@@ -683,7 +789,7 @@ function product_save(array &$catalog, ?string $oldSlug): string {
         'seo_title' => trim((string)($_POST['seo_title'] ?? '')),
         'seo_description' => trim((string)($_POST['seo_description'] ?? '')),
     );
-    [$dom, $xpath] = load_dom_file($entry['path']);
+    [$dom, $xpath] = load_dom_file($sourceEntry['path']);
     apply_product_values($dom, $xpath, $values);
     apply_product_category($xpath, $categoryEntry);
     apply_product_gallery($dom, $xpath, $gallery, $name);

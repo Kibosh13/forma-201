@@ -64,7 +64,8 @@ function replace_content_box(string $html, string $content): string {
 
 $siteRoot = dirname(__DIR__);
 $templatePath = $siteRoot . '/catalog/index.html';
-$catalogPath = $siteRoot . '/admin/data/catalog.json';
+$catalogPath = $siteRoot . '/admin/storage/catalog.json';
+if (!is_file($catalogPath)) $catalogPath = $siteRoot . '/admin/data/catalog.json';
 $template = is_file($templatePath) ? (string)file_get_contents($templatePath) : '';
 $catalog = is_file($catalogPath) ? json_decode((string)file_get_contents($catalogPath), true) : null;
 
@@ -201,5 +202,6 @@ $template = preg_replace('~<title>.*?</title>~s', '<title>' . search_h($pageTitl
 $template = preg_replace('~<meta name="description" content="[^"]*"\s*/?>~i', '<meta name="description" content="Поиск алюминиевого профиля и комплектующих в каталоге АлюмПрофи.">', $template, 1) ?? $template;
 $template = replace_content_box($template, $content);
 header('Content-Type: text/html; charset=UTF-8');
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
 header('X-Robots-Tag: noindex, nofollow, noarchive');
 echo $template;

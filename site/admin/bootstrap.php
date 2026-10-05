@@ -8,6 +8,7 @@ const ALYM_STORAGE_DIR = __DIR__ . '/storage';
 header('X-Robots-Tag: noindex, nofollow, noarchive', true);
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: same-origin');
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
 
 if (!is_dir(ALYM_STORAGE_DIR)) {
     mkdir(ALYM_STORAGE_DIR, 0770, true);
@@ -106,6 +107,14 @@ function save_catalog(array $data): void {
     rename($temp, $path);
 }
 
+function catalog_write_lock() {
+    $lock = fopen(ALYM_STORAGE_DIR . '/catalog-write.lock', 'c');
+    if (!$lock || !flock($lock, LOCK_EX)) {
+        throw new RuntimeException('Не удалось заблокировать каталог для сохранения. Повторите попытку.');
+    }
+    return $lock;
+}
+
 function backup_file(string $relative): void {
     $relative = clean_relative_path($relative);
     $source = site_path($relative);
@@ -125,10 +134,23 @@ function load_dom_file(string $relative): array {
         throw new RuntimeException('HTML-файл не найден: ' . $relative);
     }
     $source = (string)file_get_contents($path);
+    // libxml's HTML4 parser treats closing tags inside JavaScript strings as
+    // HTML. Protect raw script bodies before parsing, then restore text nodes.
+    // Without this, saving a card can turn popular-product scripts into text.
+    $scripts = array();
+    $protected = preg_replace_callback('~(<script\b[^>]*>)(.*?)(</script\s*>)~is', static function (array $match) use (&$scripts): string {
+        $key = 'ALYM_RAW_SCRIPT_' . count($scripts) . '_' . bin2hex(random_bytes(8));
+        $scripts[$key] = $match[2];
+        return $match[1] . $key . $match[3];
+    }, $source) ?? $source;
     $dom = new DOMDocument('1.0', 'UTF-8');
     libxml_use_internal_errors(true);
-    $dom->loadHTML('<?xml encoding="UTF-8">' . $source, LIBXML_HTML_NODEFDTD);
+    $dom->loadHTML('<?xml encoding="UTF-8">' . $protected, LIBXML_HTML_NODEFDTD);
     libxml_clear_errors();
+    foreach ($dom->getElementsByTagName('script') as $script) {
+        $key = trim($script->textContent);
+        if (array_key_exists($key, $scripts)) $script->textContent = $scripts[$key];
+    }
     return array($dom, new DOMXPath($dom), $source);
 }
 

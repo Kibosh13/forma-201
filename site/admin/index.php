@@ -25,7 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'login
 
 if (!is_logged_in()) {
     $flash = take_flash();
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor">
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-persist-editor">
     <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg?v=20261005-logo-mark">
     <link rel="icon" type="image/x-icon" href="/favicon.ico?v=20261005-logo-mark">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20261005-logo-mark">
@@ -43,6 +43,7 @@ if (!is_logged_in()) {
 }
 
 require_login();
+$catalogLock = $_SERVER['REQUEST_METHOD'] === 'POST' ? catalog_write_lock() : null;
 $catalog = load_catalog();
 
 if (($_GET['section'] ?? '') === 'leads' && ($_GET['action'] ?? '') === 'file') {
@@ -143,7 +144,7 @@ $nav = array(
 );
 
 function admin_header(string $title, string $section, array $nav, ?array $flash): void {
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor">
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-persist-editor">
     <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg?v=20261005-logo-mark">
     <link rel="icon" type="image/x-icon" href="/favicon.ico?v=20261005-logo-mark">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20261005-logo-mark">
@@ -151,7 +152,7 @@ function admin_header(string $title, string $section, array $nav, ?array $flash)
 }
 
 function admin_footer(): void {
-    ?></main></div><script src="/admin/admin.js?v=20261005-card-editor"></script></body></html><?php
+    ?></main></div><script src="/admin/admin.js?v=20261005-persist-editor"></script></body></html><?php
 }
 
 function rich_editor(string $name, string $html): void {
@@ -208,7 +209,7 @@ if ($section === 'products' && $action === 'edit') {
     admin_header($creating ? 'Новый товар' : $product['name'], $section, $nav, $flash);
     $previewUrl = !$creating ? $entry['route'] . '?v=' . (string)filemtime(site_path($entry['path'])) : '';
     ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($previewUrl) ?>" target="_blank">Посмотреть изменения на сайте</a><?php endif; ?></div>
-    <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>">
+    <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>"><input type="hidden" name="product_revision" value="<?= h($creating ? '' : product_revision($entry)) ?>">
     <div class="form-grid">
         <div class="field full"><label>Название</label><input name="name" value="<?= h($product['name']) ?>" required></div>
         <?php if ($creating): ?><div class="field full"><label>Адрес карточки</label><input name="slug" placeholder="Заполнится автоматически из названия"><span class="help">Только при создании товара.</span></div><?php endif; ?>
@@ -219,7 +220,7 @@ if ($section === 'products' && $action === 'edit') {
         <div class="field"><label>Категория</label><select name="category"><option value="">Без категории</option><?php foreach ($catalog['categories'] as $catSlug=>$cat): ?><option value="<?= h($catSlug) ?>" <?= ($entry['category']??'')===$catSlug?'selected':'' ?>><?= h($cat['name']) ?></option><?php endforeach; ?></select></div>
         <div class="field full"><label>Краткий текст</label><textarea name="summary"><?= h($product['summary']) ?></textarea></div>
         <div class="field full"><label>Описание</label><?php rich_editor('description', $product['description']); ?><span class="help">Редактируйте текст визуально: выделяйте слова и выбирайте нужное форматирование.</span></div>
-        <div class="field full"><label>Видео</label><input type="url" name="video_url" value="<?= h((string)$product['video_url']) ?>" placeholder="https://rutube.ru/video/…"><span class="help">Вставьте ссылку RuTube, YouTube, Vimeo или ссылку для встраивания VK Видео. Чтобы удалить видео, очистите поле и сохраните товар.</span></div>
+        <div class="field full"><label>Видео</label><input name="video_url" value="<?= h((string)$product['video_url']) ?>" placeholder="https://rutube.ru/video/…"><label><input type="checkbox" name="remove_videos" value="1"> Удалить все видео из карточки</label><span class="help">Вставьте ссылку RuTube, YouTube, Vimeo, ссылку для встраивания VK Видео или прямую ссылку на MP4/WebM. Чтобы удалить видео, очистите поле либо отметьте удаление, затем нажмите «Сохранить».</span></div>
         <div class="field full"><label>Характеристики</label><div class="attributes-editor" data-attributes-editor><div class="attribute-labels"><span>Название характеристики</span><span>Значение</span><span></span></div><div class="attribute-rows" data-attribute-rows><?php foreach ($product['attributes'] ?: array(array('name'=>'','value'=>'')) as $attribute): ?><div class="attribute-row"><input name="attribute_name[]" value="<?= h((string)$attribute['name']) ?>" placeholder="Например: Длина"><input name="attribute_value[]" value="<?= h((string)$attribute['value']) ?>" placeholder="Например: 3000 мм"><button class="attribute-remove" type="button" data-remove-attribute aria-label="Удалить характеристику">Удалить</button></div><?php endforeach; ?></div><button class="button secondary attribute-add" type="button" data-add-attribute>+ Добавить характеристику</button></div><span class="help">Каждая характеристика заполняется отдельно. Пустые строки не сохраняются.</span></div>
         <div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?= h($product['seo_title']) ?>"></div>
         <div class="field"><label>SEO-описание</label><textarea name="seo_description"><?= h($product['seo_description']) ?></textarea></div>
@@ -229,7 +230,7 @@ if ($section === 'products' && $action === 'edit') {
             <label class="image-new-main"><input type="checkbox" name="make_new_main" value="1"> Сделать первое из загружаемых фото главным</label>
             <span class="help">Можно выбрать несколько файлов. Главное фото используется в каталоге и на главной странице, а в карточке товара показывается первым. Новые фотографии добавляются в конец и не меняют главное без установленной галочки.</span>
         </div>
-        <div class="field full"><label>Отзывы о товаре</label><input type="hidden" name="reviews_present" value="1"><div class="reviews-editor" data-reviews-editor><div class="review-editor-rows" data-review-rows><?php foreach ($product['reviews'] as $reviewIndex => $review): review_editor_row('existing' . $reviewIndex, $review); endforeach; ?></div><button class="button secondary review-add" type="button" data-add-review>+ Добавить отзыв</button><span class="help">Отзывы можно создавать, редактировать и удалять. Фотографии загружаются с компьютера.</span></div></div>
+        <div class="field full"><label>Отзывы о товаре</label><input type="hidden" name="reviews_present" value="1"><div class="reviews-editor" data-reviews-editor><div class="review-editor-rows" data-review-rows><?php foreach ($product['reviews'] as $reviewIndex => $review): review_editor_row('existing' . $reviewIndex, $review); endforeach; ?></div><button class="button secondary review-add" type="button" data-add-review>+ Добавить отзыв</button><span class="help">Чтобы удалить отзыв, отметьте «Удалить отзыв» и нажмите «Сохранить» внизу страницы. Можно удалять отдельные фотографии, редактировать текст и оценку, добавлять новые отзывы.</span></div></div>
     </div><div class="actions"><button>Сохранить</button><a class="button secondary" href="/admin/?section=products">Назад</a></div></form>
     <?php if (!$creating): ?><form method="post" onsubmit="return confirm('Удалить товар?')"><input type="hidden" name="action" value="delete_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="slug" value="<?= h($slug) ?>"><button class="danger">Удалить товар</button></form><?php endif;
     admin_footer(); exit;

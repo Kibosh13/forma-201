@@ -181,7 +181,8 @@ textarea:focus-visible, select:focus-visible {
     border-radius: 6px;
     background: #202428;
 }
-.product-video-embed iframe {
+.product-video-embed iframe,
+.product-video-embed video {
     position: absolute;
     inset: 0;
     width: 100%;
