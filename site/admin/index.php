@@ -69,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($action === 'save_product') {
             $old = trim((string)($_POST['old_slug'] ?? '')) ?: null;
             $slug = product_save($catalog, $old);
-            flash($old ? 'Товар сохранён.' : 'Товар добавлен.');
+            flash($old ? 'Товар сохранён и сразу опубликован на сайте.' : 'Товар добавлен и сразу опубликован на сайте.');
             redirect('/admin/?section=products&action=edit&slug=' . rawurlencode($slug));
         }
         if ($action === 'delete_product') {
@@ -80,7 +80,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($action === 'save_category') {
             $old = trim((string)($_POST['old_slug'] ?? '')) ?: null;
             $slug = category_save($catalog, $old);
-            flash($old ? 'Категория сохранена.' : 'Категория добавлена.');
+            flash($old ? 'Категория сохранена и сразу опубликована на сайте.' : 'Категория добавлена и сразу опубликована на сайте.');
             redirect('/admin/?section=categories&action=edit&slug=' . rawurlencode($slug));
         }
         if ($action === 'delete_category') {
@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         if ($action === 'save_page') {
             page_save($catalog, (string)$_POST['path']);
-            flash('Страница сохранена.');
+            flash('Страница сохранена и сразу опубликована на сайте.');
             redirect('/admin/?section=pages&action=edit&path=' . rawurlencode((string)$_POST['path']));
         }
         if ($action === 'upload_media') {
@@ -101,7 +101,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         if ($action === 'save_settings') {
             $count = global_settings_save();
-            flash('Настройки сохранены. Обновлено файлов: ' . $count . '.');
+            flash('Настройки сохранены и сразу опубликованы на сайте. Обновлено файлов: ' . $count . '.');
             redirect('/admin/?section=settings');
         }
         if ($action === 'complete_lead') {
@@ -181,14 +181,14 @@ function review_editor_row(string $key, array $review): void {
 
 if ($section === 'dashboard') {
     admin_header('Обзор', $section, $nav, $flash);
-    ?><div class="topline"><h1>Управление сайтом</h1><a class="button secondary" href="/" target="_blank">Открыть сайт</a></div>
+    ?><div class="topline"><h1>Управление сайтом</h1><a class="button secondary" href="/?v=<?= time() ?>" target="_blank">Открыть сайт</a></div>
     <div class="grid">
         <div class="panel stat"><strong><?= new_leads_count() ?></strong><span>новых заявок</span></div>
         <div class="panel stat"><strong><?= count($catalog['products']) ?></strong><span>товаров</span></div>
         <div class="panel stat"><strong><?= count($catalog['categories']) ?></strong><span>категорий</span></div>
         <div class="panel stat"><strong><?= count($catalog['pages']) ?></strong><span>редактируемых страниц</span></div>
     </div>
-    <div class="panel"><h2>Что можно изменить</h2><p>Название, цену, статус, характеристики, описание, SEO и изображение каждого товара; категории и их изображения; обычные страницы и все изображения на них; общие контакты, адрес и логотип.</p><p class="muted">Перед каждой записью HTML-файла создаётся резервная копия в закрытом служебном каталоге.</p></div><?php
+    <div class="panel"><h2>Что можно изменить</h2><p>Название, цену, статус, характеристики, описание, SEO и изображение каждого товара; категории и их изображения; обычные страницы и все изображения на них; общие контакты, адрес и логотип.</p><p><strong>Все изменения публикуются сразу после нажатия кнопки «Сохранить».</strong> Для проверки используйте кнопку «Посмотреть изменения на сайте» в редакторе.</p><p class="muted">Перед каждой записью HTML-файла создаётся резервная копия в закрытом служебном каталоге.</p></div><?php
     admin_footer(); exit;
 }
 
@@ -198,7 +198,8 @@ if ($section === 'products' && $action === 'edit') {
     $entry = $creating ? array('slug'=>'','category'=>'','path'=>'','route'=>'','name'=>'','price'=>'','status'=>'В наличии','image'=>'') : $catalog['products'][$slug];
     $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','article'=>'','status'=>'В наличии','summary'=>'','description'=>'','video_url'=>'','videos'=>array(),'reviews'=>array(),'attributes'=>array(),'image'=>'','images'=>array(),'seo_title'=>'','seo_description'=>'') : product_read($entry);
     admin_header($creating ? 'Новый товар' : $product['name'], $section, $nav, $flash);
-    ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($entry['route']) ?>" target="_blank">Открыть карточку</a><?php endif; ?></div>
+    $previewUrl = !$creating ? $entry['route'] . '?v=' . (string)filemtime(site_path($entry['path'])) : '';
+    ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($previewUrl) ?>" target="_blank">Посмотреть изменения на сайте</a><?php endif; ?></div>
     <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>">
     <div class="form-grid">
         <div class="field full"><label>Название</label><input name="name" value="<?= h($product['name']) ?>" required></div>
@@ -262,7 +263,8 @@ if ($section === 'leads') {
 if ($section === 'categories' && $action === 'edit') {
     $slug=(string)($_GET['slug']??''); $creating=$slug===''||!isset($catalog['categories'][$slug]); $entry=$creating?array('name'=>'','image'=>''): $catalog['categories'][$slug]; $category=$creating?array('name'=>'','seo_title'=>'','seo_description'=>'','image'=>''):category_read($entry);
     admin_header($creating?'Новая категория':$category['name'],$section,$nav,$flash);
-    ?><div class="topline"><h1><?= $creating?'Добавить категорию':h($category['name']) ?></h1><?php if(!$creating):?><a class="button secondary" href="<?= h($entry['route']) ?>" target="_blank">Открыть категорию</a><?php endif;?></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_category"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="old_slug" value="<?=h($creating?'':$slug)?>"><div class="form-grid"><div class="field full"><label>Название</label><input name="name" value="<?=h($category['name'])?>" required></div><?php if($creating):?><div class="field full"><label>Адрес категории</label><input name="slug" placeholder="Заполнится автоматически"></div><?php endif;?><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($category['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($category['seo_description'])?></textarea></div><div class="field full"><label>Изображение категории</label><?php if($category['image']):?><img class="image-preview" src="<?=h($category['image'])?>"><?php endif;?><input type="file" name="image_upload" accept="image/*"><span class="help">Файл загружается с компьютера.</span></div></div><div class="actions"><button>Сохранить</button><a class="button secondary" href="/admin/?section=categories">Назад</a></div></form><?php if(!$creating):?><form method="post" onsubmit="return confirm('Удалить категорию? Товары останутся без категории.')"><input type="hidden" name="action" value="delete_category"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="slug" value="<?=h($slug)?>"><button class="danger">Удалить категорию</button></form><?php endif;
+    $categoryPreviewUrl = !$creating ? $entry['route'] . '?v=' . (string)filemtime(site_path($entry['path'])) : '';
+    ?><div class="topline"><h1><?= $creating?'Добавить категорию':h($category['name']) ?></h1><?php if(!$creating):?><a class="button secondary" href="<?= h($categoryPreviewUrl) ?>" target="_blank">Посмотреть изменения на сайте</a><?php endif;?></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_category"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="old_slug" value="<?=h($creating?'':$slug)?>"><div class="form-grid"><div class="field full"><label>Название</label><input name="name" value="<?=h($category['name'])?>" required></div><?php if($creating):?><div class="field full"><label>Адрес категории</label><input name="slug" placeholder="Заполнится автоматически"></div><?php endif;?><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($category['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($category['seo_description'])?></textarea></div><div class="field full"><label>Изображение категории</label><?php if($category['image']):?><img class="image-preview" src="<?=h($category['image'])?>"><?php endif;?><input type="file" name="image_upload" accept="image/*"><span class="help">Файл загружается с компьютера.</span></div></div><div class="actions"><button>Сохранить</button><a class="button secondary" href="/admin/?section=categories">Назад</a></div></form><?php if(!$creating):?><form method="post" onsubmit="return confirm('Удалить категорию? Товары останутся без категории.')"><input type="hidden" name="action" value="delete_category"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="slug" value="<?=h($slug)?>"><button class="danger">Удалить категорию</button></form><?php endif;
     admin_footer();exit;
 }
 
@@ -275,7 +277,8 @@ if ($section === 'categories') {
 if ($section === 'pages' && $action === 'edit') {
     $path=(string)($_GET['path']??''); if(!isset($catalog['pages'][$path]))redirect('/admin/?section=pages'); $entry=$catalog['pages'][$path];$pageData=page_read($entry);
     admin_header($pageData['name'],$section,$nav,$flash);
-    ?><div class="topline"><h1><?=h($pageData['name'])?></h1><a class="button secondary" href="<?=h($entry['route'])?>" target="_blank">Открыть страницу</a></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_page"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="path" value="<?=h($path)?>"><div class="form-grid"><div class="field full"><label>Заголовок страницы</label><input name="name" value="<?=h($pageData['name'])?>"></div><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($pageData['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($pageData['seo_description'])?></textarea></div><div class="field full"><label>Содержимое страницы</label><?php rich_editor('content', $pageData['content']); ?><span class="help">Основной текст страницы редактируется визуально.</span></div><div class="field full"><label>Изображения этой страницы</label><div class="image-list"><?php foreach($pageData['images'] as $image):?><div class="image-card"><img src="<?=h($image['src'])?>"><div class="help"><?=h($image['alt']?:$image['src'])?></div><input type="file" name="replace_image_<?=$image['index']?>" accept="image/*"></div><?php endforeach;?></div></div></div><div class="actions"><button>Сохранить страницу</button><a class="button secondary" href="/admin/?section=pages">Назад</a></div></form><?php admin_footer();exit;
+    $pagePreviewUrl = $entry['route'] . '?v=' . (string)filemtime(site_path($entry['path']));
+    ?><div class="topline"><h1><?=h($pageData['name'])?></h1><a class="button secondary" href="<?=h($pagePreviewUrl)?>" target="_blank">Посмотреть изменения на сайте</a></div><form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_page"><input type="hidden" name="csrf" value="<?=h(csrf_token())?>"><input type="hidden" name="path" value="<?=h($path)?>"><div class="form-grid"><div class="field full"><label>Заголовок страницы</label><input name="name" value="<?=h($pageData['name'])?>"></div><div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?=h($pageData['seo_title'])?>"></div><div class="field"><label>SEO-описание</label><textarea name="seo_description"><?=h($pageData['seo_description'])?></textarea></div><div class="field full"><label>Содержимое страницы</label><?php rich_editor('content', $pageData['content']); ?><span class="help">Основной текст страницы редактируется визуально.</span></div><div class="field full"><label>Изображения этой страницы</label><div class="image-list"><?php foreach($pageData['images'] as $image):?><div class="image-card"><img src="<?=h($image['src'])?>"><div class="help"><?=h($image['alt']?:$image['src'])?></div><input type="file" name="replace_image_<?=$image['index']?>" accept="image/*"></div><?php endforeach;?></div></div></div><div class="actions"><button>Сохранить страницу</button><a class="button secondary" href="/admin/?section=pages">Назад</a></div></form><?php admin_footer();exit;
 }
 
 if ($section === 'pages') {

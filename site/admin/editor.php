@@ -901,7 +901,7 @@ function load_settings(): array {
         'company_name' => 'Производитель алюминиевого профиля',
         'phone' => '8 (495) 664-30-04',
         'phone_link' => '+74956643004',
-        'email' => '',
+        'email' => 'info@alymprofi.ru',
         'lead_email' => 'info@alymprofi.ru',
         'address' => "140015, Московская область<br>\nЛюберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13",
         'logo' => '/upload/main/logo-alymprofi-dark.svg?v=3',
@@ -909,7 +909,13 @@ function load_settings(): array {
     $path = ALYM_STORAGE_DIR . '/settings.json';
     if (is_file($path)) {
         $data = json_decode((string)file_get_contents($path), true);
-        if (is_array($data)) return $data + $defaults;
+        if (is_array($data)) {
+            $settings = $data + $defaults;
+            if (trim((string)($settings['email'] ?? '')) === '') {
+                $settings['email'] = $defaults['email'];
+            }
+            return $settings;
+        }
     }
     return $defaults;
 }

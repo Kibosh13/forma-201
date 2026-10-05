@@ -119,6 +119,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 			
 		</div>
 									</div>
@@ -1093,6 +1094,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 			
 		</div>
 				</div>
@@ -2354,6 +2356,7 @@
 											<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 	</div>
 										</div>
 									</div>
@@ -2370,6 +2373,9 @@
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
 										
+										<div class="footer__mail">
+											<a href="mailto:info@alymprofi.ru">info@alymprofi.ru</a>
+										</div>
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13

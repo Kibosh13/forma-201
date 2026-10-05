@@ -114,6 +114,7 @@
 										<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 
 		</div>
 									</div>
@@ -1088,6 +1089,7 @@
 					<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 
 		</div>
 				</div>
@@ -1271,15 +1273,20 @@
                     <div class="catalog-detail__tabs-item tabs_block3">
                         <!-- FORM EXPERT -->
                         <b>Оплата</b>
-<p>Оплата товара осуществляется по наличному или безналичному расчету.</p>
-<ul>
-  <li><strong>Оплата наличными.&nbsp;</strong>Оплатить можно в офисе компании (есть терминал для пластиковых карт VISA и MasterCard)</li>
-  <li><strong>Безналичный расчет</strong>&nbsp;доставка будет произведена в течение 3 дней после поступления денежных средств на наш расчетный счет.</li>
-</ul>
-Доставка
-<p>Наша компания располагает собственным автопарком. Доставка осуществляется в рабочие дни с 9-00 до 20-00. Оформляется доставка одновременно с заказом.</p>
-<p>Если вы забираете ваши товары самостоятельно, то вам необходимо будет связаться с нашими менеджерами, чтобы согласовать время отгрузки.</p>
-<p>При заказе на сумму более 150 000 руб. доставка по Москве и Московской области осуществляется бесплатно!</p>                        <!-- /FORM EXPERT -->
+                        <p>Оплата товара осуществляется по наличному или безналичному расчёту.</p>
+                        <ul>
+                          <li><strong>Оплата наличными.</strong> Оплатить можно при получении курьеру.</li>
+                          <li><strong>Безналичный расчёт.</strong> Доставка будет произведена в течение 1–3 дней после поступления денежных средств на наш расчётный счёт.</li>
+                        </ul>
+                        <b>Доставка</b>
+                        <p>Наша компания осуществляет услуги доставки по всей территории Российской Федерации, сотрудничая со всеми транспортными компаниями.</p>
+                        <p>Выберите удобную транспортную компанию и свяжитесь с нашим отделом продаж. Менеджеры помогут согласовать логистику для своевременной доставки продукции в любой регион страны.</p>
+                        <ul>
+                          <li><strong>Обратите внимание:</strong> доставка осуществляется до терминала выбранной транспортной компании в Москве. Груз оформляется на ваше имя или ИНН вашей организации. Услуги транспортной компании оплачиваются покупателем отдельно по тарифам перевозчика.</li>
+                        </ul>
+                        <p><strong>Доставка до транспортной компании по Москве — бесплатно.</strong></p>
+                        <p><strong>Доставка по Москве в пределах МКАД — 1500 рублей.<br>За пределы МКАД — +39 рублей за каждый километр.</strong></p>
+                        <p><strong>Самовывоз осуществляется по согласованию.</strong></p>                        <!-- /FORM EXPERT -->
                     </div>
                 </div>
             </div>
@@ -1597,6 +1604,7 @@
 											<a href="tel:+74956643004" class="header-phone__link">8 (495) 664-30-04</a>
 <div class="header-phone__popup">
 		<div class="header-phone__popup-item"><a href="tel:+74956643004" class="header-phone__popup-link-phone">8 (495) 664-30-04</a></div>
+		<div class="header-phone__popup-item"><a href="mailto:info@alymprofi.ru" class="header-phone__popup-link-email">info@alymprofi.ru</a></div>
 	</div>
 										</div>
 									</div>
@@ -1613,6 +1621,9 @@
                                             <a href="/kontakty/politika-konfidentsialnosti/">Политика в отношении обработки персональных данных</a>
                                         </div>
 
+										<div class="footer__mail">
+											<a href="mailto:info@alymprofi.ru">info@alymprofi.ru</a>
+										</div>
 										<div class="footer__address">
 											140015, Московская область<br>
 Люберецкий городской округ,<br>г. Люберцы, ул. Преображенская, д. 13
