@@ -25,7 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'login
 
 if (!is_logged_in()) {
     $flash = take_flash();
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-gallery"></head><body>
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Вход — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor"></head><body>
     <form class="login" method="post">
         <h1>Управление сайтом</h1>
         <p class="muted">Самописная административная панель alymprofi.ru</p>
@@ -139,11 +139,11 @@ $nav = array(
 );
 
 function admin_header(string $title, string $section, array $nav, ?array $flash): void {
-    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-gallery"></head><body><div class="layout"><aside class="sidebar"><div class="brand">alymprofi.ru</div><nav><?php foreach ($nav as $key => $label): ?><a class="<?= $section === $key ? 'active' : '' ?>" href="/admin/?section=<?= h($key) ?>"><?= h($label) ?></a><?php endforeach; ?></nav><a class="logout" href="/admin/?logout=1">Выйти</a></aside><main class="main"><?php if ($flash): ?><div class="notice <?= h($flash['type']) ?>"><?= h($flash['message']) ?></div><?php endif;
+    ?><!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= h($title) ?> — управление сайтом</title><link rel="stylesheet" href="/admin/admin.css?v=20261005-card-editor"></head><body><div class="layout"><aside class="sidebar"><div class="brand">alymprofi.ru</div><nav><?php foreach ($nav as $key => $label): ?><a class="<?= $section === $key ? 'active' : '' ?>" href="/admin/?section=<?= h($key) ?>"><?= h($label) ?></a><?php endforeach; ?></nav><a class="logout" href="/admin/?logout=1">Выйти</a></aside><main class="main"><?php if ($flash): ?><div class="notice <?= h($flash['type']) ?>"><?= h($flash['message']) ?></div><?php endif;
 }
 
 function admin_footer(): void {
-    ?></main></div><script src="/admin/admin.js"></script></body></html><?php
+    ?></main></div><script src="/admin/admin.js?v=20261005-card-editor"></script></body></html><?php
 }
 
 function rich_editor(string $name, string $html): void {
@@ -166,6 +166,19 @@ function rich_editor(string $name, string $html): void {
     </div><?php
 }
 
+function review_editor_row(string $key, array $review): void {
+    $rating = max(1, min(5, (int)($review['rating'] ?? 5)));
+    ?><section class="review-editor-row" data-review-row>
+        <div class="review-editor-row__head"><strong>Отзыв</strong><label class="review-delete"><input type="checkbox" name="review_delete[<?= h($key) ?>]" value="1"> Удалить отзыв</label></div>
+        <div class="review-editor-grid">
+            <div class="field"><label>Автор</label><input name="review_author[<?= h($key) ?>]" value="<?= h((string)($review['author'] ?? '')) ?>" placeholder="Имя автора"></div>
+            <div class="field"><label>Оценка</label><select name="review_rating[<?= h($key) ?>]"><?php for ($star = 5; $star >= 1; $star--): ?><option value="<?= $star ?>" <?= $rating === $star ? 'selected' : '' ?>><?= $star ?> из 5</option><?php endfor; ?></select></div>
+            <div class="field full"><label>Текст</label><textarea name="review_text[<?= h($key) ?>]" placeholder="Текст отзыва"><?= h((string)($review['text'] ?? '')) ?></textarea></div>
+            <div class="field full"><label>Фотографии отзыва</label><?php if (!empty($review['images'])): ?><div class="review-image-list"><?php foreach ($review['images'] as $imagePath): ?><div class="review-image-card"><img src="<?= h((string)$imagePath) ?>" alt=""><input type="hidden" name="review_existing_image[<?= h($key) ?>][]" value="<?= h((string)$imagePath) ?>"><label><input type="checkbox" name="review_remove_image[<?= h($key) ?>][]" value="<?= h((string)$imagePath) ?>"> Удалить фото</label></div><?php endforeach; ?></div><?php endif; ?><input type="file" name="review_upload_<?= h($key) ?>[]" accept="image/*" multiple><span class="help">Можно добавить несколько фотографий.</span></div>
+        </div>
+    </section><?php
+}
+
 if ($section === 'dashboard') {
     admin_header('Обзор', $section, $nav, $flash);
     ?><div class="topline"><h1>Управление сайтом</h1><a class="button secondary" href="/" target="_blank">Открыть сайт</a></div>
@@ -183,7 +196,7 @@ if ($section === 'products' && $action === 'edit') {
     $slug = (string)($_GET['slug'] ?? '');
     $creating = $slug === '' || !isset($catalog['products'][$slug]);
     $entry = $creating ? array('slug'=>'','category'=>'','path'=>'','route'=>'','name'=>'','price'=>'','status'=>'В наличии','image'=>'') : $catalog['products'][$slug];
-    $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','status'=>'В наличии','summary'=>'','description'=>'','attributes'=>array(),'image'=>'','images'=>array(),'seo_title'=>'','seo_description'=>'') : product_read($entry);
+    $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','article'=>'','status'=>'В наличии','summary'=>'','description'=>'','video_url'=>'','videos'=>array(),'reviews'=>array(),'attributes'=>array(),'image'=>'','images'=>array(),'seo_title'=>'','seo_description'=>'') : product_read($entry);
     admin_header($creating ? 'Новый товар' : $product['name'], $section, $nav, $flash);
     ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($entry['route']) ?>" target="_blank">Открыть карточку</a><?php endif; ?></div>
     <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>">
@@ -192,10 +205,12 @@ if ($section === 'products' && $action === 'edit') {
         <?php if ($creating): ?><div class="field full"><label>Адрес карточки</label><input name="slug" placeholder="Заполнится автоматически из названия"><span class="help">Только при создании товара.</span></div><?php endif; ?>
         <div class="field"><label>Цена</label><input name="price" value="<?= h($product['price']) ?>" required></div>
         <div class="field"><label>Единица цены</label><input name="unit" value="<?= h($product['unit']) ?>" placeholder="р./шт."></div>
+        <div class="field"><label>Артикул</label><input name="article" value="<?= h($product['article']) ?>" placeholder="Например: 0105"></div>
         <div class="field"><label>Статус</label><select name="status"><option <?= $product['status']==='В наличии'?'selected':'' ?>>В наличии</option><option <?= $product['status']==='Под заказ'?'selected':'' ?>>Под заказ</option></select></div>
         <div class="field"><label>Категория</label><select name="category"><option value="">Без категории</option><?php foreach ($catalog['categories'] as $catSlug=>$cat): ?><option value="<?= h($catSlug) ?>" <?= ($entry['category']??'')===$catSlug?'selected':'' ?>><?= h($cat['name']) ?></option><?php endforeach; ?></select></div>
         <div class="field full"><label>Краткий текст</label><textarea name="summary"><?= h($product['summary']) ?></textarea></div>
         <div class="field full"><label>Описание</label><?php rich_editor('description', $product['description']); ?><span class="help">Редактируйте текст визуально: выделяйте слова и выбирайте нужное форматирование.</span></div>
+        <div class="field full"><label>Видео</label><input type="url" name="video_url" value="<?= h((string)$product['video_url']) ?>" placeholder="https://rutube.ru/video/…"><span class="help">Вставьте ссылку RuTube, YouTube, Vimeo или ссылку для встраивания VK Видео. Чтобы удалить видео, очистите поле и сохраните товар.</span></div>
         <div class="field full"><label>Характеристики</label><div class="attributes-editor" data-attributes-editor><div class="attribute-labels"><span>Название характеристики</span><span>Значение</span><span></span></div><div class="attribute-rows" data-attribute-rows><?php foreach ($product['attributes'] ?: array(array('name'=>'','value'=>'')) as $attribute): ?><div class="attribute-row"><input name="attribute_name[]" value="<?= h((string)$attribute['name']) ?>" placeholder="Например: Длина"><input name="attribute_value[]" value="<?= h((string)$attribute['value']) ?>" placeholder="Например: 3000 мм"><button class="attribute-remove" type="button" data-remove-attribute aria-label="Удалить характеристику">Удалить</button></div><?php endforeach; ?></div><button class="button secondary attribute-add" type="button" data-add-attribute>+ Добавить характеристику</button></div><span class="help">Каждая характеристика заполняется отдельно. Пустые строки не сохраняются.</span></div>
         <div class="field"><label>SEO-заголовок</label><input name="seo_title" value="<?= h($product['seo_title']) ?>"></div>
         <div class="field"><label>SEO-описание</label><textarea name="seo_description"><?= h($product['seo_description']) ?></textarea></div>
@@ -205,6 +220,7 @@ if ($section === 'products' && $action === 'edit') {
             <label class="image-new-main"><input type="checkbox" name="make_new_main" value="1"> Сделать первое из загружаемых фото главным</label>
             <span class="help">Можно выбрать несколько файлов. Главное фото используется в каталоге и на главной странице, а в карточке товара показывается первым. Новые фотографии добавляются в конец и не меняют главное без установленной галочки.</span>
         </div>
+        <div class="field full"><label>Отзывы о товаре</label><input type="hidden" name="reviews_present" value="1"><div class="reviews-editor" data-reviews-editor><div class="review-editor-rows" data-review-rows><?php foreach ($product['reviews'] as $reviewIndex => $review): review_editor_row('existing' . $reviewIndex, $review); endforeach; ?></div><button class="button secondary review-add" type="button" data-add-review>+ Добавить отзыв</button><span class="help">Отзывы можно создавать, редактировать и удалять. Фотографии загружаются с компьютера.</span></div></div>
     </div><div class="actions"><button>Сохранить</button><a class="button secondary" href="/admin/?section=products">Назад</a></div></form>
     <?php if (!$creating): ?><form method="post" onsubmit="return confirm('Удалить товар?')"><input type="hidden" name="action" value="delete_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="slug" value="<?= h($slug) ?>"><button class="danger">Удалить товар</button></form><?php endif;
     admin_footer(); exit;

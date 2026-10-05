@@ -53,3 +53,27 @@ document.querySelectorAll('[data-rich-editor]').forEach((wrapper) => {
         sync();
     });
 });
+
+document.querySelectorAll('[data-reviews-editor]').forEach((editor) => {
+    const rows = editor.querySelector('[data-review-rows]');
+    const addButton = editor.querySelector('[data-add-review]');
+    let counter = 0;
+
+    addButton?.addEventListener('click', () => {
+        counter += 1;
+        const key = `new${Date.now()}_${counter}`;
+        const row = document.createElement('section');
+        row.className = 'review-editor-row';
+        row.dataset.reviewRow = '';
+        row.innerHTML = `
+            <div class="review-editor-row__head"><strong>Новый отзыв</strong><label class="review-delete"><input type="checkbox" name="review_delete[${key}]" value="1"> Удалить отзыв</label></div>
+            <div class="review-editor-grid">
+                <div class="field"><label>Автор</label><input name="review_author[${key}]" placeholder="Имя автора"></div>
+                <div class="field"><label>Оценка</label><select name="review_rating[${key}]"><option value="5">5 из 5</option><option value="4">4 из 5</option><option value="3">3 из 5</option><option value="2">2 из 5</option><option value="1">1 из 5</option></select></div>
+                <div class="field full"><label>Текст</label><textarea name="review_text[${key}]" placeholder="Текст отзыва"></textarea></div>
+                <div class="field full"><label>Фотографии отзыва</label><input type="file" name="review_upload_${key}[]" accept="image/*" multiple><span class="help">Можно добавить несколько фотографий.</span></div>
+            </div>`;
+        rows.appendChild(row);
+        row.querySelector('input')?.focus();
+    });
+});
