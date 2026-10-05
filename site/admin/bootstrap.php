@@ -216,11 +216,7 @@ function set_title(DOMXPath $xpath, DOMDocument $dom, string $title): void {
     set_property_meta($xpath, $dom, 'og:title', $title);
 }
 
-function upload_image(string $field, string $label = 'image'): ?string {
-    if (empty($_FILES[$field]) || !is_array($_FILES[$field])) {
-        return null;
-    }
-    $file = $_FILES[$field];
+function store_uploaded_image(array $file, string $label = 'image'): ?string {
     if (($file['error'] ?? UPLOAD_ERR_NO_FILE) === UPLOAD_ERR_NO_FILE) {
         return null;
     }
@@ -248,6 +244,38 @@ function upload_image(string $field, string $label = 'image'): ?string {
     }
     chmod($absolute, 0640);
     return '/' . $directory . '/' . $filename;
+}
+
+function upload_image(string $field, string $label = 'image'): ?string {
+    if (empty($_FILES[$field]) || !is_array($_FILES[$field])) {
+        return null;
+    }
+    return store_uploaded_image($_FILES[$field], $label);
+}
+
+function upload_images(string $field, string $label = 'image'): array {
+    if (empty($_FILES[$field]) || !is_array($_FILES[$field])) {
+        return array();
+    }
+    $upload = $_FILES[$field];
+    if (!is_array($upload['name'] ?? null)) {
+        $single = store_uploaded_image($upload, $label);
+        return $single ? array($single) : array();
+    }
+
+    $images = array();
+    foreach ($upload['name'] as $index => $name) {
+        $file = array(
+            'name' => $name,
+            'type' => $upload['type'][$index] ?? '',
+            'tmp_name' => $upload['tmp_name'][$index] ?? '',
+            'error' => $upload['error'][$index] ?? UPLOAD_ERR_NO_FILE,
+            'size' => $upload['size'][$index] ?? 0,
+        );
+        $image = store_uploaded_image($file, $label . '-' . ($index + 1));
+        if ($image) $images[] = $image;
+    }
+    return $images;
 }
 
 function slugify(string $value): string {

@@ -18,7 +18,12 @@ function product_read(array $entry): array {
     $unit = text_of(first_node($xpath, class_query('catalog-detail__price-rub')));
     $summary = first_node($xpath, class_query('catalog-detail__preview'));
     $description = first_node($xpath, class_query('catalog-detail__text'));
-    $image = first_node($xpath, '//img[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__img-img ")]');
+    $images = array();
+    foreach ($xpath->query('//img[contains(concat(" ",normalize-space(@class)," ")," catalog-detail__img-img ")]') ?: array() as $image) {
+        if (!$image instanceof DOMElement) continue;
+        $src = trim($image->getAttribute('src'));
+        if ($src !== '') $images[] = $src;
+    }
     $attributes = array();
     foreach ($xpath->query(class_query('catalog-detail__parameter-item')) ?: array() as $item) {
         if (!$item instanceof DOMElement) continue;
@@ -47,10 +52,38 @@ function product_read(array $entry): array {
         'summary' => $summary ? inner_html($summary) : '',
         'description' => $description ? inner_html($description) : '',
         'attributes' => $attributes,
-        'image' => $image?->getAttribute('src') ?? '',
+        'image' => $images[0] ?? '',
+        'images' => $images,
         'seo_title' => $title,
         'seo_description' => meta_content($xpath, 'description'),
     );
+}
+
+function apply_product_gallery(DOMDocument $dom, DOMXPath $xpath, array $images, string $name): void {
+    $box = first_node($xpath, class_query('catalog-detail__img-box'));
+    if (!$box) return;
+
+    while ($box->firstChild) $box->removeChild($box->firstChild);
+    $classes = preg_split('/\s+/', trim($box->getAttribute('class'))) ?: array();
+    $classes = array_values(array_filter($classes, static fn(string $class): bool => $class !== 'clamp-profile-gallery'));
+    if (count($images) > 1) $classes[] = 'clamp-profile-gallery';
+    $box->setAttribute('class', implode(' ', array_unique($classes)));
+
+    foreach ($images as $src) {
+        $src = trim((string)$src);
+        if ($src === '') continue;
+        $anchor = $dom->createElement('a');
+        $anchor->setAttribute('href', $src);
+        $anchor->setAttribute('class', count($images) > 1 ? 'gallery clamp-profile-gallery__item' : 'gallery');
+        $anchor->setAttribute('data-fancybox', 'gallery_product');
+        $image = $dom->createElement('img');
+        $image->setAttribute('src', $src);
+        $image->setAttribute('alt', $name);
+        $image->setAttribute('title', $name);
+        $image->setAttribute('class', 'catalog-detail__img-img');
+        $anchor->appendChild($image);
+        $box->appendChild($anchor);
+    }
 }
 
 function apply_product_values(DOMDocument $dom, DOMXPath $xpath, array $values): void {
@@ -312,7 +345,36 @@ function product_save(array &$catalog, ?string $oldSlug): string {
         $oldRoute = $entry['route'];
     }
     $current = product_read($entry);
-    $uploaded = upload_image('image_upload', $slug);
+    if ($creating) {
+        $current['image'] = '';
+        $current['images'] = array();
+    }
+    $currentImages = array_values(array_filter(array_map('strval', $current['images'] ?? array($current['image'] ?? ''))));
+    $removeImages = array_map('intval', is_array($_POST['remove_image'] ?? null) ? $_POST['remove_image'] : array());
+    $selectedMain = max(0, (int)($_POST['main_image'] ?? 0));
+    $selectedMainPath = $currentImages[$selectedMain] ?? '';
+    $gallery = array();
+    foreach ($currentImages as $index => $imagePath) {
+        if (!in_array($index, $removeImages, true)) $gallery[] = $imagePath;
+    }
+    $uploadedImages = upload_images('gallery_upload', $slug);
+    $legacyUpload = upload_image('image_upload', $slug);
+    if ($legacyUpload) $uploadedImages[] = $legacyUpload;
+    $gallery = array_values(array_unique(array_merge($gallery, $uploadedImages)));
+    if (!$gallery) throw new RuntimeException('Добавьте хотя бы одно изображение товара.');
+
+    $mainImage = '';
+    if (!empty($_POST['make_new_main']) && $uploadedImages) {
+        $mainImage = $uploadedImages[0];
+    } elseif ($selectedMainPath !== '' && in_array($selectedMainPath, $gallery, true)) {
+        $mainImage = $selectedMainPath;
+    } elseif ($gallery) {
+        $mainImage = $gallery[0];
+    }
+    if ($mainImage !== '') {
+        $gallery = array_values(array_filter($gallery, static fn(string $path): bool => $path !== $mainImage));
+        array_unshift($gallery, $mainImage);
+    }
     $attributeNames = is_array($_POST['attribute_name'] ?? null) ? $_POST['attribute_name'] : array();
     $attributeValues = is_array($_POST['attribute_value'] ?? null) ? $_POST['attribute_value'] : array();
     $attributes = array();
@@ -331,12 +393,13 @@ function product_save(array &$catalog, ?string $oldSlug): string {
         'summary' => (string)($_POST['summary'] ?? ''),
         'description' => (string)($_POST['description'] ?? ''),
         'attributes' => $attributes,
-        'image' => $uploaded ?: $current['image'],
+        'image' => $mainImage,
         'seo_title' => trim((string)($_POST['seo_title'] ?? '')),
         'seo_description' => trim((string)($_POST['seo_description'] ?? '')),
     );
     [$dom, $xpath] = load_dom_file($entry['path']);
     apply_product_values($dom, $xpath, $values);
+    apply_product_gallery($dom, $xpath, $gallery, $name);
     save_dom_file($entry['path'], $dom);
     $entry += array('category' => '');
     $entry['name'] = $values['name'];
