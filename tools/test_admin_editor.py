@@ -79,6 +79,7 @@ def main():
     root = Path(temp.name)
     for name in ('admin', 'poisk'):
         shutil.copytree(REPO / 'site' / name, root / name, ignore=shutil.ignore_patterns('storage', 'config.local.php'))
+    shutil.copyfile(REPO / 'site/content.php', root / 'content.php')
     (root / 'admin/storage').mkdir()
     (root / 'catalog').mkdir()
     (root / '_mirror/query').mkdir(parents=True)
@@ -86,15 +87,29 @@ def main():
     for slug in (SLUG, NO_DESC, template_name):
         shutil.copyfile(REPO / 'site/catalog' / (slug + '.prod'), root / 'catalog' / (slug + '.prod'))
     seed = json.loads((REPO / 'site/admin/data/catalog.json').read_text())
+    full_source = os.environ.get('ALYM_QA_FULL_ROOT')
+    if full_source:
+        full_root = Path(full_source)
+        full_index = full_root / 'admin/storage/catalog.json'
+        seed = json.loads((full_index if full_index.exists() else full_root / 'admin/data/catalog.json').read_text())
+        for entry in list(seed['products'].values()) + list(seed['categories'].values()):
+            src, dst = full_root / entry['path'], root / entry['path']
+            if src.is_file():
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(src, dst)
+        for src in (full_root / '_mirror/query').glob('*.html'):
+            shutil.copyfile(src, root / '_mirror/query' / src.name)
     product = seed['products'][SLUG]
     product['category'] = 'qa'
-    categories = {c: {'slug': c, 'name': c, 'path': f'catalog/{c}/index.html', 'route': f'/catalog/{c}/', 'image': ''} for c in ('qa', 'other')}
-    catalog = {'products': {SLUG: product, NO_DESC: seed['products'][NO_DESC], template_name: seed['products'][template_name]}, 'categories': categories, 'pages': {}}
+    categories = dict(seed['categories']) if full_source else {}
+    categories.update({c: {'slug': c, 'name': c, 'path': f'catalog/{c}/index.html', 'route': f'/catalog/{c}/', 'image': ''} for c in ('qa', 'other')})
+    products = dict(seed['products']) if full_source else {SLUG: product, NO_DESC: seed['products'][NO_DESC], template_name: seed['products'][template_name]}
+    catalog = {'products': products, 'categories': categories, 'pages': {}}
     (root / 'admin/data/catalog.json').write_text(json.dumps(catalog, ensure_ascii=False))
     route = product['route']
     def listing(href, title):
         return f'''<!doctype html><html><head><title>QA</title></head><body><div class="content-box"><div class="row"><div class="col-xl-4"><div class="catalog-section-tile__item"><a class="catalog-section-tile__title-link" href="{href}">{title}</a><img class="catalog-section-tile__img-img" src="/qa.png"><span class="pricespace">1</span><span class="catalog-section-tile__price-rub">р./шт.</span><span class="catalog-section-tile__article">Арт. 1</span><span class="catalog-section-tile__status-nal">В наличии</span><button data-name="{title}" data-price="1">Купить</button></div></div></div></div></body></html>'''
-    for category in categories:
+    for category in ('qa', 'other'):
         (root / f'catalog/{category}').mkdir()
         (root / categories[category]['path']).write_text(listing('/catalog/' + template_name + '.prod', 'Другой товар'))
     (root / 'catalog/index.html').write_text(listing(route, product['name']))
@@ -109,7 +124,7 @@ def main():
     prepare = '''require 'admin/bootstrap.php';require 'admin/editor.php';$e=load_catalog()['products']["''' + SLUG + '''"];[$d,$x]=load_dom_file($e['path']);apply_product_reviews($d,$x,[],'QA');$block=$d->createElement('div');$block->setAttribute('class','portfolio-list');set_inner_html($block,'<div class="portfolio-detail"><div class="client-text">Автор: Сергей</div><span class="rating" value="5"></span><div class="review-tex-padding"><p>Наша компания специализируется на остеклении зданий.</p></div><img class="portfolio-detail__photo-img" src="/qa.png"></div>');first_node($x,'//body')->appendChild($block);sync_product_review_schema($x,[['author'=>'Сергей','rating'=>5,'text'=>'Наша компания специализируется на остеклении зданий.','images'=>['/qa.png']]]);save_dom_file($e['path'],$d);'''
     subprocess.run([PHP, '-r', prepare], cwd=root, check=True, capture_output=True)
     (root / 'inspect.php').write_text('''<?php require 'admin/bootstrap.php'; require 'admin/editor.php'; $c=load_catalog(); $e=$c['products'][$_GET['slug']]??null; header('Content-Type: application/json'); echo json_encode($e?product_read($e):null,JSON_UNESCAPED_UNICODE);''')
-    (root / 'router.php').write_text('''<?php $p=parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH); if(str_ends_with($p,'.prod')||str_ends_with($p,'.tag')){header('Content-Type:text/html; charset=utf-8'); if(!is_file(__DIR__.$p)){http_response_code(404);exit;} readfile(__DIR__.$p);return true;}return false;''')
+    (root / 'router.php').write_text('''<?php $p=parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH); if(str_ends_with($p,'.prod')||str_ends_with($p,'.tag')||str_ends_with($p,'.html')){$_GET['alym_file']=ltrim($p,'/');require __DIR__.'/content.php';return true;}return false;''')
     with socket.socket() as sock:
         sock.bind(('127.0.0.1', 0))
         port = sock.getsockname()[1]
@@ -190,6 +205,18 @@ def main():
             check('Updated product references: ' + target, 'QA профиль обновлённый' in unescape((root / target).read_text()))
         check('Page 2 product is not duplicated on page 1', 'QA профиль обновлённый' not in unescape((root / 'catalog/qa/index.html').read_text()))
         check('Search uses current catalog rather than seed', 'QA профиль обновлённый' in request('/poisk/?q=QA'))
+        # Simulate the actual incident: deployment replaces the public template
+        # with an old repository copy. Saved customer fields must still win.
+        shutil.copyfile(REPO / 'site/catalog' / (SLUG + '.prod'), root / 'catalog' / (SLUG + '.prod'))
+        html = request(route)
+        check('Replacing template does not reset admin data', read() == p)
+        check('Replacing template does not reset public name, price, photos or attributes', 'QA профиль обновлённый' in unescape(html) and '1 234,50' in html and p['images'][-1] in html and 'Чёрный & матовый' in unescape(html))
+        (root / '_mirror/query/page2.html').write_text(listing(route, 'Старое название'))
+        check('Old category archive still renders saved price and name', 'QA профиль обновлённый' in unescape(request('/_mirror/query/page2.html')) and '1 234,50' in request('/_mirror/query/page2.html'))
+        many = ''.join(listing(route, 'Старое название').split('<body>')[1].split('</body>')[0] for _ in range(12))
+        (root / '_mirror/query/page2.html').write_text('<html><body>' + many + '</body></html>')
+        check('Every card in a multi-card listing is refreshed', 'Старое название' not in unescape(request('/_mirror/query/page2.html')))
+        check('Complete saved versions have a separate history', len(list((root / 'admin/storage/product-history').rglob('*.json'))) >= 3)
         fields = form()
         for key, author, rating, text in [('new1', 'Тест & контроль', '5', 'Первая строка\nВторая строка\n\nДругой абзац'), ('new2', 'Другой автор', '4', 'Второй отзыв')]:
             fields += [(f'review_author[{key}]', author), (f'review_rating[{key}]', rating), (f'review_text[{key}]', text)]
@@ -261,6 +288,8 @@ def main():
         csrf = dict(fields)['csrf']
         html = request('/admin/', [('action', 'delete_product'), ('csrf', csrf), ('slug', 'qa-new-product')])
         check('Delete product from disk, category and search', 'Товар удалён' in html and read('qa-new-product') is None and 'QA новый товар' not in unescape((root / 'catalog/qa/index.html').read_text()) and 'QA новый товар' not in request('/poisk/?q=QA'))
+        (root / 'catalog/qa/index.html').write_text(listing('/catalog/qa-new-product.prod', 'QA новый товар'))
+        check('Old listing cannot restore a deleted product', 'QA новый товар' not in unescape(request('/catalog/qa/index.html')))
         # Duplicate imported blocks are a regression case for whole-list deletion.
         test_php = '''require 'admin/bootstrap.php';require 'admin/editor.php';[$d,$x]=load_dom_file('catalog/''' + SLUG + '''.prod');$p=product_read(['path'=>'catalog/''' + SLUG + '''.prod']);apply_product_reviews($d,$x,[['author'=>'Duplicate','rating'=>5,'text'=>'Duplicate body','images'=>[]]],'QA');$l=first_node($x,class_query('portfolio-list'));$l->parentNode->appendChild($l->cloneNode(true));if(count(product_reviews_read($x))!==2)exit(2);apply_product_reviews($d,$x,[],'QA');if(product_reviews_read($x)||str_contains($d->saveHTML(),'Duplicate body'))exit(3);'''
         result = subprocess.run([PHP, '-r', test_php], cwd=root, capture_output=True, text=True)

@@ -66,4 +66,8 @@ if (
 header('Content-Type: text/html; charset=UTF-8');
 header('Cache-Control: no-cache, must-revalidate');
 header('X-Content-Type-Options: nosniff');
-readfile($targetFile);
+define('ALYM_PUBLIC_CONTENT', true);
+require __DIR__ . '/admin/bootstrap.php';
+require __DIR__ . '/admin/editor.php';
+require __DIR__ . '/admin/public-content.php';
+echo public_content_html($relativeFile, load_catalog());

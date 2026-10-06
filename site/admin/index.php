@@ -207,8 +207,10 @@ if ($section === 'products' && $action === 'edit') {
     $entry = $creating ? array('slug'=>'','category'=>'','path'=>'','route'=>'','name'=>'','price'=>'','status'=>'В наличии','image'=>'') : $catalog['products'][$slug];
     $product = $creating ? array('name'=>'','price'=>'','unit'=>'р./шт.','article'=>'','status'=>'В наличии','summary'=>'','description'=>'','video_url'=>'','videos'=>array(),'reviews'=>array(),'attributes'=>array(),'image'=>'','images'=>array(),'seo_title'=>'','seo_description'=>'') : product_read($entry);
     admin_header($creating ? 'Новый товар' : $product['name'], $section, $nav, $flash);
-    $previewUrl = !$creating ? $entry['route'] . '?v=' . (string)filemtime(site_path($entry['path'])) : '';
+    $savedContent = !$creating ? saved_product_content($entry) : null;
+    $previewUrl = !$creating ? $entry['route'] . '?v=' . substr(product_revision($entry), 0, 16) : '';
     ?><div class="topline"><h1><?= $creating ? 'Добавить товар' : h($product['name']) ?></h1><?php if (!$creating): ?><a class="button secondary" href="<?= h($previewUrl) ?>" target="_blank">Посмотреть изменения на сайте</a><?php endif; ?></div>
+    <?php if ($savedContent): ?><p class="muted">Последнее сохранение: <?= h(date('d.m.Y H:i:s', strtotime($savedContent['saved_at']))) ?>. Изменения видны на сайте сразу после сохранения.</p><?php endif; ?>
     <form class="panel" method="post" enctype="multipart/form-data"><input type="hidden" name="action" value="save_product"><input type="hidden" name="csrf" value="<?= h(csrf_token()) ?>"><input type="hidden" name="old_slug" value="<?= h($creating ? '' : $slug) ?>"><input type="hidden" name="product_revision" value="<?= h($creating ? '' : product_revision($entry)) ?>">
     <div class="form-grid">
         <div class="field full"><label>Название</label><input name="name" value="<?= h($product['name']) ?>" required></div>

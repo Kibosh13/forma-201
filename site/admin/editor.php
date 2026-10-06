@@ -9,7 +9,30 @@ function meta_content(DOMXPath $xpath, string $name): string {
     return first_node($xpath, '//meta[@name="' . $name . '"]')?->getAttribute('content') ?? '';
 }
 
-function product_read(array $entry): array {
+function product_content_path(array $entry): string {
+    return ALYM_STORAGE_DIR . '/product-content/' . hash('sha256', (string)($entry['slug'] ?? $entry['path'])) . '.json';
+}
+
+function saved_product_content(array $entry): ?array {
+    $path = product_content_path($entry);
+    if (!is_file($path)) return null;
+    $data = json_decode((string)file_get_contents($path), true, 512, JSON_THROW_ON_ERROR);
+    if (!is_array($data['product'] ?? null) || ($data['entry']['path'] ?? '') !== $entry['path']) {
+        throw new RuntimeException('Сохранённые данные товара повреждены.');
+    }
+    return $data;
+}
+
+function save_product_content(array $entry, array $product): void {
+    $data = array('saved_at' => date(DATE_ATOM), 'entry' => $entry, 'product' => $product);
+    $json = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR);
+    $history = ALYM_STORAGE_DIR . '/product-history/' . hash('sha256', $entry['slug']) . '/' . date('Ymd_His') . '-' . bin2hex(random_bytes(4)) . '.json';
+    atomic_write($history, $json, 0600);
+    atomic_write(product_content_path($entry), $json, 0600);
+}
+
+function product_read(array $entry, bool $publishedOnly = false): array {
+    if (!$publishedOnly && ($saved = saved_product_content($entry))) return $saved['product'];
     [$dom, $xpath] = load_dom_file($entry['path']);
     $title = text_of(first_node($xpath, '//title'));
     $h1 = text_of(first_node($xpath, '//h1'));
@@ -79,6 +102,15 @@ function product_read(array $entry): array {
         'seo_title' => $title,
         'seo_description' => meta_content($xpath, 'description'),
     );
+}
+
+function apply_saved_product(DOMDocument $dom, DOMXPath $xpath, array $entry, array $saved, array $catalog): void {
+    $values = $saved['product'];
+    $values['description'] = append_product_video_html($values['description'], (string)$values['video_url']);
+    apply_product_values($dom, $xpath, $values);
+    apply_product_gallery($dom, $xpath, $values['images'], $values['name']);
+    apply_product_reviews($dom, $xpath, $values['reviews'], $values['name']);
+    apply_product_category($xpath, $catalog['categories'][$entry['category'] ?? ''] ?? null);
 }
 
 function is_product_video_url(string $url): bool {
@@ -547,8 +579,7 @@ function sync_popular_script(string $relative, array $entry, array $routes, bool
     ) ?? $source;
     if ($updated !== $source) {
         backup_file($relative);
-        file_put_contents($path, $updated, LOCK_EX);
-        chmod($path, 0640);
+        atomic_write($path, $updated);
     }
 }
 
@@ -794,7 +825,6 @@ function product_save(array &$catalog, ?string $oldSlug): string {
     apply_product_category($xpath, $categoryEntry);
     apply_product_gallery($dom, $xpath, $gallery, $name);
     apply_product_reviews($dom, $xpath, $reviews, $name);
-    save_dom_file($entry['path'], $dom);
     $entry += array('category' => '');
     $entry['name'] = $values['name'];
     $entry['price'] = $values['price'];
@@ -803,10 +833,17 @@ function product_save(array &$catalog, ?string $oldSlug): string {
     $entry['status'] = $values['status'];
     $entry['image'] = $values['image'];
     $entry['category'] = isset($catalog['categories'][$category]) ? $category : '';
+    $content = $values + array('images' => $gallery, 'reviews' => $reviews, 'video_url' => $videoUrl, 'videos' => $videoUrl === '' ? array() : array($videoUrl));
+    $content['description'] = strip_product_video_html($description);
+    // Persist every editable field separately from deployed templates. Public
+    // rendering and subsequent admin forms use this data even after a code update.
+    save_product_content($entry, $content);
+    save_dom_file($entry['path'], $dom);
     $catalog['products'][$slug] = $entry;
+    unset($catalog['deleted_products'][$entry['route']]);
+    save_catalog($catalog);
     sync_product_cards($catalog, $entry, $oldRoute);
     sync_product_references($entry, $oldRoute);
-    save_catalog($catalog);
     return $slug;
 }
 
@@ -822,7 +859,10 @@ function product_delete(array &$catalog, string $slug): void {
         rename($source, $trash);
     }
     unset($catalog['products'][$slug]);
+    $catalog['deleted_products'][$entry['route']] = date(DATE_ATOM);
     save_catalog($catalog);
+    $contentPath = product_content_path($entry);
+    if (is_file($contentPath) && !unlink($contentPath)) throw new RuntimeException('Не удалось удалить сохранённые данные товара.');
 }
 
 function category_read(array $entry): array {

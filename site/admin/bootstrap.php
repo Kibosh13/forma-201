@@ -14,18 +14,19 @@ if (!is_dir(ALYM_STORAGE_DIR)) {
     mkdir(ALYM_STORAGE_DIR, 0770, true);
 }
 
-$localConfig = __DIR__ . '/config.local.php';
-$config = is_file($localConfig) ? require $localConfig : array();
-$config += array('user' => '', 'password_hash' => '');
-
-session_name('alym_admin');
-session_set_cookie_params(array(
+if (!defined('ALYM_PUBLIC_CONTENT')) {
+    $localConfig = __DIR__ . '/config.local.php';
+    $config = is_file($localConfig) ? require $localConfig : array();
+    $config += array('user' => '', 'password_hash' => '');
+    session_name('alym_admin');
+    session_set_cookie_params(array(
     'httponly' => true,
     'secure' => !empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off',
     'samesite' => 'Strict',
     'path' => '/admin/',
-));
-session_start();
+    ));
+    session_start();
+}
 
 function h(string $value): string {
     return htmlspecialchars($value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
@@ -101,10 +102,22 @@ function load_catalog(): array {
 }
 
 function save_catalog(array $data): void {
-    $path = ALYM_STORAGE_DIR . '/catalog.json';
-    $temp = $path . '.tmp';
-    file_put_contents($temp, json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
-    rename($temp, $path);
+    atomic_write(ALYM_STORAGE_DIR . '/catalog.json', json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR), 0600);
+}
+
+function atomic_write(string $path, string $content, int $mode = 0640): void {
+    if (!is_dir(dirname($path)) && !mkdir(dirname($path), 0770, true) && !is_dir(dirname($path))) {
+        throw new RuntimeException('Не удалось создать каталог для сохранения.');
+    }
+    $temp = tempnam(dirname($path), '.alym-save-');
+    if ($temp === false) throw new RuntimeException('Не удалось подготовить файл для сохранения.');
+    try {
+        if (file_put_contents($temp, $content, LOCK_EX) !== strlen($content) || !chmod($temp, $mode) || !rename($temp, $path)) {
+            throw new RuntimeException('Не удалось записать изменения. Проверьте свободное место и повторите сохранение.');
+        }
+    } finally {
+        if (is_file($temp)) unlink($temp);
+    }
 }
 
 function catalog_write_lock() {
@@ -121,11 +134,11 @@ function backup_file(string $relative): void {
     if (!is_file($source)) {
         return;
     }
-    $destination = ALYM_STORAGE_DIR . '/backups/' . date('Y-m-d_His') . '/' . $relative;
-    if (!is_dir(dirname($destination))) {
-        mkdir(dirname($destination), 0770, true);
-    }
-    copy($source, $destination);
+    static $saveId = null;
+    $saveId ??= date('Y-m-d_His') . '-' . bin2hex(random_bytes(4));
+    $destination = ALYM_STORAGE_DIR . '/backups/' . $saveId . '/' . $relative;
+    // Keep the pre-request version even if a reference is updated twice.
+    if (!is_file($destination)) atomic_write($destination, (string)file_get_contents($source), 0600);
 }
 
 function load_dom_file(string $relative): array {
@@ -159,10 +172,7 @@ function save_dom_file(string $relative, DOMDocument $dom): void {
     $html = $dom->saveHTML();
     $html = preg_replace('/^<\?xml encoding="UTF-8"\?>\s*/', '', $html) ?? $html;
     $path = site_path($relative);
-    $temp = $path . '.tmp';
-    file_put_contents($temp, $html, LOCK_EX);
-    chmod($temp, 0640);
-    rename($temp, $path);
+    atomic_write($path, $html);
 }
 
 function first_node(DOMXPath $xpath, string $query): ?DOMElement {
