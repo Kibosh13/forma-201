@@ -5,7 +5,9 @@ const ALYM_SITE_ROOT = __DIR__ . '/..';
 const ALYM_ADMIN_DIR = __DIR__;
 const ALYM_STORAGE_DIR = __DIR__ . '/storage';
 
-header('X-Robots-Tag: noindex, nofollow, noarchive', true);
+if (!defined('ALYM_PUBLIC_CONTENT')) {
+    header('X-Robots-Tag: noindex, nofollow, noarchive', true);
+}
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: same-origin');
 header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');

@@ -23,7 +23,7 @@ def main():
             parser.error('Only relative code paths are allowed')
         if raw.startswith(('admin/storage/', 'admin/data/', 'upload/')) or raw == 'admin/config.local.php':
             parser.error('Customer data/configuration cannot be deployed: ' + raw)
-        if path.suffix not in {'.php', '.js', '.css'} and raw != '.htaccess':
+        if path.suffix not in {'.php', '.js', '.css'} and raw not in {'.htaccess', 'robots.txt'}:
             parser.error('HTML, product cards, archives and media are customer content: ' + raw)
         if not (SITE / path).is_file():
             parser.error('File does not exist: ' + raw)

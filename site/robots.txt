@@ -1,2 +1,10 @@
 User-agent: *
-Disallow: /
+Disallow: /admin/
+Disallow: /_mirror/
+Disallow: /poisk/
+Disallow: /content.php
+Disallow: /pagination.php
+Disallow: /sitemap.php
+Allow: /
+
+Sitemap: https://alymprofi.ru/sitemap.xml
