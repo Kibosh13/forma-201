@@ -883,7 +883,7 @@ function update_category_card(DOMElement $card, DOMXPath $xpath, array $entry): 
     $title = $xpath->query('.//*[contains(concat(" ",normalize-space(@class)," ")," catalog-section-list__link-title ")]', $card)?->item(0);
     if ($title) $title->textContent = $entry['name'];
     $img = $xpath->query('.//img[contains(concat(" ",normalize-space(@class)," ")," catalog-section-list__img-img ")]', $card)?->item(0);
-    if ($img instanceof DOMElement) {
+    if ($img instanceof DOMElement && trim((string)($entry['image'] ?? '')) !== '') {
         $img->setAttribute('src', $entry['image']);
         $img->setAttribute('alt', $entry['name']);
         $img->setAttribute('title', $entry['name']);

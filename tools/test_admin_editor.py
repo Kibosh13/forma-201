@@ -297,6 +297,18 @@ def main():
         test_php = '''require 'admin/bootstrap.php';require 'admin/editor.php';$e=load_catalog()['products']["''' + SLUG + '''"];$v=product_read($e);[$d,$x]=load_dom_file($e['path']);$body=first_node($x,'//body');$n=$d->createElement('div');$n->setAttribute('class','catalog-section-tile__item');$b=$d->createElement('button');$b->setAttribute('data-name','Other product');$b->setAttribute('data-price','999');$n->appendChild($b);$body->appendChild($n);apply_product_values($d,$x,$v);if($b->getAttribute('data-name')!=='Other product'||$b->getAttribute('data-price')!=='999')exit(2);'''
         result = subprocess.run([PHP, '-r', test_php], cwd=root, capture_output=True, text=True)
         check('Editing one product preserves other products order buttons', result.returncode == 0, result.stderr)
+        # Category edits must reach the home page as well as the catalog.
+        category_card = '<div class="catalog-section-list__box"><a class="catalog-section-list__link" href="/catalog/qa/"><img class="catalog-section-list__img-img" src="/old.png" srcset="/old2.png 2x"></a><a class="catalog-section-list__link-title" href="/catalog/qa/">Старое название категории</a></div>'
+        (root / 'index.html').write_text('<html><body>' + category_card * 12 + '</body></html>')
+        category_form = next(f for f in Forms(request('/admin/?section=categories&action=edit&slug=qa')).forms if ('action', 'save_category') in f)
+        set_field(category_form, 'name', 'Обновлённая категория')
+        request('/admin/', category_form, [('image_upload', 'category.png')])
+        category_image = json.loads((root / 'admin/storage/catalog.json').read_text())['categories']['qa']['image']
+        home = unescape(request('/index.html'))
+        check('Category image upload and title reach every home card', home.count(category_image) == 12 and home.count('Обновлённая категория') == 36 and '/old.png' not in home and 'srcset=' not in home)
+        (root / 'index.html').write_text('<html><body>' + category_card.replace('/catalog/qa/', '/catalog/other/') + '</body></html>')
+        home = request('/index.html')
+        check('Category without saved image keeps its original photograph', 'src="/old.png"' in home and 'srcset="/old2.png 2x"' in home)
         print(json.dumps({'passed': len(checks), 'checks': checks}, ensure_ascii=False, indent=2))
         log.seek(0)
         errors = [line for line in log.read().decode().splitlines() if 'Fatal error' in line or 'Warning:' in line]

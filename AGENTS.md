@@ -17,3 +17,9 @@ also run `tools/audit_admin_templates.php`. Production HTTP uses PHP 8.2;
 use `/usr/local/bin/php8.2` for matching CLI checks, not the default `php`
 command. Do not test CRUD by
 changing real customer products; use a private copy.
+
+CSS/JS bundles under `site/bitrix/cache/{css,js}` are design sources, not
+disposable generated files. Their permanent copies in `site/assets/design`
+are served by the root rewrite rule when cache files are absent. Use the
+code deployer for bundle changes so both copies stay current. Do not clean
+`assets/design` as cache.

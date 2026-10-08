@@ -20,6 +20,10 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 # Publish current catalog URLs on the production domain.
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 
+# Imported CSS/JS bundles are permanent design assets, not disposable cache.
+# Keep old URLs working even when hosting cache cleanup removes their files.
+RewriteRule ^bitrix/cache/((?:css|js)/.+\.(?:css|js))$ assets/design/$1 [L]
+
 # Static catalog pages use Bitrix-style pagination query parameters. Route
 # those requests through the local archive dispatcher so page 2+ serves its
 # own captured product list instead of falling back to page 1.

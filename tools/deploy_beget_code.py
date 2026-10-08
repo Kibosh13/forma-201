@@ -3,6 +3,7 @@
 import argparse
 from datetime import datetime
 from pathlib import Path
+import shutil
 import subprocess
 
 REPO = Path(__file__).resolve().parents[1]
@@ -28,6 +29,16 @@ def main():
         if not (SITE / path).is_file():
             parser.error('File does not exist: ' + raw)
         selected.append(path.as_posix())
+        # The imported bundle paths must never depend on disposable cache.
+        # Keep their permanent copies current when a bundle is redeployed.
+        if path.parts[:3] in {('bitrix', 'cache', 'css'), ('bitrix', 'cache', 'js')}:
+            permanent = Path('assets/design') / path.relative_to('bitrix/cache')
+            if args.apply:
+                (SITE / permanent).parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(SITE / path, SITE / permanent)
+            if (SITE / permanent).is_file():
+                selected.append(permanent.as_posix())
+    selected = list(dict.fromkeys(selected))
     stamp = datetime.now().strftime('%Y%m%d-%H%M%S')
     command = ['rsync', '-avzR', '--backup', '--backup-dir=' + REMOTE + 'admin/storage/backups/code-' + stamp,
                '-e', 'ssh -o ControlPath=' + args.control_path]

@@ -13,10 +13,23 @@ function public_content_html(string $relative, array $catalog): string {
     }
     $byRoute = array();
     foreach ($catalog['products'] as $entry) $byRoute[$entry['route']] = $entry;
+    $categoriesByRoute = array();
+    foreach ($catalog['categories'] as $entry) $categoriesByRoute[$entry['route']] = $entry;
     $cards = array();
+    $categoryCards = array();
     foreach ($xpath->query('//a[@href]') ?: array() as $anchor) {
         if (!$anchor instanceof DOMElement) continue;
         $href = $anchor->getAttribute('href');
+        if (isset($categoriesByRoute[$href])) {
+            $categoryCard = find_card_ancestor($anchor, 'catalog-section-list__box');
+            if ($categoryCard && !isset($categoryCards[spl_object_id($categoryCard)])) {
+                // The home page also contains category cards. Use the saved
+                // category image there, even if an imported template is old.
+                update_category_card($categoryCard, $xpath, $categoriesByRoute[$href]);
+                $categoryCards[spl_object_id($categoryCard)] = $categoryCard;
+                $changed = true;
+            }
+        }
         if (isset($catalog['deleted_products'][$href])) {
             $card = find_card_ancestor($anchor, 'catalog-section-tile__item');
             if ($card) {
