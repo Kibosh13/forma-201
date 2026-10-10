@@ -10634,3 +10634,142 @@ textarea:focus-visible, select:focus-visible {
 .bx_filter_vertical.bx_blue span.icon_lupe {
     filter: grayscale(1);
 }
+
+/* AlyumProfi responsive header: reserve space for contacts and the hero form. */
+#header .header-phone__link,
+#header .header-btn-callback__link {
+    white-space: nowrap;
+}
+@media (min-width: 768px) {
+    #header .header-top > .row {
+        display: grid;
+        grid-template-columns: 200px minmax(180px, 1fr) minmax(180px, 1fr) auto auto;
+        grid-template-areas: "logo address search phone contact";
+        gap: 14px;
+        margin: 0;
+    }
+    #header .header-top > .row > div {
+        width: auto;
+        max-width: none;
+        min-width: 0;
+        padding: 0;
+        margin: 0 !important;
+    }
+    #header .header-top > .row > div:nth-child(1) { grid-area: logo; }
+    #header .header-top > .row > div:nth-child(2) { grid-area: address; }
+    #header .header-top > .row > div:nth-child(3) { grid-area: search; }
+    #header .header-top > .row > div:nth-child(4) { grid-area: phone; }
+    #header .header-top > .row > div:nth-child(5) { grid-area: contact; }
+    #header .header-logo,
+    #header .header-phone,
+    #header .header-btn-zayvka {
+        margin-bottom: 0;
+    }
+    #header .header-logo img {
+        width: 100%;
+        max-width: 200px;
+        height: auto;
+    }
+    #header .header-top .hdslide_search {
+        display: block;
+        float: none;
+    }
+    #header .header-top .hdslide_search form { width: 100%; }
+    #header .header-top .hdslide_search input { margin-top: 0; height: 40px; }
+    #header .header-top .hdslide_search button { top: 7px; }
+    #header .header-phone,
+    #header .header-btn-callback { text-align: right; }
+    #header .header-phone__main-phone { font-size: 18px; }
+    #header .header-top > .row > div:last-child .header-btn-zayvka__link {
+        display: block;
+        padding: 15px 16px;
+        text-align: center;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    #header .header-top > .row {
+        grid-template-columns: 176px minmax(160px, 1fr) 204px auto;
+        grid-template-areas: "logo search phone contact" "address address address address";
+        row-gap: 12px;
+    }
+    #header .header-address { align-items: center; }
+    #header .header-address__text {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0 6px;
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    #header .header-address__text br { display: none; }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    #header .header-top > .row {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        grid-template-areas: "logo phone" "search contact";
+        gap: 16px 24px;
+    }
+    #header .header-top { margin-bottom: 16px; }
+    #header .header-top > .row > div:first-child { text-align: left; }
+    #header .header-top .header-phone .header-btn-zayvka { display: none !important; }
+    #header .header-phone__main-phone { margin-bottom: 0; }
+    #header .header-top > .row > div:last-child {
+        display: block !important;
+        justify-self: end;
+    }
+}
+@media (min-width: 992px) {
+    #header .header-main-page,
+    #header .header-slider__inner,
+    #header .header-inner-main-page > .container {
+        height: 100vh;
+        min-height: 680px;
+    }
+    #header .header-inner-main-page > .container { position: relative; }
+    #header .header-form { position: static; }
+    #header .header-form__inner {
+        top: 50%;
+        right: 30px;
+        width: 330px;
+        margin-top: 0;
+        transform: translateY(-35%);
+    }
+    #header .header-slider__offer {
+        top: 50%;
+        left: 0;
+        width: calc(100% - 390px);
+        max-width: 650px;
+        padding: 24px 20px 24px 0;
+        box-sizing: border-box;
+        transform: translateY(-35%);
+    }
+    #header .header-slider__title {
+        font-size: clamp(32px, 3.3vw, 45px);
+        line-height: 1.12;
+        overflow-wrap: break-word;
+    }
+    .form-slider-main__feedback-garant { width: 100%; margin: 20px 0 24px; }
+    .form-slider-main__feedback-garant .feedback-garant__box {
+        margin-top: 12px;
+        line-height: 1.4;
+    }
+}
+@media (min-width: 769px) and (max-width: 1399px) {
+    #header .hdslide_inn {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        height: 50px;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    #header .hdslide_inn > div { float: none; margin: 0; min-width: 0; }
+    #header .hdslide_home { flex: 0 0 150px; }
+    #header .hdslide_home img { max-width: 150px; padding: 5px 0; }
+    #header .hdslide_inn > .hdtopmenu { flex: 0 0 48px; }
+    #header .hdslide_inn > .hdslide_search { flex: 1 1 160px; }
+    #header .hdslide_inn > .hdslide_search form { width: 100%; }
+    #header .hdslide_inn > .hdslide_contact { order: 3; flex: 0 0 auto; margin-left: auto; }
+    #header .hdslide_contact_zayvka { order: 4; flex: 0 0 auto; }
+    #header .hdslide_contact .header-phone__main-phone { margin: 0; font-size: 17px; }
+    #header .hdslide_contact_zayvka a { padding: 17px 12px; font-size: 14px; }
+}

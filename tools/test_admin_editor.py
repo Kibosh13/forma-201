@@ -309,6 +309,22 @@ def main():
         (root / 'index.html').write_text('<html><body>' + category_card.replace('/catalog/qa/', '/catalog/other/') + '</body></html>')
         home = request('/index.html')
         check('Category without saved image keeps its original photograph', 'src="/old.png"' in home and 'srcset="/old2.png 2x"' in home)
+        # A CSS deployment must bypass the hosting's week-long browser cache
+        # without changing customer HTML or dropping existing URL parameters.
+        design = root / 'assets/design/css/qa.css'
+        design.parent.mkdir(parents=True)
+        design.write_text('body { color: #333; }')
+        revision = int(time.time()) - 30
+        os.utime(design, (revision, revision))
+        styles = '<html><head><link rel="stylesheet" href="/bitrix/cache/css/qa.css?v=old&amp;mode=screen#style"><link rel="stylesheet" href="/assets/design/css/qa.css?mode=print"><link rel="stylesheet" href="https://example.invalid/styles.css"><link rel="stylesheet" href="/assets/design/css/missing.css"></head><body>CSS QA</body></html>'
+        (root / 'index.html').write_text(styles)
+        rendered = unescape(request('/index.html'))
+        check('Design CSS revision preserves query parameters and fragments', f'/bitrix/cache/css/qa.css?v=old&mode=screen&alym_rev={revision}#style' in rendered and f'/assets/design/css/qa.css?mode=print&alym_rev={revision}' in rendered)
+        check('External and missing stylesheets stay unchanged', 'href="https://example.invalid/styles.css"' in rendered and 'href="/assets/design/css/missing.css"' in rendered)
+        os.utime(design, (revision + 1, revision + 1))
+        rendered = unescape(request('/index.html'))
+        check('CSS deployment automatically changes the public asset URL', rendered.count(f'alym_rev={revision + 1}') == 2 and f'alym_rev={revision}#style' not in rendered)
+        check('CSS revision rendering never rewrites customer templates', (root / 'index.html').read_text() == styles)
         print(json.dumps({'passed': len(checks), 'checks': checks}, ensure_ascii=False, indent=2))
         log.seek(0)
         errors = [line for line in log.read().decode().splitlines() if 'Fatal error' in line or 'Warning:' in line]

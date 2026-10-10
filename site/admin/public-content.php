@@ -5,6 +5,23 @@ declare(strict_types=1);
 function public_content_html(string $relative, array $catalog): string {
     [$dom, $xpath, $source] = load_dom_file($relative);
     $changed = false;
+    // Hosting caches design bundles for a week. A deployed CSS file must get
+    // a new URL without rewriting the customer's saved page templates.
+    foreach ($xpath->query('//link[@rel="stylesheet"][@href]') ?: array() as $stylesheet) {
+        if (!$stylesheet instanceof DOMElement) continue;
+        $url = parse_url($stylesheet->getAttribute('href'));
+        if (!$url || isset($url['host'])) continue;
+        $assetPath = preg_replace('~^/bitrix/cache/css/~', '/assets/design/css/', $url['path'] ?? '');
+        if (!str_starts_with($assetPath, '/assets/design/css/') || !str_ends_with($assetPath, '.css')) continue;
+        $assetFile = site_path(ltrim($assetPath, '/'));
+        if (!is_file($assetFile)) continue;
+        parse_str($url['query'] ?? '', $query);
+        $query['alym_rev'] = (string)filemtime($assetFile);
+        $href = $url['path'] . '?' . http_build_query($query, '', '&');
+        if (isset($url['fragment'])) $href .= '#' . $url['fragment'];
+        $stylesheet->setAttribute('href', $href);
+        $changed = true;
+    }
     $ownSlug = pathinfo($relative, PATHINFO_FILENAME);
     $own = $catalog['products'][$ownSlug] ?? null;
     if ($own && $own['path'] === $relative && ($saved = saved_product_content($own))) {
