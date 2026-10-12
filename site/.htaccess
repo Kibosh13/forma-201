@@ -20,6 +20,9 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 # Publish current catalog URLs on the production domain.
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 
+# The cart belongs to the custom site and accepts orders from every customer.
+RewriteRule ^order/?$ order.php [L]
+
 # Imported CSS/JS bundles are permanent design assets, not disposable cache.
 # Keep old URLs working even when hosting cache cleanup removes their files.
 RewriteRule ^bitrix/cache/((?:css|js)/.+\.(?:css|js))$ assets/design/$1 [L]

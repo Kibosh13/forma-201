@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-const ALYM_STORAGE_DIR = __DIR__ . '/../../admin/storage';
+require __DIR__ . '/../cart/cart-core.php';
 require __DIR__ . '/../../admin/leads.php';
 
 header('Content-Type: text/plain; charset=UTF-8');
@@ -39,6 +39,7 @@ function uploaded_files(): array {
 $fields = array();
 foreach ($_POST as $key => $value) {
     if (!preg_match('/^[a-zA-Z0-9_-]{1,80}$/', (string)$key)) continue;
+    if (in_array($key, array('order_token', 'policy_read', 'policy_agree'), true)) continue;
     $fields[(string)$key] = clean_form_value($value);
 }
 
@@ -49,6 +50,39 @@ if (isset($fields['form_phone']) && $fields['form_phone'] === '') {
 $meaningful = array_filter($fields, fn(string $value, string $key): bool => $value !== '' && !in_array($key, array('id_form', 'name_form'), true), ARRAY_FILTER_USE_BOTH);
 if (!$meaningful) {
     exit('error#Заполните поля формы.');
+}
+
+$orderItems = array();
+try {
+    if (($fields['id_form'] ?? '') === 'checkout') {
+        cart_check_origin();
+        cart_session();
+        $postedToken = is_string($_POST['order_token'] ?? null) ? $_POST['order_token'] : '';
+        if (!hash_equals($_SESSION['order_token'], $postedToken)) throw new RuntimeException('Обновите корзину и повторите оформление.');
+        if (empty($_POST['policy_read']) || empty($_POST['policy_agree'])) throw new RuntimeException('Необходимо дать согласие на обработку данных.');
+        if (empty($fields['form_name']) || empty($fields['form_phone'])) throw new RuntimeException('Укажите имя и телефон.');
+        $orderItems = cart_items(load_catalog());
+        if (!$orderItems) throw new RuntimeException('Ваша корзина пуста. Добавьте товары в каталоге.');
+        $fields = array_merge($fields, cart_order_fields($orderItems));
+        $fields['form_delivery'] = ($fields['form_delivery'] ?? '') === 'delivery' ? 'Доставка' : 'Самовывоз';
+        if ($fields['form_delivery'] === 'Самовывоз') unset($fields['form_address']);
+    } elseif (($fields['id_form'] ?? '') === 'catalog') {
+        $quantity = $fields['quantity'] ?? null;
+        if ($quantity === null && preg_match('/;\s*(\d+)\s*шт/u', $fields['form_catalog'] ?? '', $legacyQuantity)) $quantity = $legacyQuantity[1];
+        if (!empty($fields['product_id'])) {
+            $product = cart_product($fields['product_id'], load_catalog());
+            $quantity = cart_quantity($quantity ?? 1, $product['step']);
+            $fields['form_catalog'] = $product['name'];
+            $fields['unit_price'] = cart_money($product['price']) . ' ' . $product['unit'];
+            $fields['order_total'] = cart_money($product['price'] * $quantity) . ' руб.';
+            $orderItems = array(array_merge($product, array('quantity' => $quantity, 'total' => round($product['price'] * $quantity, 2))));
+            unset($fields['product_id']);
+        } else $quantity = cart_quantity($quantity ?? 1);
+        $fields['quantity'] = (string)$quantity;
+    }
+} catch (Throwable $error) {
+    if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
+    exit('error#' . $error->getMessage());
 }
 
 $id = date('Ymd-His') . '-' . bin2hex(random_bytes(3));
@@ -70,7 +104,7 @@ foreach (uploaded_files() as $index => $file) {
 $settingsPath = ALYM_STORAGE_DIR . '/settings.json';
 $settings = is_file($settingsPath) ? json_decode((string)file_get_contents($settingsPath), true) : array();
 $mailTo = filter_var($settings['lead_email'] ?? $settings['email'] ?? 'info@alymprofi.ru', FILTER_VALIDATE_EMAIL) ?: 'info@alymprofi.ru';
-$formType = $fields['id_form'] ?? $fields['name_form'] ?? 'Форма с сайта';
+$formType = ($fields['id_form'] ?? '') === 'checkout' ? 'Заказ из корзины' : ($fields['id_form'] ?? $fields['name_form'] ?? 'Форма с сайта');
 $lines = array('Новая заявка с сайта alymprofi.ru', 'Номер: ' . $id, 'Форма: ' . $formType, 'Страница: ' . ($_SERVER['HTTP_REFERER'] ?? ''), '');
 foreach ($fields as $key => $value) {
     if ($value !== '') $lines[] = lead_field_label($key) . ': ' . $value;
@@ -79,8 +113,7 @@ if ($savedFiles) $lines[] = 'Прикреплённые файлы доступ�
 $subject = 'Новая заявка с alymprofi.ru: ' . $formType;
 $encodedSubject = '=?UTF-8?B?' . base64_encode($subject) . '?=';
 $headers = "From: alymprofi.ru <noreply@alymprofi.ru>\r\nContent-Type: text/plain; charset=UTF-8\r\n";
-$mailSent = @mail($mailTo, $encodedSubject, implode("\n", $lines), $headers);
-
+// Persist first: a slow or unavailable mail server must never lose an order.
 add_lead(array(
     'id' => $id,
     'created_at' => date(DATE_ATOM),
@@ -90,8 +123,17 @@ add_lead(array(
     'fields' => $fields,
     'files' => $savedFiles,
     'mail_to' => $mailTo,
-    'mail_sent' => $mailSent,
+    'mail_sent' => false,
+    'items' => $orderItems,
     'ip' => mb_substr((string)($_SERVER['REMOTE_ADDR'] ?? ''), 0, 80),
 ));
+
+if (($fields['id_form'] ?? '') === 'checkout') {
+    $_SESSION['cart'] = array();
+    $_SESSION['order_token'] = bin2hex(random_bytes(24));
+}
+if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
+$mailSent = @mail($mailTo, $encodedSubject, implode("\n", $lines), $headers);
+set_lead_mail_result($id, $mailSent);
 
 echo 'success#Спасибо! Заявка отправлена.#' . $id;

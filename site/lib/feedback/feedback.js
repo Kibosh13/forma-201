@@ -27,7 +27,7 @@ $(document).ready(function(){
         
         fb.find('button[type="submit"]').prop('disabled', true);
         fb.find("input, textarea").removeClass('error');
-        if(fb.find('.feedback-garant__checkbox').prop('checked')){
+        if(fb.find('.feedback-garant__checkbox').length && !fb.find('.feedback-garant__checkbox').not(':checked').length){
             var formData = new FormData(this);
             $.ajax({
                 url: "/lib/feedback/mail-form.php",
@@ -56,20 +56,20 @@ $(document).ready(function(){
                             });
                             switch (arRes[0]) {
                                 case 'form-popup-callback__form':
-                                    ym(97698578,'reachGoal','zakazZvonok')
+                                    if (typeof ym === 'function') ym(97698578,'reachGoal','zakazZvonok')
                                     break;
                                 case 'form-popup-found-cheaper__form':
-                                    ym(97698578,'reachGoal','nashliDeshewle')
+                                    if (typeof ym === 'function') ym(97698578,'reachGoal','nashliDeshewle')
                                     break;
                                 case 'form-slider-main__form':
-                                    ym(97698578,'reachGoal','zakazZvonok')
+                                    if (typeof ym === 'function') ym(97698578,'reachGoal','zakazZvonok')
                                     break;
                                 case 'form-popup-request__form':
                                     let parentForm = fb.parent();
                                     let id = parentForm.attr("id");
                                     if(id === 'form-popup-catalog')
                                     {
-                                        ym(97698578,'reachGoal','zaprosStoimost');
+                                        if (typeof ym === 'function') ym(97698578,'reachGoal','zaprosStoimost');
                                         if (typeof product != 'undefined') {
                                             if (product.quantity) {
                                                 window.dataLayer.push({
@@ -117,7 +117,7 @@ $(document).ready(function(){
                                             console.log('Error! typeof product = ' + typeof product);
                                         }
                                     }else{
-                                        ym(97698578,'reachGoal','napisatNam');
+                                        if (typeof ym === 'function') ym(97698578,'reachGoal','napisatNam');
                                     }
                                     break;
                                 case 'form-popup-estimate__form':
@@ -126,10 +126,10 @@ $(document).ready(function(){
                                     r = 'estimate__form';
                                     break;
                                 case 'form-service-bottom__form':
-                                    ym(97698578,'reachGoal','consult')
+                                    if (typeof ym === 'function') ym(97698578,'reachGoal','consult')
                                     break;
                                 case 'form-service-top__form':
-                                    ym(97698578,'reachGoal','zakazUsluga')
+                                    if (typeof ym === 'function') ym(97698578,'reachGoal','zakazUsluga')
                                     break;
                             }
                         }
@@ -169,6 +169,7 @@ $(document).ready(function(){
             $(this).find(".feedback-garant__mess-error").html("");
         } else {
             $(this).find(".feedback-garant__mess-error").html("Необходимо дать согласие");
+            fb.find('button[type="submit"]').prop('disabled', false);
         }
     });
     $("[data-fancybox]").fancybox({

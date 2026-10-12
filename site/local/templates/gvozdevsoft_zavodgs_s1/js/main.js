@@ -214,13 +214,7 @@ $(document).ready(function(){
 	});
 
 
-	$('.catalog-cart-add').on('mouseover', function(){
-		let $this = $(this);
-		$this.append('<div class="text-hover-buy-btn">Оформление товара, только для юридических лиц</div>')
-	}).on('mouseout', function(){
-		let $this = $(this);
-		$('.text-hover-buy-btn').remove();
-	});
+
 	
 });
 

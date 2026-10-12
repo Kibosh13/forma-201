@@ -1,29 +1,53 @@
 <?php
 declare(strict_types=1);
 
-/** Render saved admin data over the existing design, without writing on GET. */
-function public_content_html(string $relative, array $catalog): string {
-    [$dom, $xpath, $source] = load_dom_file($relative);
+function public_version_design_assets(DOMDocument $dom, DOMXPath $xpath): bool {
     $changed = false;
-    // Hosting caches design bundles for a week. A deployed CSS file must get
+    $cartStyleFile = site_path('lib/cart/checkout.css');
+    if (is_file($cartStyleFile) && !$xpath->query('//link[starts-with(@href,"/lib/cart/checkout.css")]')->length) {
+        $cartStyle = $dom->createElement('link');
+        $cartStyle->setAttribute('rel', 'stylesheet');
+        $cartStyle->setAttribute('href', '/lib/cart/checkout.css?v=' . filemtime($cartStyleFile));
+        first_node($xpath, '//head')?->appendChild($cartStyle);
+        $changed = true;
+    }
+    // Hosting caches design bundles for a week. A deployed CSS/JS file must get
     // a new URL without rewriting the customer's saved page templates.
-    foreach ($xpath->query('//link[@rel="stylesheet"][@href]') ?: array() as $stylesheet) {
+    foreach ($xpath->query('//link[@rel="stylesheet"][@href] | //script[@src]') ?: array() as $stylesheet) {
         if (!$stylesheet instanceof DOMElement) continue;
-        $url = parse_url($stylesheet->getAttribute('href'));
+        $attribute = $stylesheet->tagName === 'script' ? 'src' : 'href';
+        $url = parse_url($stylesheet->getAttribute($attribute));
         if (!$url || isset($url['host'])) continue;
-        $assetPath = preg_replace('~^/bitrix/cache/css/~', '/assets/design/css/', $url['path'] ?? '');
-        if (!str_starts_with($assetPath, '/assets/design/css/') || !str_ends_with($assetPath, '.css')) continue;
+        $assetPath = preg_replace('~^/bitrix/cache/(css|js)/~', '/assets/design/$1/', $url['path'] ?? '');
+        if (!str_starts_with($assetPath, '/assets/design/') || !preg_match('~\.(css|js)$~', $assetPath)) continue;
         $assetFile = site_path(ltrim($assetPath, '/'));
         if (!is_file($assetFile)) continue;
         parse_str($url['query'] ?? '', $query);
         $query['alym_rev'] = (string)filemtime($assetFile);
         $href = $url['path'] . '?' . http_build_query($query, '', '&');
         if (isset($url['fragment'])) $href .= '#' . $url['fragment'];
-        $stylesheet->setAttribute('href', $href);
+        $stylesheet->setAttribute($attribute, $href);
         $changed = true;
     }
+    return $changed;
+}
+
+/** Render saved admin data over the existing design, without writing on GET. */
+function public_content_html(string $relative, array $catalog): string {
+    [$dom, $xpath, $source] = load_dom_file($relative);
+    $changed = public_version_design_assets($dom, $xpath);
     $ownSlug = pathinfo($relative, PATHINFO_FILENAME);
     $own = $catalog['products'][$ownSlug] ?? null;
+    if ($own && $own['path'] === $relative) {
+        $productId = first_node($xpath, '//input[@id="product-id"]');
+        $legacyId = $productId?->getAttribute('value');
+        if ($productId) $productId->setAttribute('value', $ownSlug);
+        foreach ($xpath->query('//*[@data-product] | ' . class_query('btn-order')) ?: array() as $button) {
+            if (!$button instanceof DOMElement || find_card_ancestor($button, 'catalog-section-tile__item')) continue;
+            if ($button->getAttribute('data-product') === $legacyId || str_contains(' ' . $button->getAttribute('class') . ' ', ' btn-order ')) $button->setAttribute('data-product', $ownSlug);
+        }
+        $changed = true;
+    }
     if ($own && $own['path'] === $relative && ($saved = saved_product_content($own))) {
         apply_saved_product($dom, $xpath, $own, $saved, $catalog);
         $changed = true;
@@ -63,6 +87,10 @@ function public_content_html(string $relative, array $catalog): string {
         $card = find_card_ancestor($anchor, 'catalog-section-tile__item');
         if ($card && !isset($cards[spl_object_id($card)])) {
             update_product_card($card, $xpath, $entry);
+            // A slug stays unique when new products are cloned in the admin.
+            foreach ($xpath->query('.//*[@data-product] | .//*[contains(concat(" ",normalize-space(@class)," ")," btn-order ")]', $card) ?: array() as $button) {
+                if ($button instanceof DOMElement) $button->setAttribute('data-product', $entry['slug']);
+            }
             // Retain DOM wrappers: PHP may otherwise reuse their object IDs
             // for later cards and incorrectly skip those products.
             $cards[spl_object_id($card)] = $card;

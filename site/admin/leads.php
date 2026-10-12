@@ -52,6 +52,14 @@ function find_lead(string $id): ?array {
     return null;
 }
 
+function set_lead_mail_result(string $id, bool $sent): void {
+    mutate_leads(function (array $leads) use ($id, $sent): array {
+        foreach ($leads as &$lead) if (($lead['id'] ?? '') === $id) $lead['mail_sent'] = $sent;
+        unset($lead);
+        return $leads;
+    });
+}
+
 function set_lead_status(string $id, string $status): void {
     mutate_leads(function (array $leads) use ($id, $status): array {
         foreach ($leads as &$lead) {
@@ -89,5 +97,11 @@ function lead_field_label(string $key): string {
         'name_form' => 'Форма',
         'id_form' => 'Тип формы',
         'quantity' => 'Количество',
+        'unit_price' => 'Цена за единицу',
+        'order_items' => 'Состав заказа',
+        'order_total' => 'Сумма заказа',
+        'form_delivery' => 'Получение заказа',
+        'form_address' => 'Адрес доставки',
+        'form_company' => 'Компания',
     )[$key] ?? $key;
 }

@@ -1,5 +1,9 @@
 <?php
 declare(strict_types=1);
+define('ALYM_PUBLIC_CONTENT', true);
+require __DIR__ . '/../admin/bootstrap.php';
+require __DIR__ . '/../admin/editor.php';
+require __DIR__ . '/../admin/public-content.php';
 
 const SEARCH_RESULT_LIMIT = 120;
 
@@ -66,7 +70,7 @@ $siteRoot = dirname(__DIR__);
 $templatePath = $siteRoot . '/catalog/index.html';
 $catalogPath = $siteRoot . '/admin/storage/catalog.json';
 if (!is_file($catalogPath)) $catalogPath = $siteRoot . '/admin/data/catalog.json';
-$template = is_file($templatePath) ? (string)file_get_contents($templatePath) : '';
+$template = is_file($templatePath) ? public_content_html('catalog/index.html', load_catalog()) : '';
 $catalog = is_file($catalogPath) ? json_decode((string)file_get_contents($catalogPath), true) : null;
 
 $query = trim((string)($_GET['q'] ?? ''));
