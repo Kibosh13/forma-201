@@ -309,6 +309,13 @@ def main():
         (root / 'index.html').write_text('<html><body>' + category_card.replace('/catalog/qa/', '/catalog/other/') + '</body></html>')
         home = request('/index.html')
         check('Category without saved image keeps its original photograph', 'src="/old.png"' in home and 'srcset="/old2.png 2x"' in home)
+        legal_footer = '<html><head><title>АлюмПрофи</title></head><body><p>Каталог профилей</p><div class="footer__copyright">2026 © ИП Тестовый владелец. Все права защищены.</div></body></html>'
+        (root / 'index.html').write_text(legal_footer)
+        home = unescape(request('/index.html'))
+        check('Legal footer stays visible but is excluded from Yandex snippets', '<!--noindex-->2026 © ИП Тестовый владелец. Все права защищены.<!--/noindex-->' in home and '<p>Каталог профилей</p>' in home)
+        brand_schema = json.loads(re.search(r'<script[^>]*id="alym-brand-schema"[^>]*>(.*?)</script>', home, re.S)[1])
+        check('Home page identifies the website and company by the brand', [item['name'] for item in brand_schema['@graph']] == ['АлюмПрофи', 'АлюмПрофи'])
+        check('Search presentation never rewrites legal details on disk', (root / 'index.html').read_text() == legal_footer)
         # A CSS deployment must bypass the hosting's week-long browser cache
         # without changing customer HTML or dropping existing URL parameters.
         design = root / 'assets/design/css/qa.css'

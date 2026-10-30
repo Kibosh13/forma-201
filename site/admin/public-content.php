@@ -32,6 +32,30 @@ function public_version_design_assets(DOMDocument $dom, DOMXPath $xpath): bool {
     return $changed;
 }
 
+function public_search_presentation(DOMDocument $dom, DOMXPath $xpath, string $relative): bool {
+    $changed = false;
+    // Legal details remain visible, but are not a useful search description.
+    foreach ($xpath->query(class_query('footer__copyright')) ?: array() as $copyright) {
+        if (!$copyright instanceof DOMElement || !preg_match('/ИП\s|Притуленко/u', $copyright->textContent)
+            || str_contains(inner_html($copyright), '<!--noindex-->')) continue;
+        $copyright->insertBefore($dom->createComment('noindex'), $copyright->firstChild);
+        $copyright->appendChild($dom->createComment('/noindex'));
+        $changed = true;
+    }
+    if ($relative === 'index.html' && !$xpath->query('//script[@id="alym-brand-schema"]')->length) {
+        $script = $dom->createElement('script');
+        $script->setAttribute('id', 'alym-brand-schema');
+        $script->setAttribute('type', 'application/ld+json');
+        $script->textContent = json_encode(array('@context' => 'https://schema.org', '@graph' => array(
+            array('@type' => 'WebSite', '@id' => 'https://alymprofi.ru/#website', 'url' => 'https://alymprofi.ru/', 'name' => 'АлюмПрофи', 'publisher' => array('@id' => 'https://alymprofi.ru/#organization')),
+            array('@type' => 'Organization', '@id' => 'https://alymprofi.ru/#organization', 'url' => 'https://alymprofi.ru/', 'name' => 'АлюмПрофи', 'logo' => 'https://alymprofi.ru/upload/main/logo-alymprofi-dark.svg?v=3'),
+        )), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_HEX_TAG);
+        first_node($xpath, '//head')?->appendChild($script);
+        $changed = true;
+    }
+    return $changed;
+}
+
 /** Render saved admin data over the existing design, without writing on GET. */
 function public_content_html(string $relative, array $catalog): string {
     [$dom, $xpath, $source] = load_dom_file($relative);
@@ -111,6 +135,7 @@ function public_content_html(string $relative, array $catalog): string {
         }, $original) ?? $original;
         if ($updated !== $original) { $script->textContent = $updated; $changed = true; }
     }
+    $changed = public_search_presentation($dom, $xpath, $relative) || $changed;
     if (!$changed) return $source;
     return preg_replace('/^<\?xml encoding="UTF-8"\?>\s*/', '', $dom->saveHTML()) ?? $source;
 }
